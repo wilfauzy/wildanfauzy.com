@@ -18,6 +18,7 @@ fields:
   name: image
   label: image
 pages:
+- content/pagi-pagi-hujan-lanjut-rebahan.md
 - content/post/hari-kasih-sayang-katanya.md
 - content/post/hujan-turun-dengan-malas.md
 - content/post/mencoba-menjadi-manusia-normal.md
