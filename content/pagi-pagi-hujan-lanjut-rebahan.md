@@ -1,7 +1,6 @@
 +++
 author = "WilFauzy"
 date = 2021-02-17T00:45:00Z
-draft = true
 image = "/img/unsplash-gallery-image-4.jpg"
 tags = ["bacotan"]
 title = "Pagi Pagi Hujan Lanjut Rebahan"
