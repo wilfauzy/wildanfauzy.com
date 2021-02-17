@@ -4,7 +4,7 @@ date = 2021-02-17T00:45:00Z
 draft = true
 image = "/img/unsplash-gallery-image-4.jpg"
 tags = ["bacotan"]
-title = "Pagi Pagi Hujan Lanjut Rebahan"
+title = "Pagi Hujan Lanjut Rebahan"
 
 +++
 Udah hari rabu aja sekarang, perasaan kemaren hari kamis, enggak kerasa emang apalagi setiap malam sampai pagi selalu hujan, enak banget dah dengerin suara hujan menjelang tidur tapi malah enggak tidur jadi begadang keasikan dengerin suara hujan.
