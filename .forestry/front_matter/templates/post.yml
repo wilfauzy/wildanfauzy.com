@@ -3,20 +3,20 @@ label: post
 hide_body: false
 fields:
 - type: text
+  name: title
+  label: title
+- type: text
   name: author
   label: author
 - type: datetime
   name: date
   label: date
-- type: file
-  name: image
-  label: image
 - type: list
   name: tags
   label: tags
-- type: text
-  name: title
-  label: title
+- type: file
+  name: image
+  label: image
 pages:
 - content/post/hari-kasih-sayang-katanya.md
 - content/post/hujan-turun-dengan-malas.md
