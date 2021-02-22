@@ -32,7 +32,8 @@ langsung aja install script openvpn dari github dibawah ini.
 
 <pre class="wp-block-code"><code>wget git.io/vpn --no-check-certificate -O openvpn-install.sh; bash openvpn-install.sh</code></pre><figure class="wp-block-image size-large">
 
-<img loading="lazy" width="768" height="892" src="https://i2.wp.com/wildanfauzy.com/wp-content/uploads/2020/10/20201030_165125.jpg?resize=768%2C892&#038;ssl=1" alt="" class="wp-image-8569" data-recalc-dims="1" /> </figure> 
+
+![](https://i2.wp.com/wildanfauzy.com/wp-content/uploads/2020/10/20201030_165125.jpg?resize=768%2C892&#038;ssl=1)
 
 Maka akan muncul pilihan konfigurasi, tinggal next-next aja terakhir silakan masukan nama client openvpn sampe muncul konfigurasi. ovpn
 
@@ -40,13 +41,15 @@ Biasanya tersimpan di /root/blabla.ovpn selanjutnya download file konfigurasi ya
 
 Selanjutnya tinggal install aplikasi client openvpn cari aja di play store pake kata kunci &#8220;openvpn connect&#8221;.
 
-Jika sudah terinstall langsung buka dan pilih tombol plus masukan file konfigurasi ovpn yang sudah di download tadi seperti ini.<figure class="wp-block-image size-large">
+Jika sudah terinstall langsung buka dan pilih tombol plus masukan file konfigurasi ovpn yang sudah di download tadi seperti ini.
 
-<img loading="lazy" width="768" height="1209" src="https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/10/20201030_163545.jpg?resize=768%2C1209&#038;ssl=1" alt="" class="wp-image-8565" data-recalc-dims="1" /> </figure> 
+![](https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/10/20201030_163545.jpg?resize=768%2C1209&#038;ssl=1)
 
-Tinggal klik import langsung jadi deh, tinggal konekin aja vpn nya tadi, udah deh nyambung ke vps, jadi secara otomatis ketik berselancar di internet menggunakan ip dari vps dan jaringannya.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="768" height="1199" src="https://i1.wp.com/wildanfauzy.com/wp-content/uploads/2020/10/20201030_163738.jpg?resize=768%2C1199&#038;ssl=1" alt="" class="wp-image-8566" data-recalc-dims="1" /> </figure> 
+Tinggal klik import langsung jadi deh, tinggal konekin aja vpn nya tadi, udah deh nyambung ke vps, jadi secara otomatis ketik berselancar di internet menggunakan ip dari vps dan jaringannya.
+
+![](https://i1.wp.com/wildanfauzy.com/wp-content/uploads/2020/10/20201030_163738.jpg?resize=768%2C1199&#038;ssl=1)
+
 
 Jadi vpn itu ibarat terowongan, seolah-olah kita berada di tempat servernya berada, misalnya vps saya ada di Singapura maka terdetek lokasinya di singapura, bebas dari segala sensor yang ada di indonesia wkwkwk.
 
