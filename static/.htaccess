@@ -1,0 +1,13 @@
+### Rewrite Rules Added by CyberPanel Rewrite Rule Generator
+
+RewriteEngine On
+RewriteCond %{HTTPS}  !=on
+RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]
+
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^103\.157\.116\.113$
+RewriteRule ^(.*)$ https://wildanfauzy.com/$1 [L,R=301]
+
+
+### End CyberPanel Generated Rules.
