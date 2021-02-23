@@ -18,4 +18,5 @@ fields:
   name: title
   label: title
 pages:
+- content/post/obrolan-tengah-malam.md
 - content/post/tidak-astagfirullah.md
