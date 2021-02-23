@@ -26,3 +26,5 @@ Cepet banget gedenya kayaknya bukan jerawat lagi deh tapi bisul dari bentuknya e
 ![](/img/20210212_213332.jpg)
 
 Tapi kalo dipikir jadi enggak bisa tidur, sudah jam tiga malam enggak bisa tidur, kalo dipaksa tidur pun malah enggak enak, akhirnya ke luar rumah untuk berkunjung ke warung, membeli satu bungkus rokok surya dan minuman dingin. 
+
+Jalanan di gang terasa sepi sekali, hanya ada saya dan bayangan yang menamani, si gerbang kampret malah susah dibuka lagi, itung-itung olahraga tengah malam saja, sambil mengobrol sama tikus penghuni dapur. 
