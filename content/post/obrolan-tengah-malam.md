@@ -1,7 +1,6 @@
 +++
 author = "WilFauzy"
 date = 2021-02-23T20:35:00Z
-draft = true
 image = "/img/unsplash-image-2.jpg"
 tags = ["bacotan"]
 title = "Obrolan Tengah Malam"
