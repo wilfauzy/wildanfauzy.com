@@ -1,7 +1,7 @@
 +++
 author = "WilFauzy"
 date = 2021-02-23T20:35:00Z
-image = "/img/unsplash-image-2.jpg"
+image = "/img/pexels-christina-morillo-1181268.jpg"
 tags = ["bacotan"]
 title = "Obrolan Tengah Malam"
 
