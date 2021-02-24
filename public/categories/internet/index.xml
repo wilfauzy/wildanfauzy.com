@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet on WildanFauzy.com</title>
+    <link>https://wildanfauzy.com/categories/internet/</link>
+    <description>Recent content in Internet on WildanFauzy.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Mon, 23 Nov 2020 00:53:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://wildanfauzy.com/categories/internet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bulk Redirect Domain Dengan Workers</title>
+      <link>https://wildanfauzy.com/bulk-redirect-domain-dengan-workers/</link>
+      <pubDate>Mon, 23 Nov 2020 00:53:44 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/bulk-redirect-domain-dengan-workers/</guid>
+      <description>Gatel kalo liat diskonan, habis bangun tidur dapet notif diskonan domain .com setengah sadar akhirnya mencet checkout, wassalam akhirnya beli domain lagi, entah kayaknya bakal jadi kolektor domaian hehehe.
+Akhirnya merenung setelah membeli domain, buat apa yah ini domain kalo bikin projek juga bingung bikin apa lagi, akhirnya dipake buat pendamping domain my.id di blog pribadi, awalnya jadi alias domain, tapi mikir lagi mending jadi primary domain saja.
+Tapi kalo redirect satu per satu setiap postingan ke alamat baru kayaknya bakal capek, copy paste satu-satu alamat blog, akhirnya kembali lagi dengan cloudflare workers.</description>
+    </item>
+    
+    <item>
+      <title>Cloudflare Workers dan Blog Jekyll Serverless</title>
+      <link>https://wildanfauzy.com/cloudflare-workers-dan-blog-jekyll-serverless/</link>
+      <pubDate>Wed, 18 Nov 2020 19:27:57 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/cloudflare-workers-dan-blog-jekyll-serverless/</guid>
+      <description>Apa itu “Cloudflare Worker” adalah JavaScript yang Anda tulis yang berjalan di edge Cloudflare. “Cloudflare Service Worker” secara khusus adalah pekerja yang menangani lalu lintas HTTP dan ditulis pada Service Worker API. menurut (cloudflare)
+Apa itu Workers Sebelumnya pernah kenal workers ini pada awalnya ketika menerapkan PWA pada blog, jika memasang plugin superPWA di wordpress, maka akan ada script service-workers.js di root folder, gunanya untuk menjalankan pwa, menyimpan cache website yang sudah terdownload di browser pengguna.</description>
+    </item>
+    
+    <item>
+      <title>Migrasi Personal Blog ke Hugo Dengan Netlify dan Forestry</title>
+      <link>https://wildanfauzy.com/migrasi-personal-blog-ke-hugo-dengan-netfily-dan-forestry/</link>
+      <pubDate>Sat, 07 Nov 2020 14:30:51 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/migrasi-personal-blog-ke-hugo-dengan-netfily-dan-forestry/</guid>
+      <description>Semua berawal dari promo domain empat ribu yaitu domain my. id sebuah kebanggaan memakai domain. id walaupun dengan subdomain dotmy bukan langsung ke dotid.
+Akhirnya beli dua domain aep.my.id dan idan.my.id, untuk domain aep.my.id digunakan untuk projek kecil2 bikin website warung kopi dekat rumah hehehe.
+Sedangkan untuk domain idan.my.id buat personal blog atau catatan sehari-hari yang sifatnya rada personal gitu, yaelah namanya juga personal blog.
+Pas awal menggunakan cms wordpress dengan vps dan terus berganti ke hosting website ini, tapi setelah dipikir2 cuma lima postingan tapi ngabisin space 200mb bikin menuhin space aja.</description>
+    </item>
+    
+    <item>
+      <title>Mencoba VPS Untuk Pertama Kalinya</title>
+      <link>https://wildanfauzy.com/mencoba-vps-untuk-pertama-kalinya/</link>
+      <pubDate>Sun, 18 Oct 2020 12:57:34 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/mencoba-vps-untuk-pertama-kalinya/</guid>
+      <description>Sebenarnya enggak butuh-butuh banget sama vps (virtual private server) karena shares hosting yang saya pakai masih mumpuni untuk menjalankan blog ini, tapi yang namanya rasa penasaran kalo enggak nyoba malah ke bawa mimpi wkwkwk.
+Sehabis bangun tidur langsung searching vps murah indonesia, hmm yang keluar layanan hosting itu-itu lagi, kesel juga sih, akhirnya mencari dengan kekuatan kage bunsin, yaitu ngubek-ngubek di forum, karena iklan biasanya manis diawal.
+Ngubek-ngubek sampe nemu ikan cupang albino, banyak juga harganya yang miring, sebenarnya yang jual layanan luar kaya upcloud, digital ocean harganya oke juga tapi karena engga punya kartu kredit nyari yang lokalan aja.</description>
+    </item>
+    
+    <item>
+      <title>Setelah Menggunakan Quic Cloud Selama Empat Bulan</title>
+      <link>https://wildanfauzy.com/setelah-menggunakan-quic-cloud-selama-empat-bulan/</link>
+      <pubDate>Mon, 28 Sep 2020 15:29:47 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/setelah-menggunakan-quic-cloud-selama-empat-bulan/</guid>
+      <description>Berkenalan dengan quic cloud tidak terlalu lama, bertemu dengan cara tidak segaja, waktu itu setelah perpanjang hosting dan pindah server dari singapura ke amerika, tepatnya pada bulan mei, akhirnya bertemu lagi dengan cpanel, sudah lama login ke cpanel.
+Sebab jarang sekali ngoprek dibagian hosting, karena males aja ngeliat tampilan cpanel yang kaku wkkwkw, akhirnya setelah perpanjang hosting dan memindahkan data backup dan merestore, baru ngeh ada menu Litespeed Web Cache Manager di tab advanced, rasa penasaran pun muncul.</description>
+    </item>
+    
+    <item>
+      <title>Custom Nameserver Untuk Cloudflare</title>
+      <link>https://wildanfauzy.com/custom-nameserver-untuk-cloudflare/</link>
+      <pubDate>Thu, 17 Sep 2020 15:19:46 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/custom-nameserver-untuk-cloudflare/</guid>
+      <description>Setelah kemarin berhasil melakukan transfer domain, ada fitur baru ditemui yaitu private nameserver, rasa penasaran begejolak akhirnya mencoba untuk ngoprek lebih lanjut.
+Terinspirasi dari portal berita tirto.id, dimana tirto menggunakan cdn cloudflare tetapi memakai nameserver sendiri, tidak seperti biasa pemakai cloudflare gratisan dengan nama ns seperti sukikem.ns.cloudflare.com atau yang lainnya wkwk.
+Seperti harus menguprage langganan jika dilihat dari fitur custom hostname yang terdapat di cloudflare, karena saya sendiri menggunakan hanya untuk dns manager tidak menggunakan cdn cloudflare.</description>
+    </item>
+    
+    <item>
+      <title>Menghapus Jquery Dan Pindah Ke Vanilla JS</title>
+      <link>https://wildanfauzy.com/menghapus-jquery-dan-pindah-ke-vanilla-js/</link>
+      <pubDate>Tue, 15 Sep 2020 20:56:11 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/menghapus-jquery-dan-pindah-ke-vanilla-js/</guid>
+      <description>Setelah mengganti tema dari gretathemes yang tidak membutuhkan jquery, selepas dari template yang sebelumnya membuat kapasitas hosting menjadi terkikis.
+Masalah di WordPress adalah menggunakan jquery secara default, sejak dahulu masih menggunakan versi jquery yang bermasalah dengan keamanan yaitu versi 1.12.4 lalu bagaimana menghapus jquery sepenuhnya dari WordPress.
+Cara Menghapus Jquery Pertama-tama harus dicek apakah website sangat membutuhkan library jquery? jika tidak seperti tama dari generatepress dan gretathemes maka bisa dilakukan agar tidak menemui masalah.</description>
+    </item>
+    
+    <item>
+      <title>Pengalaman Transfer Domain</title>
+      <link>https://wildanfauzy.com/pengalaman-transfer-domain/</link>
+      <pubDate>Tue, 15 Sep 2020 17:22:12 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/pengalaman-transfer-domain/</guid>
+      <description>Awal ngeblog dan membuat website pake blogger atau WordPress(dot)com pas awal mengenal internet sejak smp, cukup ketinggalan jaman juga waktu itu.
+Sebenarnya sempat tau apa itu internet pas sd ketika disuruh ibu untuk memanggil teteh yang asik nongkrong di warnet main friendster, lebih asik main di selokan mencari ikan sepat.
+Hingga suatu ketika lulus sd dan harus sekolah smp diluar kota, tepatnya di kota hujan sebut saja bogor, perkembangan berbeda jauh, hampir berbanding terbalik dengan kampung halaman.</description>
+    </item>
+    
+    <item>
+      <title>Plugins Jetpack Bikin Berat Blog Tapi Bikin Sayang</title>
+      <link>https://wildanfauzy.com/plugins-jetpack-bikin-berat-blog-tapi-bikin-sayang/</link>
+      <pubDate>Mon, 24 Aug 2020 16:17:47 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/plugins-jetpack-bikin-berat-blog-tapi-bikin-sayang/</guid>
+      <description>CMS WordPress memang paling populer selain drupal dan tetek bengek lainnya katanya hampir 38 persen website yang ada di dunia menggunakan WordPress enggak salah juga sih claimnya.
+Memang bangak yang menggunakan WordPress mulai dari situs berita online sampai situs poker judi online, selain gampang dan mudah untuk mengoperasikannya tentu gratis.
+Masalah menggunakan self hosting adalah ekosistem yang harus dibangun sendiri, tidak seperti WordPress.com punya ekosistem yang asik, adalah salah satu untuk menghubungkan dengan WordPress.</description>
+    </item>
+    
+    <item>
+      <title>Menerapkan HSTS Preload Pada Website</title>
+      <link>https://wildanfauzy.com/menerapkan-hsts-preload-pada-website/</link>
+      <pubDate>Sat, 22 Aug 2020 08:38:49 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/menerapkan-hsts-preload-pada-website/</guid>
+      <description>Sebelumnya tidak begitu peduli dengan yang namanya keamanan, baru kejadian beberapa hari yang lalu table meta comment rusak di database entah apa penyebabnya, ketika dicek, ukuran database jadi gede banget sampai overload.
+Sebelumnya menggunakan askimet untuk menangkal spam komen, hal tersebut tidak terlalu membantu walau mampu meminimalisir, setelah menghapuskan spam yang begitu banyak, jadi rusak itu table meta comment, sampai sekarang enggak tau benerinnya gimana.
+Walaupun ssudah bersih dari spam, masalah sekarang tidak bisa menampilkan komentar di bawah postingan, sedih juga sih udah space hosting kecil diserang spam bertubi-tubi, rasanya mau ngopi.</description>
+    </item>
+    
+    <item>
+      <title>Uwu Uwu</title>
+      <link>https://wildanfauzy.com/uwu-uwu/</link>
+      <pubDate>Thu, 20 Aug 2020 20:47:52 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/uwu-uwu/</guid>
+      <description>Kejadian yang dipublikasikan secara online bisa dilihat oleh semua orang, semenjak kecepatan internet memadai upload foto dan video semakin cepat tidak perlu menunggu berhari-hari.
+Apasih uwu-uwu itu? Saya sendiri tidak tau apa maksud dari uwu2 mungkin tau maksudnya tapi tidak tahu arti sebenarnya, seperti ungkapan yang spontan ketika melihat sesuatu yang sifatnya romantis dan lucu.&amp;nbsp;
+Tidak heran kadang perbuatan uwu-uwu membuat banyak orang iri melihatnya &amp;#8220;kapan yah aku bisa gitu&amp;#8221; ungkapan manusia jomblo yang selalu melihat kejadian diluar pengalaman selama menjomblo dari lahir.</description>
+    </item>
+    
+    <item>
+      <title>Generasi Dark Mode Manusia Setengah Batman</title>
+      <link>https://wildanfauzy.com/generasi-dark-mode-manusia-setengah-batman/</link>
+      <pubDate>Sun, 16 Aug 2020 16:14:52 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/generasi-dark-mode-manusia-setengah-batman/</guid>
+      <description>Semenjak bertebaran aplikasi yang menawarkan mode gelap atau dark mode jadi lebih nyamam menggunakan fitur tersebut, apalagi ketika begadang, sangat membantu agar mata tidak cepat capek melihat bacotan orang di dunia maya.
+Hampir semua aplikasi yang mendapatkan update terbaru tidak kelupaan menambahkan dark mode, rata-rata mengakses Internet kalau mau tidur, terus ujung-ujungnya enggak tidur kelaluan manusia setengah batman.
+Efek sampingnya jadi sering menatap layar, jaman sebelum musim dark mode enggak kuat lama mantengin layar, perih apalagi layar yang cembung, jelas kagak bikin perih iya.</description>
+    </item>
+    
+    <item>
+      <title>Tinggal Di Dalam Gentong</title>
+      <link>https://wildanfauzy.com/tinggal-di-dalam-gentong/</link>
+      <pubDate>Sat, 08 Aug 2020 08:00:34 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/tinggal-di-dalam-gentong/</guid>
+      <description>Arus informasi sangat cepat sekali, hampir bisa secepat kilat, tidak membaca berita atau info bisa ketinggalan update, tetapi tidak ada ruginya ketinggalan update info terkini.
+Terlalu banyak berita yang beredar bikin dongkol dan kesal, tidak sedikit juga situs berita menampilkan info yang tidak terlalu penting bahkan terkesan mengada-ngada, dari judul yang sangat wah sekali, ketika membaca hmm malah kesel.
+Navigasi situs berita kadang bikin jengkel setiap beberapa paragraf harus dipotong dengan halaman selanjutnya, paginasi yang berlebihan, setelah selesai membaca jadi menyesal karena info yang didapat bikin emosi.</description>
+    </item>
+    
+    <item>
+      <title>Cara Pemalas Agar Lebih Malas</title>
+      <link>https://wildanfauzy.com/cara-pemalas-agar-lebih-malas/</link>
+      <pubDate>Wed, 29 Jul 2020 13:24:32 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/cara-pemalas-agar-lebih-malas/</guid>
+      <description>Dunia akan terus berputar jika kalian hanya rebahan, tetapi jika semua orang melakukan hal yang sama maka sudah dipastikan dunia masih berputar, tidak perlu ada inovasi yang katanya 4.0 dunia masih jalan kok, mungkin akan tertinggal dari kabanyakan orang tapi itu hanya perasaan saja, selebihnya sama saja, manusia butuh makan, minum, dan berhubungan.
+Bagaimana caranya agar malas menjadi lebih malas, kebanyakan sifat malas membuat hidup tambah susah, tetapi dari malas sendiri menciptakan inovasi yang mempermudah hidup, seperti orang malas ke kutub utara untuk merasa dingin maka tercipta ac atau pendingin ruangan, orang malas berjalan kaki muncul kendaraan mobil atau motor, bahkan pesawat.</description>
+    </item>
+    
+    <item>
+      <title>Anak Babi Itu Berlari</title>
+      <link>https://wildanfauzy.com/anak-babi-itu-berlari/</link>
+      <pubDate>Fri, 24 Jul 2020 22:48:57 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/anak-babi-itu-berlari/</guid>
+      <description>Anak babi tersesat di tengah kota yang sibuk, pergi kesana kemari mencari bapaknya yang sudah sepuluh tahun tidak pulang ke rumah, nampal kebingungan melihat babi bisa berdiri dan memakai baju.
+Ibunya sendiri di rumah, menunggu anaknya pulang, dan berharap berhasil menemukan bapaknya, tidak ada aliran listrik atau jaringan internet, hanya ada perapian yang sebentar lagi padam.
+Anak babi itu terus berlari tidak kenal lelah, babi-babi disekitar mengejarnya mereka kira anak babi itu adalah babi ngepet yang mengambil beras raskin bantuan pemerintah setempat.</description>
+    </item>
+    
+    <item>
+      <title>Pengalaman Pertama Kali Naik Kereta</title>
+      <link>https://wildanfauzy.com/pengalaman-pertama-kali-naik-kereta/</link>
+      <pubDate>Wed, 18 Mar 2015 09:07:00 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/pengalaman-pertama-kali-naik-kereta/</guid>
+      <description>Gue menyadari bahwa gue ini katro, emang gue selama hidup di dunia ini baru pertama kali naik sama yang namanya kereta api, awalnya gue ngajak temen gue yang rumahnya bisa&amp;nbsp; via kereta api dan dia mengiyakan buat main ke rumahnya. Berangkat dari cibiru jam enam pagi, walaupun malemnya gue begadang gue bisa bangun tepat waktu. karena gue tidur di kosan temen gue, jadi biar tepat waktu berkat campur tangan alarm yang ada di hp, siap-siap menuju bunderan cibiru dan ngetem nunggu angkot berangkat ke cicadas hampir setengah jam nunggu supir angkot menancapkan gas.</description>
+    </item>
+    
+  </channel>
+</rss>

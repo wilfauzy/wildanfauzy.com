@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="id-ID">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="theme-color" content="#000000">
+
+    
+    
+        
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:image" content="https://wildanfauzy.com/img/workers-social.png"/>
+    
+
+
+
+<meta name="twitter:title" content="Jekyll Workers Site Dengan Wrangler Action"/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:site" content="@WilFauzy"/>
+
+
+
+  	<meta property="og:title" content="Jekyll Workers Site Dengan Wrangler Action &middot; WildanFauzy.com" />
+  	<meta property="og:site_name" content="WildanFauzy.com" />
+  	<meta property="og:url" content="https://wildanfauzy.com/jekyll-workers-site-dengan-wrangler-action/" />
+
+    
+       <meta property="og:image" content="https://wildanfauzy.com/img/workers-social.png"/>
+    
+
+    
+    <meta property="og:description" content="" />
+  	<meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2021-02-05T14:00:00Z" />
+
+    
+    <meta property="article:tag" content="jekyll" />
+    
+    <meta property="article:tag" content="workers-site" />
+    
+    
+
+    <title>Jekyll Workers Site Dengan Wrangler Action &middot; WildanFauzy.com</title>
+
+    
+    <meta name="description" content="Setelah penghujung akhir tahun blog ini pindah dari wordpress ke jekyll lalu dihost dengan github pages, akhirnya mencoba dengan workers site salah fitur yang s" />
+    
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="https://wildanfauzy.com/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="https://wildanfauzy.com/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="https://wildanfauzy.com/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="https://wildanfauzy.com/css/nav.css" />
+
+    
+
+    
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/styles/agate.min.css">
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
+        
+        <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+      
+          <link href="https://wildanfauzy.com/index.xml" rel="alternate" type="application/rss+xml" title="WildanFauzy.com" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.40.1" />
+
+    <link rel="canonical" href="https://wildanfauzy.com/jekyll-workers-site-dengan-wrangler-action/" />
+
+    
+      
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": Wildan Fauzy,
+        "logo": https://wildanfauzy.com/img/about.png
+    },
+    "author": {
+        "@type": "Person",
+        "name": Wildan Fauzy,
+        
+        "image": {
+            "@type": "ImageObject",
+            "url": https://wildanfauzy.com/img/about.png,
+            "width": 250,
+            "height": 250
+        }, 
+        
+        "url": https://wildanfauzy.com,
+        "sameAs": [
+            
+            
+             
+             
+             
+             
+             
+            
+        ],
+        "description": Menyajikan artikel pilihan
+        
+    },
+    "headline": Jekyll Workers Site Dengan Wrangler Action,
+    "name": Jekyll Workers Site Dengan Wrangler Action,
+    "wordCount": 725,
+    "timeRequired": "PT4M",
+    "inLanguage": {
+      "@type": "Language",
+      "alternateName": en
+    },
+    "url": https://wildanfauzy.com/jekyll-workers-site-dengan-wrangler-action/,
+    "datePublished": 2021-02-05T14:00Z,
+    "dateModified": 2021-02-05T14:00Z,
+    
+    "image": {
+        "@type": "ImageObject",
+        "url": https://wildanfauzy.com/img/workers-social.png,
+        "width": 3000,
+        "height": 1445
+    },
+    
+    "keywords": jekyll, workers-site,
+    "description": ,
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": https://wildanfauzy.com/jekyll-workers-site-dengan-wrangler-action/
+    }
+}
+    </script>
+    
+
+
+    
+
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-168081661-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://wildanfauzy.com/tentang/">Tentang Kami</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://wildanfauzy.com/redaksi/">Tim Redaksi</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://wildanfauzy.com/kontak/">Kontak Kami</a>
+            </li>
+        
+            <h3>Contact me</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="https://instagram.com/wilfauzy">Instagram</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://medium.com/@wilfauzy">Medium</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://twitter.com/wilfauzy">Twitter</a>
+            </li>
+        
+            <h3>Follow me</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="https://search.wildanfauzy.com">Search</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://wildanfauzy.com/">Home</a>
+            </li>
+        
+        
+    </ul>
+
+    
+    <a class="subscribe-button icon-feed" href="https://wildanfauzy.com/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+  
+  <header class="main-header post-head" style="background-image: url(/img/workers-social.png)">
+  
+  <nav class="main-nav overlay clearfix">
+
+
+  
+      <a class="blog-logo" href="https://wildanfauzy.com"><img src="https://wildanfauzy.com/img/about.png" alt="Home" /></a>
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post post">
+
+    <header class="post-header">
+        <h1 class="post-title">Jekyll Workers Site Dengan Wrangler Action</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+          <time class="post-date" datetime="2021-02-05T14:00:00Z">
+            Feb 5, 2021
+          </time>
+        
+         
+          <span class="post-tag small"><a href="https://wildanfauzy.com/tags/jekyll/">#jekyll</a></span>
+         
+          <span class="post-tag small"><a href="https://wildanfauzy.com/tags/workers-site/">#workers-site</a></span>
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      
+
+<p>Setelah penghujung akhir tahun blog ini pindah dari wordpress ke jekyll lalu dihost dengan github pages, akhirnya mencoba dengan workers site salah fitur yang sudah ada sejak lama di dahbord cloudflare namun hanya diklik.</p>
+
+<h2 id="belajar-cloudflare-workers">Belajar cloudflare workers</h2>
+
+<p>Percobaan yang panjang belajar tentang workers, pertama hanya menggunakan konsol javascript dengan fungsi untuk mengalihkan alamat lama ke alamat baru dengan massal <a href="https://wildanfauzy.com/bulk-redirect-domain-dengan-workers/" title="bulk redirect">bulk redirect</a>.</p>
+
+<p>Masa transisi ke static site memang cukup menyita banyak waktu. mulai dari meng-convert semua postingan ke format yang baru, sialnya jumlah postingan dari 2012 sampai sekarang banyak yang tidak singkron.</p>
+
+<p>Alhasil tidak semua tertata dengan rapih, yang terpentik permalink postingan tidak berubah dan gambar thumbnail masih tersimpan, mungkin ada beberapa  gambar dalam postingan yang rusak.</p>
+
+<p>Setelah berhasil pindah ke static site yang kami rasakan semakin produktif, tidak ada lagi setiap ingin menulis postingan terganggu oleh notifikasi update tema atau plugins, atau komentar spam yang banyak, apalagi sering sekali blog terkena brute force attack membuat blog sering internal server error.</p>
+
+<h2 id="masa-percobaan-trial-and-error">Masa Percobaan Trial and Error</h2>
+
+<p>Hal yang dirasakan setelah pindah ke ssg jekyll di github pages kini mencoba workers site, sebelum menerapkan cloudflare workers di blog ini, percobaan adalah di blog aidanblog.com.</p>
+
+<p>Banyak error dan trial, tapi setelah percobaan yang berulang akhirnya berhasil, perlu diingat workers site versi gratis ada limitasi, sehingga perlu diperhatikan deploy time yang efesien.</p>
+
+<p>Pertama mencoba dengan wrangler CLI, namun proses instalasi wrangler di laptop cuku sulit, install melalui NPM banyak masalah seperti permission denied, lalu berhasil install wrangler menggunakan cargo.</p>
+
+<pre><code>npm install -g @cloudflare/wrangler
+wrangler config
+wrangler generate --site my-site
+cd my-site
+wrangler publish
+</code></pre>
+
+<p>Percobaan deploy local di komputer tetapi membutuhkan waktu yang cukup lama karena harus mendeploy jekyll sebelumnya lalu publih ke KV namespace menggunakan wrangler.</p>
+
+<p>Lalu Percobaan kedua dengan landing page menggunakan gatsby yang saya sudah posting <a href="https://wildanfauzy.com/deploy-gatsby-website-di-cloudflare-workers/" title="deploy gatsby to workers">deploy gatsby ke cloudflare workers</a> namun car tersebut kurang efesien jika kalian mengupdate postingan setiap hari.</p>
+
+<h2 id="deploy-dan-publish-dengan-wrangler-github-action">Deploy dan Publish dengan Wrangler Github Action</h2>
+
+<p>Lalu percobaan selanjutnya dengan blog portofolio di a.idan.my.id (gatsby) dan blog gado-gado catatan sehari-hari di aidanblog.com (jekyll) akhirnya mendapatkan yang efesien.</p>
+
+<p>Pertama build jekyll site dengan docker mendapatkan build time yang efesien yaitu 32 detik dengan postingan ratusan, sebelumnya dengan menginstall bundler dan bundle exec yang memakan waktu empat menit, build jekyll site with docker.</p>
+
+<pre><code>name: Jekyll site CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build the site in the jekyll/builder container
+      run: |
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c &quot;chmod 777 /srv/jekyll &amp;&amp; jekyll build --future&quot;
+</code></pre>
+
+<p>Menggunakan docker walapun cepat namun menggenerate setiap saat melakukan push ke repo, tidak bisa menggunakan cache. setelah berhasil build jekyll selanjutnya menginstall wrangler action.</p>
+
+<pre><code>name: Deploy
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    name: Deploy
+    steps:
+      - uses: actions/checkout@v2
+      - name: Publish
+        uses: cloudflare/wrangler-action@1.3.0
+        with:
+          apiToken: ${{ secrets.CF_API_TOKEN }}
+</code></pre>
+
+<p>Namun di cloudflare workers free ada batasan yang paling sering mengganggu adalah masalah write and read yang dibatasi 1000 request setiap harinya, alhasil selalu kena limit, untuk mengatasinya dengan menyetel cron jobs di workflows.</p>
+
+<pre><code>on:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    name: Deploy
+    steps:
+      - uses: actions/checkout@master
+      - name: Publish app
+        uses: cloudflare/wrangler-action@1.2.0
+        with:
+          apiToken: ${{ secrets.CF_API_TOKEN }}
+</code></pre>
+
+<p>Hasil akhir mendapatkan build time satu menit sampai berhasil publish ke cloudflare dengan steps build jekyll site dengan docker dan install wrangler setelah itu publish site, lalu mengatur cron jobs setiap enam jam sekali untuk meminimalisir limits, seperti ini pangaturan workflows yang digunakan di blog ini.</p>
+
+<pre><code>name: Deploy to workers-site
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Build the site in the jekyll/builder container
+      run: |
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c &quot;chmod 777 /srv/jekyll &amp;&amp; jekyll build&quot;
+    - name: Install Wrangler
+      run: sudo npm i @cloudflare/wrangler -g
+
+    - name: Publish
+      uses: cloudflare/wrangler-action@1.2.0
+      env:
+        USER: root
+      with:
+        apiToken: ${{ secrets.CF_API_TOKEN }}
+        environment: 'production'
+</code></pre>
+
+<p>Setelah itu berhasil menggunakan workers-site dengan build time yang efesien, selanjutnya membuat konfigurasi wrangler.toml dan akhirnya bisa memilih bucket ke _site setelah build jekyll dengan docker.</p>
+
+<p>Selamat mencoba, jika ingin melihat repo gihub blog ini bisa dilihat di bagiang footer dan klik (<a href="https://github.com/NgopiBrek/WildanFauzy.com" title="jekyll workers">view source</a>) untuk melihat pengaturan yang saya gunakan dengan wrangler github action, terinspirasi oleh repostory <a href="https://github.com/vences/hugo-workers" title="hugo workers">vences/hugo-workers</a></p>
+
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+
+
+
+
+
+
+
+<figure class="author-image">
+    <a class="img" href="https://wildanfauzy.com" style="background-image: url(/img/about.png)"><span class="hidden">pemuda malkis's Picture</span></a>
+</figure>
+
+
+<section class="author">
+  <h4><a href="https://wildanfauzy.com">pemuda malkis</a></h4>
+  
+  <p>Menyajikan artikel pilihan</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">Bandung, Indonesia</span>
+    <span class="author-link icon-link"><a href="https://wildanfauzy.com">https://wildanfauzy.com</a></span>
+  </div>
+</section>
+
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=Jekyll%20Workers%20Site%20Dengan%20Wrangler%20Action&nbsp;-&nbsp;WildanFauzy.com&amp;url=https%3a%2f%2fwildanfauzy.com%2fjekyll-workers-site-dengan-wrangler-action%2f"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwildanfauzy.com%2fjekyll-workers-site-dengan-wrangler-action%2f"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2fwildanfauzy.com%2fjekyll-workers-site-dengan-wrangler-action%2f&amp;description=Jekyll%20Workers%20Site%20Dengan%20Wrangler%20Action"
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+</section>
+
+
+
+    
+
+<div id="disqus_thread"></div>
+<script>
+
+
+
+
+var disqus_config = function () {
+this.page.url = "https:\/\/wildanfauzy.com\/jekyll-workers-site-dengan-wrangler-action\/";  
+this.page.identifier = "https:\/\/wildanfauzy.com\/jekyll-workers-site-dengan-wrangler-action\/"; 
+};
+
+(function() { 
+var d = document, s = d.createElement('script');
+s.src = 'https://wildanfauzy.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+
+
+
+
+
+
+  </footer>
+</article>
+
+</main>
+
+
+  <aside class="read-next">
+  
+      <a class="read-next-story" style="background-image: url(/img/quicker.jpg)" href="https://wildanfauzy.com/cara-setting-quic-cloud-di-plugin-litespeed-cache/">
+          <section class="post">
+              <h2>Cara Setting Quic Cloud di Plugin LiteSpeed Cache</h2>
+              
+          </section>
+      </a>
+  
+  
+      <a class="read-next-story prev" style="background-image: url(/img/gatsby-website.png)" href="https://wildanfauzy.com/deploy-gatsby-website-di-cloudflare-workers/">
+          <section class="post">
+              <h2>Deploy Gatsby Website di Cloudflare Workers</h2>
+          </section>
+      </a>
+  
+</aside>
+
+
+
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">WildanFauzy.com</a> All rights reserved</section>
+        
+        <section class="poweredby">Proudly generated by <a class="icon-hugo" href="http://gohugo.io">HUGO</a>, with <a class="icon-theme" href="https://github.com/vjeantet/hugo-theme-casper">Casper</a> theme</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="https://wildanfauzy.com/js/jquery.js"></script>
+    <script type="text/javascript" src="https://wildanfauzy.com/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="https://wildanfauzy.com/js/index.js"></script>
+    
+</body>
+</html>
+

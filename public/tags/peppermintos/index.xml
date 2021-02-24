@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peppermintos on WildanFauzy.com</title>
+    <link>https://wildanfauzy.com/tags/peppermintos/</link>
+    <description>Recent content in Peppermintos on WildanFauzy.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Thu, 07 Jan 2021 13:11:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://wildanfauzy.com/tags/peppermintos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Review PepperMint Os Linux Sangat Stabil </title>
+      <link>https://wildanfauzy.com/review-peppermint-os-linux-sangat-stabil/</link>
+      <pubDate>Thu, 07 Jan 2021 13:11:00 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/review-peppermint-os-linux-sangat-stabil/</guid>
+      <description>Mencari distro linux yang lebih ringan selain xubuntu ternyata mendapatkan banyak referensi salah satunya adalah peppermint os ini, mengapa bisa begitu menggoda untuk mencobanya.
+Satu alasannya adalah peppermint berbasis dari ubuntu lts yang sudah terjamin stabil dan tangguh, apalagi sentuhan dari pengembangan peppermint os itu sendiri yang menjadikan distro linux yang satu ini mulai menjadi idola baru di laptop jadul saya hehehe.
+File manager Nemo Hal yang menarik lainnya adalah tampilan default yang sudah sangat cantik efek blur di aplikasi background membuat lebih estetik, desktop environment xfce menjadi bawaan dan tentunya aplikasi bawaan yang sudah dioptimalkan seperti file manager nemo yang stabil dari cinnamon.</description>
+    </item>
+    
+  </channel>
+</rss>

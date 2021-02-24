@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="id-ID">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="theme-color" content="#000000">
+
+    
+    
+        
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:image" content="https://wildanfauzy.com/wp-content/uploads/2020/11/serverless-cloudflare-workers.png"/>
+    
+
+
+
+<meta name="twitter:title" content="Cloudflare Workers dan Blog Jekyll Serverless"/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:site" content="@WilFauzy"/>
+
+
+
+  	<meta property="og:title" content="Cloudflare Workers dan Blog Jekyll Serverless &middot; WildanFauzy.com" />
+  	<meta property="og:site_name" content="WildanFauzy.com" />
+  	<meta property="og:url" content="https://wildanfauzy.com/cloudflare-workers-dan-blog-jekyll-serverless/" />
+
+    
+       <meta property="og:image" content="https://wildanfauzy.com/wp-content/uploads/2020/11/serverless-cloudflare-workers.png"/>
+    
+
+    
+    <meta property="og:description" content="" />
+  	<meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2020-11-18T19:27:57Z" />
+
+    
+    <meta property="article:tag" content="cloudflare" />
+    
+    <meta property="article:tag" content="serverless" />
+    
+    <meta property="article:tag" content="workers" />
+    
+    
+
+    <title>Cloudflare Workers dan Blog Jekyll Serverless &middot; WildanFauzy.com</title>
+
+    
+    <meta name="description" content="Apa itu “Cloudflare Worker” adalah JavaScript yang Anda tulis yang berjalan di edge Cloudflare. “Cloudflare Service Worker” secara khusus adalah pekerja yang me" />
+    
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="https://wildanfauzy.com/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="https://wildanfauzy.com/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="https://wildanfauzy.com/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="https://wildanfauzy.com/css/nav.css" />
+
+    
+
+    
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/styles/agate.min.css">
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
+        
+        <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+      
+          <link href="https://wildanfauzy.com/index.xml" rel="alternate" type="application/rss+xml" title="WildanFauzy.com" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.40.1" />
+
+    <link rel="canonical" href="https://wildanfauzy.com/cloudflare-workers-dan-blog-jekyll-serverless/" />
+
+    
+      
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": Wildan Fauzy,
+        "logo": https://wildanfauzy.com/img/about.png
+    },
+    "author": {
+        "@type": "Person",
+        "name": Wildan Fauzy,
+        
+        "image": {
+            "@type": "ImageObject",
+            "url": https://wildanfauzy.com/img/about.png,
+            "width": 250,
+            "height": 250
+        }, 
+        
+        "url": https://wildanfauzy.com,
+        "sameAs": [
+            
+            
+             
+             
+             
+             
+             
+            
+        ],
+        "description": Menyajikan artikel pilihan
+        
+    },
+    "headline": Cloudflare Workers dan Blog Jekyll Serverless,
+    "name": Cloudflare Workers dan Blog Jekyll Serverless,
+    "wordCount": 546,
+    "timeRequired": "PT3M",
+    "inLanguage": {
+      "@type": "Language",
+      "alternateName": en
+    },
+    "url": https://wildanfauzy.com/cloudflare-workers-dan-blog-jekyll-serverless/,
+    "datePublished": 2020-11-18T19:27Z,
+    "dateModified": 2020-11-18T19:27Z,
+    
+    "image": {
+        "@type": "ImageObject",
+        "url": https://wildanfauzy.com/wp-content/uploads/2020/11/serverless-cloudflare-workers.png,
+        "width": 3000,
+        "height": 1445
+    },
+    
+    "keywords": cloudflare, serverless, workers,
+    "description": ,
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": https://wildanfauzy.com/cloudflare-workers-dan-blog-jekyll-serverless/
+    }
+}
+    </script>
+    
+
+
+    
+
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-168081661-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://wildanfauzy.com/tentang/">Tentang Kami</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://wildanfauzy.com/redaksi/">Tim Redaksi</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://wildanfauzy.com/kontak/">Kontak Kami</a>
+            </li>
+        
+            <h3>Contact me</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="https://instagram.com/wilfauzy">Instagram</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://medium.com/@wilfauzy">Medium</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://twitter.com/wilfauzy">Twitter</a>
+            </li>
+        
+            <h3>Follow me</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="https://search.wildanfauzy.com">Search</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://wildanfauzy.com/">Home</a>
+            </li>
+        
+        
+    </ul>
+
+    
+    <a class="subscribe-button icon-feed" href="https://wildanfauzy.com/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+  
+  <header class="main-header post-head" style="background-image: url(/wp-content/uploads/2020/11/serverless-cloudflare-workers.png)">
+  
+  <nav class="main-nav overlay clearfix">
+
+
+  
+      <a class="blog-logo" href="https://wildanfauzy.com"><img src="https://wildanfauzy.com/img/about.png" alt="Home" /></a>
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post post">
+
+    <header class="post-header">
+        <h1 class="post-title">Cloudflare Workers dan Blog Jekyll Serverless</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+          <time class="post-date" datetime="2020-11-18T19:27:57Z">
+            Nov 18, 2020
+          </time>
+        
+         
+          <span class="post-tag small"><a href="https://wildanfauzy.com/tags/cloudflare/">#cloudflare</a></span>
+         
+          <span class="post-tag small"><a href="https://wildanfauzy.com/tags/serverless/">#serverless</a></span>
+         
+          <span class="post-tag small"><a href="https://wildanfauzy.com/tags/workers/">#workers</a></span>
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      
+
+<p>Apa itu “Cloudflare Worker” adalah JavaScript yang Anda tulis yang berjalan di edge Cloudflare. “Cloudflare Service Worker” secara khusus adalah pekerja yang menangani lalu lintas HTTP dan ditulis pada Service Worker API. menurut (<a rel="noreferrer noopener" href="https://blog.cloudflare.com/introducing-cloudflare-workers/" target="_blank">cloudflare</a>)</p>
+
+<h2 id="apa-itu-workers">Apa itu Workers</h2>
+
+<p>Sebelumnya pernah kenal workers ini pada awalnya ketika menerapkan PWA pada blog, jika memasang plugin superPWA di wordpress, maka akan ada script service-workers.js di root folder, gunanya untuk menjalankan pwa, menyimpan cache website yang sudah terdownload di browser pengguna.</p>
+
+<p>Akibatnya website bisa diakses tanpa internet sekalipun, dan memberi respon 200 OK di header, selama cache masih tersimpan dan website bisa diakses tanpa jaringan internet, selain itu mempercepat loading blog dan banyak manfaat lainnya.</p>
+
+<p>Akhir ini sering mencoba blog static atau lebih dikenal SSG (static site generator) seperti Jekyll, Hugo, Hexo, Vuepress, Gatsby dan banyak macamnya, kelebihannya memang banyak dibandingkan dengan website dinamis seperti wordpress yang membutuhkan proses data setiap saat, database terus-terusan berkerja.</p>
+
+<p>Sedangkan SSG hanya menghasilkan static file tanpa perlu database atau query yang tertulis setiap saat, kecepatan loading lebih mantap, jika di wordpress perlu waktu banyak untuk tuning agar kecepatan menjadi optimal, seperti memasang plugin cache, dan optimisasi file css, html dan javascript.</p>
+
+<p>Setelah mencoba static blog seperti hugo lalu mencoba jekyll karena langsung terintegrasi langsug dengan github pages, memang waktu deploy antara jekyll dan hugo sangat berbeda jauh, hugo hanya membutuhkan waktu 22 detik, sedangkan jekyll membutuhkan satu menit, tergantung seberapa besar file juga.</p>
+
+<p>Iseng-iseng mencoba cloudflare workers, ada dua paket bundle plan bisa langsung membuat workers site dengan wrangler, tapi kalo mau coba gratis bisa mendapatkan workers dengan limitasi 100k request perhari dan mendapatkan KV storage sebesar 1 GB.</p>
+
+<h2 id="membuat-workers">Membuat Workers</h2>
+
+<p>Jadi karena hanya ingin coba-coba dengan workers milih yang gratis saja hehe, cara membuat workers cukup mudah.</p>
+
+<ul>
+<li>masuk ke dashbord cloudflare</li>
+<li>pilih menu workers</li>
+<li>pilih manage workers</li>
+<li>lalu pilih create workers</li>
+</ul>
+
+<p>Setelah berhasil membuat workers maka kalian akan mendapatkan subdomain untuk mengakses workes yang kalian buat seperti blablabla.workers.dev, selanjutnya membuat script javascript untuk memerintahkan workers.</p>
+
+<p>Contoh template workers bisa diakses <a rel="noreferrer noopener" href="https://developers.cloudflare.com/workers/examples" data-type="URL" data-id="https://developers.cloudflare.com/workers/examples" target="_blank">disini</a> atau bisa kunjungi halaman build with workers <a rel="noreferrer noopener" href="https://workers.cloudflare.com/built-with/" data-type="URL" data-id="https://workers.cloudflare.com/built-with/" target="_blank">disini</a>.</p>
+
+<p>Percobaan kali ini dengan blog static yang pernah saya buat dengan Jekyll, pilih quick edit dan masukan perintah js di workers, dibawah ini ganti alamat domain idan.my.id dengan alamat domain kalian.</p>
+
+<pre><code>async function handleRequest(request) {
+
+const url = new URL(request.url)
+
+// Where to proxy the requests through to
+const origin = 'https://idan.my.id';
+
+// We want to send any redirects back to the client,
+// not follow them here.
+const fetch_opts = {
+redirect: 'manual'
+}
+
+// Fetch the destination and respond
+return fetch(origin + url.pathname, fetch_opts)
+}
+
+addEventListener('fetch', event =&gt; {
+event.respondWith(handleRequest(event.request))
+})
+</code></pre>
+
+<p><img loading="lazy" width="768" height="432" src="https://i2.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/workers-site.png?resize=768%2C432&ssl=1" alt="" class="wp-image-8642" srcset="https://i2.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/workers-site.png?resize=1024%2C576&ssl=1 1024w, https://i2.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/workers-site.png?resize=300%2C169&ssl=1 300w, https://i2.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/workers-site.png?resize=150%2C84&ssl=1 150w, https://i2.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/workers-site.png?resize=768%2C432&ssl=1 768w, https://i2.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/workers-site.png?resize=373%2C210&ssl=1 373w, https://i2.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/workers-site.png?w=1366&ssl=1 1366w" sizes="(max-width: 768px) 100vw, 768px" data-recalc-dims="1" /> </figure></p>
+
+<p>Lalu test dengan klik send dan sampai mendapatkan repon 200 OK, halaman berhasil, lalu klik save and deploy, sudah workers berhasil dibuat.</p>
+
+<h2 id="menghungkan-workers-dengan-domain">Menghungkan workers dengan domain</h2>
+
+<p>Selanjutnya hubungkan workers dengan domain kalian, dengan kembali ke menu utama workers dan pilih add route masukan nama domain yang ingin dihubungkan dengan workers.</p>
+
+<p>Sebagai contoh disini saya membuat halaman workers di alamat <a href="https://idan.aep.workers.dev">https://idan.aep.workers.dev</a> lalu dihubungkan ke alamat blog <a href="https://idan.my.id">https://idan.my.id</a> sudah selamat menikmati serverless.</p>
+
+<p>Dan hasilnya cukup memuaskan ketika cek di pagesepeed, kebetulan blog jekyll tanpa optimisasi awalnya cukup lama jadi cepat.<figure class="wp-block-image size-large"></p>
+
+<p><img loading="lazy" width="768" height="432" src="https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/serverless.png?resize=768%2C432&ssl=1" alt="" class="wp-image-8637" srcset="https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/serverless.png?resize=1024%2C576&ssl=1 1024w, https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/serverless.png?resize=300%2C169&ssl=1 300w, https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/serverless.png?resize=150%2C84&ssl=1 150w, https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/serverless.png?resize=768%2C432&ssl=1 768w, https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/serverless.png?resize=373%2C210&ssl=1 373w, https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/serverless.png?w=1366&ssl=1 1366w" sizes="(max-width: 768px) 100vw, 768px" data-recalc-dims="1" /> </figure></p>
+
+<p>Berikut konsumsi cpu time pada workers<figure class="wp-block-image size-large"></p>
+
+<p><img loading="lazy" width="768" height="432" src="https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/workers.png?resize=768%2C432&ssl=1" alt="" class="wp-image-8638" srcset="https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/workers.png?resize=1024%2C576&ssl=1 1024w, https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/workers.png?resize=300%2C169&ssl=1 300w, https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/workers.png?resize=150%2C84&ssl=1 150w, https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/workers.png?resize=768%2C432&ssl=1 768w, https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/workers.png?resize=373%2C210&ssl=1 373w, https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/workers.png?w=1366&ssl=1 1366w" sizes="(max-width: 768px) 100vw, 768px" data-recalc-dims="1" /> </figure></p>
+
+<p>Selanjutnya mau coba bikin workers site denga wrangler, mungkin cukup sekian membahas tentang workers dan serverless, terima kasih.</p>
+
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+
+
+
+
+
+
+
+<figure class="author-image">
+    <a class="img" href="https://wildanfauzy.com" style="background-image: url(/img/about.png)"><span class="hidden">pemuda malkis's Picture</span></a>
+</figure>
+
+
+<section class="author">
+  <h4><a href="https://wildanfauzy.com">pemuda malkis</a></h4>
+  
+  <p>Menyajikan artikel pilihan</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">Bandung, Indonesia</span>
+    <span class="author-link icon-link"><a href="https://wildanfauzy.com">https://wildanfauzy.com</a></span>
+  </div>
+</section>
+
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=Cloudflare%20Workers%20dan%20Blog%20Jekyll%20Serverless&nbsp;-&nbsp;WildanFauzy.com&amp;url=https%3a%2f%2fwildanfauzy.com%2fcloudflare-workers-dan-blog-jekyll-serverless%2f"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwildanfauzy.com%2fcloudflare-workers-dan-blog-jekyll-serverless%2f"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2fwildanfauzy.com%2fcloudflare-workers-dan-blog-jekyll-serverless%2f&amp;description=Cloudflare%20Workers%20dan%20Blog%20Jekyll%20Serverless"
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+</section>
+
+
+
+    
+
+<div id="disqus_thread"></div>
+<script>
+
+
+
+
+var disqus_config = function () {
+this.page.url = "https:\/\/wildanfauzy.com\/cloudflare-workers-dan-blog-jekyll-serverless\/";  
+this.page.identifier = "https:\/\/wildanfauzy.com\/cloudflare-workers-dan-blog-jekyll-serverless\/"; 
+};
+
+(function() { 
+var d = document, s = d.createElement('script');
+s.src = 'https://wildanfauzy.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+
+
+
+
+
+
+  </footer>
+</article>
+
+</main>
+
+
+  <aside class="read-next">
+  
+      <a class="read-next-story" style="background-image: url(/wp-content/uploads/2020/11/bulk-redirect.png)" href="https://wildanfauzy.com/bulk-redirect-domain-dengan-workers/">
+          <section class="post">
+              <h2>Bulk Redirect Domain Dengan Workers</h2>
+              
+          </section>
+      </a>
+  
+  
+      <a class="read-next-story prev" style="background-image: url(/wp-content/uploads/2020/11/hugo.png)" href="https://wildanfauzy.com/migrasi-personal-blog-ke-hugo-dengan-netfily-dan-forestry/">
+          <section class="post">
+              <h2>Migrasi Personal Blog ke Hugo Dengan Netlify dan Forestry</h2>
+          </section>
+      </a>
+  
+</aside>
+
+
+
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">WildanFauzy.com</a> All rights reserved</section>
+        
+        <section class="poweredby">Proudly generated by <a class="icon-hugo" href="http://gohugo.io">HUGO</a>, with <a class="icon-theme" href="https://github.com/vjeantet/hugo-theme-casper">Casper</a> theme</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="https://wildanfauzy.com/js/jquery.js"></script>
+    <script type="text/javascript" src="https://wildanfauzy.com/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="https://wildanfauzy.com/js/index.js"></script>
+    
+</body>
+</html>
+

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on WildanFauzy.com</title>
+    <link>https://wildanfauzy.com/tags/linux/</link>
+    <description>Recent content in Linux on WildanFauzy.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Thu, 28 Jan 2021 23:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://wildanfauzy.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ArcoLinux Distro Untuk Mencoba Arch Pemula</title>
+      <link>https://wildanfauzy.com/arcolinux-distro-untuk-mencoba-arch-pemula/</link>
+      <pubDate>Thu, 28 Jan 2021 23:30:00 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/arcolinux-distro-untuk-mencoba-arch-pemula/</guid>
+      <description>Sudah lama mengguna keluarga ubuntu, sejak dulu ingin mencoba arch linux namun lagi-lagi sudah berkali-kali mencoba menginstall arch linux namun hasilnya gagal terus ditambah memang koneksi buruk, alhasil bukan berhasil namun data di hardisk terhapus wkwkwk.
+Namun banyak distro turunan dari arch linux, yang paling terkenal dan nongkrong di top five adalah manjaro, namun rasanya kurang arch banget gitu, akhirnya menemukan arcolinux.
+Distro dengan aplikasi lengkap Salah satu hal yang membuat ingin mencoba arch katanya salah satu distro yang paling ringan, tetapi karena selalu gagal memasang di laptop, akhirnya mencoba arcolinux salah satu turunan dari arch itu sendiri.</description>
+    </item>
+    
+    <item>
+      <title>Review PepperMint Os Linux Sangat Stabil </title>
+      <link>https://wildanfauzy.com/review-peppermint-os-linux-sangat-stabil/</link>
+      <pubDate>Thu, 07 Jan 2021 13:11:00 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/review-peppermint-os-linux-sangat-stabil/</guid>
+      <description>Mencari distro linux yang lebih ringan selain xubuntu ternyata mendapatkan banyak referensi salah satunya adalah peppermint os ini, mengapa bisa begitu menggoda untuk mencobanya.
+Satu alasannya adalah peppermint berbasis dari ubuntu lts yang sudah terjamin stabil dan tangguh, apalagi sentuhan dari pengembangan peppermint os itu sendiri yang menjadikan distro linux yang satu ini mulai menjadi idola baru di laptop jadul saya hehehe.
+File manager Nemo Hal yang menarik lainnya adalah tampilan default yang sudah sangat cantik efek blur di aplikasi background membuat lebih estetik, desktop environment xfce menjadi bawaan dan tentunya aplikasi bawaan yang sudah dioptimalkan seperti file manager nemo yang stabil dari cinnamon.</description>
+    </item>
+    
+    <item>
+      <title>Menghapus Aplikasi Bloatware Android Di Linux</title>
+      <link>https://wildanfauzy.com/menghapus-aplikasi-bloatware-android-di-linux/</link>
+      <pubDate>Thu, 17 Sep 2020 16:59:40 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/menghapus-aplikasi-bloatware-android-di-linux/</guid>
+      <description>Banyak aplikasi bawaan yang sebenarnya tidak terpakai kadang membuat kesal ketika memori hp penuh dengan aplikasi yang tidak jelas darimana asalnya, bikin penuh memori dan menyedot kuota internet.
+Apalagi kebanyakan hp jaman sekarang terlalu banyak aplikasi bawaan yang tidak bisa diinstal hanya bisa disable, tentu membuat jengkel.
+Muncul pertanyaan bagaimana menghapus aplikasi bawaan atau bloatware di linux?
+Aktifkan Usb Debugging Untuk mengapus aplikasi bawaan harus mengaktifkan usb debugging, buka Pengaturan pilih system terus ketuk lima kali tentang ponsel maka akan muncul opsi developer atau opsi pengembang.</description>
+    </item>
+    
+    <item>
+      <title>Cara Install Linux Manjaro Versi Mate</title>
+      <link>https://wildanfauzy.com/mencoba-linux-manjaro-versi-mate/</link>
+      <pubDate>Fri, 21 Aug 2020 18:19:50 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/mencoba-linux-manjaro-versi-mate/</guid>
+      <description>Sudah tidak asing lagi dengan distro linux yang satu ini, manjaro adalah distro linux yang selalu nangkring di urutan teratas distrowatch.com walaupun sudah tergeser dengan mx linux tapi masih dalam urutan tiga besar.
+Ada berbagai macam versi desktop environment mulai dari xfce yang sudah terkenal sangat enteng di laptop ram dua giga pun ngacir, atau rada berat dikit kde dan gnome yang pasaran.
+Percobaan kali ini bukan desktop environment yang disebutkan diatas melainkan DE Mate, bukan versi resmi dari manjaro melainkan versi komunitas, tapi masih di dukung oleh manjaro itu sendiri.</description>
+    </item>
+    
+    <item>
+      <title>Make Linux? Berasa Jadi Preman</title>
+      <link>https://wildanfauzy.com/make-linux-berasa-jadi-preman/</link>
+      <pubDate>Tue, 04 Jun 2013 13:46:00 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/make-linux-berasa-jadi-preman/</guid>
+      <description>assalamualaikum wr wb
+ketemu lagi di blog yang amburadul haha kali ini mau sedikit share pengalaman make linux dan open source, langsung aja ./
+pertama kali tau linux tuh, gak tau dari mana keknya gue nyasar pas waktu itu hehe
+pas waktu browsing nemu artikel yang lagi ngebahas tentang ubuntu akhirnya gue makin penasaran aja
+ama yang namanya linux, semakin hari makin penasaran aja suatu ketika gue mutusin make skinpack ubuntu untuk windows trus gue install dah skinpack masa gue makan, install pun selesai jret jret komputer minta restart, apa yang terjadi setelah restart ?</description>
+    </item>
+    
+  </channel>
+</rss>

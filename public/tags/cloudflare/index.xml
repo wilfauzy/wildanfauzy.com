@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloudflare on WildanFauzy.com</title>
+    <link>https://wildanfauzy.com/tags/cloudflare/</link>
+    <description>Recent content in Cloudflare on WildanFauzy.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Sun, 31 Jan 2021 00:35:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://wildanfauzy.com/tags/cloudflare/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deploy Gatsby Website di Cloudflare Workers</title>
+      <link>https://wildanfauzy.com/deploy-gatsby-website-di-cloudflare-workers/</link>
+      <pubDate>Sun, 31 Jan 2021 00:35:00 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/deploy-gatsby-website-di-cloudflare-workers/</guid>
+      <description>Kali ini ingin membahas tentang framwork gatsbyJS dan Cloudflare Workers, sudah hampir satu bulan lebih menunggu cloudflare pages resmi realese namun sudah daftar beta request belum dapat saja aksesnya.
+Akhirnya masih setia dengan workers-nya, sudah tidak perlu dijelaskan lagi apa itu cloudflare workers sudah pernah dibahas juga di blog ini, salah satu framework yang keren menurut saya adalah gasbyjs.
+Build Gatsby dengan Github Action Pertama sebelum mendeploy gatsby website kalian di cloudflare workers sebelumnya harus mem-build di komputer lokal kalian dengan perintah &amp;ldquo;gatsby build&amp;rdquo; atau dengan wrangler namun disini saya lebih memilih menggunakan github action untuk build gatsby webiste.</description>
+    </item>
+    
+    <item>
+      <title>Cloudflare Pages Untuk Membuat Static Website</title>
+      <link>https://wildanfauzy.com/cloudflare-pages/</link>
+      <pubDate>Thu, 24 Dec 2020 03:32:00 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/cloudflare-pages/</guid>
+      <description>Setelah kemarin mencoba cloudflare workers yang cukup rumit, kali ini ada yang baru dari cloudflare yaitu cloudflare pages, setelah mendapatkan email bahwa ada fitur baru.
+ Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.
+  Developer-focused with effortless Git integration. Advanced collaboration built-in with unlimited seats. Unmatched performance on Cloudflare’s edge network.  Apa itu cloudflare pages? Setelah membaca halaman homepage dari pages.</description>
+    </item>
+    
+    <item>
+      <title>Bulk Redirect Domain Dengan Workers</title>
+      <link>https://wildanfauzy.com/bulk-redirect-domain-dengan-workers/</link>
+      <pubDate>Mon, 23 Nov 2020 00:53:44 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/bulk-redirect-domain-dengan-workers/</guid>
+      <description>Gatel kalo liat diskonan, habis bangun tidur dapet notif diskonan domain .com setengah sadar akhirnya mencet checkout, wassalam akhirnya beli domain lagi, entah kayaknya bakal jadi kolektor domaian hehehe.
+Akhirnya merenung setelah membeli domain, buat apa yah ini domain kalo bikin projek juga bingung bikin apa lagi, akhirnya dipake buat pendamping domain my.id di blog pribadi, awalnya jadi alias domain, tapi mikir lagi mending jadi primary domain saja.
+Tapi kalo redirect satu per satu setiap postingan ke alamat baru kayaknya bakal capek, copy paste satu-satu alamat blog, akhirnya kembali lagi dengan cloudflare workers.</description>
+    </item>
+    
+    <item>
+      <title>Cloudflare Workers dan Blog Jekyll Serverless</title>
+      <link>https://wildanfauzy.com/cloudflare-workers-dan-blog-jekyll-serverless/</link>
+      <pubDate>Wed, 18 Nov 2020 19:27:57 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/cloudflare-workers-dan-blog-jekyll-serverless/</guid>
+      <description>Apa itu “Cloudflare Worker” adalah JavaScript yang Anda tulis yang berjalan di edge Cloudflare. “Cloudflare Service Worker” secara khusus adalah pekerja yang menangani lalu lintas HTTP dan ditulis pada Service Worker API. menurut (cloudflare)
+Apa itu Workers Sebelumnya pernah kenal workers ini pada awalnya ketika menerapkan PWA pada blog, jika memasang plugin superPWA di wordpress, maka akan ada script service-workers.js di root folder, gunanya untuk menjalankan pwa, menyimpan cache website yang sudah terdownload di browser pengguna.</description>
+    </item>
+    
+    <item>
+      <title>Setelah Menggunakan Quic Cloud Selama Empat Bulan</title>
+      <link>https://wildanfauzy.com/setelah-menggunakan-quic-cloud-selama-empat-bulan/</link>
+      <pubDate>Mon, 28 Sep 2020 15:29:47 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/setelah-menggunakan-quic-cloud-selama-empat-bulan/</guid>
+      <description>Berkenalan dengan quic cloud tidak terlalu lama, bertemu dengan cara tidak segaja, waktu itu setelah perpanjang hosting dan pindah server dari singapura ke amerika, tepatnya pada bulan mei, akhirnya bertemu lagi dengan cpanel, sudah lama login ke cpanel.
+Sebab jarang sekali ngoprek dibagian hosting, karena males aja ngeliat tampilan cpanel yang kaku wkkwkw, akhirnya setelah perpanjang hosting dan memindahkan data backup dan merestore, baru ngeh ada menu Litespeed Web Cache Manager di tab advanced, rasa penasaran pun muncul.</description>
+    </item>
+    
+    <item>
+      <title>Custom Nameserver Untuk Cloudflare</title>
+      <link>https://wildanfauzy.com/custom-nameserver-untuk-cloudflare/</link>
+      <pubDate>Thu, 17 Sep 2020 15:19:46 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/custom-nameserver-untuk-cloudflare/</guid>
+      <description>Setelah kemarin berhasil melakukan transfer domain, ada fitur baru ditemui yaitu private nameserver, rasa penasaran begejolak akhirnya mencoba untuk ngoprek lebih lanjut.
+Terinspirasi dari portal berita tirto.id, dimana tirto menggunakan cdn cloudflare tetapi memakai nameserver sendiri, tidak seperti biasa pemakai cloudflare gratisan dengan nama ns seperti sukikem.ns.cloudflare.com atau yang lainnya wkwk.
+Seperti harus menguprage langganan jika dilihat dari fitur custom hostname yang terdapat di cloudflare, karena saya sendiri menggunakan hanya untuk dns manager tidak menggunakan cdn cloudflare.</description>
+    </item>
+    
+    <item>
+      <title>Pindah Haluan Dari Cloudflare Ke Quic.cloud</title>
+      <link>https://wildanfauzy.com/pindah-haluan-dari-cloudflare-ke-quic-cloud/</link>
+      <pubDate>Wed, 01 Jul 2020 21:30:37 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/pindah-haluan-dari-cloudflare-ke-quic-cloud/</guid>
+      <description>CDN atau Content Delivery Network, sangat membantu untuk mendistribusikan konten css, gambar dan masih banyak lagi, sehingga tidak perlu repot mengambil data pada server, bisa diakses oleh pantulan dari data yang disimpan di server terdekat di lokasi pengakses.
+Sudah hampir dua tahun menggunakan cloudflare, walaupun menggunakan paket yang free tetepi hasilnya cukup memuaskan untuk blog yang kecil ini, banyak fitur yang sangat berguna, seperti minify css dan html, dan yang baru seperti amp real url.</description>
+    </item>
+    
+  </channel>
+</rss>

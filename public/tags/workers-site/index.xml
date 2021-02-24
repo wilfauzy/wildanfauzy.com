@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workers Site on WildanFauzy.com</title>
+    <link>https://wildanfauzy.com/tags/workers-site/</link>
+    <description>Recent content in Workers Site on WildanFauzy.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Fri, 05 Feb 2021 14:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://wildanfauzy.com/tags/workers-site/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jekyll Workers Site Dengan Wrangler Action</title>
+      <link>https://wildanfauzy.com/jekyll-workers-site-dengan-wrangler-action/</link>
+      <pubDate>Fri, 05 Feb 2021 14:00:00 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/jekyll-workers-site-dengan-wrangler-action/</guid>
+      <description>Setelah penghujung akhir tahun blog ini pindah dari wordpress ke jekyll lalu dihost dengan github pages, akhirnya mencoba dengan workers site salah fitur yang sudah ada sejak lama di dahbord cloudflare namun hanya diklik.
+Belajar cloudflare workers Percobaan yang panjang belajar tentang workers, pertama hanya menggunakan konsol javascript dengan fungsi untuk mengalihkan alamat lama ke alamat baru dengan massal bulk redirect.
+Masa transisi ke static site memang cukup menyita banyak waktu.</description>
+    </item>
+    
+  </channel>
+</rss>

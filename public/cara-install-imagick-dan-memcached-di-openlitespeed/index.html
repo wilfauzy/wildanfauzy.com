@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="id-ID">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="theme-color" content="#000000">
+
+    
+    
+        
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:image" content="https://wildanfauzy.com/wp-content/uploads/2020/10/imagic-memcached-litepspeed.png"/>
+    
+
+
+
+<meta name="twitter:title" content="Cara Install Imagick Dan Memcached Di Openlitespeed"/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:site" content="@WilFauzy"/>
+
+
+
+  	<meta property="og:title" content="Cara Install Imagick Dan Memcached Di Openlitespeed &middot; WildanFauzy.com" />
+  	<meta property="og:site_name" content="WildanFauzy.com" />
+  	<meta property="og:url" content="https://wildanfauzy.com/cara-install-imagick-dan-memcached-di-openlitespeed/" />
+
+    
+       <meta property="og:image" content="https://wildanfauzy.com/wp-content/uploads/2020/10/imagic-memcached-litepspeed.png"/>
+    
+
+    
+    <meta property="og:description" content="" />
+  	<meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2020-10-23T13:45:49Z" />
+
+    
+    <meta property="article:tag" content="imagick" />
+    
+    <meta property="article:tag" content="memcached" />
+    
+    <meta property="article:tag" content="openlitespeed" />
+    
+    <meta property="article:tag" content="ubuntu" />
+    
+    
+
+    <title>Cara Install Imagick Dan Memcached Di Openlitespeed &middot; WildanFauzy.com</title>
+
+    
+    <meta name="description" content="Pada umumnya fitur extensi php imagick atau imagemagick tidak terpasang secara default, ketika mengecek kesehatan situs akan ada rekomendasi untuk mengaktifkan " />
+    
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="https://wildanfauzy.com/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="https://wildanfauzy.com/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="https://wildanfauzy.com/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="https://wildanfauzy.com/css/nav.css" />
+
+    
+
+    
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/styles/agate.min.css">
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
+        
+        <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+      
+          <link href="https://wildanfauzy.com/index.xml" rel="alternate" type="application/rss+xml" title="WildanFauzy.com" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.40.1" />
+
+    <link rel="canonical" href="https://wildanfauzy.com/cara-install-imagick-dan-memcached-di-openlitespeed/" />
+
+    
+      
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": Wildan Fauzy,
+        "logo": https://wildanfauzy.com/img/about.png
+    },
+    "author": {
+        "@type": "Person",
+        "name": Wildan Fauzy,
+        
+        "image": {
+            "@type": "ImageObject",
+            "url": https://wildanfauzy.com/img/about.png,
+            "width": 250,
+            "height": 250
+        }, 
+        
+        "url": https://wildanfauzy.com,
+        "sameAs": [
+            
+            
+             
+             
+             
+             
+             
+            
+        ],
+        "description": Menyajikan artikel pilihan
+        
+    },
+    "headline": Cara Install Imagick Dan Memcached Di Openlitespeed,
+    "name": Cara Install Imagick Dan Memcached Di Openlitespeed,
+    "wordCount": 431,
+    "timeRequired": "PT3M",
+    "inLanguage": {
+      "@type": "Language",
+      "alternateName": en
+    },
+    "url": https://wildanfauzy.com/cara-install-imagick-dan-memcached-di-openlitespeed/,
+    "datePublished": 2020-10-23T13:45Z,
+    "dateModified": 2020-10-23T13:45Z,
+    
+    "image": {
+        "@type": "ImageObject",
+        "url": https://wildanfauzy.com/wp-content/uploads/2020/10/imagic-memcached-litepspeed.png,
+        "width": 3000,
+        "height": 1445
+    },
+    
+    "keywords": imagick, memcached, openlitespeed, ubuntu,
+    "description": ,
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": https://wildanfauzy.com/cara-install-imagick-dan-memcached-di-openlitespeed/
+    }
+}
+    </script>
+    
+
+
+    
+
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-168081661-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://wildanfauzy.com/tentang/">Tentang Kami</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://wildanfauzy.com/redaksi/">Tim Redaksi</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://wildanfauzy.com/kontak/">Kontak Kami</a>
+            </li>
+        
+            <h3>Contact me</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="https://instagram.com/wilfauzy">Instagram</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://medium.com/@wilfauzy">Medium</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://twitter.com/wilfauzy">Twitter</a>
+            </li>
+        
+            <h3>Follow me</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="https://search.wildanfauzy.com">Search</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://wildanfauzy.com/">Home</a>
+            </li>
+        
+        
+    </ul>
+
+    
+    <a class="subscribe-button icon-feed" href="https://wildanfauzy.com/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+  
+  <header class="main-header post-head" style="background-image: url(/wp-content/uploads/2020/10/imagic-memcached-litepspeed.png)">
+  
+  <nav class="main-nav overlay clearfix">
+
+
+  
+      <a class="blog-logo" href="https://wildanfauzy.com"><img src="https://wildanfauzy.com/img/about.png" alt="Home" /></a>
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post post">
+
+    <header class="post-header">
+        <h1 class="post-title">Cara Install Imagick Dan Memcached Di Openlitespeed</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+          <time class="post-date" datetime="2020-10-23T13:45:49Z">
+            Oct 23, 2020
+          </time>
+        
+         
+          <span class="post-tag small"><a href="https://wildanfauzy.com/tags/imagick/">#imagick</a></span>
+         
+          <span class="post-tag small"><a href="https://wildanfauzy.com/tags/memcached/">#memcached</a></span>
+         
+          <span class="post-tag small"><a href="https://wildanfauzy.com/tags/openlitespeed/">#openlitespeed</a></span>
+         
+          <span class="post-tag small"><a href="https://wildanfauzy.com/tags/ubuntu/">#ubuntu</a></span>
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      
+
+<p>Pada umumnya fitur extensi php imagick atau imagemagick tidak terpasang secara default, ketika mengecek kesehatan situs akan ada rekomendasi untuk mengaktifkan imagick, fitur tersebut sangat berguna untuk memproses gambar di wordpress.</p>
+
+<p><strong>ImageMagick</strong> adalah sebuah perangkat lunak grafis yang gratis. Kemampuannya antara lain mampu membuat, memodifikasi dan menampilkan gambar-gambar bitmap serta mampu membaca, melakukan konversi dan menulis ke dalam berbagai format gambar yang berbeda. Selain itu perangkat lunak ini dapat melakukan crop, mengganti warna, rotasi, menggabungkan dan mengaplikasikan berbagai efek. menurut (<a rel="noreferrer noopener" href="https://id.wikipedia.org/wiki/ImageMagick" target="_blank">wikipedia</a>)</p>
+
+<h2 id="menambahkan-repository-litespeed">Menambahkan repository litespeed</h2>
+
+<p>Lalu bagaimana cara memasang fitur tersebut, jika menggunakan panel seperti cpanel bisa dipilih pada bagian php selector, centang extensi imagick, karena saya tidak menggunakan panel alias manual makan harus menginstall lewat repo litespeed.</p>
+
+<p>Pertama masuk ke ssh vps kalian lalu tambahkan repository litespeed</p>
+
+<pre class="wp-block-code"><code>sudo wget -O - http://rpms.litespeedtech.com/debian/enable_lst_debian_repo.sh | sudo bash</code></pre>
+
+<p>Seteleh ditambahkan lakukan update</p>
+
+<pre class="wp-block-code"><code>sudo apt update</code></pre>
+
+<p>Tunggu hingga proses update selesai, tambahkan perintah dibawah untuk melihat paket extensi lsphp yang tersedia.</p>
+
+<pre class="wp-block-code"><code>sudo apt-cache search lsphp</code></pre><figure class="wp-block-image size-large">
+
+![](https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/10/imagick-litespeed.png?resize=768%2C432&#038;ssl=1)
+
+## Install Imagick
+
+Maka akan banyak pilihan extensi lsphp, karena disini akan memasang imagick jadi pilih bagian imagick, install sesuai dengan versi php yang kalian gunakan, disini saya menggunakan php versi 7.4, proses instalasi dengan perintah berikut.
+
+<pre class="wp-block-code"><code>sudo apt install lsphp74-imagick</code></pre>
+
+<p>Jika kalian menggunakan versi php yang berbeda tinggal ganti dengan versi yang kalian gunakan misal mengguanakan versi 7.1, ganti jadi lsphp71-imagick, tungu hingga proses selesai, sudah deh terinstall, agar berjalan perlu merestart php dengan perintah.</p>
+
+<pre class="wp-block-code"><code>sudo touch /usr/local/lsws/admin/tmp/.lsphp_restart.txt
+sudo systemctl restart lsws</code></pre>
+
+<h2 id="install-memcached">Install Memcached</h2>
+
+<p>Sudah deh, imagick terpasang, jika kalian ingin sekalia mengaktifkan memcached untuk bisa menggunakan fitur object cache di lscache kalian bisa langsung menginstall dengan perintah berikut.</p>
+
+<pre class="wp-block-code"><code>sudo apt install lsphp74-memcached</code></pre>
+
+<p>Memcached adalah sistem cache memori terdistribusi untuk tujuan umum. sering digunakan untuk mempercepat situs web yang didorong database dinamis dengan menyimpan data dan objek dalam RAM untuk mengurangi berapa kali sumber data eksternal (seperti database atau API) harus dibaca. Memcached adalah perangkat lunak gratis dan bersumber terbuka, menurut wikipedia.</p>
+
+<p>Setelah berhasil menginstall memcached, lakuka restart php kembali, setelah itu masuk ke dashboad wordpress lalu mengatur object cache di litespeed cache -&gt; cache -&gt; object, klik on dan pilih memcached.</p>
+
+<p><img src="https://i2.wp.com/wildanfauzy.com/wp-content/uploads/2020/10/memcached.png?resize=768%2C432&amp;#038;ssl=1" alt="" /></p>
+
+<h2 id="debug">Debug</h2>
+
+<p>Pastikan status memcached extension sudah enable dan masukan host dengan alamat ip address kalian, atau pengaturan default dengan host disi &#8220;localhost&#8221; dan port &#8220;11211&#8221; setelah itu klik, cek pastikan connection test passed berarti objek cache bekerja dengan benar.</p>
+
+<p>Jika mengalami connection failed ketika mengaktifkan memcached cek koneksi di terminal dengan perintah berikut &#8220;telnet localhost 11211&#8221; atau bisa membaca di docs litespeed untuk mendebug di link learn more atau <a rel="noreferrer noopener" href="https://docs.litespeedtech.com/lscache/lscwp/admin/#how-to-debug" data-type="URL" data-id="https://docs.litespeedtech.com/lscache/lscwp/admin/#how-to-debug" target="_blank">disini</a> semoga berhasil, cukup sekian dan terima kasih.</p>
+
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+
+
+
+
+
+
+
+<figure class="author-image">
+    <a class="img" href="https://wildanfauzy.com" style="background-image: url(/img/about.png)"><span class="hidden">Linux Mania's Picture</span></a>
+</figure>
+
+
+<section class="author">
+  <h4><a href="https://wildanfauzy.com">Linux Mania</a></h4>
+  
+  <p>Menyajikan artikel pilihan</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">Bandung, Indonesia</span>
+    <span class="author-link icon-link"><a href="https://wildanfauzy.com">https://wildanfauzy.com</a></span>
+  </div>
+</section>
+
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=Cara%20Install%20Imagick%20Dan%20Memcached%20Di%20Openlitespeed&nbsp;-&nbsp;WildanFauzy.com&amp;url=https%3a%2f%2fwildanfauzy.com%2fcara-install-imagick-dan-memcached-di-openlitespeed%2f"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwildanfauzy.com%2fcara-install-imagick-dan-memcached-di-openlitespeed%2f"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2fwildanfauzy.com%2fcara-install-imagick-dan-memcached-di-openlitespeed%2f&amp;description=Cara%20Install%20Imagick%20Dan%20Memcached%20Di%20Openlitespeed"
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+</section>
+
+
+
+    
+
+<div id="disqus_thread"></div>
+<script>
+
+
+
+
+var disqus_config = function () {
+this.page.url = "https:\/\/wildanfauzy.com\/cara-install-imagick-dan-memcached-di-openlitespeed\/";  
+this.page.identifier = "https:\/\/wildanfauzy.com\/cara-install-imagick-dan-memcached-di-openlitespeed\/"; 
+};
+
+(function() { 
+var d = document, s = d.createElement('script');
+s.src = 'https://wildanfauzy.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+
+
+
+
+
+
+  </footer>
+</article>
+
+</main>
+
+
+  <aside class="read-next">
+  
+      <a class="read-next-story" style="background-image: url(/wp-content/uploads/2020/10/vpnkonekkevps.jpeg)" href="https://wildanfauzy.com/menggunakan-vpn-dari-vps-di-ubuntu-dengan-openvpn/">
+          <section class="post">
+              <h2>Menggunakan VPN dari VPS di Ubuntu dengan OpenVPN</h2>
+              
+          </section>
+      </a>
+  
+  
+      <a class="read-next-story prev" style="background-image: url(/wp-content/uploads/2020/10/hujan-mati-lampu.jpg)" href="https://wildanfauzy.com/hujan-dan-mati-lampu/">
+          <section class="post">
+              <h2>Hujan dan Mati Lampu</h2>
+          </section>
+      </a>
+  
+</aside>
+
+
+
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">WildanFauzy.com</a> All rights reserved</section>
+        
+        <section class="poweredby">Proudly generated by <a class="icon-hugo" href="http://gohugo.io">HUGO</a>, with <a class="icon-theme" href="https://github.com/vjeantet/hugo-theme-casper">Casper</a> theme</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="https://wildanfauzy.com/js/jquery.js"></script>
+    <script type="text/javascript" src="https://wildanfauzy.com/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="https://wildanfauzy.com/js/index.js"></script>
+    
+</body>
+</html>
+

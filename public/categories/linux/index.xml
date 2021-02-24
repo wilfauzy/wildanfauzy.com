@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on WildanFauzy.com</title>
+    <link>https://wildanfauzy.com/categories/linux/</link>
+    <description>Recent content in Linux on WildanFauzy.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Fri, 30 Oct 2020 16:57:17 +0000</lastBuildDate>
+    
+	<atom:link href="https://wildanfauzy.com/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Menggunakan VPN dari VPS di Ubuntu dengan OpenVPN</title>
+      <link>https://wildanfauzy.com/menggunakan-vpn-dari-vps-di-ubuntu-dengan-openvpn/</link>
+      <pubDate>Fri, 30 Oct 2020 16:57:17 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/menggunakan-vpn-dari-vps-di-ubuntu-dengan-openvpn/</guid>
+      <description>enggak tau bikin judulnya kayak gimana wkwkw, pokoknya make vpn (virtual private network) langsung ke server vps pokoknya gitu, jadi enggak pake aplikasi vpn gratis kaya 1.1.1.1 cloudflare atau yang lainnya.
+Intinya koneksi vpn langsung ke vps kita sendiri, menggunakan ip publik yang sudah kita miliki, pertama pasang openvpn server dulu di vps kalian masuk ke ssh terminal.
+ssh username@ipvpskamu Jika sudah berhasil masuk, cek dulu vpsnya apakah tun/tap sudah nyala.</description>
+    </item>
+    
+    <item>
+      <title>Cara Install Imagick Dan Memcached Di Openlitespeed</title>
+      <link>https://wildanfauzy.com/cara-install-imagick-dan-memcached-di-openlitespeed/</link>
+      <pubDate>Fri, 23 Oct 2020 13:45:49 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/cara-install-imagick-dan-memcached-di-openlitespeed/</guid>
+      <description>Pada umumnya fitur extensi php imagick atau imagemagick tidak terpasang secara default, ketika mengecek kesehatan situs akan ada rekomendasi untuk mengaktifkan imagick, fitur tersebut sangat berguna untuk memproses gambar di wordpress.
+ImageMagick adalah sebuah perangkat lunak grafis yang gratis. Kemampuannya antara lain mampu membuat, memodifikasi dan menampilkan gambar-gambar bitmap serta mampu membaca, melakukan konversi dan menulis ke dalam berbagai format gambar yang berbeda. Selain itu perangkat lunak ini dapat melakukan crop, mengganti warna, rotasi, menggabungkan dan mengaplikasikan berbagai efek.</description>
+    </item>
+    
+    <item>
+      <title>Install OpenLiteSpeed dan WordPress Secara Instan Di Linux</title>
+      <link>https://wildanfauzy.com/install-openlitespeed-dan-wordpress-secara-instan-di-linux/</link>
+      <pubDate>Tue, 20 Oct 2020 15:03:19 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/install-openlitespeed-dan-wordpress-secara-instan-di-linux/</guid>
+      <description>Setelah kemarin nyoba vps, masalah bermunculan pada awalnya memasang panel webuzo terus ganti cyberpanel, pada akhirnya pake polosan aja, enggak pasang panel, cukup web server dari openlitespeed sama pasang cms wordpress, pas ngubek website ols ada cara paling gampang dengan cara One Click Install OLS, PHP, MySQL, WP and LSCache.
+Akhirnya pasang ulang os linux, terus nyoba cara paling gambag tadi, vps kembali seperti bayi semua data panel dan semuanya dihapus, fresh install selanjutnya tinggal masuk ke ssh vps terus masukin kode dibawah ini atau bisa download ols1clk langsung di github</description>
+    </item>
+    
+    <item>
+      <title>Lubuntu Cepat Dan Sederhana</title>
+      <link>https://wildanfauzy.com/lubuntu-cepat-dan-sederhana/</link>
+      <pubDate>Sat, 03 Oct 2020 18:03:40 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/lubuntu-cepat-dan-sederhana/</guid>
+      <description>Masih dengan distro turunan ubuntu, lubuntu pada versi 20.04 tidak lagi menggunakan LXDE tapi pada versi terbaru sudah berganti menggunakan LXQt, sebenarnya masih belum familiar juga dengan kedua desktop environment tersebut.
+Sudah dari lama ingin mencicipi distro lubuntu ini, awalnya sempat bingung ketika mencari di google ada dua website yaitu lubuntu.net dan lubuntu.me, pas awal mencoba mendownload di lubuntu.net ketika mencoba menginstall masalah datang, akhirnya tidak jadi.
+Install iso linux dengan etchdroid Tepat beberapa hari yang lalu terpikirkan untuk mencoba lubuntu kembali, ketika membandingkan dua website tersebut, lubuntu.</description>
+    </item>
+    
+    <item>
+      <title>Menghapus Aplikasi Bloatware Android Di Linux</title>
+      <link>https://wildanfauzy.com/menghapus-aplikasi-bloatware-android-di-linux/</link>
+      <pubDate>Thu, 17 Sep 2020 16:59:40 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/menghapus-aplikasi-bloatware-android-di-linux/</guid>
+      <description>Banyak aplikasi bawaan yang sebenarnya tidak terpakai kadang membuat kesal ketika memori hp penuh dengan aplikasi yang tidak jelas darimana asalnya, bikin penuh memori dan menyedot kuota internet.
+Apalagi kebanyakan hp jaman sekarang terlalu banyak aplikasi bawaan yang tidak bisa diinstal hanya bisa disable, tentu membuat jengkel.
+Muncul pertanyaan bagaimana menghapus aplikasi bawaan atau bloatware di linux?
+Aktifkan Usb Debugging Untuk mengapus aplikasi bawaan harus mengaktifkan usb debugging, buka Pengaturan pilih system terus ketuk lima kali tentang ponsel maka akan muncul opsi developer atau opsi pengembang.</description>
+    </item>
+    
+    <item>
+      <title>Cara Install Linux Manjaro Versi Mate</title>
+      <link>https://wildanfauzy.com/mencoba-linux-manjaro-versi-mate/</link>
+      <pubDate>Fri, 21 Aug 2020 18:19:50 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/mencoba-linux-manjaro-versi-mate/</guid>
+      <description>Sudah tidak asing lagi dengan distro linux yang satu ini, manjaro adalah distro linux yang selalu nangkring di urutan teratas distrowatch.com walaupun sudah tergeser dengan mx linux tapi masih dalam urutan tiga besar.
+Ada berbagai macam versi desktop environment mulai dari xfce yang sudah terkenal sangat enteng di laptop ram dua giga pun ngacir, atau rada berat dikit kde dan gnome yang pasaran.
+Percobaan kali ini bukan desktop environment yang disebutkan diatas melainkan DE Mate, bukan versi resmi dari manjaro melainkan versi komunitas, tapi masih di dukung oleh manjaro itu sendiri.</description>
+    </item>
+    
+    <item>
+      <title>Cara Instal Telegram di Linux Ubuntu dan Lainnya</title>
+      <link>https://wildanfauzy.com/cara-instal-telegram-di-linux-ubuntu-dan-lainnya/</link>
+      <pubDate>Wed, 12 Aug 2020 08:10:38 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/cara-instal-telegram-di-linux-ubuntu-dan-lainnya/</guid>
+      <description>Telegram adalah aplikasi chatting atau pengiriman pesan instan yang berbasis cloud dan multiplatform alias bisa dipakai hampir di seluruh gadget Android, iphone dan desktop (Windows, Mac, Linux).
+Kelebihan dari telegram selain berbasis cloud atau awan, telegram juga dikenal lebih baik keamanannya jika dibandingkan dengan aplikasi sejenisnya sebut saja whatsapp.
+Walaupun tidak ada yang benar-benar aman, setidaknya jarang ada kasus pesan instan kebobolan di telegram bahkan sempat juga dipakai untuk dipalai demonstran hongkong agar tidak ketahuan sama pemerintah atau kabar bahwa telegram dipakai oleh sekelompok teroris.</description>
+    </item>
+    
+    <item>
+      <title>Apa Yang Harus Dilakukan Setelah Menginstall Ubuntu Mate 20.04?</title>
+      <link>https://wildanfauzy.com/apa-yang-harus-dilakukan-setelah-menginstall-ubuntu-mate-20-04/</link>
+      <pubDate>Thu, 02 Jul 2020 18:30:37 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/apa-yang-harus-dilakukan-setelah-menginstall-ubuntu-mate-20-04/</guid>
+      <description>Ubuntu MATE adalah distro ubuntu yang memggunakan desktop environment mate, jika bosan dengan desktop environment bawaan ubuntu yaitu gnome, ubuntu mate bisa jadi alternatif selain dari xubuntu yang tentunya masih dibilang cukup ringan diinstall di laptop.
+Menginstall ubuntu mate sebenarnya sudah terpasang aplikasi yang cukup untuk menunjang kebutuhan dasar menggunakan sebuah laptop sudah terpasang libreoffice, pemutar musik dan video, tetapi lebih lengkap rasanya jika menginstall beberapa aplikasi berikut.
+Menginstall Google Chrome Browser bawaan dari ubuntu mate adalah firefox, sebenarnya tidak ada masalah dengan firefox, jika kalian sudah terlanjur nyaman dengan sinkronisasi halaman web favorit atau bookmark pada browser chrome mobile di android kalian, menggunakan google chrome sangat berguna dan memudahkan sinkronisasi data di chrome mobie dan chrome yang terpasang di laptop.</description>
+    </item>
+    
+    <item>
+      <title>Mempercantik Tampilan Linux Xubuntu 20.04</title>
+      <link>https://wildanfauzy.com/mempercantik-tampilan-linux-xubuntu-20-04/</link>
+      <pubDate>Tue, 02 Jun 2020 13:09:42 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/mempercantik-tampilan-linux-xubuntu-20-04/</guid>
+      <description>Wildanfauzy.com – Linux xubuntu adalah distro turunan ubuntu yang menggunakan desktop environment xfce, ada beberapa alasan mangapa xubuntu lebih menarik daripada ubuntu itu sendiri, sebenarnya sama saja cuma beda desktop environment, di xubuntu versi 20.04 banyak perubahan dari versi sebelumnya, yang paling menonjol adalah tidak adanya versi 32-bit hanya tersedia versi 64-bit saja, dan hasilnya harus fresh install dari awal, selamat tinggal 32-bit.
+Pembaruan selanjutnya adalah mendukung fitur dark mode dengan tema greybird-dark menjadi tema default, sebenarnya sudah lama di xubuntu 18.</description>
+    </item>
+    
+  </channel>
+</rss>

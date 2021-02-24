@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress 5.5 on WildanFauzy.com</title>
+    <link>https://wildanfauzy.com/tags/wordpress-5.5/</link>
+    <description>Recent content in Wordpress 5.5 on WildanFauzy.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Wed, 12 Aug 2020 18:20:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://wildanfauzy.com/tags/wordpress-5.5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Selamat Datang WordPress 5.5 Selamat Tinggal Website Lemot</title>
+      <link>https://wildanfauzy.com/selamat-datang-wordpress-5-5-selamat-tinggal-website-lemot/</link>
+      <pubDate>Wed, 12 Aug 2020 18:20:37 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/selamat-datang-wordpress-5-5-selamat-tinggal-website-lemot/</guid>
+      <description>Selamat datang WordPress 5.5 yang diberi nama &amp;#8220;Eckstine&amp;#8221; nama tersebut diambil dari penyanyi jazz kebangsaan Amerika yaitu Billy Eckstine, banyak perubahan di versi terbaru kali ini.
+Sebelumnya setiap ada pembaharuan dari WordPress terasa biasa saja paling perbaikan Gutenberg editor yang lemot jadi sedikit cepat, tidak sedikit pula yang membenci editor Gutenberg tersebut.
+WordPress 5.5 membuat perubahan besar terutama pada tiga faktor yaitu speed, search, dan security.
+Speed atau Kecepatan Loading Website Lazy load menjadi default pada WordPress 5.</description>
+    </item>
+    
+  </channel>
+</rss>

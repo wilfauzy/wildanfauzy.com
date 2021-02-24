@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mate on WildanFauzy.com</title>
+    <link>https://wildanfauzy.com/tags/mate/</link>
+    <description>Recent content in Mate on WildanFauzy.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Fri, 21 Aug 2020 18:19:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://wildanfauzy.com/tags/mate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cara Install Linux Manjaro Versi Mate</title>
+      <link>https://wildanfauzy.com/mencoba-linux-manjaro-versi-mate/</link>
+      <pubDate>Fri, 21 Aug 2020 18:19:50 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/mencoba-linux-manjaro-versi-mate/</guid>
+      <description>Sudah tidak asing lagi dengan distro linux yang satu ini, manjaro adalah distro linux yang selalu nangkring di urutan teratas distrowatch.com walaupun sudah tergeser dengan mx linux tapi masih dalam urutan tiga besar.
+Ada berbagai macam versi desktop environment mulai dari xfce yang sudah terkenal sangat enteng di laptop ram dua giga pun ngacir, atau rada berat dikit kde dan gnome yang pasaran.
+Percobaan kali ini bukan desktop environment yang disebutkan diatas melainkan DE Mate, bukan versi resmi dari manjaro melainkan versi komunitas, tapi masih di dukung oleh manjaro itu sendiri.</description>
+    </item>
+    
+    <item>
+      <title>Cara Instal Telegram di Linux Ubuntu dan Lainnya</title>
+      <link>https://wildanfauzy.com/cara-instal-telegram-di-linux-ubuntu-dan-lainnya/</link>
+      <pubDate>Wed, 12 Aug 2020 08:10:38 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/cara-instal-telegram-di-linux-ubuntu-dan-lainnya/</guid>
+      <description>Telegram adalah aplikasi chatting atau pengiriman pesan instan yang berbasis cloud dan multiplatform alias bisa dipakai hampir di seluruh gadget Android, iphone dan desktop (Windows, Mac, Linux).
+Kelebihan dari telegram selain berbasis cloud atau awan, telegram juga dikenal lebih baik keamanannya jika dibandingkan dengan aplikasi sejenisnya sebut saja whatsapp.
+Walaupun tidak ada yang benar-benar aman, setidaknya jarang ada kasus pesan instan kebobolan di telegram bahkan sempat juga dipakai untuk dipalai demonstran hongkong agar tidak ketahuan sama pemerintah atau kabar bahwa telegram dipakai oleh sekelompok teroris.</description>
+    </item>
+    
+    <item>
+      <title>Apa Yang Harus Dilakukan Setelah Menginstall Ubuntu Mate 20.04?</title>
+      <link>https://wildanfauzy.com/apa-yang-harus-dilakukan-setelah-menginstall-ubuntu-mate-20-04/</link>
+      <pubDate>Thu, 02 Jul 2020 18:30:37 +0000</pubDate>
+      
+      <guid>https://wildanfauzy.com/apa-yang-harus-dilakukan-setelah-menginstall-ubuntu-mate-20-04/</guid>
+      <description>Ubuntu MATE adalah distro ubuntu yang memggunakan desktop environment mate, jika bosan dengan desktop environment bawaan ubuntu yaitu gnome, ubuntu mate bisa jadi alternatif selain dari xubuntu yang tentunya masih dibilang cukup ringan diinstall di laptop.
+Menginstall ubuntu mate sebenarnya sudah terpasang aplikasi yang cukup untuk menunjang kebutuhan dasar menggunakan sebuah laptop sudah terpasang libreoffice, pemutar musik dan video, tetapi lebih lengkap rasanya jika menginstall beberapa aplikasi berikut.
+Menginstall Google Chrome Browser bawaan dari ubuntu mate adalah firefox, sebenarnya tidak ada masalah dengan firefox, jika kalian sudah terlanjur nyaman dengan sinkronisasi halaman web favorit atau bookmark pada browser chrome mobile di android kalian, menggunakan google chrome sangat berguna dan memudahkan sinkronisasi data di chrome mobie dan chrome yang terpasang di laptop.</description>
+    </item>
+    
+  </channel>
+</rss>
