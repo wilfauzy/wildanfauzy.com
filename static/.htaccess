@@ -6,6 +6,11 @@ RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]
 
 RewriteEngine On
 RewriteBase /
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+
+RewriteEngine On
+RewriteBase /
 RewriteCond %{HTTP_HOST} ^103\.157\.116\.113$
 RewriteRule ^(.*)$ https://wildanfauzy.com/$1 [L,R=301]
 
