@@ -40,10 +40,10 @@ author = "Redaksi"
 authorlocation = "Bandung, Indonesia"
 authorwebsite = "https://wildanfauzy.com"
 authorbio = "Menyajikan artikel pilihan"
-cover = "/img/mukodimah.jpg"
+cover = "/img/unsplash-image-2.jpg"
 description = "WildanFauzy.com adalah blog yang membahas info menarik disajikan secara asik dan santai, kumpulan cerita dari sudut pandang yang berbeda"
 githubName = "wilfauzy"
-googleAnalyticsUserID = "UA-168081661-1"
+googleAnalyticsUserID = ""
 hideHUGOSupport = false
 logo = "/img/about.png"
 twitterName = "WilFauzy"
@@ -57,6 +57,6 @@ Filename = "sitemap.xml"
 Priority = "-1"
 
 [params.social]
-    twitter = "wilfauzy"
-    github = "wilfauzy"
+twitter = "wilfauzy"
+github = "wilfauzy"
 
