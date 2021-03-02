@@ -107,43 +107,43 @@ table { border-collapse: collapse; border-spacing: 0; }
 /* Import the font files */
 @font-face {
   font-family: 'Open Sans';
-  src: local('Open Sans'), local('OpenSans'), url('../fonts/Open_Sans/OpenSans-Regular.ttf') format('truetype');
+  src: local('Open Sans'), local('OpenSans'), url('') format('truetype');
   font-weight: normal; font-style: normal;
 }
 
 @font-face {
   font-family: 'Open Sans';
-  src: local('Open Sans Bold'), local('OpenSans-Bold'), url('../fonts/Open_Sans/OpenSans-Bold.ttf') format('truetype');
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url('') format('truetype');
   font-weight: bold; font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather';
-  src: local('Merriweather Light'), local('Merriweather-Light'), url('../fonts/Merriweather/Merriweather-Light.ttf') format('truetype');
+  src: local('Merriweather Light'), local('Merriweather-Light'), url('') format('truetype');
   font-weight: light; font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather';
-  src: local('Merriweather Light Italic'), local('Merriweather-LightItalic'), url('../fonts/Merriweather/Merriweather-LightItalic.ttf') format('truetype');
+  src: local('Merriweather Light Italic'), local('Merriweather-LightItalic'), url('') format('truetype');
   font-weight: light; font-style: italic;
 }
 
 @font-face {
   font-family: 'Merriweather';
-  src: local('Merriweather Bold'), local('Merriweather-Bold'), url('../fonts/Merriweather/Merriweather-Bold.ttf') format('truetype');
+  src: local('Merriweather Bold'), local('Merriweather-Bold'), url('') format('truetype');
   font-weight: bold; font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather';
-  src: local('Merriweather Bold Italic'), local('Merriweather-BoldItalic'), url('../fonts/Merriweather/Merriweather-BoldItalic.ttf') format('truetype');
+  src: local('Merriweather Bold Italic'), local('Merriweather-BoldItalic'), url('') format('truetype');
   font-weight: bold; font-style: italic;
 }
 
 @font-face {
   font-family: 'Inconsolata';
-  src: local('Inconsolata Regular'), local('Inconsolata-Regular'), url('../fonts/Inconsolata/Inconsolata-Regular.ttf') format('truetype');
+  src: local('Inconsolata Regular'), local('Inconsolata-Regular'), url('') format('truetype');
   font-weight: normal; font-style: normal;
 }
 
