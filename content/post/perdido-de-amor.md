@@ -1,7 +1,6 @@
 +++
 author = "WilFauzy"
 date = 2021-03-03T13:10:00Z
-draft = true
 image = "/img/pexels-mateusz-salaciak-4275892.jpg"
 tags = ["note"]
 title = "Perdido de Amor"
