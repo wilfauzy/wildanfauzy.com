@@ -1,8 +1,7 @@
 +++
 author = "WilFauzy"
 date = 2021-03-02T17:00:00Z
-draft = true
-image = ""
+image = "/img/shutterstock_1067156342-780x440.jpg"
 tags = ["cerpen"]
 title = "Nasi Goreng di Siang Hari"
 
