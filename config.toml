@@ -37,8 +37,8 @@ weight = 109
 
 [params]
 author = "Redaksi"
-authorlocation = "Bandung "
-authorwebsite = "https://www.wildanfauzy.com"
+authorlocation = ""
+authorwebsite = ""
 authorbio = "Artikel pilihan dari dapur redaksi"
 cover = "/img/unsplash-image-2.jpg"
 description = "WildanFauzy.com adalah blog yang membahas info menarik disajikan secara asik dan santai, kumpulan cerita dari sudut pandang yang berbeda"
@@ -47,7 +47,7 @@ googleAnalyticsUserID = ""
 hideHUGOSupport = true
 logo = "/img/about.png"
 twitterName = "WilFauzy"
-hjsStyle = "agate"
+hjsStyle = "default"
 
 [permalinks]
 post = "/:slug/"
