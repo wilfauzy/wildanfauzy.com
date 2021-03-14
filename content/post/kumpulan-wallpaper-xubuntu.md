@@ -10,9 +10,21 @@ Koleksi Wallpaper Xubuntu dari berbagai versi.
 
 Xubuntu adalah sebuah distribusi Linux dan varian resmi yang berbasiskan Ubuntu yang menggunakan lingkungan desktop Xfce.
 
-> wallpaper ubuntu 
+> wallpaper ubuntu
 
- Xubuntu ditujukan untuk pengguna yang menggunakan komputer dengan kinerja rendah atau mereka yang mencari lingkungan desktop yang lebih efisien pada komputer dengan kinerja tinggi.
+![](/img/xubuntu-zesty.png)
+
+![](/img/xubuntu-yakkety.png)
+
+![](/img/xubuntu-xenial.png)
+
+![](/img/xubuntu-wallpaper.png)
+
+![](/img/xubuntu-development.png)
+
+![](/img/xubuntu-artful.png)
+
+Xubuntu ditujukan untuk pengguna yang menggunakan komputer dengan kinerja rendah atau mereka yang mencari lingkungan desktop yang lebih efisien pada komputer dengan kinerja tinggi.
 
 Wallpaper adalah Kertas dinding merupakan jenis bahan yang digunakan untuk menutupi dan menghiasi dinding rumah, gedung dan lain-lain. Kertas dinding juga merupakan sejenis kertas yang digunakan sebagai bahan bangunan pelapis dinding.
 
