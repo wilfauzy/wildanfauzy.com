@@ -1,7 +1,6 @@
 +++
 author = "pemuda malkis"
 date = 2021-03-13T22:00:00Z
-draft = true
 image = "/img/xubuntu-bionic.png"
 tags = ["xubuntu ", "linux"]
 title = "Kumpulan Wallpaper Xubuntu "
