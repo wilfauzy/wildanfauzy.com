@@ -1,6 +1,5 @@
 baseurl = "https://www.wildanfauzy.com"
 copyright = "©"
-canonifyurls = true
 disqusshortname = "wildanfauzy"
 languagecode = "id-ID"
 paginate = 8
