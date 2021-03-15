@@ -43,11 +43,13 @@ cover = "/img/pexels-bakr-magrabi-3203659_jwprol.jpg"
 description = "WildanFauzy.com adalah blog yang membahas info menarik disajikan secara asik dan santai, kumpulan cerita dari sudut pandang yang berbeda"
 githubName = "wilfauzy"
 googleAnalyticsUserID = ""
+RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw" 
 hideHUGOSupport = false
 logo = "/img/about.png"
 twitterName = "WilFauzy"
+facebookName = "wilfauzy"
+instagramName = "wilfauzy"
 hjsStyle = "default"
-
 [permalinks]
 post = "/:slug/"
 [sitemap]
