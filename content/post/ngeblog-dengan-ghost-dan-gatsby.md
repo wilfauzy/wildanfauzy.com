@@ -1,7 +1,6 @@
 +++
 author = "pemuda malkis"
 date = 2021-02-28T18:00:00Z
-draft = true
 image = "/img/gatsby-prismjs-cover-1-2.png"
 tags = ["gatsby"]
 title = "Ngeblog dengan Ghost dan Gatsby"
