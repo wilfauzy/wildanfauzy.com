@@ -1,6 +1,6 @@
 +++
 author = "pemuda malkis"
-date = 2021-02-28T18:00:00Z
+date = 2021-03-14T21:00:00Z
 image = "/img/gatsby-prismjs-cover-1-2.png"
 tags = ["gatsby"]
 title = "Ngeblog dengan Ghost dan Gatsby"
@@ -52,4 +52,4 @@ Saya sendiri untuk mendeploy website menggunakan gatsby dan Gatsby cloud, karena
 
 Yah terserah kalian jika ingin mencoba berbagai macam tema, silakan gunakan cms ghost saja, atau mau lebih yahud yah dijadiin static site menggunakan gatsby dan next js. 
 
-Atau enggak mau ribet dan anda banyak uang coba saja berlangganan paket ghost pro lumayan mahal juga sih. 
+Atau enggak mau ribet dan anda banyak uang coba saja berlangganan paket ghost pro lumayan mahal juga sih.
