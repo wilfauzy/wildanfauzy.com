@@ -1,7 +1,7 @@
 +++
 author = "WilFauzy"
 date = 2021-03-13T01:00:00Z
-image = "/img/pexels-iain-2267909_w9u32w.jpg"
+image = "/img/20210228_030302.jpg"
 tags = ["note"]
 title = "Mencret Sialan "
 
