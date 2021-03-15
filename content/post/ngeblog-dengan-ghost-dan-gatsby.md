@@ -52,3 +52,5 @@ Tapi hal yang bikin keren adanya integrasi dengan static site berbasis javascrip
 Saya sendiri untuk mendeploy website menggunakan gatsby dan Gatsby cloud, karena kalo pake vps kayaknya lemot deh wkwk. 
 
 Yah terserah kalian jika ingin mencoba berbagai macam tema, silakan gunakan cms ghost saja, atau mau lebih yahud yah dijadiin static site menggunakan gatsby dan next js. 
+
+Atau enggak mau ribet dan anda banyak uang coba saja berlangganan paket ghost pro lumayan mahal juga sih. 
