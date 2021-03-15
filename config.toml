@@ -60,3 +60,8 @@ Priority = "-1"
 twitter = "wilfauzy"
 github = "wilfauzy"
 
+aliases = [
+    "/post/",
+    "/"
+]
+
