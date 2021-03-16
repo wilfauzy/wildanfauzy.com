@@ -16,7 +16,7 @@
         "creator" : "{{ with $.Site.Params.author }}{{.}}{{end}}",
         "publisher": {
             "@type" : "Organization",
-            "name" : "{{ with $.Site.Params.author }}{{.}}{{end}}",
+            "name" : "WildanFauzy.com",
             "logo" : {
                 "@type" : "ImageObject",
                 "url" :"{{ with .Site.Params.logo }}{{- . | absURL }}{{end}}",
@@ -37,6 +37,6 @@
         "dateModified" : "{{ if .Lastmod }}{{ .Lastmod.Format "Monday, January 2, 2006" }}{{ else }}{{ .Date.Format "Monday, January 2, 2006" }}{{ end }}",
         "url" : "{{ .Permalink }}",
         "wordCount" : "{{ .WordCount }}",
-        "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"blog" ]
+        "keywords" : [ {{ if (.Params.tags) }}"keywords": {{ delimit .Params.tags ", " }},{{end}} ]
     }
 </script>
