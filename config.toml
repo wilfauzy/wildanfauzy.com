@@ -35,10 +35,10 @@ url = "https://instagram.com/wilfauzy"
 weight = 109
 
 [params]
-author = "Wildan Fauzy"
-authorlocation = ""
-authorwebsite = ""
-authorbio = "Artikel pilihan dari dapur redaksi"
+author = "authors"
+#authorlocation = ""
+#authorwebsite = ""
+#authorbio = "Artikel pilihan dari dapur redaksi"
 cover = "/img/deska_taurus_black_P.jpg"
 description = "WildanFauzy.com adalah blog yang membahas info menarik disajikan secara asik dan santai, kumpulan cerita dari sudut pandang yang berbeda"
 githubName = "wilfauzy"
