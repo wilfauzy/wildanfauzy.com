@@ -6,12 +6,12 @@
     "@type": "Article",
     "publisher": {
         "@type": "Organization",
-        "name": {{ .Site.Params.authorname }}{{ with .Site.Params.logo }},
+        "name": {{ .Site.Params.author }}{{ with .Site.Params.logo }},
         "logo": {{ printf "%s%s" $.Site.BaseURL . }}{{end}}
     },
     "author": {
         "@type": "Person",
-        "name": {{ .Site.Params.authorname }},
+        "name": {{ .Site.Params.author }},
         {{ with .Site.Params.logo }}
         "image": {
             "@type": "ImageObject",
@@ -64,7 +64,7 @@
     "@type": "Website",
     "publisher": {
         "@type": "Person",
-        "name": {{ .Site.Params.authorname }},
+        "name": {{ .Site.Params.author }},
         {{ with .Site.Params.logo }}
         "image": {
             "@type": "ImageObject",
