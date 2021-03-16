@@ -6,7 +6,7 @@
     "@type": "Article",
     "publisher": {
         "@type": "Organization",
-        "name": "{{ .Site.Params.author }}",
+        "name": "{{ .Site.Params.author }}{{ with .Site.Params.logo }}",
         "logo": {{ printf "%s%s" $.Site.BaseURL . }}{{end}}
     },
     "author": {
