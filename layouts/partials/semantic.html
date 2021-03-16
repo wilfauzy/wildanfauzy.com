@@ -30,8 +30,8 @@
                 "height": 120
             }
         },
-        "accountablePerson" : "{{ with $.Site.Params.authorname }}{{.}}{{end}}",
-        "copyrightHolder" : "{{ with $.Site.Params.authorname }}{{.}}{{end}}",
+        "accountablePerson" : "{{ with $.Site.Params.authors }}{{.}}{{end}}",
+        "copyrightHolder" : "{{ with $.Site.Params.authors }}{{.}}{{end}}",
         "copyrightYear" : "{{ .Date.Format "2006" }}",
         "datePublished": "{{ .Date.Format "Monday, January 2, 2006" }}",
         "dateModified" : "{{ if .Lastmod }}{{ .Lastmod.Format "Monday, January 2, 2006" }}{{ else }}{{ .Date.Format "Monday, January 2, 2006" }}{{ end }}",
