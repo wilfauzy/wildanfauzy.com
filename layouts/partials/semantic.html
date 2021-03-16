@@ -15,7 +15,7 @@
         "{{ with .Site.Params.logo }}" 
         "image": {
             "@type": "ImageObject",
-            "url": {{ printf "%s%s" $.Site.BaseURL . }},
+            "url": "{{ printf "%s%s" $.Site.BaseURL . }}",
             "width": 250,
             "height": 250
         }, 
@@ -44,7 +44,7 @@
     {{ with .Params.image }}
     "image": {
         "@type": "ImageObject",
-        "url": {{ printf "%s%s" $.Site.BaseURL . }},
+        "url": "{{ printf "%s%s" $.Site.BaseURL . }}",
         "width": 3000,
         "height": 1445
     },
@@ -68,7 +68,7 @@
         "{{ with .Site.Params.logo }}"
         "image": {
             "@type": "ImageObject",
-            "url": {{ printf "%s%s" $.Site.BaseURL . }},
+            "url":  "{{ printf "%s%s" $.Site.BaseURL . }}",
             "width": 250,
             "height": 250
         },
