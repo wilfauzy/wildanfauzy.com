@@ -1,74 +1,95 @@
-    <!--  JS Disabled    -->
+
     {{ if .IsPage }}
-    {{ if eq .Type "post" }}
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": {{ .Site.Params.authorname }}{{ with .Site.Params.logo }},
+        "logo": {{ printf "%s%s" $.Site.BaseURL . }}{{end}}
+    },
+    "author": {
+        "@type": "Person",
+        "name": {{ .Site.Params.authorname }},
+        {{ with .Site.Params.logo }}
+        "image": {
+            "@type": "ImageObject",
+            "url": {{ printf "%s%s" $.Site.BaseURL . }},
+            "width": 250,
+            "height": 250
+        }, 
+        {{end}}
+        "url": {{ .Site.Params.authorwebsite }},
+        "sameAs": [
+            {{ $socialLinks := (slice .Site.Params.googlePlus .Site.Params.github .Site.Params.facebook .Site.Params.linkedin .Site.Params.twitter) }}
+            {{ $len := (sub (len $socialLinks) 1)}}
+            {{ range $index, $el := $socialLinks }} {{ if $el }}{{ $el }}{{ if (lt $index $len) }},{{end}}{{end}}
+            {{ end }}
+        ]{{ with .Site.Params.authorbio }},
+        "description": {{ . }}
+        {{end}}
+    },
+    "headline": {{ .Title }},
+    "name": {{ .Title }},
+    "wordCount": {{ .WordCount }},
+    "timeRequired": "PT{{ .ReadingTime }}M",
+    "inLanguage": {
+      "@type": "Language",
+      "alternateName": {{ .Site.Language.Lang }}
+    },
+    "url": {{ .Permalink }},
+    "datePublished": {{ .Date.Format "2006-01-02T15:04Z" }},
+    "dateModified": {{ .Lastmod.Format "2006-01-02T15:04Z" }},
+    {{ with .Params.image }}
+    "image": {
+        "@type": "ImageObject",
+        "url": {{ printf "%s%s" $.Site.BaseURL . }},
+        "width": 3000,
+        "height": 1445
+    },
+    {{end}}
+    {{ if (.Params.tags) }}"keywords": {{ delimit .Params.tags ", " }},{{end}}
+    "description": {{ .Description }},
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": {{ .Permalink }}
+    }
+}
+    </script>
+    {{ else }}
     <script type="application/ld+json">
     {
-        "@context" : "http://schema.org",
-        "@type" : "BlogPosting",
-        "articleSection" : "{{ .Section }}",
-        "name" : "{{ .Title - WildanFauzy.com }}",
-        "headline" : "{{ .Title - WildanFauzy.com }}",
-        "description" : "{{ if .Description }}{{ .Description - WildanFauzy.com }}{{ else }}{{if .IsPage}}{{ .Summary  }}{{ end }}{{ end }}",
-        "inLanguage" : "id-ID",
-        "author" : "{{ .Params.author }}",
-        "creator" : "{{ .Params.author }}",
-        "accountablePerson" : "{{ .Params.author }}",
-        "copyrightHolder" : "{{ .Params.author }}",
-        "copyrightYear" : "{{ .Date.Format "2006" }}",
-        "datePublished" : "",
-        "publisher": "WildanFauzy.com",
-        "logo": "{{ if isset .Site.Params "favicon" }}{{ .Site.Params.favicon | absURL }}{{ end }}",
-        "url" : "{{ .Permalink }}",
-        "wordCount" : "{{ .WordCount }}",
-        "image" : {{ if .Params.image }}"{{ .Params.image | absURL }}"{{ end }},
-        "keywords" : [ "{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}" ]
-    }
-    </script>
-    {{ end }}
+    "@context": "https://schema.org",
+    "@type": "Website",
+    "publisher": {
+        "@type": "Person",
+        "name": {{ .Site.Params.authorname }},
+        {{ with .Site.Params.logo }}
+        "image": {
+            "@type": "ImageObject",
+            "url": {{ printf "%s%s" $.Site.BaseURL . }},
+            "width": 250,
+            "height": 250
+        },
+        {{end}}
+        "url": {{ .Site.Params.authorwebsite }},
+        "sameAs": [
+            {{ $socialLinks := (slice .Site.Params.googlePlus .Site.Params.github .Site.Params.facebook .Site.Params.linkedin .Site.Params.twitter) }}
+            {{ $len := (sub (len $socialLinks) 1)}}
+            {{ range $index, $el := $socialLinks }} {{ if $el }}{{ $el }}{{ if (lt $index $len) }},{{end}}{{end}}
+            {{ end }}
+        ]{{ with .Site.Params.authorbio }},
+        "description": {{ . }}
+        {{end}}
+    },
+    "url": {{ .Site.BaseURL }},
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": {{ .Site.BaseURL }}
+    },
+    "description": {{ .Site.Params.description }}
+}
+  </script>
     {{ end }}
 
-<!-- Structured Data Page Schema - HIDDEN -->
-<div itemscope itemtype="http://schema.org/BlogPosting" style="display:none;">
-     <meta itemprop="mainEntityOfPage" content="{{ .Permalink }}" />
-     <meta itemprop="inLanguage" content="en-US" />
-     <h1 itemprop="headline">{{ .Title }}</h1>
-     <meta itemprop="name" content="{{ .Title }}" />
-     <meta itemprop="description" content="{{if .Params.summary }}{{ .Params.summary  }}{{ else }}{{ if .Description }}{{ .Description }}{{ end }}{{ end }}" />
-     <meta itemprop="wordCount" content="{{ .WordCount }}" />
-     <meta itemprop="keywords" content="{{ range $i,$e := .Params.tags }}{{ if $i }},{{ end }}{{ $e }}{{ end }}" />
-     
-     <meta itemprop="copyrightYear" content="{{ .Date.Format "2006" }}" />
-    <div itemprop="copyrightHolder" itemscope itemtype="http://schema.org/Person">
-        <meta itemprop="name" content="{{ .Params.author }}">
-    </div>
-    
-    {{ if .Params.image }}
-     <div itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
-         <img  itemprop="url" src="{{.Params.image | absURL}}" alt="thumbnail">
-         <meta itemprop="width" content="220" >
-         <meta itemprop="height" content="220" >
-    </div>
-    {{ else }}
-    <!-- Default to site Logo -->
-    <div itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
-         <img  itemprop="url" src="{{ .Site.Params.defaultPostImage | absURL }}" alt="thumbnail">
-         <meta itemprop="width" content="200" >
-         <meta itemprop="height" content="200" >
-    </div>
-    {{ end }}
-    <meta itemprop="datePublished" content="{{ .Date.Format "2006-01-02" }}">
-    <meta itemprop="dateModified" content="{{ .Date.Format "2006-01-02" }}">
-    <a itemprop="mainEntityOfPage" href="/ArticleLink"></a>
-    <div itemprop="author" itemscope itemtype="http://schema.org/Person">
-        <meta itemprop="name" content="{{ .Params.author }}">
-    </div>
-    <div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="{{ .Site.Params.organization }}">
-      <a itemprop="url" href="/"> 
-      <span itemprop="logo" itemscope itemtype="http://schema.org/ImageObject"  >
-      <img itemprop="image" src="{{ .Site.Params.favicon | absURL }}" />
-      <link itemprop="url" href="{{ .Site.Params.favicon | absURL }}" />
-      </span>
-      </a>
-    </div>
-</div>
