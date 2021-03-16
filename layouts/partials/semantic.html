@@ -7,7 +7,7 @@
     "publisher": {
         "@type": "Organization",
         "name": "{{ .Site.Params.author }}{{ with .Site.Params.logo }}",
-        "logo": {{ printf "%s%s" $.Site.BaseURL . }}{{end}}
+        "logo": "{{ printf "%s%s" $.Site.BaseURL . }}{{end}}"
     },
     "author": {
         "@type": "Person",
