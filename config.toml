@@ -47,8 +47,8 @@ RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw"
 hideHUGOSupport = false
 logo = "/img/about.png"
 twitterName = "WilFauzy"
-facebookName = "wilfauzy"
-instagramName = "wilfauzy"
+#facebookName = ""
+#instagramName = ""
 hjsStyle = "default"
 [permalinks]
 post = "/:slug/"
