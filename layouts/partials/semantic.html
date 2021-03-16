@@ -12,8 +12,8 @@
         "description" : "{{ if .Description }}{{ .Description }}{{ else if .IsPage}}{{ .Summary }}{{ end }}",
         "image" :"{{ with .Params.cover | default .Site.Params.cover }}{{ . }}{{end}}",
         "inLanguage" : "{{ with .Site.LanguageCode }}{{.}}{{end}}",
-        "author" : "{{ with $.Site.Params.authorname }}{{.}}{{end}}",
-        "creator" : "{{ with $.Site.Params.authorname }}{{.}}{{end}}",
+        "author" : "{{ with $.Site.Params.author }}{{.}}{{end}}",
+        "creator" : "{{ with $.Site.Params.author }}{{.}}{{end}}",
         "publisher": {
             "@type" : "Organization",
             "name" : "WildanFauzy.com",
@@ -30,8 +30,8 @@
                 "height": 120
             }
         },
-        "accountablePerson" : "{{ with $.Site.Params.authors }}{{.}}{{end}}",
-        "copyrightHolder" : "{{ with $.Site.Params.authors }}{{.}}{{end}}",
+        "accountablePerson" : "{{ with $.Site.Params.author }}{{.}}{{end}}",
+        "copyrightHolder" : "{{ with $.Site.Params.author }}{{.}}{{end}}",
         "copyrightYear" : "{{ .Date.Format "2006" }}",
         "datePublished": "{{ .Date.Format "Monday, January 2, 2006" }}",
         "dateModified" : "{{ if .Lastmod }}{{ .Lastmod.Format "Monday, January 2, 2006" }}{{ else }}{{ .Date.Format "Monday, January 2, 2006" }}{{ end }}",
