@@ -4,7 +4,7 @@ disqusshortname = "wildanfauzy"
 languagecode = "id-ID"
 paginate = 8
 pluralizelisttitles = false
-title = "WildanFauzy.com"
+title = "Wildan Fauzy"
 [[menu.main]]
 identifier = "home"
 name = "Home"
