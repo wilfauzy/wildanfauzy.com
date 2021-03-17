@@ -3,20 +3,7 @@ author: Redaksi
 categories:
 - Share
 date: 2019-05-08T00:27:00Z
-guid: https://wildanfauzy.com/?p=6114
-id: 6114
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_shorturl:
-- https://bit.ly/31huALm
-mashsb_timestamp:
-- "1596599375"
-snax_approval_data:
-- 2020-07-31 07:40:30 +07:00
-snax_approved_by:
-- "1"
+image: /img/2c7ab-screenshot_20190507-202343.png
 title: Pingin Siaran, Pengen-pengen.
 url: /pengen-siaran/
 ---
