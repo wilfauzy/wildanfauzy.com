@@ -6,6 +6,7 @@ tags = ["gatsby"]
 title = "Ngeblog dengan Ghost dan Gatsby"
 aliases = [
     "/gatsby-dan-ghost/",
+    "/bagaimana-cara-membuat-twitter-for-dengan-label-sendiri/", 
     "/ngeblog-dengan-ghost-dan-gatsby/"
 ]
 
