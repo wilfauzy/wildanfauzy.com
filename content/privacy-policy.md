@@ -1,7 +1,6 @@
 +++
 author = "Redaksi"
-date = 2021-03-16T17:00:00Z
-draft = true
+date = 2020-08-21T07:33:00Z
 image = "/img/a3c98-pexels-photo-88808-1.jpeg"
 tags = []
 title = "Privacy Policy"
