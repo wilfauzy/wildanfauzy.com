@@ -10,7 +10,7 @@
         "name" : "{{ .Title }}",
         "headline" : "{{ .Title }}",
         "description" : "{{ if .Description }}{{ .Description }}{{ else if .IsPage}}{{ .Summary }}{{ end }}",
-        "image" :"{{ with .Params.cover | default .Site.Params.cover }}{{ . }}{{end}}",
+        "image" :"{{ with .Site.Params.cover | default .Site.Params.cover }}{{ . }}{{end}}",
         "inLanguage" : "{{ with .Site.LanguageCode }}{{.}}{{end}}",
         "author" : "{{ with $.Site.Params.author }}{{.}}{{end}}",
         "creator" : "{{ with $.Site.Params.author }}{{.}}{{end}}",
