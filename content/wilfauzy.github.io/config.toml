@@ -1,0 +1,63 @@
+baseurl = "https://www.wildanfauzy.com"
+copyright = "Some rights reserved"
+disqusshortname = "wildanfauzy"
+languagecode = "id-ID"
+paginate = 8
+pluralizelisttitles = false
+title = "Wildan Fauzy Stories"
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = -120
+[[menu.main]]
+name = "Search"
+pre = "<h3>Follow me</h3>"
+url = "https://search.wildanfauzy.com"
+weight = 100
+[[menu.main]]
+identifier = "Login"
+name = "Login"
+url = "https://app.wildanfauzy.com"
+weight = -120
+[[menu.main]]
+name = "Kompas"
+url = "https://kompasiana.com/wildanfauzy"
+weight = 101
+[[menu.main]]
+name = "Medium"
+url = "https://medium.com/@wilfauzy"
+weight = 102
+[[menu.main]]
+name = "Instagram"
+pre = "<h3>Contact me</h3>"
+url = "https://instagram.com/wilfauzy"
+weight = 109
+
+[params]
+author = "Wildan Fauzy"
+#authorlocation = "Bandung, Indonesia"
+#authorwebsite = "https://wildanfauzy.com"
+authorbio = "Artikel pilihan dari dapur redaksi"
+cover = "/img/deska_taurus_black_P.jpg"
+description = "WildanFauzy.com adalah blog yang membahas info menarik disajikan secara asik dan santai, kumpulan cerita dari sudut pandang yang berbeda"
+githubName = "wilfauzy"
+googleAnalyticsUserID = "UA-168081661-1"
+RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw" 
+hideHUGOSupport = false
+logo = "/img/about.png"
+twitterName = "WilFauzy"
+#facebookName = ""
+#instagramName = ""
+hjsStyle = "agate"
+[permalinks]
+post = "/:slug/"
+[sitemap]
+ChangeFreq = ""
+Filename = "sitemap.xml"
+Priority = "-1"
+
+[params.social]
+twitter = "wilfauzy"
+github = "wilfauzy"
+
