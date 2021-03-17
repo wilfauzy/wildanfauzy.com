@@ -4,6 +4,10 @@ date = 2021-03-14T21:00:00Z
 image = "/img/gatsby-prismjs-cover-1-2.png"
 tags = ["gatsby"]
 title = "Ngeblog dengan Ghost dan Gatsby"
+aliases = [
+    "/gatsby-dan-ghost/",
+    "/ngeblog-dengan-ghost-dan-gatsby/"
+]
 
 +++
 Semalam tidak bisa tidur dengan tenang karena terlanjur kesal menunggu seseorang untuk bermain lama banget.
