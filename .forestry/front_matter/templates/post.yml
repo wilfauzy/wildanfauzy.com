@@ -18,6 +18,7 @@ fields:
   name: title
   label: title
 pages:
+- content/post/hosting-blog-di-cloudflare.md
 - content/post/kumpulan-wallpaper-xubuntu.md
 - content/post/mencret-sialan.md
 - content/post/nasi-goreng-di-siang-hari.md
