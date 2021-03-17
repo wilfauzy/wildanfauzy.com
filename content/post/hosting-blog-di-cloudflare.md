@@ -1,9 +1,8 @@
 +++
 author = "pemuda malkis "
 date = 2021-03-17T19:00:00Z
-draft = true
 image = "/img/cloudflare-pages.png"
-tags = ["cloudflare"]
+tags = ["jamstack", "cloudflare"]
 title = "Hosting Blog di Cloudflare"
 
 +++
@@ -43,14 +42,16 @@ Setelah berhasil menghubungkan dengan repositori projek kita, selanjutnya settin
 
 ![](/img/build-command.jpg)
 
-Setelah benar semua setting build command dan environment variabel, langsung saja klik save and deploy, tinggal tunggu proses mendeploy blog jamstack kita di cloudflare global network. 
+Setelah benar semua setting build command dan environment variabel, langsung saja klik save and deploy, tinggal tunggu proses mendeploy blog jamstack kita di cloudflare global network.
 
 ![](/img/deploy-hugo-cloudflare.jpg)
 
-Selamat blog kalian berhasil dihosting di cloudflare pages, kalian akan mendapatkan subdomain pages.dev sebagai preview blog, tahap terakhir tinggal setting custom domain dengan nama domain kalian. 
+Selamat blog kalian berhasil dihosting di cloudflare pages, kalian akan mendapatkan subdomain pages.dev sebagai preview blog, tahap terakhir tinggal setting custom domain dengan nama domain kalian.
 
 ![](/img/custom-domain-cloudflare.jpg)
 
-Lalu pilih aktifkan domain, tunggu beberapa saat blog terhubung dengan domain kalian, dan menunggu beberapa menit untuk proses enable ssl, sudah deh jadi blog di hosting di cloudflare, lebih murah dan website menjadi cepat menggunakan jaringan cdn cloudflare yang sudah tersebar hampir di seluruh dunia. 
+Lalu pilih aktifkan domain, tunggu beberapa saat blog terhubung dengan domain kalian, dan menunggu beberapa menit untuk proses enable ssl, sudah deh jadi blog di hosting di cloudflare, lebih murah dan website menjadi cepat menggunakan jaringan cdn cloudflare yang sudah tersebar hampir di seluruh dunia.
+
+Info lebih lanjut untuk memahi cloudflare pages bisa kunjungi dokumentasi di halaman [https://pages.cloudflare.com](https://pages.cloudflare.com "cloudflare hosting ")
 
 Sekian dan terima kasih 😁
