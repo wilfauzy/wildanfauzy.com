@@ -1,16 +1,18 @@
 +++
-author = "Redaksi"
 date = 2020-08-21T07:33:00Z
-image = "/img/a3c98-pexels-photo-88808-1.jpeg"
-tags = []
+noauthor = true
+share = false
 title = "Privacy Policy"
+type = "page"
+[menu.main]
+weight = 123
 
 +++
 _Diperbarui pada 21 agustus 2020 pukul 14:33_
 
 ## Siapa kita
 
-Alamat situs web kami adalah: [https://www.wildanfauzy.com.](https://wildanfauzy.com. "https://wildanfauzy.com.")
+Alamat situs web kami adalah: [https://www.wildanfauzy.com.](https://www.wildanfauzy.com. "https://www.wildanfauzy.com.")
 
 ## Data pribadi apa yang kami kumpulkan dan mengapa kami mengumpulkannya
 
