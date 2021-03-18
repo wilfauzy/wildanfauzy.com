@@ -79,11 +79,10 @@
 
     <link rel="canonical" href="{{ .Permalink }}" />
 
-    {{ if .Params.customSemanticPartial }}
-      {{ partial .Params.customSemanticPartial . }}
-    {{ else }}
-      {{ partial "semantic.html" . }}
-    {{end}}
+    
+    {{- if eq .Section "posts"}}
+        {{- partial "semantic.html" . -}}
+    {{- end }}
 
     {{ if .Site.Params.customHeaderPartial }}
         {{ partial .Site.Params.customHeaderPartial . }}
