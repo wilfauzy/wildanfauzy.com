@@ -12,8 +12,8 @@
         "description" : "{{ if .Description }}{{ .Description }}{{ else if .IsPage}}{{ .Summary }}{{ end }}",
         "image" :"{{ with .Params.image | default .Params.image }}{{ . }}{{end}}",
         "inLanguage" : "{{ with .Site.LanguageCode }}{{.}}{{end}}",
-        "author" : "{{ with $.Site.Params.author }}{{.}}{{end}}",
-        "creator" : "{{ with $.Site.Params.author }}{{.}}{{end}}",
+        "author" : "{{ with $.Site.Params.authorname }}{{.}}{{end}}",
+        "creator" : "{{ with $.Site.Params.authorname }}{{.}}{{end}}",
         "publisher": {
             "@type" : "Organization",
             "name" : "WildanFauzy.com",
