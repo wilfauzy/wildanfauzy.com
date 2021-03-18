@@ -1,16 +1,28 @@
-<!-- JSON-LD -->
-    {{ if .IsHome }}
-    <script type="application/ld+json">
-    { 
-      "@context": "http://schema.org", 
-      "@type": "WebSite", 
-      "url": "{{ .Permalink }}", 
-      "name": "{{ .Site.Title }}",
-       "author": {
-          "@type": "Person",
-          "name": "{{ .Site.Params.author }}"
-        },
-      "description": "{{ .Site.Params.description }}",
-    }
-    </script>
-    {{ end }}
+{{ if .IsHome -}}
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "{{ .Site.BaseURL }}",
+  {{ if .Site.Author.name -}}
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Site.Author.name }}"
+  },
+  {{- end }}
+  {{ if .Site.Params.description -}}
+  "description": "{{ .Site.Params.description }}",
+  {{- end }}
+  {{ with .Site.Params.image -}}
+  "image": "{{ .url | absURL }}",
+  {{- end }}
+  {{ with .Site.Params.logo -}}
+  "thumbnailUrl": "{{ .url | absURL }}",
+  {{- end }}
+  {{ with .Site.Copyright -}}
+  "license": "{{ . }}",
+  {{- end }}
+  "name": "{{ .Site.Title }}"
+}
+</script>
+{{- end }}
