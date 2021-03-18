@@ -1,28 +1,13 @@
 {{ if .IsHome -}}
 <script type="application/ld+json">
 {
-  "@context": "http://schema.org",
-  "@type": "WebSite",
-  "url": "{{ .Site.BaseURL }}",
-  {{ if .Site.Author.name -}}
-  "author": {
-    "@type": "Person",
-    "name": "{{ .Site.Author.name }}"
-  },
-  {{- end }}
-  {{ if .Site.Params.description -}}
-  "description": "{{ .Site.Params.description }}",
-  {{- end }}
-  {{ with .Site.Params.image -}}
-  "image": "{{ .url | absURL }}",
-  {{- end }}
-  {{ with .Site.Params.logo -}}
-  "thumbnailUrl": "{{ .url | absURL }}",
-  {{- end }}
-  {{ with .Site.Copyright -}}
-  "license": "{{ . }}",
-  {{- end }}
-  "name": "{{ .Site.Title }}"
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Site.BaseURL }}",
+    "description": "{{ .Site.Params.description }}",
+    "thumbnailUrl": "{{ .Site.Params.Logo | absURL }}",
+    "license": "{{ .Site.Params.Copyright }}"
 }
 </script>
-{{- end }}
+{{ end }}
