@@ -1,3 +1,19 @@
+{{ if .IsHome }}
+    <script type="application/ld+json">
+    { 
+      "@context": "http://schema.org", 
+      "@type": "WebSite", 
+      "url": "{{ .Permalink }}", 
+      "name": "{{ .Site.Title }}",
+       "author": {
+          "@type": "Person",
+          "name": "{{ .Site.Params.author }}"
+        },
+      "description": "{{ .Site.Params.description }}",
+    }
+    </script>
+    {{ end }}
+    {{ if .IsPage }}
 <script type="application/ld+json">
     {
         "@context" : "http://schema.org",
@@ -40,3 +56,4 @@
         "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"blog" ]
     }
 </script>
+{{ end }}
