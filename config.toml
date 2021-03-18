@@ -50,8 +50,6 @@ twitterName = "WilFauzy"
 #facebookName = ""
 #instagramName = ""
 hjsStyle = "agate"
-Victor_Hugo = "true"
-Focus_Keyword= "Kumpulan cerita pendek atau cerpen dan tutorial jamstack website"
 [permalinks]
 post = "/:slug/"
 [sitemap]
