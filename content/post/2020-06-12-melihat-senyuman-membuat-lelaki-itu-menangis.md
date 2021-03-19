@@ -2,7 +2,7 @@
 author: Redaksi
 categories:
 - Cerita Pendek
-date: 2020-06-12T19:27:28Zi
+date: 2020-06-12T19:27:28Z
 image: /img/21d5a-pexels-photo-207129.jpeg
 tags:
 - cerpen
