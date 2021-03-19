@@ -1,0 +1,30 @@
+name: hugo-remote
+
+on:
+  push:
+    branches:
+      - master
+
+env:
+  REMOTE: username/username.github.io.git
+  DEST: public
+  TOKEN: ${{ secrets.TOKEN }}
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🛎 Check out master
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 1
+          # if your chosen Hugo theme is a submodule
+          submodules: false
+      - name: 🚀 Build and deploy
+        uses: victoriadrake/hugo-remote@master
+        with:
+          branch: main
+          commit_message: build prepared o7
+          HUGO_VERSION: 0.25
