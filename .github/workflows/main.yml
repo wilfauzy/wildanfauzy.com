@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  REMOTE: username/wilfauzy.github.io.git
+  REMOTE: wilfauzy/wilfauzy.github.io.git
   DEST: public
   TOKEN: ${{ secrets.TOKEN }}
 
