@@ -2,19 +2,8 @@
 author: Redaksi
 categories:
 - Cerita Pendek
-date: 2020-06-15T01:30:11Z
-guid: https://wildanfauzy.com/kenyataan-yang-menjadi-mimpi-di-siang-bolong/
-id: 3995
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596767689"
-nb_of_words:
-- "390"
-slim_seo:
-- a:0:{}
+date: 2020-06-15T01:30:11Zi
+image: /img/3aa26-pexels-photo-1560424.jpeg
 tags:
 - cerpen
 title: Kenyataan Yang Menjadi Mimpi Di Siang Bolong
