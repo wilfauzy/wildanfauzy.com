@@ -1,19 +1,11 @@
 ---
 author: Redaksi
-categories:
-- Share
+tags: note
 date: 2019-07-20T18:07:59Z
-guid: https://wildanfauzy.com/?p=1267
-id: 1267
-nb_of_words:
-- "485"
-neve_meta_enable_content_width:
-- "off"
+image: /img/9a1fd-facebook-instagram-logos-266246.jpg
 title: Diantara Twitter dan Instagram, mana yang bacotnya keren?
 url: /diantara-twitter-dan-instagram-mana-yang-bacotnya-keren/
 ---
-
-<figure class="wp-block-image size-large"><img src="https://wildanfauzyart.files.wordpress.com/2020/04/9a1fd-facebook-instagram-logos-266246.jpg?w=768" alt="facebook instagram twitter logos " data-recalc-dims="1" /></figure> 
 
 Ketika di dunia nyata segala persoalan yang sangat pelik tidak kunjung selesai, dan jika selesai pasti akan ada masalah yang baru akan datang, dengan begitu dunia maya adalah jalan seinggah untuk sekedar meluapkan segala unek-unek atau keluh kesah yang tersimpan di kepala, entah itu kata-kata umpatan atau kalimat yang jika diucapkan secara langsung tidak enak.
 
