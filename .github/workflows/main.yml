@@ -26,5 +26,5 @@ jobs:
         uses: victoriadrake/hugo-remote@master
         with:
           branch: main
-          commit_message: build prepared o7
-          HUGO_VERSION: 0.25
+          commit_message: memek becek
+          
