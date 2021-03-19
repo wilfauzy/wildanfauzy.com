@@ -2,24 +2,24 @@
 author: Linux Mania
 categories:
 - Linux
-date: 2020-10-20T15:03:19Z
+date: 2020-10-20T15:03:19.000+00:00
 guid: https://wildanfauzy.com/?p=8437
-image: /wp-content/uploads/2020/10/wordpress-on-openlitespeed.jpg
+image: "/wp-content/uploads/2020/10/wordpress-on-openlitespeed.jpg"
 header-mask: "0.4"
-id: 8437
+id: "8437"
 tags:
 - openlitespeed
 - ubuntu
 - vps
 title: Install OpenLiteSpeed dan WordPress Secara Instan Di Linux
-url: /install-openlitespeed-dan-wordpress-secara-instan-di-linux/
----
+url: "/install-openlitespeed-dan-wordpress-secara-instan-di-linux/"
 
+---
 Setelah kemarin nyoba vps, masalah bermunculan pada awalnya memasang panel webuzo terus ganti cyberpanel, pada akhirnya pake polosan aja, enggak pasang panel, cukup web server dari openlitespeed sama pasang cms wordpress, pas ngubek website ols ada cara paling gampang dengan cara One Click Install OLS, PHP, MySQL, WP and LSCache.
 
 Akhirnya pasang ulang os linux, terus nyoba cara paling gambag tadi, vps kembali seperti bayi semua data panel dan semuanya dihapus, fresh install selanjutnya tinggal masuk ke ssh vps terus masukin kode dibawah ini atau bisa download ols1clk langsung di <a href="https://raw.githubusercontent.com/litespeedtech/ols1clk/master/ols1clk.sh" target="_blank" rel="noreferrer noopener">github</a>
 
-    wget --no-check-certificate https://raw.githubusercontent.com/litespeedtech/ols1clk/master/ols1clk.sh && bash ols1clk.sh -w
+    wget --no-check-certificate https://raw.githubusercontent.com/litespeedtech/ols1clk/master/ols1clk.sh
 
 Menurut website openlitespeed bisa dipasang di operation system ubuntu, debian, centos, untuk os ubutu support versi 14, 16, 18 dan os debian versi 7, 8,9 sedangkan os centos veris 6 dan 7, semuanya dengan os 64bit.
 
