@@ -23,8 +23,6 @@ jobs:
           # if your chosen Hugo theme is a submodule
           submodules: false
       - name: 🚀 Build and deploy
+        env:
+          HUGO_ARGS: '--minify --cleanDestinationDir'
         uses: victoriadrake/hugo-remote@master
-        with:
-          branch: main
-          commit_message: memek becek
-          
