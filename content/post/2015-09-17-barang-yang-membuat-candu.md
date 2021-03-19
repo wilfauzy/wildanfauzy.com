@@ -1,20 +1,9 @@
 ---
 author: Redaksi
-categories:
-- Buku
-date: 2015-09-17T20:35:00Z
-gnpub_modified_count:
-- "2"
-guid: https://wildanfauzy.com/index.php/2015/09/17/barang-yang-membuat-candu/
-id: 2170
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596540032"
-nb_of_words:
-- "245"
+tags:
+- buku
+date: 2015-09-17T20:35:00Zi
+image: /img/c8e66-2d150-6tag_170915-173308255b1255d.jpg
 title: Barang Yang Membuat Candu?
 url: /barang-yang-membuat-candu/
 ---
