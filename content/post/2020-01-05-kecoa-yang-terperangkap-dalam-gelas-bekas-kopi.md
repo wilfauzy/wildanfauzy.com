@@ -3,30 +3,7 @@ author: Redaksi
 categories:
 - Cerita Pendek
 date: 2020-01-05T09:53:12Z
-gnpub_modified_count:
-- "2"
-guid: https://wildanfauzy.com/?p=1884
-id: 1884
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596588125"
-nb_of_words:
-- "198"
-publicize_tumblr_url:
-- http://.tumblr.com/post/616944325703729152
-rank_math_internal_links_processed:
-- "1"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-ssb_old_counts:
-- a:5:{s:7:"twitter";s:1:"0";s:9:"pinterest";s:1:"0";s:7:"fbshare";s:1:"0";s:6:"reddit";s:1:"0";s:6:"tumblr";s:1:"0";}
-ssb_pinterest_counts:
-- "1"
-ssb_total_counts:
-- "1"
+image: /img/2b492-pexels-photo-1266808.jpeg
 tags:
 - cerpen
 - kopi
