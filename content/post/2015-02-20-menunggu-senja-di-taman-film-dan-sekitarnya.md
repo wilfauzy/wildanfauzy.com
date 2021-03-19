@@ -3,16 +3,7 @@ author: Redaksi
 categories:
 - Travel
 date: 2015-02-20T20:20:00Z
-guid: https://wildanfauzy.com/index.php/2015/02/20/menunggu-senja-di-taman-film-dan-sekitarnya/
-id: 49
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596545051"
-nb_of_words:
-- "386.66666666667"
+image: /img/e430f-778e9-ptdc0072.jpg
 title: Menunggu Senja Di Taman Film Dan Sekitarnya
 url: /menunggu-senja-di-taman-film-dan-sekitarnya/
 ---
