@@ -3,32 +3,7 @@ author: Redaksi
 categories:
 - Cerita Pendek
 date: 2020-01-04T08:12:53Z
-guid: https://wildanfauzy.com/matahari-muncul-dengan-malu-malu/
-id: 1857
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_shorturl:
-- https://bit.ly/2DbsWTy
-mashsb_timestamp:
-- "1596588499"
-nb_of_words:
-- "334"
-post_views_count:
-- "2"
-publicize_tumblr_url:
-- http://.tumblr.com/post/616944332088410112
-rank_math_internal_links_processed:
-- "1"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-ssb_old_counts:
-- a:5:{s:7:"twitter";s:1:"0";s:9:"pinterest";s:1:"0";s:7:"fbshare";s:1:"0";s:6:"reddit";s:1:"0";s:6:"tumblr";s:1:"0";}
-ssb_pinterest_counts:
-- "1"
-ssb_total_counts:
-- "1"
+image: /img/5528d-blurred-background-close-up-clouds-1752806.jpg
 tags:
 - cerpen
 title: Matahari muncul dengan malu-malu
