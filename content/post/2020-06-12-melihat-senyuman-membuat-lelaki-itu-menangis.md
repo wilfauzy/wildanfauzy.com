@@ -2,25 +2,8 @@
 author: Redaksi
 categories:
 - Cerita Pendek
-date: 2020-06-12T19:27:28Z
-essb_c_pinterest:
-- "1"
-essb_c_total:
-- "1"
-essb_cache_expire:
-- "1595616870"
-essb_cached_image:
-- https://wildanfauzyart.files.wordpress.com/2020/06/man-in-white-shirt-using-macbook-pro-52608.jpg?resize=640%2C300&#038;ssl=1
-guid: https://wildanfauzy.com/melihat-senyuman-membuat-lelaki-itu-menangis/
-id: 3609
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596767692"
-nb_of_words:
-- "245"
+date: 2020-06-12T19:27:28Zi
+image: /img/21d5a-pexels-photo-207129.jpeg
 tags:
 - cerpen
 title: Melihat Senyuman Membuat Lelaki Itu Menangis
