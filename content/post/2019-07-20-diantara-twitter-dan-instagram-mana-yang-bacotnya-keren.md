@@ -1,6 +1,7 @@
 ---
 author: Redaksi
-tags: note
+tags: 
+- note
 date: 2019-07-20T18:07:59Z
 image: /img/9a1fd-facebook-instagram-logos-266246.jpg
 title: Diantara Twitter dan Instagram, mana yang bacotnya keren?
