@@ -78,7 +78,7 @@
     {{.Hugo.Generator}}
 
     <link rel="canonical" href="{{ .Permalink }}" />
-    {{ if eq .Section "posts"}}
+    {{ if eq .Section "post"}}
         {{ partial "semantic.html" . }}
     {{ end }}
     {{ if .Site.Params.customHeaderPartial }}
