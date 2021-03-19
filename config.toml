@@ -4,6 +4,7 @@ disqusshortname = "wildanfauzy"
 languagecode = "id-ID"
 paginate = 8
 pluralizelisttitles = false
+canonifyurls = true
 title = "Wildan Fauzy Stories"
 [[menu.main]]
 identifier = "home"
@@ -60,8 +61,4 @@ Priority = "-1"
 [params.social]
 twitter = "wilfauzy"
 github = "wilfauzy"
-
-[taxonomies]
-tag = "tag"
-category = "berita"
 
