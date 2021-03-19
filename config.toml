@@ -61,3 +61,7 @@ Priority = "-1"
 twitter = "wilfauzy"
 github = "wilfauzy"
 
+[taxonomies]
+tag = "tag"
+category = "berita"
+
