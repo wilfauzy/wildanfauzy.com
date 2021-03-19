@@ -2,7 +2,7 @@
 author: Redaksi
 tags:
 - buku
-date: 2015-09-17T20:35:00Zi
+date: 2015-09-17T19:00:00Z
 image: /img/c8e66-2d150-6tag_170915-173308255b1255d.jpg
 title: Barang Yang Membuat Candu?
 url: /barang-yang-membuat-candu/
