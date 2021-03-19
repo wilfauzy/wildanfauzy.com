@@ -78,14 +78,10 @@
     {{.Hugo.Generator}}
 
     <link rel="canonical" href="{{ .Permalink }}" />
-
-    {{ if eq .Section "post"}}
-        {{ partial "semantic.html" . -}}
-    {{ end }}
-
     {{ if .Site.Params.customHeaderPartial }}
         {{ partial .Site.Params.customHeaderPartial . }}
     {{ end }}
+    {{ partial "semantic.html" . }}
 </head>
 <body class="nav-closed">
 
