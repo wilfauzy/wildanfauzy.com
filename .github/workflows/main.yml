@@ -27,4 +27,4 @@ jobs:
         with:
           branch: master
           commit_message: memek becek
-          
+          hugo_version: 0.25
