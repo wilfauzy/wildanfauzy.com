@@ -10,7 +10,7 @@ title = "Wildan Fauzy Stories"
 identifier = "home"
 name = "Home"
 url = "/"
-weight = -120
+weight = 120
 [[menu.main]]
 name = "Search"
 pre = "<h3>Follow me</h3>"
@@ -22,8 +22,8 @@ name = "Login"
 url = "https:///app.wildanfauzy.com"
 weight = -120
 [[menu.main]]
-identifier = "Newsletters"
-name = "Newsletters"
+identifier = "Surat"
+name = "Surat"
 url = "https://surat.wildanfauzy.com"
 weight = -119
 [[menu.main]]
