@@ -1,0 +1,7 @@
+{
+  "hosting": {
+      "target": "wilfauzy",
+      "public": "public",
+      ...
+  }
+}
