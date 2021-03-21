@@ -2,7 +2,7 @@
 author = "WilFauzy"
 date = 2021-03-21T20:00:00Z
 image = "/img/PXL_20210320_082339511.jpg"
-tags = []
+tags = ["note"]
 title = "Ke Pantai Tapi Ditutup"
 
 +++
@@ -24,4 +24,4 @@ Kalo tau hujan lama gini mending rebahan di rumah sambil nonton netflix.
 
 Tapi sudah kepalang kering, akhirnya langsung ke pantai, sampai sana bau ikan busuk, dan tidak boleh masuk ke pantainya, ditutup katanya, hmmm, padahal yah sudahlah. 
 
-Akhirnya balik lagi ke sumur. 
+Akhirnya balik lagi ke sumur.
