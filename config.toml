@@ -19,8 +19,18 @@ weight = 100
 [[menu.main]]
 identifier = "Login"
 name = "Login"
-url = "/app/#/login"
+url = "https:///app.wildanfauzy.com"
 weight = -120
+[[menu.main]]
+identifier = "Newsletters"
+name = "Newsletters"
+url = "https://surat.wildanfauzy.com"
+weight = -119
+[[menu.main]]
+identifier = "Perpus"
+name = "Pepus"
+url = "https:///perpus.wildanfauzy.com"
+weight = -118
 [[menu.main]]
 name = "Kompas"
 url = "https://kompasiana.com/wildanfauzy"
