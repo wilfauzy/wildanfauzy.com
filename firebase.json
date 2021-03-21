@@ -1,7 +1,6 @@
 {
   "hosting": {
       "target": "wilfauzy",
-      "public": "public",
-      // ...
+      "public": "public". 
   }
 }
