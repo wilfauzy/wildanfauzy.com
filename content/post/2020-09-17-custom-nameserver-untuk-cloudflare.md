@@ -36,7 +36,7 @@ Sedangkan marco adalah anak muda yang membantu minke dalam mengurus penerbitan k
 
 Oke sekilas tentang ketiga nama tersebut lanjut ke pembahasan, masuk ke layanan domain manager jika ada fitur private nameserver klik pilihan tersebut lalu masukan nama ns yang kalian inginkan.<figure class="wp-block-image size-large">
  
-![](https://i2.wp.com/wildanfauzy.com/wp-content/uploads/2020/09/IMG_20200917_151319_382.jpg?resize=768%2C663&#038;ssl=1)
+![](/wp-content/uploads/2020/09/IMG_20200917_151319_382.jpg)
 
 Masukan nama sebagai nameserver kesukaan kalian jika standar biasanya menggunakan ns1, ns2. kalian bebas mau pake nama apa saja boleh asal diarahkan ke ip yang sama dengan nameserver cloudflare.
 
@@ -46,7 +46,7 @@ Disini saya terinspirasi dengan tirto.id maka menggunakan nama untuk ns pram dan
 
 Selanjutnya adalah mencari ip dari nameserver cloudfare, pertama masuk ke dashboard cloudflare lalu klik pilihan dns terdapat nameserver untuk domain kalian seperti zelda.ns.cloudflare.com, wakijan.ns.cloudflare.com ketila sudah mengetahui, selanjutnya lakukan pencarian ip di layanan whois domain, saya sendiri menggunakan terminal.<figure class="wp-block-image size-large">
 
-![]()https://i2.wp.com/wildanfauzy.com/wp-content/uploads/2020/09/Screenshot-pada-2020-09-17-15-30-52.png?resize=768%2C432&#038;ssl=1
+![](/wp-content/uploads/2020/09/Screenshot-pada-2020-09-17-15-30-52.png) 
 
 Setelah melakukan whois nameserver cloudflare kalian ada beberapa ip, pilih ip yang pertama, lalu kembali ke domain manager tambahkan ip tesebut ke custum ns di menu private nameserver, setelah berhasil membuat child nameserver.
 
@@ -54,9 +54,9 @@ Gunakan child nameserver ke pengaturan nameserver, lalu ganti nameserver cloudfl
 
 Tunggu 48 jam agar custum ns bisa terpropagansi dengan seluruh dns, Propagasi dns adalah masa tunggu pengenalan DNS pada domain, dari koneksi internet yang mengakses domain tersebut. Pada umumnya propagasi DNS tersebut kurang lebih 1-48jam dan setiap provider koneksi internet berbeda-beda waktu propagasi dns tersebut. Lama atau cepatnya propagasi DNS, tergantung dari kecepatan resolver ISP yang Anda gunakan, dalam mengenali DNS pada domain. menurut (<a href="https://www.rumahweb.com/journal/apa-itu-propagasi-dns/" target="_blank" rel="noreferrer noopener">rumahweb</a>).
 
-Selesai deh selamat menggunakan nameserver dengan domain sendiri 😀 jadi seperti ini<figure class="wp-block-image size-large">
+Selesai deh selamat menggunakan nameserver dengan domain sendiri 😀 jadi seperti ini
 
-![](https://i2.wp.com/wildanfauzy.com/wp-content/uploads/2020/09/photo_2020-09-17_15-42-09.jpg?resize=768%2C720&#038;ssl=1)
+![](/wp-content/uploads/2020/09/photo_2020-09-17_15-42-09.jpg)
 
 **_*Catatan_**
 
