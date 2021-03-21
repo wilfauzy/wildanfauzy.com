@@ -6,7 +6,7 @@ share = false
 title = "Privacy Policy"
 type = "page"
 [menu.main]
-weight = 123
+weight = 110
 
 +++
 _Diperbarui pada 21 agustus 2020 pukul 14:33_
