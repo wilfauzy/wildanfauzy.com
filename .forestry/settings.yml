@@ -15,7 +15,7 @@ sections:
   create: all
   match: "**/*"
 upload_dir: static/img
-public_path: "https://gjr2p77d.tinifycdn.com/img"
+public_path: https://gjr2p77d.tinifycdn.com/img
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
