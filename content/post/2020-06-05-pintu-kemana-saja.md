@@ -1,38 +1,11 @@
 ---
 author: Redaksi
-categories:
-- Note
+tags:
+- note
 date: 2020-06-05T19:33:05Z
-guid: https://wildanfauzy.com/pintu-kemana-saja/
-id: 3136
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596535441"
-nb_of_words:
-- "258"
-template_meta:
-- "no"
 title: Pintu Kemana Saja
 url: /pintu-kemana-saja/
-views_counter:
-- "1"
-ytad1meta:
-- enabled
-ytad2meta:
-- enabled
-ytad3meta:
-- enabled
-ytad4meta:
-- enabled
-ytad5meta:
-- enabled
-ytremove_meta_value:
-- "no"
-ytrssenabled_meta_value:
-- "no"
+image: /img/91b32-pexels-photo-3989434.jpeg
 ---
 
 <p class="has-drop-cap">
