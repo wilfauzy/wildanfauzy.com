@@ -59,7 +59,7 @@ logo = "/img/about.png"
 twitterName = "WilFauzy"
 #facebookName = ""
 #instagramName = ""
-hjsStyle = "arta"
+hjsStyle = "irblack"
 [permalinks]
 post = "/:slug/"
 [sitemap]
