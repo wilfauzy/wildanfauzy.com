@@ -25,15 +25,16 @@
     {{ with .OutputFormats.Get "RSS" }}
 	{{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{ end }}
-    {{ range $pages }}
-    <item>
+    {{ range .Data.Pages }}
+        {{ if not (in .URL "_index")}}
+            <item>
             <title>{{ .Title }}</title>
             <link>{{ .Permalink }}</link>
             <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
             <guid>{{ .Permalink }}</guid>
             <dc:creator>{{ .Params.author }}</dc:creator>
             <media:content type="image/jpeg" medium="image" width="900" height="600"
-                  url="https://wildanfauzy.com/{{ .Params.image | safeHTML }}" />
+                  url="https://wwildanfauzy.com/{{ .Params.image | safeHTML }}" />
             <description>{{chomp "<![CDATA[\n"}}{{ .Description | safeHTML }}{{chomp "]]>\n"}}</description>
             <content:encoded>{{chomp "<![CDATA[\n"}}{{ .Content | safeHTML }}{{chomp "]]>\n"}}</content:encoded>
             </item>
