@@ -55,17 +55,6 @@
     <link rel="stylesheet" href="{{ . | relURL }}">
     {{ end }}
 
-    {{ if .Site.Params.hjsStyle }}
-        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/styles/{{ .Site.Params.hjsStyle }}.min.css">
-        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
-        {{ if or .Site.Params.hjsExtraLanguages .Params.hjsExtraLanguages }}
-          {{ range $index, $language := (union .Site.Params.hjsExtraLanguages .Params.hjsExtraLanguages) }}
-            <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/languages/{{ $language }}.min.js"></script>
-          {{ end }}
-        {{ end }}
-        <script>hljs.initHighlightingOnLoad();</script>
-    {{end}}
-
     {{ if .Site.Params.RSSLink}}
         <link href="{{.Site.Params.RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
     {{else}}
