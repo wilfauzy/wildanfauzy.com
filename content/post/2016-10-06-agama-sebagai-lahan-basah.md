@@ -3,12 +3,7 @@ author: Redaksi
 categories:
 - Share
 date: 2016-10-06T18:01:00Z
-guid: http://wildanfauzy.art.blog/2016/10/06/agama-sebagai-lahan-basah/
-id: 2185
-nb_of_words:
-- "249"
-slim_seo:
-- a:0:{}
+image: /img/6b5d8-bruce-warrington-1431498-unsplash.jpg
 title: Agama sebagai lahan basah
 url: /agama-sebagai-lahan-basah/
 ---
