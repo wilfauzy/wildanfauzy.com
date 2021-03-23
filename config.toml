@@ -75,4 +75,4 @@ github = "wilfauzy"
 [outputFormats]
 [outputFormats.RSS]
 mediatype = "application/rss"
-baseName = "feed"
+baseName = "index"
