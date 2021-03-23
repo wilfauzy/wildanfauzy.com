@@ -1,0 +1,29 @@
+name: hugo-remote
+
+on:
+  push:
+    branches:
+      - master
+
+env:
+  REMOTE: wilfauzy/wilfauzy.github.io.git
+  DEST: public
+  TOKEN: ${{ secrets.TOKEN }}
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🛎 Check out master
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 1
+          # if your chosen Hugo theme is a submodule
+          submodules: false
+      - name: 🚀 Build and deploy
+        uses: victoriadrake/hugo-remote@master
+        with:
+          branch: master
+          commit_message: memek becek
