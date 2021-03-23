@@ -28,7 +28,7 @@ url = "https://surat.wildanfauzy.com"
 weight = -119
 [[menu.main]]
 identifier = "Perpus"
-name = "Pepus"
+name = "Perpus"
 url = "https:///perpus.wildanfauzy.com"
 weight = -118
 [[menu.main]]
