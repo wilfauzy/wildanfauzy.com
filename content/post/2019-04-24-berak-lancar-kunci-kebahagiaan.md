@@ -3,21 +3,12 @@ author: Redaksi
 categories:
 - Cerita Pendek
 date: 2019-04-24T20:27:00Z
-essb_cached_image:
-- https://wildanfauzyart.files.wordpress.com/2020/04/edeed-adult-backlit-beach-1000445.jpg?resize=640%2C300&#038;ssl=1
-guid: http://wildanfauzy.art.blog/2019/04/24/berak-lancar-kunci-kebahagiaan/
-id: 2174
-nb_of_words:
-- "500"
+image: /img/12376-architecture-art-artwork-206784.jpg
 tags:
 - cerpen
 title: Berak Lancar Kunci Kebahagiaan
 url: /berak-lancar-kunci-kebahagiaan/
 ---
-
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><a href="https://wildanfauzyart.files.wordpress.com/2020/04/edeed-adult-backlit-beach-1000445.jpg?w=768"><img src="https://wildanfauzyart.files.wordpress.com/2020/04/edeed-adult-backlit-beach-1000445.jpg?w=768" alt="Berak Lancar Kunci Kebahagiaan" data-recalc-dims="1" /></a><figcaption>Berak Lancar Kunci Kebahagiaan</figcaption></figure>
-</div>
 
 Percayalah buang air kali ini sungguh nyaman, aku bisa mengeluarkannya tanpa perlu mendorong, atau membuat tekanan agar membuatnya keluar, kali ini bisa keluar tanpa perlu ku perintah, keluar dengan begitu lancar, pernah ku ceritakan bahwa waktu buang air besar yang tepat adalah, seiringan dengan habisnya sebatang rokok, jika sebatang rokok itu habis maka waktu buang air pun berakhir, jika belum habis, maka lanjutkan lah buang air, mungkin masih ada yang tersisa.
 
