@@ -3,20 +3,9 @@ author: Redaksi
 categories:
 - Buku
 date: 2016-03-16T22:53:00Z
-gnpub_modified_count:
-- "4"
-guid: http://wildanfauzy.art.blog/2016/03/16/revolusi-terjadi-di-waktu-subuh/
-id: 2186
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596790490"
-nb_of_words:
-- "288"
+image: /img/42ce5-revolusi-subuh.jpg
 tags:
-- pramoedya
+- buku
 title: Revolusi Terjadi di Waktu Subuh
 url: /revolusi-terjadi-di-waktu-subuh/
 ---
