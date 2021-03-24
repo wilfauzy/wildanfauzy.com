@@ -14,6 +14,15 @@ Untuk membuat blog hugo sebagai framework dengan firebase hosting, yang pertama 
 install pake npm cli firebase terlebih dahulu. 
 
     npm install -g firebase-tools
-    
-    
-    
+ 
+Selanjutnya login di konsol terminal
+
+    firebase login
+  
+Maka setelah login akan diarahkan ke browser dan masuk menggunakan akun Google kalian, setelah berhasil autentifikasi, salin kode dan paste ke konsol terminal. 
+
+    firebase init
+
+Masuk ke folder source code blog hugo kalian semisal cd my-site, setelah itu lakukan firebaase init, untuk memulai projek di firebase, pilih firebase hosting. 
+
+Setelah itu berhasil menginisiasi dengan firebase dan akan ada file baru firebase.json .firebaserc dan foleder .firebase maka selanjutnya tinggal deploy dan relax. 
