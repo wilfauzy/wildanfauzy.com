@@ -1,5 +1,10 @@
-on: [push]
 name: Deploy Hugo to Firebase
+
+on: 
+  push:
+    branches:
+      - master
+
 jobs:
   build:
     runs-on: ubuntu-latest
