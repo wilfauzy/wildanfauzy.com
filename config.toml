@@ -4,6 +4,7 @@ disqusshortname = "wildanfauzy"
 languagecode = "id-ID"
 paginate = 8
 pluralizelisttitles = false
+canonifyurls = true
 title = "Wildan Fauzy Stories"
 [[menu.main]]
 identifier = "Beranda"
