@@ -1,8 +1,7 @@
 +++
 author = "pemuda malkis"
 date = 2021-03-24T00:00:00Z
-draft = false
-image = "/img/firebase-hosting.jpeg"
+image = "/img/firebase-hosting.png"
 tags = ["jamstack"]
 title = "Membuat Blog Hugo di Firebase Hosting"
 
@@ -37,4 +36,4 @@ Langkah terakhir membuild blog hugo dan deploy dengan perintah di bawah ini.
 
 Pastikan kalian sudah berada di folder yang beriskan source code hugo, setelah itu tunggu beberapa saat, jikq berhasil masuk ke console firebase jika kalian ingin menambah domain. 
 
-Cukup sekian dan terima kasih hehe. 
+Cukup sekian dan terima kasih hehe.
