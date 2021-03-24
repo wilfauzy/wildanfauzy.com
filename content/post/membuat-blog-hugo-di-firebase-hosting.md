@@ -2,7 +2,7 @@
 author = "pemuda malkis"
 date = 2021-03-24T00:00:00Z
 draft = false
-image = "/img/1_jbdo7u0l62vymfm1wxna1g.png"
+image = "/img/firebase-hosting.jpeg"
 tags = ["jamstack"]
 title = "Membuat Blog Hugo di Firebase Hosting"
 
