@@ -4,6 +4,8 @@ categories:
 - Note
 image: /img/abc88-about-2.jpg
 date: 2020-01-06T14:09:55Z
+title: Senin yang abu-abu
+url: /senin-yang-abu-abu/
 ---
 
 Sudah tiga hari tidak tidur lewat jam tengah malam, minum beberapa kopi tetap saja mengantuk ketika sudah jam sembilan malam, entah karena musim hujan dan cuaca rumah sedikit sejuk, sebab pada hari biasanya panasnya minta tolong.
