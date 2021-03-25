@@ -3,61 +3,9 @@ author: Redaksi
 categories:
 - Buku
 date: 2020-01-07T08:52:15Z
-essb_c_pinterest:
-- "1"
-essb_c_total:
-- "1"
-essb_cache_expire:
-- "1595619973"
-essb_cached_image:
-- https://wildanfauzyart.files.wordpress.com/2020/04/dfacd-pecundang.jpg?resize=640%2C300&#038;ssl=1
-guid: https://wildanfauzy.com/?p=1981
-id: 1981
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596588125"
-nb_of_words:
-- "715"
-publicize_tumblr_url:
-- http://.tumblr.com/post/616944319717376000
-rank_math_internal_links_processed:
-- "1"
-rank_math_primary_category:
-- "5"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "10"
-ssb_old_counts:
-- a:5:{s:7:"twitter";s:1:"0";s:9:"pinterest";s:1:"0";s:7:"fbshare";s:1:"0";s:6:"reddit";s:1:"0";s:6:"tumblr";s:1:"0";}
-ssb_pinterest_counts:
-- "1"
-ssb_total_counts:
-- "1"
-tags:
-- kopi
-- maxim gorky
-template_meta:
-- "no"
+image: /img/dfacd-pecundang.jpg
 title: Pecundang Oleh Maxim Gorky
 url: /pecundang-oleh-maxim-gorky/
-ytad1meta:
-- enabled
-ytad2meta:
-- enabled
-ytad3meta:
-- enabled
-ytad4meta:
-- enabled
-ytad5meta:
-- enabled
-ytremove_meta_value:
-- "no"
-ytrssenabled_meta_value:
-- "no"
 ---
 
 Maxim Gorky adalah salah satu penulis yang cukup membuat diri ini tertarik, tepatnya dua tahun yang lalu ketika sepulang kuliah, tidak-tidak, lebih tepatnya bolos kuliah, bukan karena saya malas, tetapi jatah untuk tidak masuk perkuliahan belum terpakai sama sekali.
