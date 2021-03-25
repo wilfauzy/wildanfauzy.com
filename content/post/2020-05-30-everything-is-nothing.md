@@ -3,34 +3,9 @@ author: Redaksi
 categories:
 - Note
 date: 2020-05-30T20:52:33Z
-guid: https://wildanfauzy.com/?p=2501
-id: 2501
-nb_of_words:
-- "186"
-template_meta:
-- "no"
+image: /img/0f15c-human-hands-illustrations-3354675-scaled-1.jpg
 title: Semuanya Tidak Ada, Sampai Tidak Ada Menjadi Segalanya.
 url: /everything-is-nothing/
-views_counter:
-- "1"
-wpb_post_views_count:
-- "1"
-wps_subtitle:
-- Everything is nothing, until nothing became everything.
-ytad1meta:
-- enabled
-ytad2meta:
-- enabled
-ytad3meta:
-- enabled
-ytad4meta:
-- enabled
-ytad5meta:
-- enabled
-ytremove_meta_value:
-- "no"
-ytrssenabled_meta_value:
-- "no"
 ---
 
 <p class="has-drop-cap">
