@@ -7,11 +7,6 @@ pluralizelisttitles = false
 canonifyurls = true
 title = "Wildan Fauzy Stories"
 [[menu.main]]
-identifier = "Beranda"
-name = "Beranda"
-url = "/"
-weight = 124
-[[menu.main]]
 name = "Search"
 pre = "<h3>Follow me</h3>"
 url = "https://search.wildanfauzy.com"
