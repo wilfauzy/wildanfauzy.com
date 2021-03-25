@@ -1,7 +1,6 @@
 <!-- JSON-LD -->
     {{ if .IsHome }}
     <script type="application/ld+json">
-    { 
       "@context": "http://schema.org", 
       "@type": "WebSite", 
       "url": "{{ .Permalink }}", 
@@ -11,6 +10,5 @@
           "name": "{{ .Site.Params.author }}"
         },
       "description": "{{ .Site.Params.description }}",
-    }
     </script>
     {{ end }}
