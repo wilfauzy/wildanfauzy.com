@@ -2,22 +2,16 @@
 author: Redaksi
 categories:
 - Note
-date: 2020-05-30T20:52:33Z
-image: /img/0f15c-human-hands-illustrations-3354675-scaled-1.jpg
-title: Semuanya Tidak Ada, Sampai Tidak Ada Menjadi Segalanya.
-url: /everything-is-nothing/
+date: 2020-05-30T20:52:33.000+00:00
+image: "/img/0f15c-human-hands-illustrations-3354675-scaled-1.jpg"
+title: Everything is Nothing until Nothing Became Everything
+url: "/everything-is-nothing/"
+
 ---
+Everyone dreams of a better life, a better world to live in, all that bullshit, I just need to find a cup of hot coffee, some snacks, and a bottle of water, tonight the weather is as usual, dry and gloomy, my mangaep came , everything is not there until I have a cup of coffee, I see your face in the shadow, you look tired and unhappy. 
 
-<p class="has-drop-cap">
-  Semua orang bermimpi mendapatkan kehidupan yang lebih baik, dunia yang lebih baik untuk ditinggali, semua itu omong kosong, saya hanya perlu menemukan secangkir kopi panas, beberapa makanan ringan, dan sebotol air, malam ini cuaca seperti biasa, kering dan suram , mangaep saya datang, semuanya tidak ada sampai saya punya secangkir kopi, saya melihat wajah Anda di balik bayangan, Anda terlihat lelah dan tidak bahagia.
-</p>
+Listen to the music, and start closing my eyes, I see you again in my dream, "You need help?" no answer, two hours later, i wake up in the middle of the night, nothing remains, only longing and emptiness.
 
-Dengarkan musiknya, dan mulailah memejamkan mata, aku melihatmu lagi dalam mimpiku, &#8220;kamu butuh bantuan?&#8221; tidak ada jawaban, dua jam kemudian, saya bangun di tengah malam, tidak ada yang tersisa, hanya kerinduan dan kehampaan.
+> Yesterday was a very nice day, but not today.
 
-<blockquote class="wp-block-quote">
-  <p>
-    Kemarin adalah hari yang sangat menyenangkan, tetapi tidak hari ini.
-  </p>
-</blockquote>
-
-Karena semuanya bukan apa-apa, sampai tidak ada yang menjadi segalanya, mungkin ya, mungkin tidak, jangan lupa untuk bermimpi dan tidur, tidak ada yang akan membantu Anda, selain diri Anda sendiri, waktu terus berputar, dan saya hanya berjalan di tempat.
+Because everything is nothing, until nothing becomes everything, maybe yes, maybe not, don't forget to dream and sleep, nothing will help you, but yourself, time is running around, and I'm just walking on the spot.
