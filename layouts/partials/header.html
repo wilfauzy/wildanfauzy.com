@@ -75,11 +75,7 @@
     {{ if .Site.Params.customHeaderPartial }}
         {{ partial .Site.Params.customHeaderPartial . }}
     {{ end }}
-<script>
-  if (location.host === "www.wildanfauzy.com/*") {
-    location.href = "https://wildanfauzy.com/$1";
-  }
-</script>
+
 </head>
 <body class="nav-closed">
 
