@@ -76,10 +76,3 @@ github = "wilfauzy"
 [outputFormats.RSS]
 mediatype = "application/rss"
 baseName = "index"
-
-[search]
-  # Search provider:
-  #   "": No search engine
-  #   "wowchemy": Built-in search engine
-  #   "algolia": Algolia (https://www.algolia.com)
-  provider = "wowchemy"
