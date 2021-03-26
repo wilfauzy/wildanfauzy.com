@@ -36,6 +36,7 @@ ytremove_meta_value:
 - "no"
 ytrssenabled_meta_value:
 - "no"
+image: /img/f2c09-book-pages-chapter-dark-5834.jpg
 ---
 
 [Wildanfauzy.com](https://wildanfauzy.com/) &#8211; Belakangan ini sering membaca tulisan dari medium.com, tulisan yang terpajang di homepage kebanyakan bahasa inggris, hanya ada beberapa tulisan yang berbahasa indonesia, itu pun hasil dari mengikuti publikasi atau orang yang berbahasa indonesia, sempat terpikirkan untuk menerjemahkan postingan blog ke dalam bahasa inggris, &#8220;bisa enggak yah?&#8221; berpikir sambil buang air besar.
