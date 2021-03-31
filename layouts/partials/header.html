@@ -67,9 +67,7 @@
     
 
     <link rel="canonical" href="{{ .Permalink }}" />
-    {{ if eq .Section "post"}}
-        {{ partial "semantic.html" . }}
-    {{ end }}
+    {{ partial "semantic.html" . }}
     {{ if .Site.Params.customHeaderPartial }}
         {{ partial .Site.Params.customHeaderPartial . }}
     {{ end }}
