@@ -28,4 +28,4 @@ build:
   mount_path: "/srv"
   working_dir: "/srv"
   instant_preview_command: hugo server -D -E -F --renderToDisk -d public
-version: 0.57.2
+version: 0.82.0
