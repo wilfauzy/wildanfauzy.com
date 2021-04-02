@@ -54,6 +54,7 @@ hideHUGOSupport = false
 disableHugoGeneratorInject = true
 logo = "/img/about.png"
 twitterName = "WilFauzy"
+mediumName ="wilfauzy" 
 #facebookName = ""
 #instagramName = ""
 #hjsStyle = "agate"
@@ -67,7 +68,7 @@ Priority = "-1"
 [params.social]
 twitter = "wilfauzy"
 github = "wilfauzy"
-
+medium = "wilfauzy" 
 [outputFormats]
 [outputFormats.RSS]
 mediatype = "application/rss"
