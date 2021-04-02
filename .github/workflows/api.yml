@@ -1,0 +1,12 @@
+on: [push]
+name: Publish blog
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+      with:
+        submodules: false
+    - uses: pulimento/github-action-hugo-deploy-to-firebase@master
+      with:
+        firebase-token: ${{ secrets.secret_firebase_token }}
