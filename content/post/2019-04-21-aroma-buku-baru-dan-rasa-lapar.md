@@ -13,6 +13,7 @@ tags:
 - cerpen
 title: Aroma Buku Baru dan Rasa Lapar
 url: /aroma-buku-baru-dan-rasa-lapar/
+image: img/0_phoczkpkzghfe40v.jpg
 ---
 
 <p class="has-drop-cap">
