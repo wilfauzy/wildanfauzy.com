@@ -1,7 +1,7 @@
 +++
 author = "WilFauzy"
 date = 2021-03-23T03:48:00Z
-image = "/img/IMG_20200524_013708.jpg"
+image = "/img/unsplash-image-9.jpg"
 tags = ["bacotan"]
 title = "Akibat Sering Mager"
 
@@ -36,4 +36,4 @@ Yah sudah akhirnya nunggu sampe tiga jam, hingga hujan benar-benar reda, seperti
 
 ![](/img/IMG_20200513_172340.jpg)
 
-Sekian lah, akibat keasikan rebahan sama mager enggak baik buat hidup di planet bumi, entar aja kalo udah pindah ke mars. 
+Sekian lah, akibat keasikan rebahan sama mager enggak baik buat hidup di planet bumi, entar aja kalo udah pindah ke mars.
