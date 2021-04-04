@@ -31,13 +31,13 @@ name = "Kompas"
 url = "https://kompasiana.com/wildanfauzy"
 weight = 101
 [[menu.main]]
-name = "Medium"
-url = "https://medium.com/@wilfauzy"
+name = "Jurnal"
+url = "https://jutnal.wildanfauzy.com"
 weight = 102
 [[menu.main]]
-name = "Instagram"
+name = "Galeri"
 pre = "<h3>Contact me</h3>"
-url = "https://instagram.com/wilfauzy"
+url = "https://pinterest.com/wilfauzy"
 weight = 109
 
 [params]
