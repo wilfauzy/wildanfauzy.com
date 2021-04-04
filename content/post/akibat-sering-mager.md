@@ -1,7 +1,7 @@
 +++
 author = "WilFauzy"
 date = 2021-03-23T03:48:00Z
-image = "/img/unsplash-image-9.jpg"
+image = "/img/20210227_005757.jpg"
 tags = ["bacotan"]
 title = "Akibat Sering Mager"
 
