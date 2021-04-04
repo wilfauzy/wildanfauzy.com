@@ -73,3 +73,5 @@ medium = "wilfauzy"
 [outputFormats.RSS]
 mediatype = "application/rss"
 baseName = "index"
+
+disableKinds = ["404"]
