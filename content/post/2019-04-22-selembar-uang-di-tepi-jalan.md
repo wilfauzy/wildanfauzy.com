@@ -19,11 +19,10 @@ tags:
 - cerpen
 title: Selembar Uang di Tepi Jalan
 url: /selembar-uang-di-tepi-jalan/
+image: img/0b89e-bank-notes-blur-close-up-164474.jpg
 ---
 
-<figure class="wp-block-image size-large">[<img src="https://wildanfauzyart.files.wordpress.com/2020/04/0b89e-bank-notes-blur-close-up-164474.jpg?w=768" alt="Selembar Uang di Tepi Jalan" title="Selembar Uang di Tepi Jalan" data-recalc-dims="1" />](https://wildanfauzyart.files.wordpress.com/2020/04/0b89e-bank-notes-blur-close-up-164474.jpg?w=768)</figure> 
-
-<p class="has-drop-cap">
+<p>
   Ketika sedang berjalan, mona menemukan secarik kertas, rupanya itu seuatu benda yang tidak asing oleh penglihatan mata umat manusia, selembar uang kertas dalam jumlah nomina yang cukup besar, akan tetapi mona tidak tertarik untuk mengambil uang tersebut bukan karena mona cukup kaya untuk tidak mengambil suatu hal yang cuma-Cuma yang dia dapatkan di jalan, karena kalau saja uang itu diambil dan cukup untuk membeli kopi dan roti, mona akan mengurungkan niat untuk mengunjungi temannya dan hal itu tidak sesuai rencana yang dia kehendaki.
 </p>
 
