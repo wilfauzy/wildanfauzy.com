@@ -1,0 +1,9 @@
+[build]
+  publish = "public"
+  command = "hugo" 
+
+[[plugins]]
+  package = "netlify-plugin-hugo-cache-resources"
+
+[build.environment]
+  HUGO_VERSION = "0.25"
