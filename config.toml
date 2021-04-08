@@ -8,7 +8,6 @@ canonifyurls = true
 title = "Wildan Fauzy Stories"
 [[menu.main]]
 name = "Search"
-pre = "<h3>Follow me</h3>"
 url = "https://search.wildanfauzy.com"
 weight = 100
 [[menu.main]]
@@ -36,7 +35,6 @@ url = "https://jurnal.wildanfauzy.com"
 weight = 102
 [[menu.main]]
 name = "Galeri"
-pre = "<h3>Contact me</h3>"
 url = "https://pinterest.com/wilfauzy"
 weight = 109
 
