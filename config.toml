@@ -73,3 +73,7 @@ mediatype = "application/rss"
 baseName = "index"
 
 disableKinds = ["404"]
+
+[outputs]
+page = [ "HTML", "AMP"]
+home = [ "HTML", "RSS", "AMP"]
