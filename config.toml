@@ -54,8 +54,8 @@ logo = "/img/about.png"
 twitterName = "WilFauzy"
 mediumName ="wilfauzy" 
 #facebookName = ""
-#instagramName = ""
-#hjsStyle = "agate"
+instagramName = "wilfauzy"
+hjsStyle = "agate"
 [permalinks]
 post = "/:slug/"
 [sitemap]
