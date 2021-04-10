@@ -67,13 +67,3 @@ Priority = "-1"
 twitter = "wilfauzy"
 github = "wilfauzy"
 medium = "wilfauzy" 
-[outputFormats]
-[outputFormats.RSS]
-mediatype = "application/rss"
-baseName = "index"
-
-disableKinds = ["404"]
-
-[outputs]
-page = [ "HTML", "AMP"]
-home = [ "HTML", "RSS", "AMP"]
