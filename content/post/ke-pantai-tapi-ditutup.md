@@ -1,7 +1,7 @@
 +++
 author = "WilFauzy"
 date = 2021-03-21T20:00:00Z
-image = "/images/koper.jpg"
+image = "/img/koper.jpg"
 tags = ["note"]
 title = "Ke Pantai Tapi Ditutup"
 
