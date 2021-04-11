@@ -3,10 +3,6 @@ author: Redaksi
 categories:
 - Note
 date: 2013-08-03T17:41:00Z
-guid: https://wildanfauzy.com/index.php/2013/08/03/gonta-ganti-template/
-id: 89
-nb_of_words:
-- "422.66666666667"
 title: Gonta ganti Template
 url: /gonta-ganti-template/
 ---

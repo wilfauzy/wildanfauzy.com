@@ -3,20 +3,7 @@ author: Redaksi
 categories:
 - Note
 date: 2020-07-04T10:41:03Z
-guid: https://wildanfauzy.com/mampus-kau-tertipu-oleh-mendung/
 image: /wp-content/uploads/2020/07/pexels-photo-395196.jpeg
-header-mask: 0.4
-id: 4786
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596544568"
-nb_of_words:
-- "313"
-post_views_count:
-- "1"
 title: Mampus Kau! Tertipu Oleh Mendung
 url: /mampus-kau-tertipu-oleh-mendung/
 ---

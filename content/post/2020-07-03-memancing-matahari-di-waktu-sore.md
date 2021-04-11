@@ -3,20 +3,7 @@ author: Redaksi
 categories:
 - Cerita Pendek
 date: 2020-07-03T17:35:30Z
-guid: https://wildanfauzy.com/memancing-matahari-di-waktu-sore/
 image: /wp-content/uploads/2020/07/pexels-photo-349727.jpeg
-header-mask: 0.4
-id: 4781
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596588500"
-nb_of_words:
-- "446"
-post_views_count:
-- "1"
 tags:
 - cerpen
 title: Memancing Matahari di Waktu Sore

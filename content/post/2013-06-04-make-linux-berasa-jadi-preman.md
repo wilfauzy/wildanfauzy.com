@@ -8,7 +8,7 @@ title: Make Linux? Berasa Jadi Preman
 url: /make-linux-berasa-jadi-preman/
 ---
 
-*assalamualaikum wr wb  
+assalamualaikum wr wb  
 
 ketemu lagi di blog yang amburadul haha kali ini mau sedikit share pengalaman make linux dan open source, langsung aja.
 

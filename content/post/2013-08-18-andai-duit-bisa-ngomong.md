@@ -3,12 +3,6 @@ author: Redaksi
 categories:
 - Share
 date: 2013-08-18T02:58:00Z
-guid: https://wildanfauzy.com/index.php/2013/08/18/andai-duit-bisa-ngomong/
-id: 87
-nb_of_words:
-- "110"
-post_views_count:
-- "1"
 title: Andai Duit Bisa Ngomong
 url: /andai-duit-bisa-ngomong/
 ---

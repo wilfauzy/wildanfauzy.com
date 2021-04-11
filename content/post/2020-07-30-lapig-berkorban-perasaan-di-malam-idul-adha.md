@@ -3,20 +3,7 @@ author: WilFauzy
 categories:
 - Cerita Pendek
 date: 2020-07-30T20:15:10Z
-guid: https://wildanfauzy.com/?p=6086
 image: /wp-content/uploads/2020/07/sore-shubuh-matahari-.jpg
-header-mask: 0.4
-id: 6086
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596599375"
-snax_approval_data:
-- 2020-07-31 03:17:01 +07:00
-snax_approved_by:
-- "1"
 tags:
 - cerpen
 title: Lapig Berkorban Perasaan di Malam Idul Adha

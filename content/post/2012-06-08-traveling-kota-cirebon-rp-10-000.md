@@ -16,4 +16,3 @@ Ini gambar doang, brooo, soal.e video .e blooom di bliituutt yahh, gak apap di l
 ![](/wp-content/uploads/2012/06/3916f-dsc01482.jpg)
 ![](/wp-content/uploads/2012/06/0968f-dsc014791.jpg)
 ![](/wp-content/uploads/2012/06/d3718-dsc01490.jpg)
-![](/wp-content/uploads/2012/06/)

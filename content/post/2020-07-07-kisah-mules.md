@@ -3,24 +3,7 @@ author: Redaksi
 categories:
 - Note
 date: 2020-07-07T21:58:49Z
-essb_cache_expire:
-- "1595618516"
-essb_cached_image:
-- https://wildanfauzy.com/wp-content/uploads/2020/07/pexels-photo-3958561.jpeg
-guid: https://wildanfauzy.com/kisah-mules/
 image: /wp-content/uploads/2020/07/pexels-photo-3958561.jpeg
-header-mask: 0.4
-id: 4848
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596544568"
-nb_of_words:
-- "219"
-post_views_count:
-- "2"
 tags:
 - boker
 - mules

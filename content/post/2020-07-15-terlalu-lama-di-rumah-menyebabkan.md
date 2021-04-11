@@ -3,24 +3,7 @@ author: Redaksi
 categories:
 - Share
 date: 2020-07-15T08:25:52Z
-essb_cache_expire:
-- "1595613658"
-essb_cached_image:
-- https://wildanfauzy.com/wp-content/uploads/2020/07/pexels-photo-298842.jpeg
-guid: https://wildanfauzy.com/terlalu-lama-di-rumah-menyebabkan/
 image: /wp-content/uploads/2020/07/pexels-photo-298842.jpeg
-header-mask: 0.4
-id: 4881
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596599375"
-nb_of_words:
-- "327"
-post_views_count:
-- "19"
 title: Terlalu Lama Di Rumah Menyebabkan
 url: /terlalu-lama-di-rumah-menyebabkan/
 ---

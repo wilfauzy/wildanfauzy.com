@@ -3,36 +3,9 @@ author: Redaksi
 categories:
 - Note
 date: 2020-05-27T00:44:46Z
-guid: https://www.wildanfauzy.com/dinihari/
-id: 2395
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_shorturl:
-- https://bit.ly/30Flnxn
-mashsb_timestamp:
-- "1596788769"
-nb_of_words:
-- "333"
-template_meta:
-- "no"
 title: Tengah Malam Datang Cepat Pergi
 url: /tengah-malam/
-ytad1meta:
-- enabled
-ytad2meta:
-- enabled
-ytad3meta:
-- enabled
-ytad4meta:
-- enabled
-ytad5meta:
-- enabled
-ytremove_meta_value:
-- "no"
-ytrssenabled_meta_value:
-- "no"
+image: /wp-content/uploads/2020/05/pexels-photo-272887.jpeg
 ---
 
 Seperti biasanya menunggu saat pagi tiba, dan ketika pagi menjelang tidak ditunggu lagi, perputaran waktu cepat sekali rasanya rasa-rasanya baru hari minggu ternyata sudah masuk ke hari rabu, waktu terus berputar kita yang hanya rebahan sambil melihat jarum jam berputar, dinihari waktu yang tepat menunggu pagi.

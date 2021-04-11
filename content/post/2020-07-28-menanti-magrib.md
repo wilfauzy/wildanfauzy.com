@@ -3,26 +3,7 @@ author: WilFauzy
 categories:
 - Cerita Pendek
 date: 2020-07-28T18:22:58Z
-essb_cache_expire:
-- "1596156702"
-essb_cached_image:
-- https://wildanfauzy.com/wp-content/uploads/2020/07/800px-Senja_di_Lubuk_Buaya.jpg
-essb_pc_pinterest:
-- "2"
-guid: https://wildanfauzy.com/?p=5951
 image: /wp-content/uploads/2020/07/800px-Senja_di_Lubuk_Buaya.jpg
-header-mask: 0.4
-id: 5951
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596597594"
-snax_approval_data:
-- 2020-07-29 01:28:16 +07:00
-snax_approved_by:
-- "1"
 tags:
 - cerpen
 - magrib

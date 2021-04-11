@@ -3,18 +3,6 @@ author: Redaksi
 categories:
 - Share
 date: 2020-06-11T15:50:56Z
-essb_cached_image:
-- https://wildanfauzyart.files.wordpress.com/2020/06/pexels-photo-4619527.jpeg?resize=640%2C300&#038;ssl=1
-guid: https://wildanfauzy.com/?p=3199
-id: 3199
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596588125"
-nb_of_words:
-- "720"
 tags:
 - multilanguage
 - polylang
@@ -22,20 +10,6 @@ template_meta:
 - "no"
 title: Cara Membuat Blog Menjadi Dua Bahasa atau lebih
 url: /cara-membuat-blog-menjadi-dua-bahasa-atau-lebih/
-ytad1meta:
-- enabled
-ytad2meta:
-- enabled
-ytad3meta:
-- enabled
-ytad4meta:
-- enabled
-ytad5meta:
-- enabled
-ytremove_meta_value:
-- "no"
-ytrssenabled_meta_value:
-- "no"
 image: /img/f2c09-book-pages-chapter-dark-5834.jpg
 ---
 

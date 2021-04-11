@@ -3,22 +3,7 @@ author: Redaksi
 categories:
 - Cerita Pendek
 date: 2020-07-06T21:03:36Z
-guid: https://wildanfauzy.com/?p=4840
 image: /wp-content/uploads/2020/07/ayam-geprek.jpg
-header-mask: 0.4
-id: 4840
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596588500"
-nb_of_words:
-- "554"
-neve_meta_enable_content_width:
-- "off"
-post_views_count:
-- "5"
 tags:
 - cerpen
 title: Ayam Durhaka Digeprek Oleh Majikannya

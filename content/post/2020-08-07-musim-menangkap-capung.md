@@ -3,18 +3,7 @@ author: Redaksi
 categories:
 - Cerita Pendek
 date: 2020-08-07T00:22:20Z
-guid: https://wildanfauzy.com/musim-menangkap-capung/
 image: /wp-content/uploads/2020/08/pexels-photo-2583887.jpeg
-header-mask: 0.4
-id: 6473
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_shorturl:
-- https://bit.ly/3kkKltA
-mashsb_timestamp:
-- "1596783921"
 tags:
 - capung
 - cerpen

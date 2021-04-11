@@ -6,26 +6,8 @@ categories:
 date: 2020-07-24T22:48:57Z
 guid: https://wildanfauzy.com/anak-babi-itu-berlari/
 image: /img/babi.jpeg
-header-mask: "0.4"
-id: 5647
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596599375"
 title: Anak Babi Itu Berlari
 url: /anak-babi-itu-berlari/
-wpp_send_notification_for_new_post:
-- "1"
-xyz_smap:
-- "1"
-xyz_smap_fb_future_to_publish:
-- a:3:{s:18:"post_fb_permission";s:1:"0";s:16:"xyz_fb_po_method";s:1:"2";s:14:"xyz_fb_message";s:52:"{BLOG_TITLE}
-  - {POST_TITLE}{POST_EXCERPT}{PERMALINK}";}
-xyz_smap_tw_future_to_publish:
-- a:3:{s:18:"post_tw_permission";s:1:"1";s:19:"xyz_tw_img_permissn";s:1:"1";s:14:"xyz_tw_message";s:26:"{POST_TITLE}
-  - {PERMALINK}";}
 ---
 
 Anak babi tersesat di tengah kota yang sibuk, pergi kesana kemari mencari bapaknya yang sudah sepuluh tahun tidak pulang ke rumah, nampal kebingungan melihat babi bisa berdiri dan memakai baju.

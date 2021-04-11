@@ -3,22 +3,7 @@ author: smolcomrade
 categories:
 - Cerita Pendek
 date: 2020-08-07T02:21:32Z
-guid: https://wildanfauzy.com/?p=6484
 image: /wp-content/uploads/2020/08/rsz_pexels-cdc-3992931-scaled.jpg
-header-mask: 0.4
-id: 6484
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_shorturl:
-- https://bit.ly/3fBiiCr
-mashsb_timestamp:
-- "1596790416"
-snax_approval_data:
-- 2020-08-07 09:25:19 +07:00
-snax_approved_by:
-- "1"
 tags:
 - cerpen
 title: Hari Imunisasi

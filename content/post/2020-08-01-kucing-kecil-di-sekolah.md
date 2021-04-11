@@ -3,20 +3,7 @@ author: smolcomrade
 categories:
 - Cerita Pendek
 date: 2020-08-01T00:49:42Z
-guid: https://wildanfauzy.com/?p=6134
 image: /wp-content/uploads/2020/08/pexelsphoto137049.jpeg
-header-mask: 0.4
-id: 6134
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596599375"
-snax_approval_data:
-- 2020-08-01 16:45:05 +07:00
-snax_approved_by:
-- "1"
 tags:
 - cerpen
 title: Kucing Kecil di Sekolah

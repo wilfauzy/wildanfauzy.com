@@ -5,29 +5,11 @@ categories:
 date: 2020-08-03T19:26:45Z
 guid: https://wildanfauzy.com/?p=6203
 image: /wp-content/uploads/2020/06/pexels-photo-272887.jpeg
-header-mask: 0.4
-id: 6203
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596599375"
-slim_seo:
-- a:0:{}
-snax_approval_data:
-- 2020-08-04 02:27:53 +07:00
-snax_approved_by:
-- "1"
 tags:
 - kopi keliling
 - kopling
 title: Ibu Kopi Keliling (Kopling)
 url: /ibu-kopi-keliling-kopling/
-wpdiscuz_post_rating:
-- "5"
-wpdiscuz_post_rating_count:
-- "1"
 ---
 
 Pada akhirnya kopi sama bentuknya yang membedakan siapa yang membuatnya, padahal sama-sama kopi sachet banyak dijual di warung pinggiran jalan atau ibu-ibu kopling (kopi keliling).&nbsp;

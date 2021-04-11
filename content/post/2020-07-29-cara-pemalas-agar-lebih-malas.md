@@ -4,22 +4,7 @@ categories:
 - Internet
 - WTF
 date: 2020-07-29T13:24:32Z
-gnpub_modified_count:
-- "1"
-guid: https://wildanfauzy.com/?p=5965
 image: /wp-content/uploads/2020/07/cara-menjadi-malas.jpeg
-header-mask: 0.4
-id: 5965
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596599375"
-snax_approval_data:
-- 2020-07-29 20:25:44 +07:00
-snax_approved_by:
-- "1"
 tags:
 - malas
 - rebahan

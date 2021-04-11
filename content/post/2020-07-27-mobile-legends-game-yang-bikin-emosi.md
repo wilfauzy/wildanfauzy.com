@@ -3,27 +3,12 @@ author: brek gaming
 categories:
 - Funny
 date: 2020-07-27T12:28:19Z
-guid: https://wildanfauzy.com/?p=5832
 image: /wp-content/uploads/2020/07/screen-6-1.jpg
-header-mask: 0.4
-id: 5832
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596599375"
-snax_approval_data:
-- 2020-07-27 19:29:20 +07:00
-snax_approved_by:
-- "1"
 tags:
 - game
 - mobile legends
 title: Mobile Legends Game Yang Bikin Emosi
 url: /mobile-legends-game-yang-bikin-emosi/
-wps_subtitle:
-- game jancok
 ---
 
 **Wildanfauzy.com** &#8211; Salah satu game yang paling populer di asia tenggara adalah mobile legends, game strategi dimainkan berlima, tentunya sangat seru jika mabar, tapi sangat sial main dengan mode solo dan bertemu dengan pemain random.&nbsp;

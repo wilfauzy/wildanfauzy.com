@@ -3,20 +3,7 @@ author: WilFauzy
 categories:
 - Note
 date: 2020-08-01T22:57:57Z
-guid: https://wildanfauzy.com/?p=6164
 image: /wp-content/uploads/2020/08/tidur-di-lift.jpeg
-header-mask: 0.4
-id: 6164
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596599375"
-snax_approval_data:
-- 2020-08-02 05:58:56 +07:00
-snax_approved_by:
-- "1"
 title: Tidur Di Lift
 url: /tidur-di-lift/
 ---

@@ -3,10 +3,6 @@ author: Redaksi
 categories:
 - Note
 date: 2013-07-27T14:08:00Z
-guid: https://wildanfauzy.com/index.php/2013/07/27/minum-kopi-sebelum-tidur/
-id: 90
-nb_of_words:
-- "273"
 tags:
 - kopi
 title: minum kopi sebelum tidur

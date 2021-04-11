@@ -3,10 +3,7 @@ author: Redaksi
 categories:
 - Note
 date: 2013-08-14T16:16:00Z
-guid: https://wildanfauzy.com/index.php/2013/08/14/berwisata-ke-rumah-teman/
-id: 88
-nb_of_words:
-- "544"
+image: /wp-content/uploads/2013/08/8ac50-eabf0-4148612_20130813091849.jpg
 title: Berwisata ke rumah teman
 url: /berwisata-ke-rumah-teman/
 ---
@@ -33,10 +30,6 @@ url: /berwisata-ke-rumah-teman/
   <p>
     gue langsung ke luar dari kamar yang berantakan, bekas gue tidurin semalem,dan guepun meng&#8221;iya&#8221;kan karna hari ini gak ada jadwal 😀 jadwal molor maksudnya,gue langsung mandi alakadarnya, tanpa gue sadari gue mandi cepet banget sampe sampe temen gue pada memar mukanya,dengan sigabnya gue caww alias OTW ke perempatan, lah kok ke perempatan,yailah nunggu pada kumpul bocahnya, satu abad kemudian.<br />&nbsp;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br />temen temen gue yang lain dah pada dateng dan akhirnya kita <strike>loe aja kali</strike>&nbsp;berangkat menuju rumah temen gue yang sedang ultah atau bahasa jawanya : &#8230;. ohh ternyata gue baru tau ternyata mau main ke rumah temen yang lagi ultah,dalam perjalanan kita sempet nyasar ke rumah tetengganya 😀 pada akhirnya nemu juga rumahnya di daerah majalengka tepatnya di kecamatan leuwimunding.
   </p>
-  
-  <div style="clear:both;text-align:center;">
-    <a href="https://wildanfauzyart.files.wordpress.com/2013/08/8ac50-eabf0-4148612_20130813091849.jpg" style="margin-left:1em;margin-right:1em;"><img loading="lazy" alt="Berwisata ke rumah teman" border="0" height="300" src="https://wildanfauzyart.files.wordpress.com/2013/08/8ac50-eabf0-4148612_20130813091849.jpg?w=300&#038;resize=400%2C300" title="Berwisata ke rumah teman" width="400" data-recalc-dims="1" /></a>
-  </div>
   
   <div style="clear:both;text-align:center;">
   </div>

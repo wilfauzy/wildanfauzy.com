@@ -3,28 +3,9 @@ author: pemuda malkis
 categories:
 - Share
 date: 2020-07-04T21:30:57Z
-guid: https://wildanfauzy.com/?p=4812
 image: /wp-content/uploads/2020/07/Quic-Cloud-Content-Delivery-Network-Gratis.png
-header-mask: 0.4
-id: 4812
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596599375"
-nb_of_words:
-- "407.66666666667"
-neve_meta_enable_content_width:
-- "off"
-post_views_count:
-- "1"
 title: Menggabungkan Quic Cloud dengan Cloudflare
 url: /menggabungkan-quic-cloud-dengan-cloudflare/
-wpdiscuz_post_rating:
-- "4"
-wpdiscuz_post_rating_count:
-- "1"
 ---
 
 **Wildanfauzy.com &#8211;** Setelah kemarin menggunakan full dari quic cloud dan meninggalkan cloudflare, masalah datang secara teratur, untuk memverifikasi cname quic cloud harus menggunakan root domain, dimana hal tersebut akan mengalami error karena SOA domain.
