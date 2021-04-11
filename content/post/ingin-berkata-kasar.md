@@ -1,7 +1,7 @@
 +++
 author = "WilFauzy"
 date = 2021-04-08T19:00:00Z
-image = "/img/20210401_194217.jpg"
+image = "/img/img_20200502_123005.jpg"
 tags = ["bacotan"]
 title = "Ingin Berkata Kasar"
 
@@ -16,4 +16,4 @@ Toh cuma diri sendiri yang bisa merasakannya, lebih enak melamun di bawah sirama
 
 Berkata kasar dengan kata-kata yang tidak kasar bagaimana caranya? 
 
-Coba tanyakan pada kata-kata. 
+Coba tanyakan pada kata-kata.
