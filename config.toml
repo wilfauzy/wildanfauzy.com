@@ -34,8 +34,8 @@ name = "Medium"
 url = "https://jurnal.wildanfauzy.com"
 weight = 102
 [[menu.main]]
-name = "Pinterest"
-url = "https://pinterest.com/wilfauzy"
+name = "Kaskus"
+url = "https://kaskus.co.id/@nadliw45"
 weight = 109
 
 [params]
