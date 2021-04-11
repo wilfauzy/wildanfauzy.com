@@ -2,7 +2,7 @@
 author: Linux Mania
 tags:
 - linux
-image: image: /wp-content/uploads/2013/06/badbd-linux-xubuntu.png
+image: /wp-content/uploads/2013/06/badbd-linux-xubuntu.png
 date: 2013-06-04T13:46:00Z
 title: Make Linux? Berasa Jadi Preman
 url: /make-linux-berasa-jadi-preman/
