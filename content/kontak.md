@@ -4,7 +4,7 @@ date = "2015-04-14T22:17:00+00:00"
 draft = false
 noauthor = true
 share = false
-title = "Kontak Kami"
+title = "Kontak"
 type = "page"
 [menu.main]
 weight = 111
