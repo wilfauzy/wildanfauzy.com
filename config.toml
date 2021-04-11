@@ -11,7 +11,7 @@ name = "Search"
 url = "https://search.wildanfauzy.com"
 weight = 100
 [[menu.main]]
-identifier = "Submit"
+identifier = "Log in"
 name = "Submit"
 url = "https://wildanfauzy.com/app"
 weight = -120
@@ -30,18 +30,18 @@ name = "Kompas"
 url = "https://kompasiana.com/wildanfauzy"
 weight = 101
 [[menu.main]]
-name = "Jurnal"
+name = "Medium"
 url = "https://jurnal.wildanfauzy.com"
 weight = 102
 [[menu.main]]
-name = "Galeri"
+name = "Pinterest"
 url = "https://pinterest.com/wilfauzy"
 weight = 109
 
 [params]
 author = "Wildan Fauzy"
 authorlocation = "Bandung, Indonesia"
-authorwebsite = "https://idan.my.id"
+authorwebsite = "https://wildanfauzy.com"
 authorbio = "Artikel pilihan dari dapur redaksi"
 cover = "/img/black-landscape-2.jpg"
 description = "WildanFauzy.com adalah blog yang membahas info menarik disajikan secara asik dan santai, kumpulan cerita dari sudut pandang yang berbeda"
@@ -53,7 +53,7 @@ disableHugoGeneratorInject = true
 logo = "/img/about.png"
 twitterName = "WilFauzy"
 mediumName ="wilfauzy" 
-#facebookName = ""
+facebookName = "wilfauzy"
 instagramName = "wilfauzy"
 hjsStyle = "agate"
 [permalinks]
