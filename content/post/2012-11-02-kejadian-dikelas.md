@@ -3,18 +3,6 @@ author: Redaksi
 categories:
 - Note
 date: 2012-11-02T12:31:00.000+00:00
-guid: https://wildanfauzy.com/index.php/2012/11/02/kejadian-dikelas/
-id: "105"
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- '0'
-mashsb_shorturl:
-- https://bit.ly/2XsRG0f
-mashsb_timestamp:
-- '1596544568'
-nb_of_words:
-- '285'
 title: Kejadian di Kelas
 url: "/kejadian-dikelas/"
 

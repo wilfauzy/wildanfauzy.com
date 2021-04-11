@@ -3,10 +3,6 @@ author: Redaksi
 categories:
 - Share
 date: 2013-05-02T19:30:00Z
-guid: https://wildanfauzy.com/index.php/2013/05/02/coba-tebak-ke-kiri-atau-kanan/
-id: 103
-nb_of_words:
-- "142"
 title: Coba Tebak ke kiri atau kanan
 url: /coba-tebak-ke-kiri-atau-kanan/
 ---
