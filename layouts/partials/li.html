@@ -25,7 +25,7 @@
             {{end}}     
         {{end}}
 
-        {{if .Params.tags }}on
+        {{if .Params.tags }}di
             {{ range $index, $tag := .Params.tags }}
                 <a href="{{$.Site.BaseURL}}/tags/{{ $tag | urlize }}/">#{{ $tag }}</a>,
             {{ end }}
