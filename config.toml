@@ -3,8 +3,8 @@ copyright = "Some rights reserved"
 disqusshortname = "wildanfauzy"
 languagecode = "id-ID"
 paginate = 8
-pluralizelisttitles = false
-canonifyurls = false
+pluralizelisttitles = true
+canonifyurls = true
 title = "Wildan Fauzy Stories"
 [[menu.main]]
 name = "Search"
