@@ -45,12 +45,13 @@
          {{ range .Params.tags }}
           <span class="post-tag small"><a href="{{$.Site.BaseURL}}/tags/{{ . | urlize }}/">#{{ . }}</a></span>
          {{ end }}
-         {{ partial "breadcrumbs.html" . }}
         </section>
     </header>
+
     <section class="post-content">
       {{ .Content }}
     </section>
+    {{ partial "breadcrumbs.html" . }}
     <aside>
         {{ .TableOfContents }}
     </aside>
