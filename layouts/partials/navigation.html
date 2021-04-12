@@ -16,7 +16,7 @@
     </ul>
 
     {{ if .Site.Params.RSSLink}}
-    <a class="subscribe-button icon-feed" href="{{.Site.Params.RSSLink }}">Subscribe</a> </div>
+    <a class="subscribe-button icon-feed" href="{{.Site.Params.RSSLink }}">Langganan</a> </div>
     {{else}}
     <a class="subscribe-button icon-feed" href="{{if .IsNode}}{{.RSSLink}}{{else}}{{"index.xml" | relURL}}{{end}}">Langganan</a>
     {{end}}
