@@ -3,41 +3,9 @@ author: Redaksi
 categories:
 - Cerita Pendek
 date: 2020-05-30T00:58:56Z
-guid: https://wildanfauzy.com/?p=2460
-id: 2460
-image: /wp-content/uploads/2020/06/pexels-photo-272887.jpeg
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596588125"
-nb_of_words:
-- "458"
-neve_meta_enable_content_width:
-- "off"
+image: /img/opor-ayam.jpg
 tags:
 - cerpen
-- indocafe
-- kopi
-template_meta:
-- "no"
-title: Tidak Ada Indocafe Malam Ini
-url: /tidak-ada-indocafe-malam-ini/
-ytad1meta:
-- enabled
-ytad2meta:
-- enabled
-ytad3meta:
-- enabled
-ytad4meta:
-- enabled
-ytad5meta:
-- enabled
-ytremove_meta_value:
-- "no"
-ytrssenabled_meta_value:
-- "no"
 ---
 
 <p class="has-drop-cap">

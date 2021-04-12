@@ -2,11 +2,8 @@
 author: Redaksi
 categories:
 - Note
-date: 2015-09-16T22:07:00Z
-guid: https://wildanfauzy.com/index.php/2015/09/16/ruang-hibernasi/
-id: 2171
-nb_of_words:
-- "238"
+date: 2015-09-16T22:07:00Zi
+image: /img/ruang-hibernasi.jpg
 title: Ruang Hibernasi
 url: /ruang-hibernasi/
 ---
