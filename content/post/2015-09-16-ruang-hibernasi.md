@@ -2,7 +2,7 @@
 author: Redaksi
 categories:
 - Note
-date: 2015-09-16T22:07:00Zi
+date: 2015-09-16T22:07:00Z
 image: /img/ruang-hibernasi.jpg
 title: Ruang Hibernasi
 url: /ruang-hibernasi/
