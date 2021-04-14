@@ -39,6 +39,8 @@ Saat Anda masuk, kami juga akan menyiapkan beberapa cookie untuk menyimpan infor
 
 Jika Anda mengedit atau menerbitkan artikel, cookie tambahan akan disimpan di browser Anda. Cookie ini tidak menyertakan data pribadi dan hanya menunjukkan ID posting dari artikel yang baru saja Anda edit. Kedaluwarsa setelah 1 hari.
 
+cookies security dan performa cfduid_ dari cloudflare dan web analytics 
+
 ### Konten yang disematkan dari situs web lain
 
 Artikel di situs ini mungkin menyertakan konten yang disematkan (misalnya video, gambar, artikel, dll.). Konten yang disematkan dari situs web lain berperilaku sama persis seperti pengunjung yang mengunjungi situs web lain.
