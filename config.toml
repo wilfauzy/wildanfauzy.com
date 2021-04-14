@@ -3,7 +3,7 @@ copyright = "Hak Cipta Sebagian"
 disqusshortname = "wildanfauzy"
 languagecode = "id-ID"
 paginate = 8
-pluralizelisttitles = true
+pluralizelisttitles = false
 canonifyurls = true
 title = "Wildan Fauzy Stories"
 [[menu.main]]
