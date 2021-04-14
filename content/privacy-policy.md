@@ -23,6 +23,8 @@ Saat pengunjung meninggalkan komentar di situs, kami mengumpulkan data yang dita
 
 String anonim yang dibuat dari alamat email Anda (juga disebut hash) dapat diberikan ke layanan Gravatar untuk melihat apakah Anda menggunakannya. Kebijakan privasi layanan Gravatar tersedia di sini: [https://automattic.com/privacy/.](https://automattic.com/privacy/. "https://automattic.com/privacy/.") Setelah persetujuan atas komentar Anda, gambar profil Anda dapat dilihat oleh publik dalam konteks komentar Anda.
 
+Komentar pihak ketiga menggunakan disqus 
+
 ### Media
 
 Jika Anda mengunggah gambar ke situs web, Anda harus menghindari mengunggah gambar dengan data lokasi tertanam (EXIF GPS) yang disertakan. Pengunjung situs web dapat mengunduh dan mengekstrak data lokasi apa pun dari gambar di situs web.
