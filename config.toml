@@ -50,7 +50,7 @@ RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw"
 hideHUGOSupport = false
 disableHugoGeneratorInject = true
 logo = "/img/about.png"
-twitterName = "WilFauzy"
+twitterName = "wilfauzy"
 pinterestName = "wilfauzy"
 hjsStyle = "agate"
 [permalinks]
@@ -63,4 +63,4 @@ Priority = "-1"
 [params.social]
 twitter = "wilfauzy"
 github = "wilfauzy"
-medium = "wilfauzy" 
+pinteres = "wilfauzy"
