@@ -29,3 +29,4 @@ jobs:
           external_repository: wilfauzy/wilfauzy.github.io
           publish_branch: master
           publish_dir: ./public
+          enable_jekyll: true
