@@ -28,5 +28,6 @@ jobs:
         with:
           deploy_key: ${{ secrets.PERSONAL_TOKEN }}
           external_repository: wilfauzy/wilfauzy.github.io
-          publish_branch: master
+          publish_branch: gh-pages
           publish_dir: ./public
+          keep_files: true
