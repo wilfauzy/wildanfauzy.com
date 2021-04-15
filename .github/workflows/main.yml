@@ -31,5 +31,4 @@ jobs:
           force_orphan: true
           keep_files: true
           publish_dir: ./public
-          keep_files: true
           commit_message: ${{ github.event.head_commit.message }}
