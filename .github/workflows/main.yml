@@ -27,8 +27,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          external_repository: wilfauzy/wilfauzy.github.io
-          publish_branch: memek
+          external_repository: wilfauzy/wilfauzy.github.io         
           force_orphan: true
           keep_files: true
           publish_dir: ./public
