@@ -28,6 +28,9 @@ jobs:
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           external_repository: wilfauzy/wilfauzy.github.io
-          publish_branch: gh-pages
+          publish_branch: memek
+          force_orphan: true
+          keep_files: true
           publish_dir: ./public
           keep_files: true
+          commit_message: ${{ github.event.head_commit.message }}
