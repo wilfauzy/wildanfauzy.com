@@ -2,12 +2,13 @@
 author: Redaksi
 categories:
 - Note
-date: 2015-09-16T22:07:00Z
-image: /img/ruang-hibernasi.jpg
+date: 2015-09-16T22:07:00.000+00:00
+image: "/img/ruang-hibernasi.jpg"
 title: Ruang Hibernasi
-url: /ruang-hibernasi/
----
+url: "/ruang-hibernasi/"
+draft: true
 
+---
 <div style="clear:both;text-align:center;">
   <a style="margin-left:1em;margin-right:1em;" href="https://wildanfauzyart.files.wordpress.com/2015/09/42293-abandoned-room-7007.jpg"><img loading="lazy" title="Ruang Hibernasi" src="https://wildanfauzyart.files.wordpress.com/2015/09/42293-abandoned-room-7007.jpg?w=300&#038;resize=400%2C266" alt="Ruang Hibernasi" width="400" height="266" border="0" data-recalc-dims="1" /></a>
 </div>
