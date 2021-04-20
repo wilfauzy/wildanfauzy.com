@@ -13,7 +13,7 @@ weight = 100
 [[menu.main]]
 identifier = "Log in"
 name = "Log in"
-url = "https://wildanfauzy.com/app"
+url = "https://app.wildanfauzy.com/"
 weight = -120
 [[menu.main]]
 identifier = "Surat"
