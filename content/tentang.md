@@ -11,25 +11,6 @@ weight = 111
 
 +++
 
-Wildan Fauzy adalah seorang pengarang, penulis dan essais berkebangsaan Indonesia. Menulis novel, cerita pendek, essai. Bukunya yang sudah terbit adalah Kandang Babi (2017) dan Anak Babi Sekumpulan Cerita (2019). Wildan lahir di Cirebon, Jawa Barat, Indonesia, pada 26 Maret 1996. Dibesarkan di sebuah desa kecil bernama Budur, satu jam perjalanan dari Kota Cirebon, tinggal di Bandung, dan kuliah Sejarah Peradaban Isam du UIN Sunan Gunung Djati Bandung.
-
-Menulis di blog dan media lainnya, tetapi lebih sering ngopi indocafe di warung mangaep, tema yang ditulis sekedar catatan disekitar, dan beberapa cerita pendek yang sangat absurd, pekerjaan sekarang adalah aktifis media sosial, fokus memperjuangkan hak-hak kaum rebahan.
-
-![](/img/3bcfa-62f58-foto0597.jpg)
-
-![](/img/ebcab-wildan-fauzy.jpg)
-
-![](/img/8b885-img_fk2f0g1637580483.jpg)
-
-![](7img/6cfb7-c78d4-ptdc0030.jpg)
-
-![](/img/73b60-20160907_1545231.jpg)
-
-![](/img/8587e-18278790_1665451626816954_7470397289536058970_o.jpg)
-
-
-## Perjalanan Website
-
 WildanFauzy.com adalah media santai dan asik nomor satu di indonesia, membahas hal yang tidak terlalu penting menjadi penting hahahah yang mewadahi tulisan yang mempunyai semangat dan kreativitas, dan hanya untuk sekedar hiburan melewati hiruk pikuk dunia.
 
 Wildanfauzy.com saat ini menerbitkan artikel dan dengan pilihan tema yang beragam. Ada 6 kategori yang terdiri dari **Cerita Pendek (cerpen) Note (catatan) Share (berbagi hal yang cukup menarik) Travel (jalan-jalan) Buku (ulasan buku) dan Linux (membahas segala hal tentang linux)** .
