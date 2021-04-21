@@ -1,6 +1,7 @@
 +++
 author = "WilFauzy"
 date = 2021-04-08T19:00:00Z
+draft = true
 image = "/img/img_20200502_123005.jpg"
 tags = ["bacotan"]
 title = "Ingin Berkata Kasar"
