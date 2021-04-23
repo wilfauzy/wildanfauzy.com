@@ -1,15 +1,9 @@
 +++
-author = ""
-date = 2021- -
-image = "/img/"
-tags = [""]
-title = ""
-++++++
-author = ""
-date = 2021- -
-image = "/img/"
-tags = [""]
-title = ""
+author = "WilFauzy"
+date = 2021-03-28T10:00:00Z
+image = "/img/pexels-cátia-matos-1072179_arnckz.jpg"
+tags = ["note"]
+title = "Kelaparan Terjebak Hujan"
 +++
 Semalam tidur jam sembilan pas lalu bangun tepat jam sembilan pagi, dibangunkan oleh seorang teman karena ada telepon masuk dari sang kekasih.
 
