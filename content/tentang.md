@@ -27,6 +27,12 @@ Menulis di blog dan media lainnya, tetapi lebih sering ngopi indocafe di warung 
 
 ![](/img/8587e-18278790_1665451626816954_7470397289536058970_o.jpg)
 
+![](/img/wildan-fauzi.jpg)
+
+![](/img/wildan.jpg)
+
+![](/img/fauzy.jpg)
+
 
 ## Perjalanan Website
 
