@@ -1,20 +1,6 @@
 ---
 author: Redaksi
 date: 2016-10-22T12:16:00Z
-essb_cached_image:
-- https://wildanfauzyart.files.wordpress.com/2020/04/340bf-attractive-bar-barista-296888.jpg?resize=640%2C300&#038;ssl=1
-gnpub_modified_count:
-- "2"
-guid: http://wildanfauzy.art.blog/2016/10/22/warung-kopi-dan-elegi-malam-minggu/
-id: 2184
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596588125"
-nb_of_words:
-- "224"
 tags:
 - kopi
 title: Warung Kopi dan Elegi Malam Minggu
