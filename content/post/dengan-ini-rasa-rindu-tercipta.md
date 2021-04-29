@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2015-12-30T14:45:00Z
 guid: https://wildanfauzy.com/index.php/2015/12/30/dengan-ini-rasa-rindu-tercipta/

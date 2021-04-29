@@ -1,7 +1,5 @@
 ---
 author: Redaksi
-categories:
-- Note
 date: 2020-08-26T08:26:04Z
 guid: https://wildanfauzy.com/colokan-dan-segelas-es/
 image: /wp-content/uploads/2020/08/colokan-kopi-wifi.jpg

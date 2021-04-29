@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2013-05-02T19:30:00Z
 title: Coba Tebak ke kiri atau kanan

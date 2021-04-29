@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2013-06-08T04:59:00.000+00:00
 image: "/img/cerita-the-blue-carbuncle.jpeg"
