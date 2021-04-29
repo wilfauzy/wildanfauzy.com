@@ -1,7 +1,5 @@
 ---
 author: pemuda malkis
-categories:
-- Internet
 date: 2020-10-18T12:57:34Z
 guid: https://wildanfauzy.com/?p=8431
 image: /wp-content/uploads/2020/10/vps-untuk-pemula.jpg
