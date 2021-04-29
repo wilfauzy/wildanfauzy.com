@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2013-06-22T01:24:00Z
 guid: https://wildanfauzy.com/index.php/2013/06/22/hari-pembagian-rapot/

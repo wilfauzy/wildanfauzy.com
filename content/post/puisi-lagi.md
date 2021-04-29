@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2013-10-17T06:42:00Z
 guid: https://wildanfauzy.com/index.php/2013/10/17/puisi-lagi/

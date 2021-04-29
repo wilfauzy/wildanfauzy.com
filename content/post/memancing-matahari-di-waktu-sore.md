@@ -1,7 +1,5 @@
 ---
 author: Redaksi
-categories:
-- Cerita Pendek
 date: 2020-07-03T17:35:30Z
 image: /wp-content/uploads/2020/07/pexels-photo-349727.jpeg
 tags:

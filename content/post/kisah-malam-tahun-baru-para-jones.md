@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2014-01-02T13:55:00Z
 guid: https://wildanfauzy.com/index.php/2014/01/02/kisah-malam-tahun-baru-para-jones/

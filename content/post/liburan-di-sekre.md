@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 title: Liburan di Sekre
 date: 2015-06-21T16:08:00Z

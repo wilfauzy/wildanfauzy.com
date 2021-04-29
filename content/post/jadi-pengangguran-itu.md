@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2014-06-26T15:15:00Z
 guid: https://wildanfauzy.com/index.php/2014/06/26/jadi-pengangguran-itu/

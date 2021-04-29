@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2020-01-02T13:33:26Z
 guid: https://wildanfauzy.com/gimana-apanya-kenapa/

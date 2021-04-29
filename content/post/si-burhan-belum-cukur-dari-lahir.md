@@ -1,7 +1,5 @@
 ---
 author: WilFauzy
-categories:
-- WOW
 date: 2020-07-26T22:07:33Z
 image: /wp-content/uploads/2020/07/IMG_20200726_220111_410.jpg
 tags:

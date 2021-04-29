@@ -1,7 +1,5 @@
 ---
 author: Redaksi
-categories:
-- Cerita Pendek
 date: 2019-04-22T23:30:00Z
 guid: http://wildanfauzy.art.blog/2019/04/22/selembar-uang-di-tepi-jalan/
 id: 2175

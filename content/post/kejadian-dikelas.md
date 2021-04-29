@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2012-11-02T12:31:00.000+00:00
 title: Kejadian di Kelas

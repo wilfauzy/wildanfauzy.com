@@ -1,8 +1,5 @@
 ---
 author: pemuda malkis
-categories:
-- Internet
-- Share
 date: 2020-09-15T17:22:12Z
 guid: https://wildanfauzy.com/?p=8066
 image: /wp-content/uploads/2020/09/cara-tranfer-domain.jpg

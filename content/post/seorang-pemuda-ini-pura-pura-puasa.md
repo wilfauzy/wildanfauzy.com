@@ -1,7 +1,5 @@
 ---
 author: Redaksi
-categories:
-- Cerita Pendek
 date: 2019-06-06T19:34:29Z
 image: /img/18f5e-puasa-palsu.jpeg
 tags:

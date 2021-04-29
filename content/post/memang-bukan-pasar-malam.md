@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Buku
 date: 2017-01-03T05:30:00Z
 gnpub_modified_count:

@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2015-09-16T22:07:00.000+00:00
 image: "/img/ruang-hibernasi.jpg"

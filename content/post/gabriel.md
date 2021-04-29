@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Buku
 date: 2019-10-24T13:02:07Z
 title: Gabriel Garcia Marquez My Love

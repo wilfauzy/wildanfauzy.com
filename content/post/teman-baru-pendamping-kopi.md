@@ -1,7 +1,5 @@
 ---
 author: Redaksi
-categories:
-- Share
 date: 2015-09-13T20:56:00Z
 guid: https://wildanfauzy.com/index.php/2015/09/13/teman-baru-pendamping-kopi/
 id: 2172

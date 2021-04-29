@@ -1,8 +1,5 @@
 ---
 author: pemuda malkis
-categories:
-- Internet
-- Share
 date: 2020-08-22T08:38:49.000+00:00
 guid: https://wildanfauzy.com/?p=7182
 image: "/wp-content/uploads/2020/07/google-chrome.jpg"

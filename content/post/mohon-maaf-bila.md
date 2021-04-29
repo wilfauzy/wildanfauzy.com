@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2014-06-28T06:25:00Z
 guid: https://wildanfauzy.com/index.php/2014/06/28/mohon-maaf-bila/

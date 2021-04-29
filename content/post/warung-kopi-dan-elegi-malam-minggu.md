@@ -1,7 +1,5 @@
 ---
 author: Redaksi
-categories:
-- Note
 date: 2016-10-22T12:16:00Z
 essb_cached_image:
 - https://wildanfauzyart.files.wordpress.com/2020/04/340bf-attractive-bar-barista-296888.jpg?resize=640%2C300&#038;ssl=1

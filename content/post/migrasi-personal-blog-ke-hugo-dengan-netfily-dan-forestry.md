@@ -1,6 +1,6 @@
 ---
 author: pemuda malkis
-categories:
+tags:
 - Internet
 date: 2020-11-07T14:30:51Z
 guid: https://wildanfauzy.com/?p=8617

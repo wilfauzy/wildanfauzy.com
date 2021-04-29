@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Buku
 date: 2020-01-07T08:52:15Z
 image: /img/dfacd-pecundang.jpg

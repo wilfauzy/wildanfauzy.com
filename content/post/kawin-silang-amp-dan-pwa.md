@@ -1,7 +1,5 @@
 ---
 author: pemuda malkis
-categories:
-- Share
 date: 2020-06-27T08:46:45Z
 guid: https://wildanfauzy.com/?p=4469
 id: 4469

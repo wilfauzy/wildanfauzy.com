@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 image: /img/abc88-about-2.jpg
 date: 2020-01-06T14:09:55Z

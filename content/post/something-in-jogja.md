@@ -12,7 +12,7 @@ article_items_4340:
 author: Redaksi
 blogposting_items_4340:
 - a:0:{}
-categories:
+tags:
 - Note
 date: 2020-01-03T04:24:01Z
 essb_cached_image:

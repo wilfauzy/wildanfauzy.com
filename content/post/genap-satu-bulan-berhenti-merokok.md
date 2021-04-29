@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2014-07-31T13:58:00Z
 guid: https://wildanfauzy.com/index.php/2014/07/31/genap-satu-bulan-berhenti-merokok/

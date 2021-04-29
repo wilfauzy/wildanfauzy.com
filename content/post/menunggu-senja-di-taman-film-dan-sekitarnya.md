@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Travel
 date: 2015-02-20T20:20:00Z
 image: /img/e430f-778e9-ptdc0072.jpg

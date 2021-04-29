@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2020-09-23T20:45:30Z
 guid: https://wildanfauzy.com/?p=8246

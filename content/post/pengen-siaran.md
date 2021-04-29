@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2019-05-08T00:27:00Z
 image: /img/2c7ab-screenshot_20190507-202343.png

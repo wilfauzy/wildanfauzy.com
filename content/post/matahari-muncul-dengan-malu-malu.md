@@ -1,7 +1,5 @@
 ---
 author: Redaksi
-categories:
-- Cerita Pendek
 date: 2020-01-04T08:12:53Z
 image: /img/5528d-blurred-background-close-up-clouds-1752806.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 author: WilFauzy
-categories:
+tags:
 - Share
 date: 2020-08-19T07:53:30Z
 guid: https://wildanfauzy.com/?p=7088

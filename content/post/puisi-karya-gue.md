@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2013-09-21T08:18:00Z
 guid: https://wildanfauzy.com/index.php/2013/09/21/puisi-karya-gue/

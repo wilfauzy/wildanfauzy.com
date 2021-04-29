@@ -12,7 +12,7 @@ article_items_4340:
 author: Redaksi
 blogposting_items_4340:
 - a:0:{}
-categories:
+tags:
 - Cerita Pendek
 date: 2019-04-19T23:30:00Z
 faq_question_4340:

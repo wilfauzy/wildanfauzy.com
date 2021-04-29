@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2011-12-31T18:27:00Z
 image: /wp-content/uploads/2011/12/7b7fe-bright-celebrate-celebration-769525.jpg

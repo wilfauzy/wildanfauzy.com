@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2015-04-18T06:39:00Z
 guid: https://wildanfauzy.com/index.php/2015/04/18/sepedaku-yang-malang/

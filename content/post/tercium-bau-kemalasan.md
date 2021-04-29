@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2013-12-20T06:49:00Z
 guid: https://wildanfauzy.com/index.php/2013/12/20/tercium-bau-kemalasan/

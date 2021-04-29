@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2012-03-01T04:58:00Z
 image: /wp-content/uploads/2012/03/fce36-art-materials-colorful-colors-284082.jpg

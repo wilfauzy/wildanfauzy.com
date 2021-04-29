@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2013-11-08T12:18:00Z
 guid: https://wildanfauzy.com/index.php/2013/11/08/kembali-dengan-wajah-baru/

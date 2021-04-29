@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2013-08-03T17:41:00Z
 title: Gonta ganti Template

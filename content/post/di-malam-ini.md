@@ -12,7 +12,7 @@ article_items_4340:
 author: Redaksi
 blogposting_items_4340:
 - a:0:{}
-categories:
+tags:
 - Note
 date: 2019-07-07T03:24:55Z
 faq_question_4340:

@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2012-10-28T08:46:00Z
 image: /img/Kartu Ucapan Lucu Idul Adha 2012.gif

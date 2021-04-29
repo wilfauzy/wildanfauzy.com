@@ -1,7 +1,5 @@
 ---
 author: Linux Mania
-categories:
-- Linux
 date: 2020-06-02T13:09:42.000+00:00
 image: "/wp-content/uploads/2020/06/xubuntu.png"
 subtitle: ''

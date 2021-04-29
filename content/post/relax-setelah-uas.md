@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2013-12-14T12:12:00Z
 guid: https://wildanfauzy.com/index.php/2013/12/14/relax-setelah-uas/

@@ -1,7 +1,5 @@
 ---
 author: Linux Mania
-categories:
-- Linux
 date: 2020-10-03T18:03:40Z
 guid: https://wildanfauzy.com/?p=8357
 image: /wp-content/uploads/2020/10/lubuntu.jpg

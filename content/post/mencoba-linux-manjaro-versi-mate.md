@@ -1,7 +1,5 @@
 ---
 author: Linux Mania
-categories:
-- Linux
 date: 2020-08-21T18:19:50.000+00:00
 guid: https://wildanfauzy.com/?p=7146
 image: "/wp-content/uploads/2020/08/Screenshot-pada-2020-08-20-23-17-41-min.png"

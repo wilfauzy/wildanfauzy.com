@@ -1,7 +1,5 @@
 ---
 author: WilFauzy
-categories:
-- Cerita Pendek
 date: 2020-07-30T20:15:10Z
 image: /wp-content/uploads/2020/07/sore-shubuh-matahari-.jpg
 tags:

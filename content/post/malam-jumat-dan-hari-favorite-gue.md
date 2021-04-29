@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2014-01-16T05:42:00Z
 guid: https://wildanfauzy.com/index.php/2014/01/16/malam-jumat-dan-hari-favorite-gue/

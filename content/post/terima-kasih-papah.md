@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2019-04-16T05:11:00Z
 guid: http://wildanfauzy.art.blog/2019/04/16/terima-kasih-papah/

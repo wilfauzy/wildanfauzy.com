@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2013-05-30T12:56:00Z
 title: Korupsi

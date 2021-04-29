@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Cerita Pendek
 date: 2020-10-01T23:04:46Z
 guid: https://wildanfauzy.com/kodok-masuk-tanpa-permisi/

@@ -1,8 +1,5 @@
 ---
 author: pemuda malkis
-categories:
-- Internet
-- Share
 date: 2020-08-24T16:17:47Z
 guid: https://wildanfauzy.com/?p=7218
 image: /wp-content/uploads/2020/08/plugins-Jetpack.jpg

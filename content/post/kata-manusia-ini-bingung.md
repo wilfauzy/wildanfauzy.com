@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2015-09-18T14:00:00Z
 guid: https://wildanfauzy.com/index.php/2015/09/18/kata-manusia-ini-bingung/

@@ -1,7 +1,5 @@
 ---
 author: Redaksi
-categories:
-- Cerita Pendek
 date: 2019-04-20T23:30:00Z
 essb_cached_image:
 - https://wildanfauzyart.files.wordpress.com/2020/04/5528d-blurred-background-close-up-clouds-1752806.jpg?resize=640%2C300&#038;ssl=1

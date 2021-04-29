@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Travel
 date: 2015-04-25T19:48:00Z
 guid: https://wildanfauzy.com/index.php/2015/04/25/melihat-kota-bandung-dari-ketinggian/

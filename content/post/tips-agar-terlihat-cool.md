@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2014-06-27T08:55:00Z
 guid: https://wildanfauzy.com/index.php/2014/06/27/tips-agar-terlihat-cool/

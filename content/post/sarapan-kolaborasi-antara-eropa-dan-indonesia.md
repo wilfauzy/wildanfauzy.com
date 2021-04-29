@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2015-03-09T01:09:00Z
 guid: https://wildanfauzy.com/index.php/2015/03/09/sarapan-kolaborasi-antara-eropa-dan-indonesia/

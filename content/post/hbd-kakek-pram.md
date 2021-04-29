@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2017-02-06T13:14:00Z
 guid: http://wildanfauzy.art.blog/2017/02/06/hbd-kakek-pram/

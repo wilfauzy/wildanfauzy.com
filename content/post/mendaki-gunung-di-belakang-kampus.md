@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Travel
 date: 2014-10-30T17:11:00Z
 guid: https://wildanfauzy.com/index.php/2014/10/30/mendaki-gunung-di-belakang-kampus/

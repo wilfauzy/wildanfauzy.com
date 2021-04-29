@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Travel
 date: 2014-10-12T06:45:00Z
 gnpub_modified_count:

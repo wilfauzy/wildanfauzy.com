@@ -5,6 +5,8 @@ date: 2010-12-08T14:04:00Z
 image: /wp-content/uploads/2011/12/762fe-adventure-blur-close-up-346885.jpg
 header-mask: "0.4"
 title: Hello World
+tags:
+ - note
 url: /hello-world/
 ---
 

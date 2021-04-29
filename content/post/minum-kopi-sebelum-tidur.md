@@ -1,7 +1,5 @@
 ---
 author: Redaksi
-categories:
-- Note
 date: 2013-07-27T14:08:00Z
 tags:
 - kopi

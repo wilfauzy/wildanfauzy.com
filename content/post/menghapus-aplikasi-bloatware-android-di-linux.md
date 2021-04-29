@@ -1,7 +1,5 @@
 ---
 author: Linux Mania
-categories:
-- Linux
 date: 2020-09-17T16:59:40Z
 guid: https://wildanfauzy.com/?p=8108
 image: /wp-content/uploads/2020/09/cara-uninstall-aplikasi-bawaan-android.jpg

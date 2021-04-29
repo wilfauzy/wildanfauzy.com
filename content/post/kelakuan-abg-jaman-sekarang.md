@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2013-09-04T06:12:00Z
 guid: https://wildanfauzy.com/index.php/2013/09/04/kelakuan-abg-jaman-sekarang/

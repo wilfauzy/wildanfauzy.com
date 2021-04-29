@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2019-03-05T06:24:00Z
 guid: http://wildanfauzy.art.blog/2019/03/05/judulnya-entah/

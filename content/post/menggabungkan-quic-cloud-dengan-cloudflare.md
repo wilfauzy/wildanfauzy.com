@@ -1,6 +1,6 @@
 ---
 author: pemuda malkis
-categories:
+tags:
 - Share
 date: 2020-07-04T21:30:57Z
 image: /wp-content/uploads/2020/07/Quic-Cloud-Content-Delivery-Network-Gratis.png

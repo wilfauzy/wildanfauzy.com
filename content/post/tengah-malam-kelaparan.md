@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Cerita Pendek
 date: 2020-08-25T01:17:39Z
 guid: https://wildanfauzy.com/tengah-malam-kelaparan/

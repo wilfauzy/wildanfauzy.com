@@ -1,7 +1,5 @@
 ---
 author: brek gaming
-categories:
-- Funny
 date: 2020-07-27T12:28:19Z
 image: /wp-content/uploads/2020/07/screen-6-1.jpg
 tags:

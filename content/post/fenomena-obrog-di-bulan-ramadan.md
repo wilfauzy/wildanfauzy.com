@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2014-07-06T18:28:00Z
 guid: https://wildanfauzy.com/index.php/2014/07/06/fenomena-obrog-di-bulan-ramadan/

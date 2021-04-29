@@ -1,6 +1,6 @@
 ---
 author: WilFauzy
-categories:
+tags:
 - Cerita Pendek
 date: 2020-09-16T20:13:00Z
 guid: https://wildanfauzy.com/?p=8088

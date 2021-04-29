@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2016-03-10T05:36:00Z
 guid: http://wildanfauzy.art.blog/2016/03/10/pagi-apa-ini/

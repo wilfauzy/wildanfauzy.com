@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2020-06-17T22:04:49Z
 guid: https://wildanfauzy.com/tukang-rebahan-modal-bacot/

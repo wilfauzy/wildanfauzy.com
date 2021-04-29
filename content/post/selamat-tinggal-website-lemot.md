@@ -1,7 +1,5 @@
 ---
 author: pemuda malkis
-categories:
-- Share
 date: 2020-08-12T18:20:37Z
 guid: https://wildanfauzy.com/?p=6901
 image: /wp-content/uploads/2020/08/Billy_duotone-1000px_quiche-sans-top.png

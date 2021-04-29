@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2019-12-27T19:18:02Z
 guid: https://wildanfauzy.com/?p=1547

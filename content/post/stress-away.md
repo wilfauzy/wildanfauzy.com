@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2013-08-31T17:15:00Z
 guid: https://wildanfauzy.com/index.php/2013/08/31/stress-away/

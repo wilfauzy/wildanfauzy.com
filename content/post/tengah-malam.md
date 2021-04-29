@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2020-05-27T00:44:46Z
 title: Tengah Malam Datang Cepat Pergi

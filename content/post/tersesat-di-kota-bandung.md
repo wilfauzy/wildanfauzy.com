@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Travel
 date: 2014-09-28T15:36:00Z
 guid: https://wildanfauzy.com/index.php/2014/09/28/tersesat-di-kota-bandung/

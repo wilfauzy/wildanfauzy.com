@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2015-04-29T18:04:00Z
 guid: https://wildanfauzy.com/index.php/2015/04/29/ternyata-dulu-gue-ganteng/

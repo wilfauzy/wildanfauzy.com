@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2020-06-18T23:31:19Z
 guid: https://wildanfauzy.com/tidak-ada-yang-membosankan-selain-bosan-itu-sendiri/

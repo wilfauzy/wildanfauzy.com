@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2014-01-17T21:43:00Z
 guid: https://wildanfauzy.com/index.php/2014/01/17/kembali-ke-kandang/

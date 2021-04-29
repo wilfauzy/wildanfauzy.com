@@ -1,7 +1,5 @@
 ---
 author: pemuda malkis
-categories:
-- Share
 image: /wp-content/uploads/2020/07/pexels-photo-216631.jpeg
 tags:
 - cdn

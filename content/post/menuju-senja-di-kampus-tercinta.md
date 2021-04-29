@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2015-05-21T18:03:00Z
 guid: https://wildanfauzy.com/index.php/2015/05/21/menuju-senja-di-kampus-tercinta/

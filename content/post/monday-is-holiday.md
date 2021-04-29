@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2015-02-17T14:39:00Z
 guid: https://wildanfauzy.com/index.php/2015/02/17/monday-is-holiday/

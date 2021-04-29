@@ -2,8 +2,6 @@
 atap_auto_post:
 - "no"
 author: WilFauzy
-categories:
-- WOW
 date: 2020-08-14T11:26:52Z
 guid: https://wildanfauzy.com/?p=6927
 image: /wp-content/uploads/2020/08/gelas-kopi.jpg

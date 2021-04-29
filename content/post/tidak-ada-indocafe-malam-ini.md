@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Cerita Pendek
 title: Tidak Ada Indocafe Malam Ini
 date: 2020-05-30T00:58:56Z

@@ -1,6 +1,6 @@
 ---
 author: brek gaming
-categories:
+tags:
 - Funny
 date: 2020-09-17T20:46:10Z
 guid: https://wildanfauzy.com/?p=8125

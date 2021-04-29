@@ -1,6 +1,6 @@
 ---
 author: pemuda malkis
-categories:
+tags:
 - WTF
 date: 2020-07-25T23:00:14Z
 image: /wp-content/uploads/2020/07/IMG_20200726_220111_410.jpg

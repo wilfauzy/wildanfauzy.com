@@ -1,6 +1,6 @@
 ---
 author: WilFauzy
-categories:
+tags:
 - Note
 date: 2020-08-01T22:57:57Z
 image: /wp-content/uploads/2020/08/tidur-di-lift.jpeg

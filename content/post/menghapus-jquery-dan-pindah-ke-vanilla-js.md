@@ -1,7 +1,5 @@
 ---
 author: pemuda malkis
-categories:
-- Internet
 date: 2020-09-15T20:56:11Z
 guid: https://wildanfauzy.com/?p=8079
 image: /wp-content/uploads/2020/09/cara-menghapus-jquey-di-wordpress.jpg

@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2014-03-05T20:57:00Z
 guid: https://wildanfauzy.com/index.php/2014/03/05/habis-to-terbitlah-uambn/

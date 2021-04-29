@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2013-11-28T14:30:00Z
 guid: https://wildanfauzy.com/index.php/2013/11/28/ngeblog-lewat-hp-why-not/

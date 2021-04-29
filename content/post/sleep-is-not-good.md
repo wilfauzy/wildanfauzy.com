@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2020-01-09T22:20:04Z
 image: /img/00ab3-pexels-photo-1382393.jpeg

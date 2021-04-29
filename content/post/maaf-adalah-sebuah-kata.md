@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2020-10-09T21:28:38Z
 guid: https://wildanfauzy.com/maaf-adalah-sebuah-kata/

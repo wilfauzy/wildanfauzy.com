@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2015-04-18T16:24:00Z
 guid: https://wildanfauzy.com/index.php/2015/04/18/keadaan-kamar-ketika-gue-dapet-ilham/

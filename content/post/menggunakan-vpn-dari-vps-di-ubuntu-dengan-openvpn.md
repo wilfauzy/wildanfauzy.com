@@ -1,7 +1,5 @@
 ---
 author: Linux Mania
-categories:
-- Linux
 date: 2020-10-30T16:57:17Z
 guid: https://wildanfauzy.com/?p=8567
 image: /wp-content/uploads/2020/10/vpnkonekkevps.jpeg

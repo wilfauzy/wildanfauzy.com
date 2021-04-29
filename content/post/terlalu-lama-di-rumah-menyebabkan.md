@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2020-07-15T08:25:52Z
 image: /wp-content/uploads/2020/07/pexels-photo-298842.jpeg

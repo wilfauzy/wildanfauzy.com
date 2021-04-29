@@ -1,7 +1,5 @@
 ---
 author: Redaksi
-categories:
-- WTF
 date: 2020-09-02T00:12:33Z
 guid: https://wildanfauzy.com/?p=7836
 image: /wp-content/uploads/2020/09/makanan-sisa-kemaren.jpg

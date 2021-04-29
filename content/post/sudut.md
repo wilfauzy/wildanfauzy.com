@@ -1,7 +1,5 @@
 ---
 author: Redaksi
-categories:
-- Cerita Pendek
 date: 2019-12-25T07:38:23Z
 image: /img/8e39e-low-angle-photography-of-corner-of-building-2079289.jpg
 tags:

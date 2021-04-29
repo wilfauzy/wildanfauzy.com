@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Travel
 date: 2013-07-22T08:05:00Z
 guid: https://wildanfauzy.com/index.php/2013/07/22/cosane-go-to-guci/

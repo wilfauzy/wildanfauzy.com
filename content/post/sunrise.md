@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2016-03-12T11:45:00Z
 essb_cached_image:

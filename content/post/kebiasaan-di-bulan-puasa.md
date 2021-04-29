@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2013-07-08T09:08:00Z
 guid: https://wildanfauzy.com/index.php/2013/07/08/kebiasaan-di-bulan-puasa/

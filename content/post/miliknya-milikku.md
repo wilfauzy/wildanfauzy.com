@@ -1,6 +1,6 @@
 ---
 author: needhugpls
-categories:
+tags:
 - NSFW
 date: 2020-09-01T00:02:15Z
 guid: https://wildanfauzy.com/?p=7786

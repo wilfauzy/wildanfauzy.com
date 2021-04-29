@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2014-09-25T15:50:00Z
 guid: https://wildanfauzy.com/index.php/2014/09/25/sebuah-kata-mahasiswa/

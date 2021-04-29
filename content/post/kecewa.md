@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2012-03-15T13:38:00Z
 image: /wp-content/uploads/2012/03/34941-adult-art-artsy-278312.jpg

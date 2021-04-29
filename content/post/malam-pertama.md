@@ -1,14 +1,12 @@
 ---
 author: needhugpls
-categories:
+tags:
 - NSFW
 date: 2020-08-22T01:57:12Z
 guid: https://wildanfauzy.com/?p=7179
 image: /wp-content/uploads/2020/08/pexelsphoto1450155-scaled.jpeg
 header-mask: 0.4
 id: 7179
-tags:
-- cobacoba
 title: Malam Pertama
 url: /malam-pertama/
 ---

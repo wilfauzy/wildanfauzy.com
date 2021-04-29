@@ -1,7 +1,7 @@
 ---
 author: Redaksi
-categories:
-- Internet
+tags:
+- travel
 date: 2015-03-18T09:07:00Z
 guid: https://wildanfauzy.com/index.php/2015/03/18/pengalaman-pertama-kali-naik-kereta/
 id: 44

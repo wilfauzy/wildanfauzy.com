@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Travel
 date: 2015-02-21T02:46:00Z
 guid: https://wildanfauzy.com/index.php/2015/02/21/tenggelam-di-cipanas-garut/

@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2020-07-04T10:41:03Z
 image: /wp-content/uploads/2020/07/pexels-photo-395196.jpeg

@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Travel
 date: 2014-05-15T07:43:00Z
 guid: https://wildanfauzy.com/index.php/2014/05/15/papandayan-oh-papandayan/

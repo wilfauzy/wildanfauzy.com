@@ -1,6 +1,6 @@
 ---
 author: WilFauzy
-categories:
+tags:
 - Internet
 date: 2020-08-08T08:00:34Z
 image: /wp-content/uploads/2020/08/pexels-ylanite-koppens-1445416-1.jpg

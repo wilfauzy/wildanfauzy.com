@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2020-10-22T16:06:23Z
 guid: https://wildanfauzy.com/hujan-dan-mati-lampu/

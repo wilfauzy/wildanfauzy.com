@@ -1,7 +1,5 @@
 ---
 author: smolcomrade
-categories:
-- Cerita Pendek
 date: 2020-09-01T22:56:29Z
 guid: https://wildanfauzy.com/?p=7814
 image: /wp-content/uploads/2020/09/pexels-hey-karan-1694663-1.jpg

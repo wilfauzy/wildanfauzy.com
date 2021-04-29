@@ -1,7 +1,5 @@
 ---
 author: Redaksi
-categories:
-- Note
 date: 2020-09-17T19:21:39Z
 guid: https://wildanfauzy.com/?p=8122
 image: /wp-content/uploads/2020/09/berkat.jpg

@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2016-02-12T15:13:00Z
 guid: https://wildanfauzy.com/index.php/2016/02/12/kopi-sianida-itu-nikmat/

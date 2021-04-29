@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2014-04-23T02:49:00Z
 guid: https://wildanfauzy.com/index.php/2014/04/23/liburan-yang-gak-ngabisin-duit/

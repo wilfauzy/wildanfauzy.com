@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2013-11-24T05:37:00Z
 guid: https://wildanfauzy.com/index.php/2013/11/24/hari-minggu-ada-apa-denganmu/

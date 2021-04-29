@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2012-03-15T14:14:00Z
 image: /wp-content/uploads/2012/03/24839-blur-close-up-environment-401213.jpg

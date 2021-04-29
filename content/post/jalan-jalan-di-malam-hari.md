@@ -1,6 +1,6 @@
 ---
 author: smolcomrade
-categories:
+tags:
 - Cerita Pendek
 date: 2020-09-15T23:34:48Z
 guid: https://wildanfauzy.com/?p=8074

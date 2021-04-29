@@ -1,7 +1,5 @@
 ---
 author: WilFauzy
-categories:
-- WTF
 date: 2020-08-19T15:00:13Z
 guid: https://wildanfauzy.com/?p=7095
 image: /wp-content/uploads/2020/08/pexels-freestocksorg-34239.jpg

@@ -1,6 +1,6 @@
 ---
 author: WilFauzy
-categories:
+tags:
 - WOW
 date: 2020-08-10T15:58:44Z
 guid: https://wildanfauzy.com/?p=6841

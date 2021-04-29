@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Travel
 date: 2012-06-24T05:07:00Z
 image: /wp-content/uploads/2012/06/9ed5f-e60a7-foto-0157.jpg.jpg

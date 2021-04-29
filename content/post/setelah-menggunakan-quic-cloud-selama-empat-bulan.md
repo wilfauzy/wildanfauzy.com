@@ -1,9 +1,6 @@
 ---
 author: pemuda malkis
 catalog: true
-categories:
-- Internet
-- Share
 date: 2020-09-28T15:29:47Z
 guid: https://wildanfauzy.com/?p=8290
 image: /wp-content/uploads/2020/09/cloudflare.png

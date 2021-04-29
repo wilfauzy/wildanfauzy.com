@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Travel
 date: 2013-12-29T15:42:00Z
 guid: https://wildanfauzy.com/index.php/2013/12/29/pengalaman-mendaki-gunung-tertinggi-di-jawa-barat/

@@ -1,7 +1,5 @@
 ---
 author: smolcomrade
-categories:
-- Cerita Pendek
 date: 2020-07-28T19:39:49Z
 image: /wp-content/uploads/2020/07/pexelsphoto1105191-scaled.jpeg
 tags:

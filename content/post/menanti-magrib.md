@@ -1,7 +1,5 @@
 ---
 author: WilFauzy
-categories:
-- Cerita Pendek
 date: 2020-07-28T18:22:58Z
 image: /wp-content/uploads/2020/07/800px-Senja_di_Lubuk_Buaya.jpg
 tags:
