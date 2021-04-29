@@ -1,11 +1,9 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2020-01-08T08:02:22Z
 image: /img/a3c98-pexels-photo-88808.jpeg
-tags:
-- cerpen
 ---
 
 Boker adalah kegiatan menikmati karunia tuhan yang diberikan setiap harinya, jika setiap hari boker lancar maka nikmat mana yang kau hindari, waktu yang nikmat ketika boker adalah awal bangun tidur, dimana semalaman istirahat dan langsung boker. 

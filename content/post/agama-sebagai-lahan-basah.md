@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2016-10-06T18:01:00Z
 image: /img/6b5d8-bruce-warrington-1431498-unsplash.jpg

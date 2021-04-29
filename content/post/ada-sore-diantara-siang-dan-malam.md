@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2020-01-02T22:43:53Z
 gnpub_modified_count:

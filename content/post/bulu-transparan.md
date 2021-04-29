@@ -1,6 +1,6 @@
 ---
 author: WilFauzy
-categories:
+tags:
 - NSFW
 date: 2020-08-13T11:30:14Z
 guid: https://wildanfauzy.com/?p=6907

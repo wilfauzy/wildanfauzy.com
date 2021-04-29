@@ -1,18 +1,10 @@
 ---
 author: Linux Mania
-categories:
+tags:
 - Linux
 date: 2020-07-02T18:30:37Z
 guid: https://wildanfauzy.com/?p=4756
 image: /wp-content/uploads/2020/07/ubuntu-mate.png
-header-mask: 0.4
-id: 4756
-tags:
-- chrome
-- mate
-- microsoft fonts
-- ubuntu
-- vlc
 title: Apa Yang Harus Dilakukan Setelah Menginstall Ubuntu Mate 20.04?
 url: /apa-yang-harus-dilakukan-setelah-menginstall-ubuntu-mate-20-04/
 ---

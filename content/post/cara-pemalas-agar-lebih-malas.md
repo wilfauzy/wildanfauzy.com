@@ -1,8 +1,5 @@
 ---
 author: WilFauzy
-categories:
-- Internet
-- WTF
 date: 2020-07-29T13:24:32Z
 image: /wp-content/uploads/2020/07/cara-menjadi-malas.jpeg
 tags:

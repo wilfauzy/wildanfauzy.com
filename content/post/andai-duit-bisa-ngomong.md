@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2013-08-18T02:58:00Z
 title: Andai Duit Bisa Ngomong

@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2013-07-24T16:15:00Z
 gnpub_modified_count:

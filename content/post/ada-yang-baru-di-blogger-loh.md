@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2013-09-24T19:03:00Z
 guid: https://wildanfauzy.com/index.php/2013/09/24/ada-yang-baru-di-blogger-loh/

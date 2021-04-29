@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Travel
 date: 2015-02-23T04:10:00Z
 guid: https://wildanfauzy.com/index.php/2015/02/23/bersepeda-ke-lingkar-luar-nagreg/

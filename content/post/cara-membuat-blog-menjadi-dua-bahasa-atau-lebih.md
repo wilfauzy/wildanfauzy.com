@@ -1,7 +1,5 @@
 ---
 author: Redaksi
-categories:
-- Share
 date: 2020-06-11T15:50:56Z
 tags:
 - multilanguage

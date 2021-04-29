@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2013-11-20T02:35:00Z
 guid: https://wildanfauzy.com/index.php/2013/11/20/cerita-di-jam-siang/

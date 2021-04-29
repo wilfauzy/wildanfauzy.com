@@ -1,7 +1,5 @@
 ---
 author: Linux Mania
-categories:
-- Linux
 date: 2020-10-23T13:45:49Z
 guid: https://wildanfauzy.com/?p=8542
 image: /wp-content/uploads/2020/10/imagic-memcached-litepspeed.png

@@ -1,14 +1,8 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2014-05-27T13:27:00Z
-guid: https://wildanfauzy.com/index.php/2014/05/27/alhamdulilah-gak-diterima-di-snmptn/
-id: 65
-nb_of_words:
-- "250.66666666667"
-post_views_count:
-- "1"
 title: Alhamdulilah Gak diterima di snmptn
 url: /alhamdulilah-gak-diterima-di-snmptn/
 ---

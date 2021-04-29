@@ -1,11 +1,9 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Cerita Pendek
 date: 2020-07-06T21:03:36Z
 image: /wp-content/uploads/2020/07/ayam-geprek.jpg
-tags:
-- cerpen
 title: Ayam Durhaka Digeprek Oleh Majikannya
 url: /ayam-durhaka-digeprek-oleh-majikannya/
 ---

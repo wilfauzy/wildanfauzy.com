@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2014-10-19T19:26:00Z
 guid: https://wildanfauzy.com/index.php/2014/10/19/bersabtu-malam-bersama-kawan-lama/

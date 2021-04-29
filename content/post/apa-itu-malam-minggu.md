@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2020-01-04T19:46:41Z
 guid: https://wildanfauzy.com/malam-minggu-2/

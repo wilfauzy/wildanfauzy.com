@@ -1,19 +1,10 @@
 ---
 author: Redaksi
-categories:
-- Animals
+tags:
+- cerpen
 date: 2020-08-12T02:06:00Z
 guid: https://wildanfauzy.com/?p=6890
 image: /wp-content/uploads/2020/08/burung-bernyanyi-di-pohon-jambu.jpg
-header-mask: 0.4
-id: 6890
-snax_approval_data:
-- 2020-08-12 09:08:46 +07:00
-snax_approved_by:
-- "1"
-tags:
-- cerita horor
-- cerpen
 title: Buah Jambu Jatuh Sedangkan Burung Bernyanyi Dengan Suara Sumbang
 url: /buah-jambu-jatuh-sedangkan-burung-bernyanyi-dengan-suara-sumbang/
 wpp_send_notification_for_new_post:

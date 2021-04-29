@@ -1,16 +1,8 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Cerita Pendek
 date: 2019-04-21T23:30:00Z
-gnpub_modified_count:
-- "2"
-guid: http://wildanfauzy.art.blog/2019/04/21/aroma-buku-baru-dan-rasa-lapar/
-id: 2176
-nb_of_words:
-- "581"
-tags:
-- cerpen
 title: Aroma Buku Baru dan Rasa Lapar
 url: /aroma-buku-baru-dan-rasa-lapar/
 image: img/0_phoczkpkzghfe40v.jpg

@@ -1,20 +1,8 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2019-09-19T00:27:18Z
-guid: https://wildanfauzy.com/bab/
-id: 1413
-nb_of_words:
-- "309"
-neve_meta_enable_content_width:
-- "off"
-penci_post_month_views_count:
-- "1"
-penci_post_views_count:
-- "1"
-penci_post_week_views_count:
-- "1"
 title: Jadi Begini Rasanya Buang Air Besar Tengah Malam
 url: /bab/
 ---

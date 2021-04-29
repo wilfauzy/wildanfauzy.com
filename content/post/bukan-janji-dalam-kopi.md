@@ -1,6 +1,6 @@
 ---
 author: smolcomrade
-categories:
+tags:
 - Share
 date: 2020-08-29T18:24:05Z
 guid: https://wildanfauzy.com/?p=7614

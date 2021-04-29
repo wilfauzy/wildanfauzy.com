@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2013-08-14T16:16:00Z
 image: /wp-content/uploads/2013/08/8ac50-eabf0-4148612_20130813091849.jpg

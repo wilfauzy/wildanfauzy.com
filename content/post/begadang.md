@@ -1,16 +1,8 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Cerita Pendek
 date: 2019-12-26T12:29:58Z
-guid: https://wildanfauzy.com/begadang/
-id: 1540
-nb_of_words:
-- "485"
-slim_seo:
-- a:0:{}
-tags:
-- cerpen
 title: Sebuah Kisah Tidur Subuh Bangun Pagi
 url: /begadang/
 ---

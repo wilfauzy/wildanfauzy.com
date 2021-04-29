@@ -1,24 +1,8 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2017-03-04T04:36:00Z
-guid: http://wildanfauzy.art.blog/2017/03/04/aku-lapar-maka-aku-ada/
-id: 2181
-nb_of_words:
-- "114"
-neve_meta_enable_content_width:
-- "off"
-saswp_custom_schema_field:
-- ""
-saswp_modify_this_schema_4340:
-- "0"
-saswp_modify_this_schema_6224:
-- "0"
-saswp_newsarticle_speakable_4340:
-- "0"
-saswp_newsarticle_speakable_6224:
-- "0"
 title: Aku Lapar Maka Aku Ada
 url: /aku-lapar-maka-aku-ada/
 ---

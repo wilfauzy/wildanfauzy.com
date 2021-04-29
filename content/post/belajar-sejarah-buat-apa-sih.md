@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2015-02-11T18:27:00Z
 guid: https://wildanfauzy.com/index.php/2015/02/11/belajar-sejarah-buat-apa-sih/

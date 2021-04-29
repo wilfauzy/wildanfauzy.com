@@ -1,14 +1,8 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2016-02-16T16:17:00Z
-guid: http://wildanfauzy.art.blog/2016/02/16/balada-wi-fi-gratis/
-id: 2190
-nb_of_words:
-- "371"
-slim_seo:
-- a:0:{}
 title: Cerita Wi-fi Gratis
 url: /balada-wi-fi-gratis/
 ---

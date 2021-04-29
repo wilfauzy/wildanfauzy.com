@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2013-11-21T09:13:00Z
 guid: https://wildanfauzy.com/index.php/2013/11/21/after-show-up-seasons-7th/

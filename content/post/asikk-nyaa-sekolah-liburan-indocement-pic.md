@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2012-07-05T07:02:00Z
 guid: https://wildanfauzy.com/index.php/2012/07/05/asikk-nyaa-sekolah-liburan-indocement-pic/

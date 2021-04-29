@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Note
 date: 2015-02-08T14:20:00Z
 guid: https://wildanfauzy.com/index.php/2015/02/08/bike-to-campus-with-my-white/

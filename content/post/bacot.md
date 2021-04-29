@@ -1,16 +1,8 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2019-09-13T20:32:02Z
-guid: https://wildanfauzy.com/bacot-is-never-enough/
-id: 1390
-nb_of_words:
-- "183"
-neve_meta_enable_content_width:
-- "off"
-post_views_count:
-- "2"
 title: Bacot is Never Enough
 url: /bacot/
 ---

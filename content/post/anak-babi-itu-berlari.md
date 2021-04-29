@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Funny
 - Internet
 date: 2020-07-24T22:48:57Z

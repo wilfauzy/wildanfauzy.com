@@ -1,6 +1,6 @@
 ---
 author: Redaksi
-categories:
+tags:
 - Share
 date: 2019-04-29T09:04:00Z
 guid: http://wildanfauzy.art.blog/2019/04/29/cara-bertahan-hidup-di-abad-ini/
