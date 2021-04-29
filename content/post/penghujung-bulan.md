@@ -1,6 +1,6 @@
 ---
 author: WilFauzy 
-date: 2021-04-30T01:10:00Z
+date: 2021-04-29T01:10:00Z
 image: /img/pantai.jpg
 tags:
 - cerpen
