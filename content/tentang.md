@@ -16,13 +16,21 @@ Wildan Fauzy adalah seorang pengarang, penulis dan essais berkebangsaan Indonesi
 Menulis di blog dan media lainnya, tetapi lebih sering ngopi indocafe di warung mangaep, tema yang ditulis sekedar catatan disekitar, dan beberapa cerita pendek yang sangat absurd, pekerjaan sekarang adalah aktifis media sosial, fokus memperjuangkan hak-hak kaum rebahan.
 
 ![](/img/3bcfa-62f58-foto0597.jpg)
+
 ![](/img/ebcab-wildan-fauzy.jpg)
+
 ![](/img/8b885-img_fk2f0g1637580483.jpg)
+
 ![](/img/6cfb7-c78d4-ptdc0030.jpg)
+
 ![](/img/73b60-20160907_1545231.jpg)
+
 ![](/img/8587e-18278790_1665451626816954_7470397289536058970_o.jpg)
+
 ![](/img/wildan-fauzi.jpg)
+
 ![](/img/wildan.jpg)
+
 ![](/img/fauzy.jpg)
 
 
