@@ -5,7 +5,7 @@ languagecode = "id-ID"
 paginate = 8
 pluralizelisttitles = false
 canonifyurls = true
-title = "Wildan Fauzy"
+title = "Wildan Fauzy Stories"
 [[menu.main]]
 name = "Search"
 url = "https://search.wildanfauzy.com"
@@ -48,7 +48,7 @@ description = "WildanFauzy.com adalah blog yang membahas info menarik disajikan 
 githubName = "wilfauzy"
 RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw" 
 hideHUGOSupport = false
-disableHugoGeneratorInject = false
+disableHugoGeneratorInject = true 
 logo = "/img/about.png"
 twitterName = "wilfauzy"
 pinterestName = "wilfauzy"
