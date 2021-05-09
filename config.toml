@@ -5,7 +5,7 @@ languagecode = "id-ID"
 paginate = 8
 pluralizelisttitles = false
 canonifyurls = true
-title = "Wildan Fauzy Stories"
+title = "Wildan Fauzy"
 [[menu.main]]
 name = "Search"
 url = "https://search.wildanfauzy.com"
@@ -44,14 +44,14 @@ authorlocation = "Bandung, Indonesia"
 authorwebsite = "https://wildanfauzy.com"
 authorbio = "Artikel pilihan dari dapur redaksi"
 cover = "/img/black-landscape-2.jpg"
-description = "WildanFauzy.com adalah blog yang membahas info menarik disajikan secara asik dan santai, kumpulan cerita dari sudut pandang yang berbeda"
+description = "Stories That Metters"
 githubName = "wilfauzy"
 RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw" 
 hideHUGOSupport = false
 disableHugoGeneratorInject = true 
 logo = "/img/about.png"
 twitterName = "wilfauzy"
-pinterestName = "wilfauzy"
+#pinterestName = "wilfauzy"
 hjsStyle = "agate"
 [permalinks]
 post = "/:slug/"
