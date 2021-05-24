@@ -46,6 +46,7 @@ authorbio = "Artikel pilihan dari dapur redaksi"
 cover = "/img/black-landscape-2.jpg"
 description = "WildanFauzy.com adalah blog yang membahas info menarik disajikan secara asik dan santai, kumpulan cerita dari sudut pandang yang berbeda"
 githubName = "wilfauzy"
+pinterestName = "wilfauzy"
 RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw" 
 hideHUGOSupport = false
 disableHugoGeneratorInject = true 
