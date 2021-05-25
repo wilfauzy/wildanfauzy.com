@@ -1,6 +1,6 @@
 +++
 author = "Wilfauzy"
-date = 2021-05-25T13:00:00Z
+date = 2021-05-25T01:00:00Z
 image = "/img/2394631_202105040748260946.jpg"
 tags = ["note"]
 title = "Dikejar Deadline"
