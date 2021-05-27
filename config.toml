@@ -5,7 +5,7 @@ languagecode = "id-ID"
 paginate = 8
 pluralizelisttitles = false
 canonifyurls = true
-title = "Wildan Fauzy Stories"
+title = "WildanFauzy.com"
 [[menu.main]]
 name = "Search"
 url = "https://search.wildanfauzy.com"
