@@ -53,7 +53,7 @@ disableHugoGeneratorInject = true
 logo = "/img/about.png"
 twitterName = "wilfauzy"
 #pinterestName = "wilfauzy"
-hjsStyle = "agate"
+hjsStyle = "default"
 [permalinks]
 post = "/:slug/"
 [sitemap]
