@@ -1,16 +1,14 @@
 +++
 comments = false
-date = "2015-04-14T22:17:00+00:00"
-draft = false
+date = 2015-04-14T22:17:00Z
 noauthor = true
 share = false
-title = "Tentang Kami"
+title = "Tentang"
 type = "page"
 [menu.main]
 weight = 111
 
 +++
-
 WildanFauzy.com adalah media santai dan asik nomor satu di indonesia, membahas hal yang tidak terlalu penting menjadi penting hahahah yang mewadahi tulisan yang mempunyai semangat dan kreativitas, dan hanya untuk sekedar hiburan melewati hiruk pikuk dunia.
 
 Wildanfauzy.com saat ini menerbitkan artikel dan dengan pilihan tema yang beragam. Ada 6 kategori yang terdiri dari **Cerita Pendek (cerpen) Note (catatan) Share (berbagi hal yang cukup menarik) Travel (jalan-jalan) Buku (ulasan buku) dan Linux (membahas segala hal tentang linux)** .
