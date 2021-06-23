@@ -3,7 +3,7 @@ author = "WilFauzy"
 date = 2021-06-23T17:25:00Z
 draft = true
 image = "/img/404.gif"
-tags = []
+tags = ["note"]
 title = "Mengapa"
 
 +++
