@@ -1,36 +1,7 @@
 {{ partial "header.html" . }}
-
-
+<meta http-equiv="refresh" content="3; url=https://wildanfauzy.com/" /> 
 {{if .Site.Params.cover}}
-<header class="main-header " style="background-image: url({{ .Site.Params.cover | relURL}})">
-{{else}}
-<header class="main-header no-cover">
-{{end}}
-
-<nav class="main-nav overlay clearfix">
-        {{ if .Site.Params.logo }}
-            <a class="blog-logo" href="{{ .Permalink }}"><img src="{{ .Site.Params.logo| relURL }}" alt="Blog Logo" /></a>
-        {{end}}
-        {{ if .Site.Menus.main }}
-            <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
-        {{else}}
-            {{ if .Site.Params.RSSLink}}
-              <a class="menu-button icon-feed" href="{{.Site.Params.RSSLink }}">&nbsp;&nbsp;Subscribe</a>
-            {{else}}
-              <a class="menu-button icon-feed" href="{{ .RSSLink }}">&nbsp;&nbsp;Subscribe</a>
-            {{end}}
-        {{end}}
-    </nav>
-    <div class="vertical">
-        <div class="main-header-content inner">
-            <h1 class="page-title">{{ .Site.Title }}</h1>
-            <h2 class="page-description">{{ .Site.Params.description }}</h2>
-        </div>
-    </div>
-    <a class="scroll-down icon-arrow-left" href="#content"><span class="hidden">Scroll Down</span></a>
-</header>
-
-
+<header class="main-header " style="background-image: url(/img/404.gif)">
 <main id="content" class="content" role="main">
 
   <article class="post">
