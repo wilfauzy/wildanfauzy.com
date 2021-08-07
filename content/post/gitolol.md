@@ -22,4 +22,4 @@ Ternyata si gitolol sedang onani burung puyuhnya dimasukan ke dalam galon umum, 
 
 Keesokan harinya saya mulai kesal, tidak mau melihat si gitolol, beberapa hari kemudian orang tuanya memanggil seorang yang biasa disebut orang pintar, setelah diselidiki memang si gitolol kemasukan setan penghuni botol kecap.
 
-Singkat ceria si gitolol mulai sembuh tapi otaknya yang konsuler tidak dapat diperbaiki.
+Singkat ceria si gitolol mulai sembuh tapi otaknya yang konslet tidak dapat diperbaiki.
