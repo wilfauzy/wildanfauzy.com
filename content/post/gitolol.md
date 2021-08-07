@@ -1,10 +1,9 @@
 +++
 author = "WilFauzy"
 date = 2021-08-07T12:10:00Z
-draft = true
 image = "/img/20210524_180217.jpg"
 tags = ["cerpen"]
-title = "Gitolol"
+title = "Gitolol Otaknya Konslet"
 
 +++
 Keadaan semakin mencekam setiap malam Minggu datang saya selalu ada di kosan, sedangkan bagi kebanyakan orang yang seumuran melakukan aktivitas di luar ruangan, entah itu nongkrong warung kopi pinggir jalan atau sekedar menghitung mobil bersliweran, yang lebih naas lagi bagi manusia yang mempunyai pasangan, mereka fasik berduaan sambil bercumbu rayu, kesimpulannya saya masih berdiam diri di kamar bersama teman saya yang menyebalkan.
