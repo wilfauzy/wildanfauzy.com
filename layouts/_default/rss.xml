@@ -28,11 +28,12 @@
     {{ range $pages }}
     <item>
       <title>{{ .Title }}</title>
-      {{ with .Params.image }}{{ $image_location := printf "static/img/%s" .}}{{$image := readFile $image_location }}{{$len := len $image}}<enclosure url="https://wildanfauzy.com/img/{{.}}" length="{{$len}}" type="image/png" />{{end}}
       <link>{{ .Permalink }}</link>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
+      <media:content type="image/jpeg" medium="image" width="900" height="600"
+      url="https://wildanfauzy.com/img/{{ .Params.image | safeHTML }}" />
       <description>{{ .Content | html }}</description>
     </item>
     {{ end }}
