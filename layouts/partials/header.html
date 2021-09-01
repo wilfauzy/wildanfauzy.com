@@ -8,7 +8,6 @@
     <meta name="theme-color" content="#000000">
 
     {{ partial "twitter_card.html" . }}
-    {{ partial "rss.xml" . }}
 
   	<meta property="og:title" content="{{ if ne .URL "/" }}{{ .Title }} - {{ end }}{{ .Site.Title }}" />
   	<meta property="og:site_name" content="{{ .Site.Title }}" />
