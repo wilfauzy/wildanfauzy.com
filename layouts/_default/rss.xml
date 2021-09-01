@@ -32,9 +32,7 @@
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
-      <media:content type="image/jpeg" medium="image" width="900" height="600"
-      url="https://wildanfauzy.com/img/{{ .Params.image | safeHTML }}" />
-      <description>{{ .Content | html }}</description>
+      <description>{{ replaceRE "img src=\"(.*?)\"" (printf "%s%s%s" "img src=\"" .Permalink "$1\"") .Content | html }}</description>
     </item>
     {{ end }}
   </channel>
