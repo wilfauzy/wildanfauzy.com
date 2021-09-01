@@ -29,17 +29,17 @@
     <item>
       <title>{{ .Title }}</title>
       {{- $pagePermalink := .Permalink -}}
-      {{- with .Params.image -}}
+      {{- with .Params.images -}}
       {{- $img := index . 0 -}}
-      <enclosure url="{{ printf "%s%s" $pagePermalink $img }}" type="image/jpg" type="image/jpg"></enclosure>
+      <enclosure url="{{ printf "%s%s" $pagePermalink $img }}" type="image/jpg"></enclosure>
       {{ else -}}
       {{- $images := .Resources.ByType "image" -}}
-      {{- $image := $images.GetMatch "*image*" -}}
-      {{- if not $image }}{{ $image = $images.GetMatch "{*header*,*thumbnail*}" }}{{ end -}}
-      {{- with $image -}}
-      <enclosure url="{{ $image.Permalink }}" type="image/jpg"></enclosure>
+      {{- $featured := $images.GetMatch "*feature*" -}}
+      {{- if not $featured }}{{ $featured = $images.GetMatch "{*image*,*thumbnail*}" }}{{ end -}}
+      {{- with $featured -}}
+      <enclosure url="{{ $featured.Permalink }}" type="image/jpg"></enclosure>
       {{- else -}}
-      {{- with .Site.Params.image -}}
+      {{- with .Site.Params.images -}}
       <enclosure url="{{ index . 0 | absURL }}" type="image/jpg"></enclosure>
       {{- end -}}
       {{- end -}}
