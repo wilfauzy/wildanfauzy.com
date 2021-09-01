@@ -31,16 +31,16 @@
       {{- $pagePermalink := .Permalink -}}
       {{- with .Params.images -}}
       {{- $img := index . 0 -}}
-      <enclosure url="{{ printf "%s%s" $pagePermalink $img }}" type="image/jpg"></enclosure>
+      <enclosure url="{{ .Params.image | relURL}}" type="image/jpg"></enclosure>
       {{ else -}}
       {{- $images := .Resources.ByType "image" -}}
       {{- $featured := $images.GetMatch "*feature*" -}}
       {{- if not $featured }}{{ $featured = $images.GetMatch "{*image*,*thumbnail*}" }}{{ end -}}
       {{- with $featured -}}
-      <enclosure url="{{.Params.image | relURL}}" type="image/jpg"></enclosure>
+      <enclosure url="{{ .Params.image | relURL}}" type="image/jpg"></enclosure>
       {{- else -}}
       {{- with .Site.Params.images -}}
-      <enclosure url="{{ index . 0 | absURL }}" type="image/jpg"></enclosure>
+      <enclosure url="{{ .Site.Params.logo | relURL}}" type="image/jpg"></enclosure>
       {{- end -}}
       {{- end -}}
       {{- end }}
