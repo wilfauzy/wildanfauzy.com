@@ -37,7 +37,7 @@
       {{- $featured := $images.GetMatch "*feature*" -}}
       {{- if not $featured }}{{ $featured = $images.GetMatch "{*image*,*thumbnail*}" }}{{ end -}}
       {{- with $featured -}}
-      <enclosure url="{{ $image.Permalink }}" type="image/jpg"></enclosure>
+      <enclosure url="{{.Params.image | relURL}}" type="image/jpg"></enclosure>
       {{- else -}}
       {{- with .Site.Params.images -}}
       <enclosure url="{{ index . 0 | absURL }}" type="image/jpg"></enclosure>
