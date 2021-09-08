@@ -5,11 +5,11 @@ languagecode = "id-ID"
 paginate = 8
 title = "Kandang Babi"
 [[menu.main]]
-name = "Search"
+name = "Cari Sesuatu?"
 url = "https://search.wildanfauzy.com"
 weight = 100
 [[menu.main]]
-identifier = "Log in"
+identifier = "Masuk"
 name = "Log in"
 url = "https://app.wildanfauzy.com/"
 weight = -120
