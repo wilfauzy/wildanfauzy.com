@@ -1,10 +1,9 @@
 +++
 author = "WilFauzy"
 date = 2021-09-29T01:00:00Z
-draft = true
-image = ""
+image = "/img/paket-graduation.jpeg"
 tags = ["note"]
-title = "Akhirnya Lulus Setelah Tujuh tahun"
+title = "Akhirnya Lulus Setelah Tujuh Tahun"
 
 +++
 Satu hal yang pasti tidak bisa diubah adalah waktu, suatu hari semalaman tidak bisa tidur karena membuat file presentasi untuk sidang akhir, sungguh ini bukan mimpi, satu tas jinjing perempuan berwarna merah bekas peninggalan ibu penuh dengan dokumen fotokopian.
