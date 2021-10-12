@@ -21,7 +21,7 @@ Alamat situs web kami adalah: [https://wildanfauzy.com](https://www.wildanfauzy.
 
 Saat pengunjung meninggalkan komentar di situs, kami mengumpulkan data yang ditampilkan di formulir komentar, dan juga alamat IP pengunjung dan string agen pengguna browser untuk membantu deteksi spam.
 
-String anonim yang dibuat dari alamat email Anda (juga disebut hash) dapat diberikan ke layanan Gravatar untuk melihat apakah Anda menggunakannya. Kebijakan privasi layanan Gravatar tersedia di sini: [https://automattic.com/privacy/.](https://automattic.com/privacy/. "https://automattic.com/privacy/.") Setelah persetujuan atas komentar Anda, gambar profil Anda dapat dilihat oleh publik dalam konteks komentar Anda.
+String anonim yang dibuat dari alamat email Anda (juga disebut hash) dapat diberikan ke layanan Disqus untuk melihat apakah Anda menggunakannya. Kebijakan privasi layanan Disqus tersedia di sini: [https://help.disqus.com/en/articles/1717103-disqus-privacy-policy.](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy. "https://help.disqus.com/en/articles/1717103-disqus-privacy-policy.") Setelah persetujuan atas komentar Anda, gambar profil Anda dapat dilihat oleh publik dalam konteks komentar Anda.
 
 Komentar pihak ketiga menggunakan disqus 
 
