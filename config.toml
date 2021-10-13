@@ -5,7 +5,7 @@ languagecode = "id-ID"
 paginate = 8
 title = "Kandang Babi"
 [[menu.main]]
-name = "Search?"
+name = "Search"
 url = "https://search.wildanfauzy.com"
 weight = 100
 [[menu.main]]
@@ -24,17 +24,9 @@ name = "Perpus"
 url = "https:///perpus.wildanfauzy.com"
 weight = -118
 [[menu.main]]
-name = "Kompas"
-url = "https://kompasiana.com/wildanfauzy"
-weight = 101
-[[menu.main]]
 name = "Medium"
 url = "https://jurnal.wildanfauzy.com"
 weight = 102
-[[menu.main]]
-name = "Kaskus"
-url = "https://kaskus.co.id/@nadliw45"
-weight = 109
 
 [params]
 author = "wilfauzy"
