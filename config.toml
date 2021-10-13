@@ -5,11 +5,11 @@ languagecode = "id-ID"
 paginate = 8
 title = "Kandang Babi"
 
-[menu.main]
+[[menu.main]]
 weight = 108
 name = "Perpus"
 url = "https:///perpus.wildanfauzy.com"
-[menu.main]
+[[menu.main]]
 weight = 109
 name = "Cari"
 url = "https://search.wildanfauzy.com"
