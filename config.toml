@@ -5,6 +5,22 @@ languagecode = "id-ID"
 paginate = 8
 title = "Kandang Babi"
 
+[[menu.main]]
+name = "Search"
+url = "https://search.wildanfauzy.com"
+[[menu.main]]
+name = "Log in"
+url = "https://app.wildanfauzy.com"
+[[menu.main]]
+name = "Surat"
+url = "https://surat.wildanfauzy.com"
+[[menu.main]]
+name = "Perpus"
+url = "https:///perpus.wildanfauzy.com"
+[[menu.main]]
+name = "Medium"
+url = "https://jurnal.wildanfauzy.com"
+
 [params]
 author = "wilfauzy"
 authorlocation = "Bandung, Indonesia"
