@@ -4,26 +4,6 @@ disqusshortname = "wildanfauzy"
 languagecode = "id-ID"
 paginate = 8
 title = "Kandang Babi"
-[[menu.main]]
-identifier = "Search"
-name = "Search"
-url = "https://search.wildanfauzy.com"
-[[menu.main]]
-identifier = "Log in"
-name = "Log in"
-url = "https://app.wildanfauzy.com"
-[[menu.main]]
-identifier = "Surat"
-name = "Surat"
-url = "https://surat.wildanfauzy.com"
-[[menu.main]]
-identifier = "Perpus"
-name = "Perpus"
-url = "https:///perpus.wildanfauzy.com"
-[[menu.main]]
-identifier = "Medium"
-name = "Medium"
-url = "https://jurnal.wildanfauzy.com"
 
 [params]
 author = "wilfauzy"
