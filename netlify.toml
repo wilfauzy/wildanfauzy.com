@@ -4,12 +4,3 @@
   
 [build.environment]
   HUGO_VERSION = "0.80.0"
-
-[[plugins]]
-  package = "netlify-plugin-hugo-cache-resources"
-
-	[plugins.inputs]
-	# If it should show more verbose logs (optional, default = true)
-	debug = true
-	# Relative path to source directory in case you use Hugo's "--s" option
-	srcdir = "/opt/build/repo"
