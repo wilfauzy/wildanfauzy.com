@@ -6,11 +6,19 @@ paginate = 8
 title = "Kandang Babi"
 
 [[menu.main]]
-weight = 109
+weight = 107
 name = "Perpus"
 url = "https:///perpus.wildanfauzy.com"
 [[menu.main]]
 weight = 108
+name = "Jurnal"
+url = "https:///jurnal.wildanfauzy.com"
+[[menu.main]]
+weight = 109
+name = "Newsletter"
+url = "https:///surat.wildanfauzy.com"
+[[menu.main]]
+weight = 106
 name = "Cari"
 url = "https://search.wildanfauzy.com"
 
