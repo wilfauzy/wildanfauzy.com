@@ -5,26 +5,14 @@ languagecode = "id-ID"
 paginate = 8
 title = "Kandang Babi"
 
-[[menu.main]]
-weight = 114
-name = "Search"
-url = "https://search.wildanfauzy.com"
-[[menu.main]]
-weight = 115
-name = "Log in"
-url = "https://app.wildanfauzy.com"
-[[menu.main]]
-weight = 116
-name = "Surat"
-url = "https://surat.wildanfauzy.com"
-[[menu.main]]
-weight = 117
+[menu.main]
+weight = 108
 name = "Perpus"
 url = "https:///perpus.wildanfauzy.com"
-[[menu.main]]
-weight = 118
-name = "Medium"
-url = "https://jurnal.wildanfauzy.com"
+[menu.main]
+weight = 109
+name = "Cari"
+url = "https://search.wildanfauzy.com"
 
 [params]
 author = "wilfauzy"
