@@ -7,7 +7,7 @@ share = false
 title = "Redaksi"
 type = "page"
 [menu.main]
-weight = 111
+weight = 112
 
 +++
 
