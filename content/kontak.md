@@ -6,6 +6,8 @@ noauthor = true
 share = false
 title = "Kontak"
 type = "page"
+[menu.main]
+weight = 111 
 
 +++
 
