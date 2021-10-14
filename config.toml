@@ -14,15 +14,15 @@ weight = 108
 name = "Jurnal"
 url = "https:///jurnal.wildanfauzy.com"
 [[menu.main]]
-weight = 109
+weight = 114
 name = "Newsletter"
 url = "https:///surat.wildanfauzy.com"
 [[menu.main]]
-weight = 106
+weight = 105
 name = "Cari"
 url = "https://search.wildanfauzy.com"
 [[menu.main]]
-weight = 105
+weight = 106
 name = "Sign In"
 url = "https://app.wildanfauzy.com"
 
