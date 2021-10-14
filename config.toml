@@ -22,7 +22,7 @@ weight = 106
 name = "Cari"
 url = "https://search.wildanfauzy.com"
 [[menu.main]]
-weight = 10t
+weight = 105
 name = "Sign In"
 url = "https://app.wildanfauzy.com"
 
