@@ -61,7 +61,7 @@ List diatas membantu berjalannya blog ini mengudara di jagat dunia maya 🙂
 * (3 oktober 2020) – mulai menggunakan dns dari hurrican electric padahal bikin akun udah dari taun berapa tapi baru dipake
 * (on going) sedang mencoba vps vultr dan cloud kilat dalam satu bulan, hosting unlimited rumahweb tiga bulan, dan dhyhost.
 * (3 des 2020) Pindah ke static generator jekyll dari sebelumnya menggunakan wordpress self hosted
-* (13 oktober 2012) pindah dari cloudflare pages ke netlify karena build times di cloudflare pages cukup lama, memilih netlify yang lebih cepat tidak memakan waktu satu menit sedangkan di cloudflare pages 2 menit lebih kadang bisa sampai setengah jam, sekarang menggunakan ssg hugo tidak lagi menggunakan jekyll
+* (13 oktober 2021) pindah dari cloudflare pages ke netlify karena build times di cloudflare pages cukup lama, memilih netlify yang lebih cepat tidak memakan waktu satu menit sedangkan di cloudflare pages 2 menit lebih kadang bisa sampai setengah jam, sekarang menggunakan ssg hugo tidak lagi menggunakan jekyll
 
 Mungkin cukup segitu perjalanan singkat website ini, ada beberapa blog yang menggunakan platform blogger dan wordpress.com tapi lupa password jadi enggak bisa dibuka 😀
 
