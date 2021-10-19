@@ -14,10 +14,10 @@
   	<meta property="og:url" content="{{ .Permalink }}" />
 
     {{if .Params.image }}
-       <meta property="og:image" content="https://wildanfauzy.com{{ .Params.image | relURL}}"/>
+       <meta property="og:image" content="https://blog.wildanfauzy.com{{ .Params.image | relURL}}"/>
     {{else}}
         {{if .Site.Params.cover}}
-            <meta property="og:image" content="https://wildanfauzy.com{{ .Site.Params.cover | relURL}}"/>
+            <meta property="og:image" content="https://blog.wildanfauzy.com{{ .Site.Params.cover | relURL}}"/>
         {{end}}
     {{end}}
 

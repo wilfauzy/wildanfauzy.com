@@ -1,4 +1,4 @@
-baseurl = "https://wildanfauzy.com"
+baseurl = "https://blog.wildanfauzy.com"
 copyright = "2012 - 2021 ©"
 disqusshortname = "wildanfauzy"
 languagecode = "id-ID"
@@ -20,16 +20,16 @@ url = "https:///surat.wildanfauzy.com"
 [[menu.main]]
 weight = 105
 name = "Cari"
-url = "https://wildanfauzy.com/search"
+url = "https://blog.wildanfauzy.com/search"
 [[menu.main]]
 weight = 106
 name = "Sign In"
-url = "https://wildanfauzy.com/admin"
+url = "https://blog.wildanfauzy.com/admin"
 
 [params]
 author = "wilfauzy"
 authorlocation = "Bandung, Indonesia"
-authorwebsite = "https://me.wildanfauzy.com"
+authorwebsite = "https://wildanfauzy.com"
 authorbio = "Artikel pilihan dari dapur redaksi"
 cover = "/images/header.webp"
 description = "Kandang babi hanya julukan sebuah tempat tinggal, Benda mati dan juga tidak bernapas, tetapi mempunyai nama, perkenalkan namanya adalah “Kandang Babi”"
