@@ -1,13 +1,10 @@
 ---
 author: WIlFauzy
-catalog: false
 date: 2020-01-19T12:00:00Z
 image: /img/hujan-di-malam-hari.jpeg
-header-mask: "0.4"
 tags:
 - cerpen
 title: Hujan di Malam Hari
-url: /2020/01/19/hujan-di-malam-hari/
 ---
 
 Matahari menghangatkan cucian baju yang basah, hawa panas di musim penghujan merupakan kutukan yang lumayan membuat badan menjadi meriang, tidak ada mendung atau gerimis, hanya matahari yang terik.
