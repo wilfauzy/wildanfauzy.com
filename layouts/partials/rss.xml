@@ -33,7 +33,7 @@
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
       <media:content type="image/jpeg" medium="image" width="900" height="600"
-      url="https://wildanfauzy.com/img/{{ .Params.image | safeHTML }}" />
+      url="https://blog.wildanfauzy.com/{{ .Params.image | safeHTML }}" />
       <description>{{chomp "<![CDATA[\n"}}{{ .Description | safeHTML }}{{chomp "]]>\n"}}</description>
       <content:encoded>{{chomp "<![CDATA[\n"}}{{ .Content | safeHTML }}{{chomp "]]>\n"}}</content:encoded>
     </item>
