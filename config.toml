@@ -3,7 +3,7 @@ copyright = "2012 - 2021 ©"
 disqusshortname = "wildanfauzy"
 languagecode = "id-ID"
 paginate = 8
-title = "Kandang Babi Universe"
+title = "Blog"
 
 [[menu.main]]
 weight = 107
