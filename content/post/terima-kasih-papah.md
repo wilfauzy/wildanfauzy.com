@@ -3,12 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2019-04-16T05:11:00Z
-guid: http://wildanfauzy.art.blog/2019/04/16/terima-kasih-papah/
-id: 2179
-nb_of_words:
-- "408"
-neve_meta_enable_content_width:
-- "off"
+image: /img/a67a0-anita-austvika-1482622-unsplash.jpg
 title: Terima Kasih, Papah.
 url: /terima-kasih-papah/
 ---

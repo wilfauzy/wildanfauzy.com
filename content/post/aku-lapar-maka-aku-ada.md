@@ -3,6 +3,7 @@ author: Redaksi
 tags:
 - Share
 date: 2017-03-04T04:36:00Z
+image: /img/gambar-kucing-lucu-lagi-ngambek.jpg
 title: Aku Lapar Maka Aku Ada
 url: /aku-lapar-maka-aku-ada/
 ---

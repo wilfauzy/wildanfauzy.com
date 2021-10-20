@@ -3,10 +3,7 @@ author: Redaksi
 tags:
 - Share
 date: 2019-03-05T06:24:00Z
-guid: http://wildanfauzy.art.blog/2019/03/05/judulnya-entah/
-id: 2180
-nb_of_words:
-- "179"
+image: /img/a67a0-anita-austvika-1482622-unsplash.jpg
 title: Judulnya Entah
 url: /judulnya-entah/
 wps_subtitle:

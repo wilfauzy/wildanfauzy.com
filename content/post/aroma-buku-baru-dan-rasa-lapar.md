@@ -5,7 +5,7 @@ tags:
 date: 2019-04-21T23:30:00Z
 title: Aroma Buku Baru dan Rasa Lapar
 url: /aroma-buku-baru-dan-rasa-lapar/
-image: img/0_phoczkpkzghfe40v.jpg
+image: img/cb584-dan-truong-1480334-unsplash.jpg
 ---
 
 <p class="has-drop-cap">

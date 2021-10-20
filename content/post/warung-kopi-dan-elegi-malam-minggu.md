@@ -3,6 +3,7 @@ author: Redaksi
 date: 2016-10-22T12:16:00Z
 tags:
 - kopi
+image: /img/pexels-iain-2267909_w9u32w.jpg
 title: Warung Kopi dan Elegi Malam Minggu
 url: /warung-kopi-dan-elegi-malam-minggu/
 ---

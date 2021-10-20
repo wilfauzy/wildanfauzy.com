@@ -17,7 +17,7 @@ tags:
 - cerpen
 title: Selembar Uang di Tepi Jalan
 url: /selembar-uang-di-tepi-jalan/
-image: img/0b89e-bank-notes-blur-close-up-164474.jpg
+image: /img/0b89e-bank-notes-blur-close-up-164474.jpg
 ---
 
 <p>

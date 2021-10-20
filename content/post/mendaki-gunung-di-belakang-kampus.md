@@ -22,8 +22,6 @@ Setelah sampai di kampus, gue solat dzuhur dulu dan gue terkaget banyak banget i
 
 Akhirnya kita semua berangkat dari kampus menuju gunung manglayang lewat jalan manisi kalo dari kampus lewat kanan kanan oke ceritanya kita semua udah sampe batu kuda yaitu kaki gunung manglayang.
 
-![](/wp-content/uploads/2014/10/bbcad-d7c75-foto0623.jpg)
-
 Setelah sampai di batu kuda, gue dan lainnya langsung mengambil posisi yang enak buat ngelurusin badan, udah itu langsung ke warung buat beli makanan ringan karna perut gue udah minta di banjirin makanan setelah nongkrong langsung kita semua di panggil sama panitia buat ngumpul tapi sebelum ngumpul gue mau narsis dulu di batu kuda 😀 hihi.
 
 ![](/wp-content/uploads/2014/10/8d3e6-bd8c2-foto0579.jpg)

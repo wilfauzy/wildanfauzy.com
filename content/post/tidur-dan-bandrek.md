@@ -1,14 +1,10 @@
 ---
 author: Redaksi
 date: 2019-04-20T23:30:00Z
-essb_cached_image:
-- https://wildanfauzyart.files.wordpress.com/2020/04/5528d-blurred-background-close-up-clouds-1752806.jpg?resize=640%2C300&#038;ssl=1
-guid: http://wildanfauzy.art.blog/2019/04/20/tidur-dan-bandrek/
-id: 2177
-nb_of_words:
-- "680"
+image: 
 tags:
 - cerpen
+image: /img/cb584-dan-truong-1480334-unsplash.jpg
 title: Tidur dan Bandrek
 url: /tidur-dan-bandrek/
 ---
