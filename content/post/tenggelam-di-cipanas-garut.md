@@ -3,7 +3,7 @@ author: Redaksi
 tags:
 - Travel
 date: 2015-02-21T02:46:00Z
-image:/wp-content/uploads/2015/02/70fff-c8348-ptdc0006.jpg
+image: /wp-content/uploads/2015/02/70fff-c8348-ptdc0006.jpg
 title: Tenggelam Di Cipanas Garut
 url: /tenggelam-di-cipanas-garut/
 ---

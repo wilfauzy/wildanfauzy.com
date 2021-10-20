@@ -1,7 +1,7 @@
 ---
 author: Redaksi
 date: 2015-09-13T20:56:00Z
-image:/wp-content/uploads/2015/09/905e2-31274-wp_20150912_003.jpg
+image: /wp-content/uploads/2015/09/905e2-31274-wp_20150912_003.jpg
 tags:
 - kopi
 title: Teman Baru Pendamping Kopi?

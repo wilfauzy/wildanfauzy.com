@@ -3,12 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2020-01-02T22:43:53Z
-gnpub_modified_count:
-- "2"
-guid: https://wildanfauzy.com/ada-sore-diantara-siang-dan-malam/
-id: 1697
-nb_of_words:
-- "228"
+image: /img/unsplash-image-10.jpg
 title: Ada Sore di Antara Siang dan Malam
 url: /ada-sore-diantara-siang-dan-malam/
 ---

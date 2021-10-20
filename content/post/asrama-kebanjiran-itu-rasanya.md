@@ -3,16 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2015-04-18T16:29:00Z
-guid: https://wildanfauzy.com/index.php/2015/04/18/asrama-kebanjiran-itu-rasanya/
-id: 39
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596769295"
-nb_of_words:
-- "227"
+image: /wp-content/uploads/2015/04/95d84-66e10-ptdc0019.jpg
 title: Asrama Kebanjiran Itu Rasanya
 url: /asrama-kebanjiran-itu-rasanya/
 ---

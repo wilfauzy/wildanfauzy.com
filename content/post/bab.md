@@ -5,6 +5,7 @@ tags:
 date: 2019-09-19T00:27:18Z
 title: Jadi Begini Rasanya Buang Air Besar Tengah Malam
 url: /bab/
+image: /img/828d7-img_20190913_174023.jpg
 ---
 
 <figure class="wp-block-image"><img src="https://wildanfauzyart.files.wordpress.com/2020/04/828d7-img_20190913_174023.jpg?w=768" alt="" class="wp-image-1389" data-recalc-dims="1" /></figure> 

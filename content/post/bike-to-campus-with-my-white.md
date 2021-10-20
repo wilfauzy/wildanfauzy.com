@@ -3,16 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2015-02-08T14:20:00Z
-guid: https://wildanfauzy.com/index.php/2015/02/08/bike-to-campus-with-my-white/
-id: 52
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596769306"
-nb_of_words:
-- "291"
+image: /wp-content/uploads/2015/02/b3293-364a5-img_20150207_111849.jpg
 title: Bike To Campus With My White
 url: /bike-to-campus-with-my-white/
 ---
