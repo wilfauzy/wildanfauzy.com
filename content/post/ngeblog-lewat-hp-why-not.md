@@ -3,10 +3,7 @@ author: Redaksi
 tags:
 - Share
 date: 2013-11-28T14:30:00Z
-guid: https://wildanfauzy.com/index.php/2013/11/28/ngeblog-lewat-hp-why-not/
-id: 76
-nb_of_words:
-- "295"
+image: /wp-content/uploads/2013/11/9ace6-antique-blog-blogger-1898254.jpg
 title: Ngeblog lewat hp? Why Not!!
 url: /ngeblog-lewat-hp-why-not/
 ---

@@ -3,18 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2013-07-24T16:15:00Z
-gnpub_modified_count:
-- "2"
-guid: https://wildanfauzy.com/index.php/2013/07/24/bukber-bersama-fullday-class/
-id: 93
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596570632"
-nb_of_words:
-- "223"
+image: /wp-content/uploads/2013/07/8eff6-dsc04415.jpg
 title: bukber bersama fullday class
 url: /bukber-bersama-fullday-class/
 ---

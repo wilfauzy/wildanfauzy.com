@@ -3,16 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2013-11-24T05:37:00Z
-guid: https://wildanfauzy.com/index.php/2013/11/24/hari-minggu-ada-apa-denganmu/
-id: 77
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596770301"
-nb_of_words:
-- "185"
+image: /wp-content/uploads/2013/11/77319-bolts-carpentry-chrome-289665.jpg
 title: Hari Minggu ada apa denganmu
 url: /hari-minggu-ada-apa-denganmu/
 ---
