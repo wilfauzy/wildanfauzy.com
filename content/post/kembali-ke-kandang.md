@@ -3,28 +3,9 @@ author: Redaksi
 tags:
 - Note
 date: 2014-01-17T21:43:00Z
-guid: https://wildanfauzy.com/index.php/2014/01/17/kembali-ke-kandang/
-id: 69
-nb_of_words:
-- "318"
-template_meta:
-- "no"
 title: Kembali Ke Kandang
 url: /kembali-ke-kandang/
-ytad1meta:
-- enabled
-ytad2meta:
-- enabled
-ytad3meta:
-- enabled
-ytad4meta:
-- enabled
-ytad5meta:
-- enabled
-ytremove_meta_value:
-- "no"
-ytrssenabled_meta_value:
-- "no"
+image: /wp-content/uploads/2014/01/c1068-background-blank-craft-301703.jpg
 ---
 
 Udah pada tahukan sekarang hari apa? Yah bener banget sekarang hari minggu otomatis besok hari senin, berarti udah pada mulai aktif berangkat sekolah lagi dan liburan akan sirna ditelan oleh waktu.

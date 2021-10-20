@@ -3,30 +3,9 @@ author: Redaksi
 tags:
 - Note
 date: 2013-12-20T06:49:00Z
-guid: https://wildanfauzy.com/index.php/2013/12/20/tercium-bau-kemalasan/
-id: 73
-nb_of_words:
-- "273"
-post_views_count:
-- "1"
-template_meta:
-- "no"
 title: Tercium Bau Kemalasan
 url: /tercium-bau-kemalasan/
-ytad1meta:
-- enabled
-ytad2meta:
-- enabled
-ytad3meta:
-- enabled
-ytad4meta:
-- enabled
-ytad5meta:
-- enabled
-ytremove_meta_value:
-- "no"
-ytrssenabled_meta_value:
-- "no"
+image :  /wp-content/uploads/2013/12/639d3-adorable-animal-animal-photography-1646198.jpg
 ---
 
 <p class="has-drop-cap">

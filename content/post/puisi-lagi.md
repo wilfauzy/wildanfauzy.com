@@ -3,10 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2013-10-17T06:42:00Z
-guid: https://wildanfauzy.com/index.php/2013/10/17/puisi-lagi/
-id: 81
-nb_of_words:
-- "352"
+image: /wp-content/uploads/2013/12/880ea-christmas-christmas-decoration-christmas-tree-1531670.jpg
 title: Puisi lagi
 url: /puisi-lagi/
 ---

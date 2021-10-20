@@ -3,10 +3,7 @@ author: Redaksi
 tags:
 - Share
 date: 2014-06-27T08:55:00Z
-guid: https://wildanfauzy.com/index.php/2014/06/27/tips-agar-terlihat-cool/
-id: 63
-nb_of_words:
-- "295"
+image: /wp-content/uploads/2014/06/729b9-afe43-johnny-depp-1-jpg.jpg
 title: Tips Agar Terlihat Cool
 url: /tips-agar-terlihat-cool/
 ---

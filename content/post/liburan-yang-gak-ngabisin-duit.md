@@ -3,10 +3,7 @@ author: Redaksi
 tags:
 - Share
 date: 2014-04-23T02:49:00Z
-guid: https://wildanfauzy.com/index.php/2014/04/23/liburan-yang-gak-ngabisin-duit/
-id: 67
-nb_of_words:
-- "205"
+image: /wp-content/uploads/2014/04/c94e6-asphalt-automobile-beach-1118448.jpg
 title: Liburan yang gak ngabisin duit
 url: /liburan-yang-gak-ngabisin-duit/
 ---

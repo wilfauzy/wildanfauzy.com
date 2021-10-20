@@ -2,6 +2,7 @@
 author: Redaksi
 tags:
 - Share
+image: /wp-content/uploads/2014/05/c9b06-72cdd-gakditerima.jpg
 date: 2014-05-27T13:27:00Z
 title: Alhamdulilah Gak diterima di snmptn
 url: /alhamdulilah-gak-diterima-di-snmptn/

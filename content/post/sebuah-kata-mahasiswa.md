@@ -3,10 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2014-09-25T15:50:00Z
-guid: https://wildanfauzy.com/index.php/2014/09/25/sebuah-kata-mahasiswa/
-id: 58
-nb_of_words:
-- "329"
+image: /wp-content/uploads/2014/09/3cfdb-aa92b-maba.png
 title: Sebuah Kata Mahasiswa
 url: /sebuah-kata-mahasiswa/
 ---

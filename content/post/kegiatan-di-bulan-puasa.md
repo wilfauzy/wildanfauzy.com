@@ -3,10 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2014-06-29T08:30:00Z
-guid: https://wildanfauzy.com/index.php/2014/06/29/kegiatan-di-bulan-puasa/
-id: 61
-nb_of_words:
-- "224"
+image: /wp-content/uploads/2014/06/7c996-architecture-art-building-415752.jpg
 title: Kegiatan Di Bulan Puasa
 url: /kegiatan-di-bulan-puasa/
 ---

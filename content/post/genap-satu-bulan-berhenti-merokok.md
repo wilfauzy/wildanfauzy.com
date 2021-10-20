@@ -3,10 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2014-07-31T13:58:00Z
-guid: https://wildanfauzy.com/index.php/2014/07/31/genap-satu-bulan-berhenti-merokok/
-id: 59
-nb_of_words:
-- "276"
+image: /wp-content/uploads/2014/07/66bf6-disallowed-forbidden-no-smoking-11840.jpg
 title: Genap Satu Bulan Berhenti Merokok
 url: /genap-satu-bulan-berhenti-merokok/
 ---

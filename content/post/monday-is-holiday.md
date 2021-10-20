@@ -3,16 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2015-02-17T14:39:00Z
-guid: https://wildanfauzy.com/index.php/2015/02/17/monday-is-holiday/
-id: 50
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596769303"
-nb_of_words:
-- "177"
+image: /wp-content/uploads/2015/02/5b7db-beach-blur-camper-386000.jpg
 title: Monday Is Holiday
 url: /monday-is-holiday/
 ---

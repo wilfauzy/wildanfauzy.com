@@ -3,10 +3,7 @@ author: Redaksi
 tags:
 - Travel
 date: 2013-12-29T15:42:00Z
-guid: https://wildanfauzy.com/index.php/2013/12/29/pengalaman-mendaki-gunung-tertinggi-di-jawa-barat/
-id: 72
-nb_of_words:
-- "1176"
+image = /wp-content/uploads/2013/12/0f2c9-luca-bravo.jpg
 title: Pengalaman Mendaki Gunung Tertinggi Di Jawa Barat
 url: /pengalaman-mendaki-gunung-tertinggi-di-jawa-barat/
 ---

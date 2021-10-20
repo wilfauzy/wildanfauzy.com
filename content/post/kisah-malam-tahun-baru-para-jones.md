@@ -3,28 +3,9 @@ author: Redaksi
 tags:
 - Note
 date: 2014-01-02T13:55:00Z
-guid: https://wildanfauzy.com/index.php/2014/01/02/kisah-malam-tahun-baru-para-jones/
-id: 71
-nb_of_words:
-- "325"
-template_meta:
-- "no"
 title: Kisah Malam Tahun Baru Para Jones
 url: /kisah-malam-tahun-baru-para-jones/
-ytad1meta:
-- enabled
-ytad2meta:
-- enabled
-ytad3meta:
-- enabled
-ytad4meta:
-- enabled
-ytad5meta:
-- enabled
-ytremove_meta_value:
-- "no"
-ytrssenabled_meta_value:
-- "no"
+image :  /wp-content/uploads/2014/01/2826d-caffeine-coffee-cup-641038.jpg
 ---
 
 <figure class="wp-block-image size-large">[<img src="https://wildanfauzyart.files.wordpress.com/2014/01/2826d-caffeine-coffee-cup-641038.jpg?w=768" alt="Kisah Malam Tahun Baru Para Jones" title="Kisah Malam Tahun Baru Para Jones" data-recalc-dims="1" />](https://wildanfauzyart.files.wordpress.com/2014/01/2826d-caffeine-coffee-cup-641038.jpg?w=768)</figure> 

@@ -3,18 +3,7 @@ author: Redaksi
 tags:
 - travel
 date: 2015-03-18T09:07:00Z
-guid: https://wildanfauzy.com/index.php/2015/03/18/pengalaman-pertama-kali-naik-kereta/
-id: 44
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596545051"
-nb_of_words:
-- "423.66666666667"
-post_views_count:
-- "1"
+image: /wp-content/uploads/2015/03/d7878-9a398-ptdc0079.jpg
 title: Pengalaman Pertama Kali Naik Kereta
 url: /pengalaman-pertama-kali-naik-kereta/
 ---
@@ -35,8 +24,6 @@ Setelah sekian lamanya di dalam kereta akhirnya kitapun sampai di statiun plered
 
 Mata gue tertuju pada satu bangunan yang beda dari yang lainnya yaitu kantor kecamatan plered, awalnya gue kira degung dprd tapi ternyata kantor kecamatan, gila kantor kecamatan di desa gue aja kecil ini lumayan gede bro, langsung aja ini penampakan kecamatan plered dari pinggir jalan.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><a href="https://wildanfauzyart.files.wordpress.com/2015/03/29b7b-e3c1a-ptdc0089.jpg?w=768"><img src="https://wildanfauzyart.files.wordpress.com/2015/03/29b7b-e3c1a-ptdc0089.jpg?w=768" alt="Pengalaman Pertama Kali Naik Kereta" data-recalc-dims="1" /></a></figure>
-</div>
+![](/wp-content/uploads/2015/03/29b7b-e3c1a-ptdc0089.jpg)
 
 Gue nantangain buat jalan kaki kerumah temen gue itu, dan dia mengiyakan kitapun jalan sambil keringat bercucuran mengakibatkan banjir di daerah plered karena daerahnya panas hampir menyerupai kampung halaman gue, dan akhirnya gue terlenyap dalam perjalanan. Wassalam

@@ -3,16 +3,7 @@ author: Redaksi
 tags:
 - Travel
 date: 2014-10-30T17:11:00Z
-guid: https://wildanfauzy.com/index.php/2014/10/30/mendaki-gunung-di-belakang-kampus/
-id: 54
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596545051"
-nb_of_words:
-- "1101.6666666667"
+image: /wp-content/uploads/2014/10/9f661-4dbf9-foto0578.jpg
 title: Mendaki Gunung Di Belakang Kampus
 url: /mendaki-gunung-di-belakang-kampus/
 ---
@@ -31,15 +22,11 @@ Setelah sampai di kampus, gue solat dzuhur dulu dan gue terkaget banyak banget i
 
 Akhirnya kita semua berangkat dari kampus menuju gunung manglayang lewat jalan manisi kalo dari kampus lewat kanan kanan oke ceritanya kita semua udah sampe batu kuda yaitu kaki gunung manglayang.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><a href="https://wildanfauzyart.files.wordpress.com/2014/10/9f661-4dbf9-foto0578.jpg?w=768"><img src="https://wildanfauzyart.files.wordpress.com/2014/10/9f661-4dbf9-foto0578.jpg?w=768" alt="Mendaki Gunung Di Belakang Kampus" data-recalc-dims="1" /></a></figure>
-</div>
+![](/wp-content/uploads/2014/10/bbcad-d7c75-foto0623.jpg)
 
 Setelah sampai di batu kuda, gue dan lainnya langsung mengambil posisi yang enak buat ngelurusin badan, udah itu langsung ke warung buat beli makanan ringan karna perut gue udah minta di banjirin makanan setelah nongkrong langsung kita semua di panggil sama panitia buat ngumpul tapi sebelum ngumpul gue mau narsis dulu di batu kuda 😀 hihi.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><a href="https://wildanfauzyart.files.wordpress.com/2014/10/8d3e6-bd8c2-foto0579.jpg?w=768"><img src="https://wildanfauzyart.files.wordpress.com/2014/10/8d3e6-bd8c2-foto0579.jpg?w=768" alt="Mendaki Gunung Di Belakang Kampus" data-recalc-dims="1" /></a></figure>
-</div>
+![](/wp-content/uploads/2014/10/8d3e6-bd8c2-foto0579.jpg)
 
 Setelah pada kumpul kita bikin lingkaran sambil ngobrol-ngobrol ngalor-ngidul sama para panitia sampai sore menjemput dan kitapun solat berjamaah magrib bersama di tengah hutan dan dinginnya bermalam di tengah hutan tapi jiwa ini terasa dekat dengan Sang Pencipta setelah solat magrib langsung kita di kasih makan ini moment yang paling gue tunggu karna gue nunggu dari tadi setelah makan langsung solat isya berjamaah lagi dan setelah solat berjamaah langsung buat lingkaran lagi tapi kali ini acaranya bukan ngobrol-ngobrol lagi tapi perkenalan sesama peserta yang ikutan KALM setelah pada perkenalan acara selanjutnya api unggun tentunya, dan ada materi dari pihak panitia mahapeka.
 
@@ -49,22 +36,16 @@ Setelah udah tidur semalaman gue dibangunin buat solat subuh terus dikasih sarap
 
 Oke langsung aja ceritanya kita udah sampe suatu tempat yang menurut gue batunya gede banget brow soalnya di rumah gue gak ada batu segede ini dan sekalian foto sama kelompok kancil di batu ajaib ini.
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><a href="http://wildanfauzyart.files.wordpress.com/2014/10/97831-3a8da-foto0585.jpg"><img src="https://wildanfauzyart.files.wordpress.com/2020/04/3a70f-3a8da-foto0585.jpg?w=768" alt="Mendaki Gunung Di Belakang Kampus" data-recalc-dims="1" /></a></figure>
-</div>
+![](/wp-content/uploads/2014/10/97831-3a8da-foto0585.jpg)
 
 &nbsp; Setelah foto di batu ajaib sama kelompok kancil, kita melanjutkan perjalanan ke puncak manglayang, ceritanya gue bentar lagi sampe nih 😀 setelah menempuh perjalanan yang cukup jauh dari indo\*maret dan alfa\*mart 😀 akhirnya kita sampai juga di puncak manglayang, setelah sampai di puncak manglayang langsung gue deketin segerombolan makhluk hidup yang sedang makan dan gue ikutan nimbrung dan dapet makanan hasil jerih payah gue dengan memasang muka melas dan akhirnya gue dapat makanan juga, setelah perut gue udah cukup terisi, ada acara pelepasan dari anggota muda ke anggota biasa dari pihak mahapeka, setelah itu gue foto dulu di puncak manglayang sebelum turun dari puncak manglayang. 
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><a href="https://wildanfauzyart.files.wordpress.com/2014/10/3bcfa-62f58-foto0597.jpg?w=768"><img src="https://wildanfauzyart.files.wordpress.com/2014/10/3bcfa-62f58-foto0597.jpg?w=768" alt="Mendaki Gunung Di Belakang Kampus" data-recalc-dims="1" /></a></figure>
-</div>
+![](/wp-content/uploads/2014/10/3bcfa-62f58-foto0597.jpg)
 
 Setelah itu kita semua langsung mengerjakan operasi semut dan turun dari gunung manglayang dengan agenda jalur bersih manglayang jadi maksudnya kita di sepanjang jalan disuruh mungutin sampah yang ada di jalur pendakian, setelah sampai di batu kuda langsung rebahan dan solat dzuhur setelah solat saatnya makan dan habis makan ada kegiatan flyfox sama jalan di tambah yang datar gak tau gue ini namanya apa, tapi setelah gue cobain jalan diatas tambah gue masih belum menyeimbangkan badan gue yang gede ini jadi weh jatuh terus.
 
 Setelah kegiatannya selesai kita disuruh kumpul dan membuat lingkaran kita ditanyain satu-satu tentang kesan dan pesan setelah mengikuti acara KALM ini setelah itu pengenalan panitia, udah kenalan semua kita langsung balik dengan jalan satu baris.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><a href="https://wildanfauzyart.files.wordpress.com/2014/10/bbcad-d7c75-foto0623.jpg?w=768"><img src="https://wildanfauzyart.files.wordpress.com/2014/10/bbcad-d7c75-foto0623.jpg?w=768" alt="Mendaki Gunung Di Belakang Kampus" data-recalc-dims="1" /></a></figure>
-</div>
+![](/wp-content/uploads/2014/10/bbcad-d7c75-foto0623.jpg)
 
 Setelah pada berbaris, kita semua mengangkat kaki dari batu kuda dan melanjutkan perjalanan pulang, setelah di tengah perjalanan gue sama temen gue yang masih deketan asramanya memutuskan buat motong jalan dan setelah motong jalan, ceritanya gue udah sampe asrama dan langsung ngelurusin badan dan guepun tertidur dan wassalam.

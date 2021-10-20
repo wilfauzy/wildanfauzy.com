@@ -3,10 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2014-03-05T20:57:00Z
-guid: https://wildanfauzy.com/index.php/2014/03/05/habis-to-terbitlah-uambn/
-id: 68
-nb_of_words:
-- "237"
+image: /wp-content/uploads/2014/03/4e37a-education-exam-hand-249360.jpg
 title: Habis TO terbitlah UAMBN
 url: /habis-to-terbitlah-uambn/
 ---
