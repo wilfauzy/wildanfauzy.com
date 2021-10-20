@@ -5,7 +5,7 @@ tags:
 date: 2014-01-16T05:42:00Z
 title: Malam Jumat dan Hari Favorite Gue
 url: /malam-jumat-dan-hari-favorite-gue/
-image :  /wp-content/uploads/2014/01/96149-cold-dark-eerie-414144.jpg
+image: /wp-content/uploads/2014/01/96149-cold-dark-eerie-414144.jpg
 ---
 
 Malam jumat adalah malam dimana gue bisa sedikit relax dari kejuhan budaya kelas tiga yaitu pengayaan, kalian udah pada tahukan kalo kelas tiga memasuki semester tiga itu rasanya pengen cepet cepet lulus aja, gak tau kenapa setiap hari gue selalu jenuh berangkat sekolah pagi pulang sore udah gitu full belajar dari senin sampe ketemu senin lagi, untungnya ada libur hari jumat jadi bisa sedikit menghilangkan jenuh oleh karena itu gue suka banget sama hari jumat “Thank GOD it&#8217;s friday” jadi setiap malam jumat itu rasanya happy banget bisa begadang dan terbebas dari tuntutan besok sekolah.<figure class="wp-block-image size-large">

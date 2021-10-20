@@ -3,7 +3,7 @@ author: Redaksi
 tags:
 - Travel
 date: 2013-12-29T15:42:00Z
-image = /wp-content/uploads/2013/12/0f2c9-luca-bravo.jpg
+image: /wp-content/uploads/2013/12/0f2c9-luca-bravo.jpg
 title: Pengalaman Mendaki Gunung Tertinggi Di Jawa Barat
 url: /pengalaman-mendaki-gunung-tertinggi-di-jawa-barat/
 ---
