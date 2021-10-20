@@ -1,7 +1,0 @@
-[[redirects]]
-  from = "www.blog.wildanfauzy.com/*"
-  to = "blog.wildanfauzy.com/$1"
-  status = 308
-  force = true # COMMENT: ensure that we always redirect
-  headers = {X-From = "Netlify"}
-  signed = "API_SIGNATURE_TOKEN"
