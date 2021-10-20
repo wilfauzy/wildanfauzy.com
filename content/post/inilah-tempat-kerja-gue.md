@@ -3,7 +3,7 @@ author: Redaksi
 tags:
 - Share
 date: 2015-03-01T14:40:00Z
-image:/wp-content/uploads/2015/03/912d4-ad147-ptdc0036.jpg
+image: /wp-content/uploads/2015/03/912d4-ad147-ptdc0036.jpg
 title: Inilah Tempat Kerja Gue
 url: /inilah-tempat-kerja-gue/
 ---
