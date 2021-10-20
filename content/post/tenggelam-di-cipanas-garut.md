@@ -3,23 +3,11 @@ author: Redaksi
 tags:
 - Travel
 date: 2015-02-21T02:46:00Z
-guid: https://wildanfauzy.com/index.php/2015/02/21/tenggelam-di-cipanas-garut/
-id: 48
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596545051"
-nb_of_words:
-- "307"
+image:/wp-content/uploads/2015/02/70fff-c8348-ptdc0006.jpg
 title: Tenggelam Di Cipanas Garut
 url: /tenggelam-di-cipanas-garut/
 ---
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><a href="https://wildanfauzyart.files.wordpress.com/2015/02/70fff-c8348-ptdc0006.jpg?w=768"><img src="https://wildanfauzyart.files.wordpress.com/2015/02/70fff-c8348-ptdc0006.jpg?w=768" alt="Tenggelam Di Cipanas Garut" data-recalc-dims="1" /></a></figure>
-</div>
 
 Kembali lagi, tepatnya pas hari imlek gue bangun jam sepuluh karena gak ada mata kuliah dan malemnya gue begadang jadi terjadilah gue bangun siang, bangun-bangun temen kamar gue udah pada packing-packing tas, walah pada mau kemana nih bocah.
 

@@ -3,12 +3,8 @@ author: Redaksi
 tags:
 - Share
 date: 2015-03-09T01:09:00Z
-guid: https://wildanfauzy.com/index.php/2015/03/09/sarapan-kolaborasi-antara-eropa-dan-indonesia/
-id: 45
-nb_of_words:
-- "188"
 title: Sarapan Kolaborasi Antara Eropa dan Indonesia
-url: /sarapan-kolaborasi-antara-eropa-dan-indonesia/
+image: /wp-content/uploads/2015/03/1eb33-fdfe9-kolaborasi.jpg
 ---
 
 Kembali lagi di jakoblog, di pagi yang cerah ini mentari menghampiri begitu juga cacing-cacing yang mendiami perutku ini, menari-nari untuk dikasihi, seperti biasanya gue selalu sarapan di pagi hari dengan menu yang selalu sama setiap harinya.

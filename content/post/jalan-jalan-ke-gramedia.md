@@ -3,12 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2013-07-12T23:25:00Z
-guid: https://wildanfauzy.com/index.php/2013/07/12/jalan-jalan-ke-gramedia/
-id: 96
-nb_of_words:
-- "326"
-post_views_count:
-- "1"
+image: /wp-content/uploads/2013/07/2eecb-book-stack-books-bookshop-264635.jpg
 title: Jalan jalan ke Gramedia
 url: /jalan-jalan-ke-gramedia/
 ---

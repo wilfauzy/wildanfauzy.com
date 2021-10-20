@@ -3,12 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2014-06-26T15:15:00Z
-guid: https://wildanfauzy.com/index.php/2014/06/26/jadi-pengangguran-itu/
-id: 64
-jnews_social_counter_last_update:
-- "1598710918"
-nb_of_words:
-- "281"
+image: /wp-content/uploads/2014/06/78a44-chill-chilling-hammock-92870.jpg
 title: Jadi Pengangguran Itu
 url: /jadi-pengangguran-itu/
 ---

@@ -3,16 +3,7 @@ author: Redaksi
 tags:
 - Travel
 date: 2015-02-23T04:10:00Z
-guid: https://wildanfauzy.com/index.php/2015/02/23/bersepeda-ke-lingkar-luar-nagreg/
-id: 47
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596545051"
-nb_of_words:
-- "585"
+image: /wp-content/uploads/2015/02/d282f-2b8e1-ptdc0013.jpg
 title: Bersepeda Ke lingkar Luar Nagreg
 url: /bersepeda-ke-lingkar-luar-nagreg/
 ---
@@ -29,20 +20,14 @@ Perjalanan dari cibiru ke lingkar luar nagreg cukup jauh juga sih kalo naik sepe
 
 Ceritanya gue udah sampai nagreg nih, gue poto dulu bray di jembatan kereta api yang menurut gue ini keren bro, karena kemarin gue ketinggalan kereta sebagai gantinya gue poto di jembatan kereta.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><a href="https://wildanfauzyart.files.wordpress.com/2015/02/d282f-2b8e1-ptdc0013.jpg?w=768"><img src="https://wildanfauzyart.files.wordpress.com/2015/02/d282f-2b8e1-ptdc0013.jpg?w=768" alt="Bersepeda Ke lingkar Luar Nagreg" data-recalc-dims="1" /></a></figure>
-</div>
+![](//wp-content/uploads/2015/02/d282f-2b8e1-ptdc0013.jpg)
 
 Gue keliatan kecil udah gitu item lagi , setelah gue udah beres poto dengan jembatan kereta api di nagreg gue lanjut gas sepeda ke lingkar luar nagreg yang jaraknya berdekatan dengan jembatan kereta tapi treknya lumayan nanjak bro jadi dengkul gue linu, akhirnya sampai di lingkar luar nagreg dan berpoto dengan background yang kece.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><a href="https://wildanfauzyart.files.wordpress.com/2015/02/8ed26-26e85-ptdc0027.jpg?w=768"><img src="https://wildanfauzyart.files.wordpress.com/2015/02/8ed26-26e85-ptdc0027.jpg?w=768" alt="Bersepeda Ke lingkar Luar Nagreg" data-recalc-dims="1" /></a></figure>
-</div>
+![](//wp-content/uploads/2015/02/8ed26-26e85-ptdc0027.jpg)
 
 Gue suka sama tulisannya bro _my life my adventure_, salah satu slogan iklan rokok dalam negeri, dan guepun nongkrong dulu di warung deket situ sambil memesan kopi dan menghisap asap putih setelah ngaso berasa cukup gue lanjut buat memasuki terowongan.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><a href="https://wildanfauzyart.files.wordpress.com/2015/02/6cfb7-c78d4-ptdc0030.jpg?w=768"><img src="https://wildanfauzyart.files.wordpress.com/2015/02/6cfb7-c78d4-ptdc0030.jpg?w=768" alt="Bersepeda Ke lingkar Luar Nagreg" data-recalc-dims="1" /></a></figure>
-</div>
+![](//wp-content/uploads/2015/02/6cfb7-c78d4-ptdc0030.jpg)
 
 Setalah gue masuk ke terowongan yang banyak celah diatasnya, ternyata banyak yang pacaran di dalamnya asem banget gue, sedangkan gue hanya sendirian gak sih kan sama sih putih alias sepeda gue, biar mata gue gak sepet liatin orang yang pacaran guepun gaspoll sepeda gue, setelah sampe jalan by pass yang banyak turunanya jadi cepet sampe untuk pulang ke habitat gue, sampe cileunyi jam setengan dua siang gue putusin buat makan dulu karena cacing di perut gue udah pada kesurupan sampai di asrama jam dua dan gue langsung rebahan ngelurusin badan dan guepun terbuai oleh angin di siang hari pada akhirnya gue tertidur, Wassalam.

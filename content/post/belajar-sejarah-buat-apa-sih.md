@@ -3,10 +3,7 @@ author: Redaksi
 tags:
 - Share
 date: 2015-02-11T18:27:00Z
-guid: https://wildanfauzy.com/index.php/2015/02/11/belajar-sejarah-buat-apa-sih/
-id: 51
-nb_of_words:
-- "233"
+image: /wp-content/uploads/2015/02/d4e71-0081c-belajar2bsejarah2bbuat2bapa2bsih.jpg
 title: Belajar Sejarah Buat Apa Sih?
 url: /belajar-sejarah-buat-apa-sih/
 ---

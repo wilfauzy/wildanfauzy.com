@@ -3,10 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2015-09-18T14:00:00Z
-guid: https://wildanfauzy.com/index.php/2015/09/18/kata-manusia-ini-bingung/
-id: 2169
-nb_of_words:
-- "427"
+image: /wp-content/uploads/2015/09/42293-abandoned-room-7007.jpg
 title: Kata Manusia Ini Bingung?
 url: /kata-manusia-ini-bingung/
 ---

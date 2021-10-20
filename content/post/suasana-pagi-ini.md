@@ -3,20 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2015-04-24T20:30:00Z
-gnpub_modified_count:
-- "2"
-guid: https://wildanfauzy.com/index.php/2015/04/24/suasana-pagi-ini/
-id: 38
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596769290"
-nb_of_words:
-- "310"
-post_views_count:
-- "1"
+image: /wp-content/uploads/2015/05/5cbbc-b136e-wp_20150521_012.jpg
 title: Suasana Pagi Ini
 url: /suasana-pagi-ini/
 ---

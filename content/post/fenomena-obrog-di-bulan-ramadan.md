@@ -3,10 +3,7 @@ author: Redaksi
 tags:
 - Share
 date: 2014-07-06T18:28:00Z
-guid: https://wildanfauzy.com/index.php/2014/07/06/fenomena-obrog-di-bulan-ramadan/
-id: 60
-nb_of_words:
-- "272"
+image: /wp-content/uploads/2014/07/bc73d-f6995-music_guitar_cartoon.gif
 title: Fenomena Obrog Di Bulan Ramadan
 url: /fenomena-obrog-di-bulan-ramadan/
 ---

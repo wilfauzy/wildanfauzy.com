@@ -3,6 +3,7 @@ author: Redaksi
 date: 2013-07-27T14:08:00Z
 tags:
 - kopi
+image: /wp-content/uploads/2013/11/91af2-coffee-drink-flower-6067.jpg
 title: minum kopi sebelum tidur
 url: /minum-kopi-sebelum-tidur/
 ---

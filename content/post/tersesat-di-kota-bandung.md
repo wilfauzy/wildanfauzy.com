@@ -3,10 +3,7 @@ author: Redaksi
 tags:
 - Travel
 date: 2014-09-28T15:36:00Z
-guid: https://wildanfauzy.com/index.php/2014/09/28/tersesat-di-kota-bandung/
-id: 57
-nb_of_words:
-- "683"
+image: /wp-content/uploads/2014/09/3ebfa-46249-foto0471.jpg
 title: Tersesat Di Kota Bandung
 url: /tersesat-di-kota-bandung/
 ---
@@ -21,15 +18,11 @@ Setelah udah pada kumpul langsung berangkat naik bus damri dengan ongkos anak ma
 
 Niat turun di kimia farma, kita kelewatan jadi turun di halte asia-afrika jadi lumayan jalan dulu menuju musium konferensi asia-afrika, dan akhirnya sampe juga sih.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><a href="https://wildanfauzyart.files.wordpress.com/2014/09/db306-2e8d7-foto0517.jpg?w=768"><img src="https://wildanfauzyart.files.wordpress.com/2014/09/db306-2e8d7-foto0517.jpg?w=768" alt="Tersesat Di Kota Bandung" data-recalc-dims="1" /></a></figure>
-</div>
+![](/wp-content/uploads/2014/09/28729-6ceb3-foto0400.jpg)
 
 Setelah sampe di depan musium konferensi asia-afrika, langsung masuk tanpa basa-basi tentunya gratis brow, abis masuk gue langsung selpi sama bung karno jarang-jarang ada orang yang bisa selpi sama bapak proklamator 😀
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><a href="https://wildanfauzyart.files.wordpress.com/2014/09/a7fd3-d2fac-foto0017.jpg?w=768"><img src="https://wildanfauzyart.files.wordpress.com/2014/09/a7fd3-d2fac-foto0017.jpg?w=768" alt="Tersesat Di Kota Bandung" data-recalc-dims="1" /></a></figure>
-</div>
+![](/wp-content/uploads/2014/09/db306-2e8d7-foto0517.jpg)
 
 Habis keliling musium sampe bolak-balik terus, gue sama temen-temen mutusin buat melanjutkan perjalanan ke jalan braga yang katanya tempatnya kaya di luar negeri, ini mah katanya.
 

@@ -3,28 +3,9 @@ author: Redaksi
 tags:
 - Note
 date: 2013-12-14T12:12:00Z
-guid: https://wildanfauzy.com/index.php/2013/12/14/relax-setelah-uas/
-id: 74
-nb_of_words:
-- "272"
-template_meta:
-- "no"
 title: Relax setelah UAS
 url: /relax-setelah-uas/
-ytad1meta:
-- enabled
-ytad2meta:
-- enabled
-ytad3meta:
-- enabled
-ytad4meta:
-- enabled
-ytad5meta:
-- enabled
-ytremove_meta_value:
-- "no"
-ytrssenabled_meta_value:
-- "no"
+image: wp-content/uploads/2013/12/639d3-adorable-animal-animal-photography-1646198.jpg
 ---
 
 <p class="has-drop-cap">

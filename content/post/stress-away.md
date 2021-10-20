@@ -3,12 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2013-08-31T17:15:00Z
-guid: https://wildanfauzy.com/index.php/2013/08/31/stress-away/
-id: 86
-jnews_social_counter_last_update:
-- "1598711029"
-nb_of_words:
-- "110"
+image: /img/bangsatkau.jpg
 title: Stress Away
 url: /stress-away/
 ---

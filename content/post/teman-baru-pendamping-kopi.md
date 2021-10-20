@@ -1,22 +1,11 @@
 ---
 author: Redaksi
 date: 2015-09-13T20:56:00Z
-guid: https://wildanfauzy.com/index.php/2015/09/13/teman-baru-pendamping-kopi/
-id: 2172
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596588125"
-nb_of_words:
-- "357"
+image:/wp-content/uploads/2015/09/905e2-31274-wp_20150912_003.jpg
 tags:
 - kopi
 title: Teman Baru Pendamping Kopi?
 url: /teman-baru-pendamping-kopi/
-wps_subtitle:
-- Wis mangan enake udud
 ---
 
 Cangklong adalah alat untuk merokok tembakau atau alat ini lebih dikenal dengan nama pipe tetapi di indonesia sendiri lebih familiar dengan sebutan cangklong, pipe atau cangklong terkenal sejak jaman kolonial belanda di indonesia, banyak di gunakan oleh kalangan seperti lelaki pribumi sendiri.

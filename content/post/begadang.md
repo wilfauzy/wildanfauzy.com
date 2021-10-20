@@ -5,6 +5,7 @@ tags:
 date: 2019-12-26T12:29:58Z
 title: Sebuah Kisah Tidur Subuh Bangun Pagi
 url: /begadang/
+image: /img/20210305_024131.jpg
 ---
 
 **Tidur subuh, bangun pagi.** Sebuah rencana yang bagus jika dilakukan setiap hari, mungkin terdengar sepele, bagi orang normal tidur hanya dua jam sehari akan terdengar biasa saja, jika dilakukan sekali dua kali, tetapi kalau ada yang melakukannya setiap hari, maka orang tersebut saya sebut dewa.

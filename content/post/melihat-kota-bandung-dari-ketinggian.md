@@ -3,18 +3,7 @@ author: Redaksi
 tags:
 - Travel
 date: 2015-04-25T19:48:00Z
-guid: https://wildanfauzy.com/index.php/2015/04/25/melihat-kota-bandung-dari-ketinggian/
-id: 37
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596545051"
-nb_of_words:
-- "477.66666666667"
-post_views_count:
-- "1"
+image: /wp-content/uploads/2015/04/3d040-09fbc-10785104_380901802068097_466306943_n.jpg
 title: Melihat Kota Bandung dari ketinggian
 url: /melihat-kota-bandung-dari-ketinggian/
 ---
@@ -27,8 +16,6 @@ Oke ceritanya sampe di alun-alun, gue turun dari damri dengan suasana ngantuk ka
 
 Setelah gue nunggu pintu lift terbuka sampe jenggot gue tumbuh, setelah masuk lift gue degdegan men, takut liftnya mati karna gue tanya sama penjaga lift yang lagi mengisi tts, katanya ada 19 lantai geblek tinggi juga, dengan sabar gue menunggu lift sampe terbuka pintunya terbuka, setelah terbuka gue disambut sama orang yang mau turun dari menara, setelah sampe atas menara guepun _melihat kota bandung dari ketinggian._
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><a href="http://wildanfauzyart.files.wordpress.com/2015/04/02c19-0ee7b-img-20141116-00581.jpg"><img src="https://wildanfauzyart.files.wordpress.com/2020/04/a3b86-0ee7b-img-20141116-00581.jpg?w=768" alt="Melihat Kota Bandung dari ketinggian" data-recalc-dims="1" /></a></figure>
-</div>
+![](//wp-content/uploads/2015/04/02c19-0ee7b-img-20141116-00581.jpg)
 
 Akhirnya gue pun bisa melihat kota bandung dari ketinggian, mau tau apa yang gue liat dari atas menara masjid raya bandung silakan dilihat poto dibawah ini. &nbsp; Setelah puas diatas menara akhirnya kita turun dari menara dengan cara terjun ini boongan :D, ceritanya udah turun dari menara, kita mutusin buat nyantai dulu di mesjid raya sambil nunggu adzan dzuhur berkumandang, mata guepun mulai mengantuk-ngantuk tetap suara dari speaker membangunkan diri ini, yaitu suara adzan berkumandang akhirnya gue solat dulu setelah solat gue dan temen pulang kosannya dengan menggunakan damri lagi, wassalam.

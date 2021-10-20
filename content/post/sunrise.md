@@ -3,14 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2016-03-12T11:45:00Z
-essb_cached_image:
-- https://wildanfauzyart.files.wordpress.com/2020/04/64254-wp_20160312_002.jpg?resize=640%2C300&#038;ssl=1
-gnpub_modified_count:
-- "4"
-guid: http://wildanfauzy.art.blog/2016/03/12/sunrise/
-id: 2187
-nb_of_words:
-- "347"
+image: wp-content/uploads/2015/05/73713-6e195-salar_uyuni_200701-800x600-1.jpg
 title: Mengapa Sunrise Terbit di Pagi Hari?
 url: /sunrise/
 ---

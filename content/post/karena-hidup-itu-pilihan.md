@@ -3,16 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2015-05-21T18:17:00Z
-guid: https://wildanfauzy.com/index.php/2015/05/21/karena-hidup-itu-pilihan/
-id: 34
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596769271"
-nb_of_words:
-- "242"
+image: /wp-content/uploads/2015/05/73713-6e195-salar_uyuni_200701-800x600-1.jpg
 title: Karena Hidup Itu Pilihan?
 url: /karena-hidup-itu-pilihan/
 ---

@@ -3,22 +3,7 @@ author: Redaksi
 tags:
 - Share
 date: 2019-04-29T09:04:00Z
-guid: http://wildanfauzy.art.blog/2019/04/29/cara-bertahan-hidup-di-abad-ini/
-id: 2173
-jnews_social_counter_last_update:
-- "1598711253"
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_shorturl:
-- https://bit.ly/3hZacoW
-mashsb_timestamp:
-- "1596553113"
-nb_of_words:
-- "562.66666666667"
-neve_meta_enable_content_width:
-- "off"
+image: /img/20210327_151218.jpg
 title: Cara Bertahan Hidup di Abad Ini
 url: /cara-bertahan-hidup-di-abad-ini/
 ---

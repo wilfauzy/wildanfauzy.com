@@ -3,16 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2013-11-21T09:13:00Z
-guid: https://wildanfauzy.com/index.php/2013/11/21/after-show-up-seasons-7th/
-id: 78
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596770310"
-nb_of_words:
-- "229"
+image: /wp-content/uploads/2013/11/2abe9-acting-actors-adult-1049746.jpg
 title: After Show Up Seasons 7th
 url: /after-show-up-seasons-7th/
 ---

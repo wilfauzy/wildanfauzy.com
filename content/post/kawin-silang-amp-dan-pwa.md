@@ -1,8 +1,7 @@
 ---
 author: pemuda malkis
 date: 2020-06-27T08:46:45Z
-guid: https://wildanfauzy.com/?p=4469
-id: 4469
+image: /wp-content/uploads/2020/06/pexels-photo-3807747.jpeg
 tags:
 - amp
 - pwa

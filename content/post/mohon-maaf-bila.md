@@ -3,10 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2014-06-28T06:25:00Z
-guid: https://wildanfauzy.com/index.php/2014/06/28/mohon-maaf-bila/
-id: 62
-nb_of_words:
-- "109"
+image: /wp-content/uploads/2014/06/0bb47-apology-message-note-2022077.jpg
 title: Mohon Maaf Bila
 url: /mohon-maaf-bila/
 ---

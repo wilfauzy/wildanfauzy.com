@@ -3,10 +3,7 @@ author: Redaksi
 tags:
 - Share
 date: 2013-09-24T19:03:00Z
-guid: https://wildanfauzy.com/index.php/2013/09/24/ada-yang-baru-di-blogger-loh/
-id: 83
-nb_of_words:
-- "196"
+image: /wp-content/uploads/2013/09/fb769-c0319-screenshot_1.png
 title: Ada yang Baru di Blogger Loh
 url: /ada-yang-baru-di-blogger-loh/
 ---

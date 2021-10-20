@@ -3,10 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2013-11-20T02:35:00Z
-guid: https://wildanfauzy.com/index.php/2013/11/20/cerita-di-jam-siang/
-id: 79
-nb_of_words:
-- "362"
+image: /wp-content/uploads/2013/11/6a3c8-building-ceiling-classroom-373488.jpg
 title: Cerita di jam siang
 url: /cerita-di-jam-siang/
 ---

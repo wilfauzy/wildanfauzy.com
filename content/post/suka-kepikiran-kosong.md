@@ -3,10 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2013-12-04T18:25:00Z
-guid: https://wildanfauzy.com/index.php/2013/12/04/suka-kepikiran-kosong/
-id: 75
-nb_of_words:
-- "183"
+image: /wp-content/uploads/2013/12/6fbc3-background-balance-beach-289586.jpg
 title: Suka kepikiran kosong
 url: /suka-kepikiran-kosong/
 ---
