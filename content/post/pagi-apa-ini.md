@@ -3,12 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2016-03-10T05:36:00Z
-guid: http://wildanfauzy.art.blog/2016/03/10/pagi-apa-ini/
-id: 2188
-nb_of_words:
-- "230"
-post_views_count:
-- "1"
+image: /img/pagi-apa-ini.jpeg
 title: Pagi apa ini
 url: /pagi-apa-ini/
 ---

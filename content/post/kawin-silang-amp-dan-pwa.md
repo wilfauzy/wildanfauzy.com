@@ -1,7 +1,7 @@
 ---
 author: pemuda malkis
 date: 2020-06-27T08:46:45Z
-image: /wp-content/uploads/2020/06/pexels-photo-3807747.jpeg
+image: /img/pwa-vs-amp.jpg
 tags:
 - amp
 - pwa

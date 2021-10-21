@@ -3,10 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2013-07-25T09:05:00Z
-guid: https://wildanfauzy.com/index.php/2013/07/25/poker-penahan-lapar/
-id: 92
-nb_of_words:
-- "258"
+image: /img/o-POKER-facebook.jpg
 title: poker penahan lapar
 url: /poker-penahan-lapar/
 ---

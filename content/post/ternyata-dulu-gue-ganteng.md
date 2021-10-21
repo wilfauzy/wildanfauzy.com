@@ -3,18 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2015-04-29T18:04:00Z
-guid: https://wildanfauzy.com/index.php/2015/04/29/ternyata-dulu-gue-ganteng/
-id: 36
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596769286"
-nb_of_words:
-- "233"
-post_views_count:
-- "1"
+image: /wp-content/uploads/2015/04/b21e7-77358-11146555_10206083312709176_1948852097446303289_n.jpg
 title: Ternyata Dulu Gue Ganteng
 url: /ternyata-dulu-gue-ganteng/
 ---

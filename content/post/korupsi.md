@@ -3,6 +3,7 @@ author: Redaksi
 tags:
 - Share
 date: 2013-05-30T12:56:00Z
+image: /img/cegah-praktik-korupsi.jpg
 title: Korupsi
 url: /korupsi/
 ---

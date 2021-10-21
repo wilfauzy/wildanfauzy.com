@@ -3,6 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2012-11-02T12:31:00.000+00:00
+image: /wp-content/uploads/2013/11/6a3c8-building-ceiling-classroom-373488.jpg
 title: Kejadian di Kelas
 url: "/kejadian-dikelas/"
 
