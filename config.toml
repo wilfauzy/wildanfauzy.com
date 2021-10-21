@@ -44,10 +44,6 @@ twitterName = "wilfauzy"
 hjsStyle = "default"
 [permalinks]
 post = "/:slug/"
-[sitemap]
-ChangeFreq = ""
-Filename = "sitemap.xml"
-Priority = "-1"
 
 [params.social]
 twitter = "wilfauzy"
