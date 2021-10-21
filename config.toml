@@ -53,3 +53,8 @@ Priority = "-1"
 twitter = "wilfauzy"
 github = "wilfauzy"
 pinteres = "wilfauzy"
+
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
