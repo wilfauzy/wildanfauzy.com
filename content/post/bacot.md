@@ -3,6 +3,7 @@ author: Redaksi
 tags:
 - Share
 date: 2019-09-13T20:32:02Z
+image: /img/redaksi.jpg
 title: Bacot is Never Enough
 url: /bacot/
 ---
