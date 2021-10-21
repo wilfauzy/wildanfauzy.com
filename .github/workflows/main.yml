@@ -3,9 +3,7 @@ name: github pages
 on:
   push:
     branches:
-      - master  # Set a branch to deploy
-  pull_request:
-
+      - master
 jobs:
   deploy:
     runs-on: ubuntu-20.04
@@ -31,3 +29,4 @@ jobs:
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
