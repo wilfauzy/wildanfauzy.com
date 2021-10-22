@@ -2,7 +2,7 @@
   "redirects": [
     { 
       "source": "/categories",
-      "destination": "https://blog.wildanfauzy.com", 
+      "destination": "/", 
       "permanent": true
     }
   ]
