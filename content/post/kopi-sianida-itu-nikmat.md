@@ -3,20 +3,7 @@ author: Redaksi
 tags:
 - Share
 date: 2016-02-12T15:13:00Z
-guid: https://wildanfauzy.com/index.php/2016/02/12/kopi-sianida-itu-nikmat/
-id: 2191
-mashsb_jsonshares:
-- '{"total":0}'
-mashsb_shares:
-- "0"
-mashsb_timestamp:
-- "1596588125"
-nb_of_words:
-- "216"
-slim_seo:
-- a:0:{}
-tags:
-- kopi
+image: /img/6d948-coffee-cup-working-happy.jpg
 title: Kopi Sianida Itu Nikmat
 url: /kopi-sianida-itu-nikmat/
 ---

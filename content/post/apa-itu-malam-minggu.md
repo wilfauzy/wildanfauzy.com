@@ -3,36 +3,9 @@ author: Redaksi
 tags:
 - Share
 date: 2020-01-04T19:46:41Z
-guid: https://wildanfauzy.com/malam-minggu-2/
-id: 1880
-nb_of_words:
-- "185"
-post_views_count:
-- "1"
-publicize_tumblr_url:
-- http://.tumblr.com/post/616944328828436480
-rank_math_internal_links_processed:
-- "1"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-template_meta:
-- "no"
+image: /img/malam minggu.jpg
 title: Apa Itu Malam Minggu?
 url: /apa-itu-malam-minggu/
-ytad1meta:
-- enabled
-ytad2meta:
-- enabled
-ytad3meta:
-- enabled
-ytad4meta:
-- enabled
-ytad5meta:
-- enabled
-ytremove_meta_value:
-- "no"
-ytrssenabled_meta_value:
-- "no"
 ---
 
 Malam minggu adalah malam dimana manusia banyak membicarakannya, topik yang sering dibicarakan oleh kaum tuna asmara dan manusia yang mempunyai gangguan kesepian atau kesendirian, bukan itu maksudnya, malam minggu sama saja dengan malam-malam lainnya, hanya saja banyak orang yang membicarakannya.

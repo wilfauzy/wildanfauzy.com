@@ -3,10 +3,7 @@ author: WilFauzy
 tags:
 - Cerita Pendek
 date: 2020-09-16T20:13:00Z
-guid: https://wildanfauzy.com/?p=8088
 image: /wp-content/uploads/2020/09/terbang.jpg
-header-mask: 0.4
-id: 8088
 title: Terbang Ke Dasar Bumi
 url: /terbang-ke-dasar-bumi/
 ---
