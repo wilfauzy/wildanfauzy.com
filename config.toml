@@ -4,6 +4,12 @@ disqusshortname = "wildanfauzy"
 languagecode = "id-ID"
 paginate = 8
 title = "Blog"
+aliases = [
+    "/post",
+    "/categories",
+    "/tags",
+    "/"
+]
 [[menu.main]]
 name = "Kaskus"
 url = "https://www.kaskus.co.id/@nadliw45"
@@ -57,3 +63,4 @@ post = "/:slug/"
 changefreq = "monthly"
 filename = "sitemap.xml"
 priority = 0.5
+
