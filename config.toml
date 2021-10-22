@@ -24,7 +24,7 @@ url = "https://blog.wildanfauzy.com/search"
 [[menu.main]]
 weight = 106
 name = "Sign In"
-url = "https://blog.wildanfauzy.com/admin"
+url = "https://blog.wildanfauzy.com/admin/#/login"
 
 [params]
 author = "wilfauzy"
