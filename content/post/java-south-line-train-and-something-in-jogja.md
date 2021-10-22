@@ -3,18 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2020-01-02T19:44:59Z
-gnpub_modified_count:
-- "2"
-guid: https://wildanfauzy.com/?p=1682
-id: 1682
-nb_of_words:
-- "333"
-rank_math_pillar_content:
-- "on"
-rank_math_primary_category:
-- "4"
-rank_math_seo_score:
-- "9"
+image: /img/e6730-person-standing-by-an-old-train-in-a-train-stop-close-to-a-319331868450527-1.jpg
 title: Kereta Jalur Selatan Jawa dan Sesuatu di Jogja
 url: /java-south-line-train-and-something-in-jogja/
 ---
