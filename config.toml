@@ -5,9 +5,9 @@ languagecode = "id-ID"
 paginate = 8
 title = "Blog"
 aliases = [
-    "/post",
-    "/categories",
-    "/tags",
+    "/post/",
+    "/categories/",
+    "/tags/",
     "/"
 ]
 [[menu.main]]
