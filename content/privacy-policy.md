@@ -6,7 +6,7 @@ share = false
 title = "Privasi"
 type = "page"
 [menu.main]
-weight = 110
+weight = 5
 
 +++
 _Diperbarui pada 21 agustus 2020 pukul 14:33_

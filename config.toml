@@ -4,53 +4,56 @@ disqusshortname = "wildanfauzy"
 languagecode = "id-ID"
 paginate = 8
 title = "Blog"
-
 [[menu.main]]
-weight = 107
-name = "Perpus"
-url = "https:///perpus.wildanfauzy.com"
+name = "Kaskus"
+url = "https://www.kaskus.co.id/@nadliw45"
+weight = 7
 [[menu.main]]
-weight = 108
-name = "Jurnal"
-url = "https:///jurnal.wildanfauzy.com"
-[[menu.main]]
-weight = 114
 name = "Newsletter"
 url = "https:///surat.wildanfauzy.com"
+weight = 10
 [[menu.main]]
-weight = 105
-name = "Cari"
-url = "https://blog.wildanfauzy.com/search"
+name = "Kompasiana"
+url = "https://www.kompasiana.com/wildanfauzy"
+weight = 11
 [[menu.main]]
-weight = 106
+name = "Perpus"
+url = "https:///perpus.wildanfauzy.com"
+weight = 3
+[[menu.main]]
+name = "Jurnal"
+url = "https:///jurnal.wildanfauzy.com"
+weight = 4
+[[menu.main]]
 name = "Sign In"
 url = "https://blog.wildanfauzy.com/admin/#/login"
-
+weight = 2
+[[menu.main]]
+name = "Cari"
+url = "https://blog.wildanfauzy.com/search"
+weight = 1
 [params]
+RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw"
 author = "wilfauzy"
+authorbio = "Artikel pilihan dari dapur redaksi"
 authorlocation = "Bandung, Indonesia"
 authorwebsite = "https://wildanfauzy.com"
-authorbio = "Artikel pilihan dari dapur redaksi"
 cover = "/images/header.webp"
 description = "WildanFauzy.com adalah blog yang membahas info menarik disajikan secara asik dan santai, kumpulan cerita dari sudut pandang yang berbeda"
+disableHugoGeneratorInject = true
 githubName = "wilfauzy"
-pinterestName = "wilfauzy"
-RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw" 
 hideHUGOSupport = false
-disableHugoGeneratorInject = true 
-logo = "/img/about.png"
-twitterName = "wilfauzy"
-#pinterestName = "wilfauzy"
 hjsStyle = "default"
-[permalinks]
-post = "/:slug/"
-
+logo = "/img/about.png"
+pinterestName = "wilfauzy"
+twitterName = "wilfauzy"
 [params.social]
-twitter = "wilfauzy"
 github = "wilfauzy"
 pinteres = "wilfauzy"
-
+twitter = "wilfauzy"
+[permalinks]
+post = "/:slug/"
 [sitemap]
-  changefreq = 'monthly'
-  filename = 'sitemap.xml'
-  priority = 0.5
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5

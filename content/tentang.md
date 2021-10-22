@@ -6,7 +6,7 @@ share = false
 title = "Tentang"
 type = "page"
 [menu.main]
-weight = 113
+weight = 9
 
 +++
 Kandang Babi adalah media santai dan asik nomor satu di indonesia, membahas hal yang tidak terlalu penting menjadi penting hahahah yang mewadahi tulisan yang mempunyai semangat dan kreativitas, dan hanya untuk sekedar hiburan melewati hiruk pikuk dunia.

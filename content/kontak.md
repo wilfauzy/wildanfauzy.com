@@ -1,16 +1,14 @@
 +++
 comments = false
-date = "2015-04-14T22:17:00+00:00"
-draft = false
+date = 2015-04-14T22:17:00Z
 noauthor = true
 share = false
 title = "Kontak"
 type = "page"
 [menu.main]
-weight = 111 
+weight = 6
 
 +++
-
 **PENERBIT**
 
 PT. WILBLOG SENTOSA JAYA JENAKA
@@ -26,4 +24,3 @@ Cirebon , Jawa Barat 45167 Indonesia <a href="https://maps.app.goo.gl/VbBgPihm5U
 * Redaksi email: redaksi@wildanfauzy.com
 * Kontak email: admin@wildanfauzy.com
 * Report abuse: abuse@wildanfauzy.com
-
