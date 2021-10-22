@@ -3,12 +3,7 @@ author: Redaksi
 tags:
 - Share
 date: 2020-01-02T13:33:26Z
-guid: https://wildanfauzy.com/gimana-apanya-kenapa/
-id: 1681
-nb_of_words:
-- "113"
-neve_meta_enable_content_width:
-- "off"
+image: /img/20211023_000644.jpg
 title: Gimana apanya kenapa?
 url: /gimana-apanya-kenapa/
 ---
