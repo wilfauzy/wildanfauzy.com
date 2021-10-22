@@ -14,7 +14,7 @@ url: /tersesat-di-gedebage-bandung/
 
 Gue teringat ucapan temen gue yang katanya:”dan, ke stadion gedebage dari sini deket lo cuma 20 menit jalan kaki lewat jalan belakang”. Akhirnya gue sms temen gue dan gak dibales lagi ospek soalnya di daerah terpencil gak ada sinyal 😀 akhirnya gue memberanikan diri dengan bekal lewat jalan belakang padahal gue gak tau arah jalannya 😀 gue siasatin kalo ada dua jalur gue harus milih jalur kanan. &nbsp; Akhirnya gue mulai jalan dengan penampilan alakadarnya dengan bekal tas selempangan kecil buat naro buku, handphone dan earphone oke traknya masih mulus gak tau gue selanjutnya.
 
-![](//wp-content/uploads/2014/10/d9dfa-2b7c5-foto0542.jpg)
+![](/wp-content/uploads/2014/10/d9dfa-2b7c5-foto0542.jpg)
 
 Lanjut jalan lagi oke langsung skip aja bro karna kalo gue ceritain sedih juga bro, jam setengah sebelah gue panas-panasan sendirian lagi kalo ada yang nyulik gue gimana hayo 😀 oke ngapain cerita langsung, perjalanan udah lama juga hampir setenga jam, wah boong tuh temen gue katanya 20 menit iya sambil lari 😀 oke akhirnya gue nemu tanda tanda mendekati stadion yaitu jalan kereta cimekar. &nbsp; &nbsp;
 
