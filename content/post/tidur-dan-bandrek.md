@@ -1,7 +1,6 @@
 ---
 author: Redaksi
 date: 2019-04-20T23:30:00Z
-image: 
 tags:
 - cerpen
 image: /img/cb584-dan-truong-1480334-unsplash.jpg

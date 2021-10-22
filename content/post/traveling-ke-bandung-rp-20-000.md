@@ -3,7 +3,7 @@ author: Redaksi
 tags:
 - Travel
 date: 2012-06-24T05:07:00Z
-image: /wp-content/uploads/2012/06/9ed5f-e60a7-foto-0157.jpg.jpg
+image: //wp-content/uploads/2012/06/0cf8e-foto-0195.jpg
 title: Traveling Ke Bandung Rp.20.000
 url: /traveling-ke-bandung-rp-20-000/
 ---
