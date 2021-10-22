@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    { 
+      "source": "/categories",
+      "destination": "https://blog.wildanfauzy.com", 
+      "permanent": true
+    }
+  ]
+}
