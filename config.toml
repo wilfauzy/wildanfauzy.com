@@ -43,13 +43,13 @@ author = "wilfauzy"
 authorbio = "Artikel pilihan dari dapur redaksi"
 authorlocation = "Bandung, Indonesia"
 authorwebsite = "https://wildanfauzy.com"
-cover = "/images/header.webp"
+cover = "/images/cover_polenord.jpg"
 description = "WildanFauzy.com adalah blog yang membahas info menarik disajikan secara asik dan santai, kumpulan cerita dari sudut pandang yang berbeda"
 disableHugoGeneratorInject = true
 githubName = "wilfauzy"
 hideHUGOSupport = false
 hjsStyle = "default"
-logo = "/images/cover_polenord.jpg"
+logo = "/images/logo.png"
 pinterestName = "wilfauzy"
 twitterName = "wilfauzy"
 [params.social]
