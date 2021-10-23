@@ -6,7 +6,7 @@ share = false
 title = "Kontak"
 type = "page"
 [menu.main]
-weight = 6
+weight = 7
 
 +++
 **PENERBIT**

@@ -1,43 +1,42 @@
+aliases = ["/post/", "/categories/", "/tags/", "/"]
 baseurl = "https://blog.wildanfauzy.com"
 copyright = "2012 - 2021 ©"
 disqusshortname = "wildanfauzy"
 languagecode = "id-ID"
 paginate = 8
 title = "Blog"
-aliases = [
-    "/post/",
-    "/categories/",
-    "/tags/",
-    "/"
-]
 [[menu.main]]
-name = "Kaskus"
-url = "https://www.kaskus.co.id/@nadliw45"
-weight = 7
-[[menu.main]]
-name = "Newsletter"
-url = "https:///surat.wildanfauzy.com"
-weight = 10
-[[menu.main]]
-name = "Kompasiana"
-url = "https://www.kompasiana.com/wildanfauzy"
-weight = 11
-[[menu.main]]
-name = "Perpus"
-url = "https:///perpus.wildanfauzy.com"
-weight = 3
-[[menu.main]]
-name = "Jurnal"
-url = "https:///jurnal.wildanfauzy.com"
-weight = 4
-[[menu.main]]
-name = "Sign In"
-url = "https://blog.wildanfauzy.com/admin/#/login"
+name = "Status"
+url = "https://status.wildanfauzy.com/"
 weight = 2
 [[menu.main]]
 name = "Cari"
 url = "https://blog.wildanfauzy.com/search"
 weight = 1
+[[menu.main]]
+name = "Sign In"
+url = "https://blog.wildanfauzy.com/admin/#/login"
+weight = 3
+[[menu.main]]
+name = "Jurnal"
+url = "https:///jurnal.wildanfauzy.com"
+weight = 5
+[[menu.main]]
+name = "Perpus"
+url = "https:///perpus.wildanfauzy.com"
+weight = 4
+[[menu.main]]
+name = "Newsletter"
+url = "https:///surat.wildanfauzy.com"
+weight = 11
+[[menu.main]]
+name = "Kompasiana"
+url = "https://www.kompasiana.com/wildanfauzy"
+weight = 12
+[[menu.main]]
+name = "Kaskus"
+url = "https://www.kaskus.co.id/@nadliw45"
+weight = 8
 [params]
 RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw"
 author = "wilfauzy"
@@ -63,4 +62,3 @@ post = "/:slug/"
 changefreq = "monthly"
 filename = "sitemap.xml"
 priority = 0.5
-
