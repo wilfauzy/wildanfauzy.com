@@ -1,6 +1,6 @@
 aliases = ["/post/", "/categories/", "/tags/", "/"]
 baseurl = "https://blog.wildanfauzy.com"
-copyright = " ©"
+copyright = " © images from unsplash, hosted by cloudflare, powered by hugo, made with love."
 disqusshortname = "wildanfauzy"
 languagecode = "id-ID"
 paginate = 8
