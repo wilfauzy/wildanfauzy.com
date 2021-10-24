@@ -4,7 +4,7 @@ disqusshortname = "wildanfauzy"
 languagecode = "id-ID"
 paginate = 8
 title = "Wildan Fauzy Blog"
-summaryLength = 35
+summaryLength = 20
 [[menu.main]]
 name = "Status"
 url = "https://status.wildanfauzy.com/"
