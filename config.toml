@@ -38,7 +38,7 @@ name = "Kaskus"
 url = "https://www.kaskus.co.id/@nadliw45"
 weight = 8
 [params]
-excerpt = "120"
+summaryLength = "120"
 RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw"
 author = "wilfauzy"
 authorbio = "Artikel pilihan dari dapur redaksi"
