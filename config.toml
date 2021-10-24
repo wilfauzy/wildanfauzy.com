@@ -1,10 +1,10 @@
-aliases = ["/post/", "/categories/", "/tags/", "/"]
 baseurl = "https://blog.wildanfauzy.com"
 copyright = " ©"
 disqusshortname = "wildanfauzy"
 languagecode = "id-ID"
 paginate = 8
 title = "Wildan Fauzy Blog"
+summaryLength = 40
 [[menu.main]]
 name = "Status"
 url = "https://status.wildanfauzy.com/"
@@ -38,7 +38,6 @@ name = "Kaskus"
 url = "https://www.kaskus.co.id/@nadliw45"
 weight = 8
 [params]
-summaryLength = "120"
 RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw"
 author = "wilfauzy"
 authorbio = "Artikel pilihan dari dapur redaksi"
