@@ -8,7 +8,9 @@ title = "Hari Kasih Sayang Katanya "
 +++
 Tanggal 14 februari katanya sih hari Valentino rosi, atau hari kasih sayang katanya yah, enggak tau juga sih, seumur-umur belum pernah ngerayain hari Valentino rosi.
 
-![](/img/20211023_001001.jpg)Yah mau gimana lagi, bingung saya juga asli enggak bohong dah, tapi buat yang jomblo katanya hari kasih sayang itu menyeramkan, padahal emang iya sih.
+![](/img/20211023_001001.jpg)
+
+Yah mau gimana lagi, bingung saya juga asli enggak bohong dah, tapi buat yang jomblo katanya hari kasih sayang itu menyeramkan, padahal emang iya sih.
 
 Jadi intinya yah enggak tau dah, cuma iseng nulis aja aku mah daripada enggak ada kegiatan, kerjaan rebahan terus nih, sampe punggung udah nyatu sama karpet.
 
