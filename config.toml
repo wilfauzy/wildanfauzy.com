@@ -4,7 +4,7 @@ disqusshortname = "wildanfauzy"
 languagecode = "id-ID"
 paginate = 8
 title = "Wildan Fauzy Blog"
-summaryLength = "40"
+summaryLength = 35
 [[menu.main]]
 name = "Status"
 url = "https://status.wildanfauzy.com/"
@@ -62,3 +62,24 @@ post = "/:slug/"
 changefreq = "monthly"
 filename = "sitemap.xml"
 priority = 0.5
+
+[caches]
+  [caches.assets]
+    dir = ':resourceDir/_gen'
+    maxAge = -1
+
+  [caches.getcsv]
+    dir = ':cacheDir/:project'
+    maxAge = -1
+
+  [caches.getjson]
+    dir = ':cacheDir/:project'
+    maxAge = -1
+
+  [caches.images]
+    dir = ':resourceDir/_gen'
+    maxAge = -1
+
+  [caches.modules]
+    dir = ':cacheDir/modules'
+    maxAge = -1
