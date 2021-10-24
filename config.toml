@@ -49,7 +49,7 @@ disableHugoGeneratorInject = true
 githubName = "wilfauzy"
 hideHUGOSupport = false
 hjsStyle = "default"
-logo = "/images/logo.png"
+logo = "/img/about.png"
 pinterestName = "wilfauzy"
 twitterName = "wilfauzy"
 [params.social]
