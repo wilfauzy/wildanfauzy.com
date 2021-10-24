@@ -6,9 +6,9 @@ tags = ["cerpen"]
 title = "Gitolol Otaknya Konslet"
 
 +++
-Keadaan semakin mencekam setiap malam Minggu datang saya selalu ada di kosan, sedangkan bagi kebanyakan orang yang seumuran melakukan aktivitas di luar ruangan.
+Keadaan semakin mencekam setiap malam Minggu datang saya selalu ada di kosan, sedangkan bagi kebanyakan orang yang seumuran melakukan aktivitas di luar ruangan, entah itu nongkrong warung kopi pinggir jalan atau sekedar menghitung mobil bersliweran. 
 
-Entah itu nongkrong warung kopi pinggir jalan atau sekedar menghitung mobil bersliweran, yang lebih naas lagi bagi manusia yang mempunyai pasangan, mereka masih berduaan sambil bercumbu rayu, kesimpulannya saya masih berdiam diri di kamar bersama teman saya yang menyebalkan.
+Lebih naas lagi bagi manusia yang mempunyai pasangan, mereka masih berduaan sambil bercumbu rayu, kesimpulannya saya masih berdiam diri di kamar bersama teman saya yang menyebalkan.
 
 Ingin rasanya ku bunuh dengan melempar galon tepat di kapal, sebab bukan tanpa alasan. Menurut kabar gosip yang beredar belakang, kata seorang seperti in:
 
