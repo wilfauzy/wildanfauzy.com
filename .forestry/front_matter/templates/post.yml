@@ -3,20 +3,20 @@ label: post
 hide_body: false
 fields:
 - type: text
-  name: author
-  label: author
+  name: title
+  label: title
 - type: datetime
   name: date
   label: date
-- type: file
-  name: image
-  label: image
 - type: list
   name: tags
   label: tags
 - type: text
-  name: title
-  label: title
+  name: author
+  label: author
+- type: file
+  name: image
+  label: image
 pages:
 - content/post/adu-cepat-vercel-netlify-dan-cloudflare.md
 - content/post/akhirnya-lulus-setelah-tujuh-tahun.md
