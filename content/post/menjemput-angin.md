@@ -3,10 +3,7 @@ author: WilFauzy
 tags:
 - Cerita Pendek
 date: 2020-08-29T17:23:11Z
-guid: https://wildanfauzy.com/?p=7615
 image: /wp-content/uploads/2020/08/angin.jpg
-header-mask: 0.4
-id: 7615
 title: Menjemput Angin
 url: /menjemput-angin/
 ---
