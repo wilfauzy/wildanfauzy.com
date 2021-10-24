@@ -1,6 +1,6 @@
 aliases = ["/post/", "/categories/", "/tags/", "/"]
 baseurl = "https://blog.wildanfauzy.com"
-copyright = "2012 - 2021 ©"
+copyright = " ©"
 disqusshortname = "wildanfauzy"
 languagecode = "id-ID"
 paginate = 8
