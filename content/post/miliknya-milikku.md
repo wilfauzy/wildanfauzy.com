@@ -3,10 +3,7 @@ author: needhugpls
 tags:
 - NSFW
 date: 2020-09-01T00:02:15Z
-guid: https://wildanfauzy.com/?p=7786
 image: /wp-content/uploads/2020/09/pexels-john-rocha-230986.jpg
-header-mask: 0.4
-id: 7786
 title: Miliknya, Milikku
 url: /miliknya-milikku/
 ---
