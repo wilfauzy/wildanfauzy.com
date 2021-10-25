@@ -3,8 +3,17 @@ copyright = " ©"
 disqusshortname = "wildanfauzy"
 languagecode = "id-ID"
 paginate = 8
-title = "Wildan Fauzy Blog"
 summaryLength = 25
+title = "Wildan Fauzy Blog"
+[caches.assets]
+dir = ":resourceDir/_gen"
+maxAge = -1
+[caches.images]
+dir = ":resourceDir/_gen"
+maxAge = -1
+[caches.modules]
+dir = ":cacheDir/modules"
+maxAge = -1
 [[menu.main]]
 name = "Status"
 url = "https://status.wildanfauzy.com/"
@@ -15,7 +24,7 @@ url = "https://blog.wildanfauzy.com/search"
 weight = 1
 [[menu.main]]
 name = "Sign In"
-url = "https://blog.wildanfauzy.com/admin/#/login"
+url = "https://blog.wildanfauzy.com/admin"
 weight = 3
 [[menu.main]]
 name = "Jurnal"
@@ -62,14 +71,3 @@ post = "/:slug/"
 changefreq = "monthly"
 filename = "sitemap.xml"
 priority = 0.5
-
-[caches]
-  [caches.assets]
-    dir = ':resourceDir/_gen'
-    maxAge = -1
-  [caches.images]
-    dir = ':resourceDir/_gen'
-    maxAge = -1
-  [caches.modules]
-    dir = ':cacheDir/modules'
-    maxAge = -1
