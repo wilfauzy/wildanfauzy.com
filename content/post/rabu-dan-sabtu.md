@@ -4,6 +4,7 @@ tags:
 - Note
 date: 2020-06-24T07:31:40Z
 image: /wp-content/uploads/2020/06/red-school-blur-factory.jpg
+title: Rabu dan Sabtu
 ---
 
 Selain hari rabu dan sabtu adalah hari libur, setidaknya itu versi saya, kalian tidak boleh protes, sudah melebihi batasan bosan, terlalu lama di rumah, kegiatan hanya sebatas makan tidur dan ngopi. 
