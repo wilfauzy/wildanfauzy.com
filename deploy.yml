@@ -1,5 +1,0 @@
-envs:
-  - name: production
-    approval:
-      enabled: true
-      required_count: 1
