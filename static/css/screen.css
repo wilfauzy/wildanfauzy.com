@@ -250,7 +250,7 @@ body {
     letter-spacing: 0.01rem;
     font-size: 1.8rem;
     line-height: 1.75em;
-    color: #000000;
+    color: #ffffff;
     -webkit-font-feature-settings: 'kern' 1;
     -moz-font-feature-settings: 'kern' 1;
     -o-font-feature-settings: 'kern' 1;
@@ -272,7 +272,7 @@ h4, h5, h6 {
     -o-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
     color: #2E2E2E;
     line-height: 1.15em;
-    margin: 0 0 0.4em;
+    margin: 0 0 0.4em 0;
     font-family: "Open Sans", sans-serif;
     text-rendering: geometricPrecision;
 }
@@ -317,7 +317,7 @@ p, ul, ol, dl {
     -webkit-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
     -moz-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
     -o-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
-    margin: 0 0 1.75em;
+    margin: 0 0 1.75em 0;
     text-rendering: geometricPrecision;
 }
 
@@ -327,7 +327,7 @@ ol, ul {
 
 ol ol, ul ul,
 ul ol, ol ul {
-    margin: 0 0 0.4em;
+    margin: 0 0 0.4em 0;
     padding-left: 2em;
 }
 
@@ -410,7 +410,7 @@ code, tt {
 pre {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    margin: 0 0 1.75em;
+    margin: 0 0 1.75em 0;
     border: #E3EDF3 1px solid;
     width: 100%;
     padding: 10px;
@@ -594,7 +594,7 @@ body.nav-opened .site-wrapper {
 .main-nav {
     position: relative;
     padding: 35px 40px;
-    margin: 0 0 30px;
+    margin: 0 0 30px 0;
 }
 
 .main-nav a {
@@ -854,7 +854,7 @@ body.nav-opened .nav {
     box-sizing: border-box;
     display: block;
     height: 38px;
-    padding: 1px 0 5px;
+    padding: 1px 0 5px 0;
     width: auto;
 }
 
@@ -938,7 +938,7 @@ body.nav-opened .menu-button .word {
 
 /* The details of your blog. Defined in ghost/settings/ */
 .page-title {
-    margin: 10px 0;
+    margin: 10px 0 10px 0;
     font-size: 5rem;
     letter-spacing: -1px;
     font-weight: 700;
@@ -1041,7 +1041,7 @@ body:not(.post-template) .post-title {
 
 .post-meta {
     display: block;
-    margin: 1.75rem 0 0;
+    margin: 1.75rem 0 0 0;
     font-family: "Open Sans", sans-serif;
     font-size: 1.5rem;
     line-height: 2.2rem;
@@ -1103,7 +1103,7 @@ body:not(.post-template) .post-title {
     position: absolute;
     top: 0;
     right: 0;
-    padding: 4.3rem 0 4rem;
+    padding: 4.3rem 0 4rem 0;
     text-align: right;
 }
 
@@ -1181,8 +1181,8 @@ body:not(.post-template) .post-title {
 /* The author credit area after the post */
 .post-footer {
     position: relative;
-    margin: 6rem 0 0;
-    padding: 6rem 0 0;
+    margin: 6rem 0 0 0;
+    padding: 6rem 0 0 0;
     border-top: #EBF2F6 1px solid;
 }
 
@@ -1286,7 +1286,7 @@ body:not(.post-template) .post-title {
 }
 
 .author-profile {
-    padding: 0 15px 5rem;
+    padding: 0 15px 5rem 15px;
     border-bottom: #EBF2F6 1px solid;
     text-align: center;
 }
@@ -1343,7 +1343,7 @@ body:not(.post-template) .post-title {
     width: 120px;
     height: 120px;
     padding: 3px;
-    margin: -100px auto 0;
+    margin: -100px auto 0 auto;
     box-shadow: none;
 }
 
@@ -1355,7 +1355,7 @@ body:not(.post-template) .post-title {
     font-size: 1.8rem;
     line-height: 1.5em;
     font-weight: 200;
-    color: #ffffff;
+    color: #50585D;
     letter-spacing: 0;
     text-indent: 0;
 }
@@ -1418,7 +1418,7 @@ body:not(.post-template) .post-title {
     margin: 4rem auto;
     font-family: "Open Sans", sans-serif;
     font-size: 1.3rem;
-    color: #ffffff;
+    color: #9EABB3;
     text-align: center;
 }
 
@@ -1498,13 +1498,13 @@ body:not(.post-template) .post-title {
 
 .site-footer {
     position: relative;
-    margin: 8rem 0 0;
+    margin: 8rem 0 0 0;
     padding: 0.5rem 15px;
     /*border-top: #EBF2F6 1px solid;*/
     font-family: "Open Sans", sans-serif;
     font-size: 1rem;
     line-height: 1.75em;
-    color: #ffffff;
+    color: #BBC7CC;
 }
 
 .site-footer a {
@@ -1767,7 +1767,7 @@ body:not(.post-template) .post-title {
 
     p, ul, ol, dl {
         font-size: 0.95em;
-        margin: 0 0 2.5rem;
+        margin: 0 0 2.5rem 0;
     }
 
     .page-title {
@@ -1784,7 +1784,7 @@ body:not(.post-template) .post-title {
 
     h1, h2, h3,
     h4, h5, h6 {
-        margin: 0 0 0.3em;
+        margin: 0 0 0.3em 0;
     }
 
     h1 {
@@ -1839,13 +1839,13 @@ body:not(.post-template) .post-title {
     }
 
     .post-footer {
-        padding: 5rem 0 3rem;
+        padding: 5rem 0 3rem 0;
         text-align: center;
     }
 
     .post-footer .author {
-        margin: 0 0 2rem;
-        padding: 0 0 1.6rem;
+        margin: 0 0 2rem 0;
+        padding: 0 0 1.6rem 0;
         border-bottom: #EBF2F6 1px dashed;
     }
 
@@ -1855,7 +1855,7 @@ body:not(.post-template) .post-title {
     }
 
     .post-footer .share a {
-        margin: 1.4rem 0.8rem 0;
+        margin: 1.4rem 0.8rem 0 0.8rem;
     }
 
     .author-meta li {
