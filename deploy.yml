@@ -1,9 +1,5 @@
 envs:
   - name: production
-    task: deploy:lambda
-    description: Start to deploy to the production.
-    auto_merge: false
-    required_contexts:
-      - test
-      - integration-test
-    production_environment: true
+    approval:
+      enabled: true
+      required_count: 1
