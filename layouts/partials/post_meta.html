@@ -19,7 +19,7 @@ in
     {{ end }}
 {{end}}
 {{if .Params.tags }}
-on
+di
     {{ range $index, $tag := .Params.tags }}
         {{ if gt $index 0 }}, {{ end }}<a href="{{ "/tags/" | relURL }}{{ . | urlize }}">#{{ . }}</a>
     {{ end }}
