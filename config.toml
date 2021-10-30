@@ -48,10 +48,6 @@ url = "https://www.kaskus.co.id/@nadliw45"
 weight = 8
 [params]
 RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw"
-author = "wilfauzy"
-authorbio = "Artikel pilihan dari dapur redaksi"
-authorlocation = "Bandung, Indonesia"
-authorwebsite = ""
 cover = "/images/original.jpg"
 description = "Wildan Fauzy Blog adalah media yang membahas info menarik disajikan secara asik dan santai, kumpulan cerita dari sudut pandang yang berbeda"
 disableHugoGeneratorInject = true
@@ -67,6 +63,12 @@ pinteres = "wilfauzy"
 twitter = "wilfauzy"
 [permalinks]
 post = "/:slug/"
+[author]
+    name = "wilfauzyr"
+    bio = "Artikel pilihan dari dapur redaksi"
+    location = "Bandung, Indonesia"
+    website = ""
+    thumbnail = "/gambar/logo.png"
 [sitemap]
 changefreq = "monthly"
 filename = "sitemap.xml"
