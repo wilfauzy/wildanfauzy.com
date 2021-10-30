@@ -13,10 +13,9 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@master
         with:
-          submodules: true
+          submodules: false
       - name: Publish Site
         uses: chabad360/hugo-gh-pages@master
         with:
           githubToken: ${{ secrets.PERSONAL_TOKEN }}
           args: --gc --minify --cleanDestinationDir
-          hugoVersion: extended_0.58.3
