@@ -46,6 +46,10 @@ weight = 12
 name = "Kaskus"
 url = "https://www.kaskus.co.id/@nadliw45"
 weight = 8
+[[menu.main]]
+name = "Kandang Babi"
+url = "https://babi.wildanfauzy.com"
+weight = 13
 [params]
 RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw"
 author = "wilfauzy"
