@@ -3,10 +3,7 @@ author: Redaksi
 tags:
 - Share
 date: 2020-09-23T20:45:30Z
-guid: https://wildanfauzy.com/?p=8246
 image: /wp-content/uploads/2020/09/membuat-Perpustakaan-Digital.jpg
-header-mask: 0.4
-id: 8246
 title: Membuat Perpustakaan Online Seadanya
 url: /membuat-perpustakaan-online-seadanya/
 ---
