@@ -1,6 +1,6 @@
 +++
 author = "WilFauzy"
-date = 2021-10-31T04:00:00Z
+date = 2021-10-31T16:00:00Z
 image = "/img/jordan-scott-1WflL6VWNh0-unsplash.jpg"
 tags = ["note"]
 title = "Sampai Bandung disambut Hujan"
