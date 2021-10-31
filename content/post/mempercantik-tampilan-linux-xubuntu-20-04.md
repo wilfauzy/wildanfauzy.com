@@ -33,7 +33,7 @@ _Bagaimana cara menginstall tema dan icon di xubuntu?_ pertama kalian harus memb
 
 Vala panel atau vala appmenu, berguna untuk menampilkan menu aplikasi di panel xfce, atau xfce global appmenu, kalian perlu memasang lewat terminal, perlu diingat bahwa vala panel tidak berfungsi di aplikasi firefox dan thunderbird, entah mengapa di xubuntu 20.04 ada error mungkin perlu waktu agar ada perbaikan, install vapa panel dengan perintah di terminal.
 
-`code`sudo apt-get install xfce4-appmenu-plugin
+    sudo apt-get install xfce4-appmenu-plugin
 
 Setelah memasang vala panel, selanjutnya tinggal menerepkan di panel xfce dengan menambahkan global appmenu tersebut di pengaturan panel.
 
@@ -45,7 +45,7 @@ Setelah selesai menambah item appmenu plugin pada panel xfce, selanjutnya menera
 
 Setelah menerapkan tema dan icon, jangan lupa untuk mengganti window ke tema yang sudah dipilih, kembali ke setting manager dan klik window manager pilih dark-olympic, selamat tampilan xubuntu kalian sudah lebih cantik dan mempesona, jika kalian ingin menambahkan dock bisa diinstal lewat terminal atau aplikasi toko aplikasi xubuntu, install plank dock dengan perintah.
 
-`code`sudo apt-get install plank
+    sudo apt-get install plank
 
 Untuk menampilkan plank pada awal booting atau starup, kalian cukup menambahkan aplikasi plank pada session and startup di setting manager, lalu pilih application autostart agar plank muncul ketika pertama kali menyalakan xubuntu, pilih add dan isi semua kolom dengan perintah plank, seperti gambar dibawah ini.
 
