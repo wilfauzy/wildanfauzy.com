@@ -1,6 +1,6 @@
 baseurl = "https://blog.wildanfauzy.com"
 copyright = " ©"
-disqusshortname = ""
+disqusshortname = "wildanfauzy"
 languagecode = "id-ID"
 paginate = 8
 summaryLength = 25
