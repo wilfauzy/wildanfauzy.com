@@ -3,14 +3,7 @@ author: Redaksi
 tags:
 - Share
 date: 2019-11-06T22:39:16Z
-guid: https://wildanfauzy.com/?p=1460
-id: 1460
-nb_of_words:
-- "247"
-neve_meta_enable_content_width:
-- "off"
-slim_seo:
-- a:0:{}
+image: /img/0f15c-human-hands-illustrations-3354675-scaled-1.jpg
 title: Nanananana Bananana Nana
 url: /banana/
 ---
