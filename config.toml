@@ -19,10 +19,6 @@ name = "Status"
 url = "https://status.wildanfauzy.com/"
 weight = 2
 [[menu.main]]
-name = "Cari"
-url = "https://blog.wildanfauzy.com/search"
-weight = 1
-[[menu.main]]
 name = "Sign In"
 url = "https://blog.wildanfauzy.com/admin"
 weight = 3
@@ -75,3 +71,5 @@ post = "/:slug/"
 changefreq = "monthly"
 filename = "sitemap.xml"
 priority = 0.5
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
