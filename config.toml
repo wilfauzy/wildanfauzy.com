@@ -48,7 +48,7 @@ url = "https://babi.wildanfauzy.com"
 weight = 13
 [[menu.main]]
 name = "Cari"
-url = "https:///blog.wildanfauzy.com/search"
+url = "https:///blog.wildanfauzy.com/cari"
 weight = 1
 [params]
 RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw"
@@ -75,5 +75,3 @@ post = "/:slug/"
 changefreq = "monthly"
 filename = "sitemap.xml"
 priority = 0.5
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
