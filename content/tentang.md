@@ -10,14 +10,15 @@ weight = 10
 
 +++
 
+# Tentang  [Blog](https://blog.wildanfauzy.com/ "Blog")
+
 ![](https://raw.githubusercontent.com/NgopiBrek/WildanFauzy.com/main/ss.PNG)
 
+Wildan Fauzy Blog adalah media santai dan asik nomor satu di indonesia, membahas hal yang tidak terlalu penting menjadi penting hahahah yang mewadahi tulisan yang mempunyai semangat dan kreativitas, dan hanya untuk sekedar hiburan melewati hiruk pikuk dunia.
 
-Kandang Babi adalah media santai dan asik nomor satu di indonesia, membahas hal yang tidak terlalu penting menjadi penting hahahah yang mewadahi tulisan yang mempunyai semangat dan kreativitas, dan hanya untuk sekedar hiburan melewati hiruk pikuk dunia.
+Wildan Fauzy Blog saat ini menerbitkan artikel dan dengan pilihan tema yang beragam. Ada 6 kategori yang terdiri dari **Cerita Pendek (cerpen) Note (catatan) Share (berbagi hal yang cukup menarik) Travel (jalan-jalan) Buku (ulasan buku) dan Linux (membahas segala hal tentang linux)** .
 
-Kandang Babi saat ini menerbitkan artikel dan dengan pilihan tema yang beragam. Ada 6 kategori yang terdiri dari **Cerita Pendek (cerpen) Note (catatan) Share (berbagi hal yang cukup menarik) Travel (jalan-jalan) Buku (ulasan buku) dan Linux (membahas segala hal tentang linux)** .
-
-Selain ditulis oleh Redaksi Kandang Babi, konten-konten disini juga termasuk kiriman dari para kontributor. Bila Anda berminat menulis untuk media ini, silakan kirim email ke [redaksi@wildanfauzy.com](mailto:redaksi@wildanfauzy.com "email redaksi") hubungi lebih lanjut [Kontak](https://wildanfauzy.com/kontak/ "kontak").
+Selain ditulis oleh Redaksi Wildan Fauzy Blog, konten-konten disini juga termasuk kiriman dari para kontributor. Bila Anda berminat menulis untuk media ini, silakan kirim email ke [redaksi@wildanfauzy.com](mailto:redaksi@wildanfauzy.com "email redaksi") hubungi lebih lanjut [Kontak](https://blog.wildanfauzy.com/kontak/ "kontak").
 
 ## Dibalik Layar
 
@@ -71,5 +72,5 @@ Mungkin cukup segitu perjalanan singkat website ini, ada beberapa blog yang meng
 
 Salam,
 
-**Kandang Babi**  
+**Wildan Fauzy Blog**  
 _Tukang Rebahan Modal Bacot_
