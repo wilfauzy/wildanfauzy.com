@@ -10,8 +10,6 @@ weight = 10
 
 +++
 
-# Tentang  [Blog](https://blog.wildanfauzy.com/ "Blog")
-
 ![](https://raw.githubusercontent.com/NgopiBrek/WildanFauzy.com/main/ss.PNG)
 
 Wildan Fauzy Blog adalah media santai dan asik nomor satu di indonesia, membahas hal yang tidak terlalu penting menjadi penting hahahah yang mewadahi tulisan yang mempunyai semangat dan kreativitas, dan hanya untuk sekedar hiburan melewati hiruk pikuk dunia.
