@@ -5,7 +5,6 @@ noauthor = true
 share = false
 title = "Cari"
 type = "page"
-layout = "search"
 [menu.main]
 weight = 1
 ---
