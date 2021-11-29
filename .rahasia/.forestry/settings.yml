@@ -1,8 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: static/admin
-webhook_url: https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/9e3b9854-bc39-4df8-940b-fd67e230daf4
+admin_path: rahasia/static/admin
 sections:
 - type: directory
   path: content
@@ -10,11 +9,11 @@ sections:
   create: all
   match: "*"
 - type: directory
-  path: content/post
+  path: rahasia/content/post
   label: Post
   create: documents
   match: "**/*"
-upload_dir: static/img
+upload_dir: rahasia/static/img
 public_path: "/img"
 front_matter_path: ''
 use_front_matter_path: 
