@@ -5,15 +5,6 @@ languagecode = "id-ID"
 paginate = 8
 summaryLength = 25
 title = "Wildan Fauzy Blog"
-[caches.assets]
-dir = ":resourceDir/_gen"
-maxAge = -1
-[caches.images]
-dir = ":resourceDir/_gen"
-maxAge = -1
-[caches.modules]
-dir = ":cacheDir/modules"
-maxAge = -1
 [[menu.main]]
 name = "Status"
 url = "https://status.wildanfauzy.com/"
@@ -56,7 +47,7 @@ author = "wilfauzy"
 authorbio = "Artikel pilihan dari dapur redaksi"
 authorlocation = "Bandung, Indonesia"
 authorwebsite = ""
-cover = "/gambar/c11741c85a2dd43a455a826ab0c715cd.jpg"
+cover = "/gambar/beranda.jpg"
 description = "Wildan Fauzy Blog adalah media yang membahas info menarik disajikan secara asik dan santai, kumpulan cerita dari sudut pandang yang berbeda"
 disableHugoGeneratorInject = true
 githubName = "wilfauzy"
