@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: rahasia/static/admin
+admin_path: .rahasia/static/admin
 webhook_url: 
 sections:
 - type: directory
@@ -10,11 +10,11 @@ sections:
   create: all
   match: "*"
 - type: directory
-  path: rahasia/content/post
+  path: .rahasia/content/post
   label: Post
   create: documents
   match: "**/*"
-upload_dir: rahasia/static/img
+upload_dir: .rahasia/static/img
 public_path: "/img"
 front_matter_path: ''
 use_front_matter_path: 
