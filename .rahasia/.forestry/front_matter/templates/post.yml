@@ -17,27 +17,3 @@ fields:
 - type: file
   name: image
   label: image
-pages:
-- content/post/adu-cepat-vercel-netlify-dan-cloudflare.md
-- content/post/akhirnya-lulus-setelah-tujuh-tahun.md
-- content/post/akibat-sering-mager.md
-- content/post/bangun-tidur-pengen-ngopi.md
-- content/post/dikejar-deadline.md
-- content/post/entah.md
-- content/post/gitolol.md
-- content/post/hosting-blog-di-cloudflare.md
-- content/post/ingin-berkata-kasar.md
-- content/post/ke-pantai-tapi-ditutup.md
-- content/post/kelaparan-terjebak-hujan.md
-- content/post/ketika-token-listrik-habis.md
-- content/post/kumpulan-wallpaper-xubuntu.md
-- content/post/membuat-blog-hugo-di-firebase-hosting.md
-- content/post/mencret-sialan.md
-- content/post/mengapa.md
-- content/post/nasi-goreng-di-siang-hari.md
-- content/post/ngeblog-dengan-ghost-dan-gatsby.md
-- content/post/obrolan-tengah-malam.md
-- content/post/perdido-de-amor.md
-- content/post/rombak-total-tampilan-blog-ke-mode-dark-mode.md
-- content/post/sampai-bandung-disambut-hujan.md
-- content/privacy-policy.md
