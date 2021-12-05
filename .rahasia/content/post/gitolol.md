@@ -6,7 +6,7 @@ tags = ["cerpen"]
 title = "Gitolol Otaknya Konslet"
 
 +++
-Keadaan semakin mencekam setiap malam Minggu datang saya selalu ada di kosan, sedangkan bagi kebanyakan orang yang seumuran melakukan aktivitas di luar ruangan, entah itu nongkrong warung kopi pinggir jalan atau sekedar menghitung mobil bersliweran. 
+Keadaan semakin mencekam setiap malam Minggu datang saya selalu ada di kosan, sedangkan bagi kebanyakan orang yang seumuran melakukan aktivitas di luar ruangan, entah itu nongkrong warung kopi pinggir jalan atau sekedar menghitung mobil bersliweran.
 
 Lebih naas lagi bagi manusia yang mempunyai pasangan, mereka masih berduaan sambil bercumbu rayu, kesimpulannya saya masih berdiam diri di kamar bersama teman saya yang menyebalkan.
 
@@ -14,7 +14,7 @@ Ingin rasanya ku bunuh dengan melempar galon tepat di kapal, sebab bukan tanpa a
 
 _“hey tahu tidak!”, sahut teman ku._
 
-_“ apam tuh, memangnya?” sahut ku_
+_“ apaan tuh, memangnya?” sahut ku_
 
 _“Tau enggak kalo si gitolol itu otaknya konslet karena sering dismackdown oleh bapaknya, tiap kerjaan ngentotin ayam tetangga” begitu dia menceritakan dengan antusias._
 
