@@ -17,3 +17,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- ".rahasia/content/post/mimpi-yang-aneh.md"
