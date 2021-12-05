@@ -1,7 +1,6 @@
 +++
 author = "WilFauzy"
 date = 2021-12-05T16:00:00Z
-draft = true
 image = "/img/pexels-p-c-1735658_y5ui1a.jpg"
 tags = ["note"]
 title = "Mimpi yang Aneh"
