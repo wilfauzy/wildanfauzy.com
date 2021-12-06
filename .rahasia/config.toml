@@ -34,8 +34,8 @@ name = "Kaskus"
 url = "https://www.kaskus.co.id/@nadliw45"
 weight = 8
 [[menu.main]]
-name = "Kandang Babi"
-url = "https://babi.wildanfauzy.com"
+name = "Halaman Depan"
+url = "https://wildanfauzy.com"
 weight = 13
 [[menu.main]]
 name = "Cari"
