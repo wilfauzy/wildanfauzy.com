@@ -46,14 +46,14 @@ params:
       category: Walnut, California
       description: Catatan Online hosted by Vercel Inc
     - name: blog.wildanfauzy.com
-      category: San Francisco, California
-      description: blog site hosted by Github
+      category: Church Street, Singapore
+      description: blog site hosted by Amazon
     - name: jurnal.wildanfauzy.com
       category: San Francisco, California
       description: Jurnal Online powered by medium.com
     - name: status.wildanfauzy.com
-      category: San Francisco, California
-      description: Status Pages hosted on Github
+      category: Church Street, Singapore
+      description: Status Pages hosted on Amazon
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -70,12 +70,16 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
+    - name: Church Street, Singapore
+      description: The wabapps servers are located here.
+      closed: false
     - name: San Francisco, California
       description: The main servers are located here.
       closed: false
     - name: Walnut, California
       description: The storage servers are located here.
       closed: false
+    
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
