@@ -1,0 +1,19 @@
+{{ if .Site.Params.enableCustomHTML }}
+  {{ partial "custom/above-footer" . }}
+{{ end }}
+
+<div class="footer">
+  <div class="contain">
+    
+    <p>{{ .Site.Params.description | markdownify }}</p>
+
+    {{ if not .Site.Params.disableIncidentHistory }}
+      <hr>
+      
+    {{ end }}
+  </div>
+</div>
+
+{{ if .Site.Params.enableCustomHTML }}
+  {{ partial "custom/below-footer" . }}
+{{ end }}

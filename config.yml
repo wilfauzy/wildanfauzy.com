@@ -1,0 +1,82 @@
+title: Status Page - WildanFauzy.com
+buildFuture: true
+defaultContentLanguage: en
+languageCode: en
+baseURL: https://status.wildanfauzy.com
+preserveTaxonomyNames: true
+taxonomies:
+  affected: affected
+outputs:
+  page:
+    - html
+    - json
+  section:
+    - html
+    - json
+    - rss
+  home:
+    - html
+    - json
+    - rss
+    - svg
+  term:
+    - html
+    - json
+    - rss
+    - svg
+outputFormats:
+  svg:
+    isPlainText: true
+    mediaType: image/svg+xml
+enableGitInfo: true
+params:
+  skipSeconds: false
+  useRelativeTime: true
+  disableDarkMode: false
+  shortDateFormat: 15:04 UTC — Jan 2
+  down: "#e60000"
+  systems:
+    - name: wildanfauzy.com
+      category: San Francisco, California
+      description: Website hosted by Github
+    - name: perpus.wildanfauzy.com
+      category: Walnut, California
+      description: Perpustakaan Online hosted by Vercel Inc
+    - name: notes.wildanfauzy.com
+      category: Walnut, California
+      description: Catatan Online hosted by Vercel Inc
+    - name: blog.wildanfauzy.com
+      category: San Francisco, California
+      description: blog site hosted by Github
+    - name: jurnal.wildanfauzy.com
+      category: San Francisco, California
+      description: Jurnal Online powered by medium.com
+    - name: status.wildanfauzy.com
+      category: San Francisco, California
+      description: Status Pages hosted on Github
+  dateFormat: January 2, 2006 at 3:04 PM UTC
+  brand: "#0a0c0f"
+  enableLastMod: true
+  headerTextColor: black
+  logo: img/logo.png
+  incidentPostsPerPage: 2
+  googleAnalytics: UA-00000000-1
+  alwaysKeepBrandColor: true
+  disableComplexCalculations: false
+  useLogo: true
+  disrupted: "#cc4400"
+  notice: "#24478f"
+  incidentHistoryFormat: yearly
+  disableIncidentHistory: false
+  ok: "#008000"
+  categories:
+    - name: San Francisco, California
+      description: The main servers are located here.
+      closed: false
+    - name: Walnut, California
+      description: The storage servers are located here.
+      closed: false
+  description: We continuously monitor the status of our services and if there are
+    any interruptions, a note will be posted here.
+  enableCustomHTML: true
+  useLargeHeaderDesign: true

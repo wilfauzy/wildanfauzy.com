@@ -1,0 +1,38 @@
+{{ partial "meta" . }}
+
+{{ $incidents := where .Site.RegularPages "Params.section" "issue" }}
+{{ $active := where $incidents "Params.resolved" "=" false }}
+
+{{ $isNotice := where $active "Params.severity" "=" "notice" }}
+{{ $isDisrupted := where $active "Params.severity" "=" "disrupted" }}
+{{ $isDown := where $active "Params.severity" "=" "down" }}
+
+  <body class="issues single">
+    <div class="contain">
+      <a href="{{ .Site.BaseURL }}">← {{ T "goBack" }} <em>{{ .Site.Title }}</em></a>
+    </div>
+
+    <div class="contain">
+      {{ .Render "issue" }} 
+    </div>
+    
+    {{ if .Site.Params.enableLastMod }}
+    <div class="contain center">
+      <p>{{ T "lastChecked" }}:
+
+        {{ if .Site.Params.dateFormat }}
+        {{ .Lastmod.UTC.Format .Site.Params.dateFormat }}
+      {{ else }}
+        {{ .Lastmod.Format "January 2, 2006 at 3:04 PM" }}
+      {{ end }}
+      </p>
+    </div>
+    {{ end }}
+
+
+    
+
+    {{ partial "js" . }}
+    {{ partial "footer" . }}
+  </body>
+</html>

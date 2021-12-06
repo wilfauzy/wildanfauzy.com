@@ -1,0 +1,141 @@
+<script type="text/javascript">
+  /**
+   * Dev toolset
+   */
+
+  console.log('cState v5.2 - https://github.com/cstate/cstate');
+  document.getElementsByTagName('html')[0].className = 'js';
+
+  /**
+   * Change header color based on status
+   */
+
+  if (document.body.className === 'change-header-color') {
+    if (document.body.className === 'status-down') {
+      document.querySelector('meta[name=theme-color]').setAttribute('content', themeDownColor);
+    } else if (document.body.className === 'status-disrupted') {
+      document.querySelector('meta[name=theme-color]').setAttribute('content', themeDisruptedColor);
+    } else {
+      document.querySelector('meta[name=theme-color]').setAttribute('content', themeNoticeColor);
+    }
+  }
+
+  /**
+   * Admin redirect
+   */
+
+  if (window.location.hash.match('access_token')) {
+    document.location.pathname = '/admin';
+  }
+  if (window.location.hash.match('invite_token')) {
+    document.location.pathname = '/admin';
+  }
+  if (window.location.hash.match('confirmation_token')) {
+    document.location.pathname = '/admin';
+  }
+  if (window.location.hash.match('email_change_token')) {
+    document.location.pathname = '/admin';
+  }
+  if (window.location.hash.match('recovery_token')) {
+    document.location.pathname = '/admin';
+  }
+
+  /** 
+   * Category logic
+   */
+
+  function toggleCategoryHead(el) {
+    if (el.parentNode.className == 'category category--open category--titled') {
+      el.parentNode.className = 'category category--closed category--titled';
+    } else {
+      el.parentNode.className = 'category category--open category--titled';
+    }
+  }
+
+  /**
+   * Returns a relative date string for the given date.
+   */
+  
+  function timeSince(date) {
+    var seconds = Math.floor((new Date() - date) / 1000);
+
+    var interval = Math.floor(seconds / 31536000);
+
+    if (interval > 1) {
+      return interval + ' {{ T "yearsAgo" }}';
+    }
+    interval = Math.floor(seconds / 2592000);
+    if (interval > 1) {
+      return interval + ' {{ T "monthsAgo" }}';
+    }
+    interval = Math.floor(seconds / 86400);
+    if (interval > 1) {
+      return interval + '{{ T "daysAgo" }}';
+    }
+    interval = Math.floor(seconds / 3600);
+    if (interval > 1) {
+      return interval + '{{ T "hoursAgo" }}';
+    }
+    interval = Math.floor(seconds / 60);
+    if (interval > 1) {
+      return interval + ' {{ T "minsAgo" }}';
+    }
+
+    // Negative value
+    if(Math.floor(seconds) < 0) {
+      return Math.floor(seconds);
+    }
+
+    // Non-negative seconds
+    {{ if .Site.Params.skipSeconds }}
+      return '<1 {{ T "minsAgo" }}'
+    {{ else }}
+      return Math.floor(seconds) + '{{ T "secondsAgo" }}';
+    {{ end }}
+  }
+
+  /**
+   * Changes elements with the class 'relative-time' into relative times and
+   * moves the timestamp to a title attribute tooltip.
+   */
+  
+  function updateRelativeTimes() {
+    var elements = document.querySelectorAll('.relative-time');
+    for (var i = 0; i < elements.length; i++) {
+      var element = elements[i];
+      var time = Date.parse(element.getAttribute('title'));
+      var html = element.getAttribute('data-time-prefix') || '';
+
+
+      if (!time) {
+        time = element.innerText;
+        element.setAttribute('title', time || new Date);
+        html += '{{ T "justNow" }}';
+      } else if (timeSince(time) < 0) {
+        html = element.innerText;
+      } else {
+        html += timeSince(time) + ' {{ T "someTimeAgo" }}';
+      }
+      html += element.getAttribute('data-time-suffix') || '';
+      element.innerHTML = html.trim();
+    }
+  }
+
+  updateRelativeTimes();
+
+  // Update "time since" feature every 5s
+  setInterval(updateRelativeTimes, 5000);
+</script>
+
+
+{{ if ne .Site.Params.googleAnalytics "UA-00000000-1" }}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script type="text/javascript" defer src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.googleAnalytics }}"></script>
+  <script type="text/javascript" defer>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', '{{ .Site.Params.googleAnalytics }}');
+  </script>
+{{ end }}
