@@ -1,15 +1,15 @@
 ---
 author: pemuda malkis
 catalog: true
-date: 2020-12-04T02:08:00Z
-image: /img/tentang.jpg
+date: 2020-12-04T02:08:00.000+00:00
+image: "/img/tentang.jpg"
 header-mask: "0.4"
 tags:
-- blog
+- hugo
 title: Cara Setting Front Matter
-url: /cara-setting-front-matter/
----
+url: "/cara-setting-front-matter/"
 
+---
 Postingan ini adalah testing penggunaan front matter di static blog, sebagai contoh seperti ini.
 
 ## Contoh front matter
