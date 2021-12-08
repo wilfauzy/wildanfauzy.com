@@ -20,7 +20,7 @@ Tidak ada salahnya mencoba hal yang baru di tahun baru ini, selama setahun tidak
 
 Biar tambah aneh dengan mencoba aplikasi editor text yang satu ini typora, tampilalnya sanga minimalis, tema default puthi genjreng membuat mata saya sedikit perih namun lama-lama akan terbiasa, memang warna putih membuat mata lebih fokus menurut saya, seperti ini tampilan aplikasi typora.
 
-![typora](https://i0.wp.com/wildanfauzy.com/img/aplikasi-typora.PNG "tampilan editor typora")
+![typora](https://blog.wildanfauzy.com/img/aplikasi-typora.PNG "tampilan editor typora")
 
 Tampilan aplikasi editor text markdown typora memang sangat sederhan, mungkin itu kelebihan dari aplikasi ini karena minimalis kita dipaksa untuk fokus menulis, berbeda dengan editor seperti gutenberg yang terbaru terlalu banyak fitur sampe bingung sendiri wkwkwk.
 

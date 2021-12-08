@@ -25,7 +25,7 @@ Selanjutnya mendownload adb (Android debug bride), silakan download [disini](htt
 
 ## Extract File Adb<figure class="wp-block-image size-large">
 
-![](https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/09/unzip-adb.png) 
+![](https://blog.wildanfauzy.com/wp-content/uploads/2020/09/unzip-adb.png) 
 
 Setelah mendownload file adb selanjutnya unzip di folder kesukaan kalian, sampai terdapat nama folder /platform-tools/ buka folder tersebut.
 
@@ -53,7 +53,7 @@ Maka akan masuk ke shell tampilan di terminal akan berubah dengan kode ponsel ka
 
 Masukan nama paket android dengan aplikasi bawaan atau blootware yang hendak diinstal kurang lebih seperti ini.<figure class="wp-block-image size-large">
 
-![](https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/09/Screenshot-pada-2020-09-17-16-37-12.png)
+![](https://blog.wildanfauzy.com/wp-content/uploads/2020/09/Screenshot-pada-2020-09-17-16-37-12.png)
 
 Untuk mengathui kode paket aplikasi android bisa dengan aplikasi _app inspector_ bisa didownload di play store atau download secara langsung <a rel="noreferrer noopener" href="https://apkpure.com/id/app-inspector/bg.projectoria.appinspector/download?from=details" target="_blank">disini</a> melalui toko aplikasi apkpure.
 

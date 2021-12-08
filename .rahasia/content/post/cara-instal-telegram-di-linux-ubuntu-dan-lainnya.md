@@ -34,7 +34,7 @@ Ada berbagai cara
 
 ## Instal Telegram di Snap Store<figure class="wp-block-image size-large">
 
-![](https://i1.wp.com/wildanfauzy.com/wp-content/uploads/2020/08/telegram-snap-store.png?resize=670%2C414&#038;ssl=1)
+![](https://blog.wildanfauzy.com/wp-content/uploads/2020/08/telegram-snap-store.png?resize=670%2C414&#038;ssl=1)
 
 Cara termudah adalah instal lewat toko aplikasi atau snap store, distro yang menggunakan Ubuntu-based biasanya sudah terpasang snap store, kalian tinggal buka aplikasi snap store dan cari telegram lalu instal sudah selesai.
 

@@ -17,13 +17,13 @@ Satu alasannya adalah peppermint berbasis dari ubuntu lts yang sudah terjamin st
 
 ## File manager Nemo
 
-![](https://i0.wp.com/wildanfauzy.com/img/9_blue_theme.jpg)
+![](https://blog.wildanfauzy.com/img/9_blue_theme.jpg)
 
 Hal yang menarik lainnya adalah tampilan default yang sudah sangat cantik efek blur di aplikasi background membuat lebih estetik, desktop environment xfce menjadi bawaan dan tentunya aplikasi bawaan yang sudah dioptimalkan seperti file manager nemo yang stabil dari cinnamon. 
 
 ## Instegrasi Web Aplikasi Ice Box
 
-![](https://i0.wp.com/wildanfauzy.com/img/12_software_managers.jpg)
+![](https://blog.wildanfauzy.com/img/12_software_managers.jpg)
 
 Tidak kalah menarik adalah integrasi aplikasi berbasis web dengan aplikasi manajemen yang disebut "Ice" langsung terintegrasi dengan aplikasi menu sistem, membuatnya seperti aplikasi yang diinstal secara konvensional. 
 
@@ -41,7 +41,7 @@ Masih ada dukungan untuk desktop 32 bit, dimana sebagian distro linux sudah mula
 
 ## Kustomisasi Tampilan Desktop 
 
-![](https://i0.wp.com/wildanfauzy.com/img/3_more_defaults.jpg)
+![](https://blog.wildanfauzy.com/img/3_more_defaults.jpg)
 
 Tampilan default sudah sangat cantik dengan tema arch dan icon papirus, cuma menurut saya pribadi wallpaper yang kurang enak dipandang mata saja wkwkwk sesuai selera sih, menggunakan desktop environment gabungan dari berbagai DE menjadikan peppermint os sangat unik, tapi masih bisa dikustom seperti tampilan macos dengan memasang plank dok dan plugins vala appmenu. 
 

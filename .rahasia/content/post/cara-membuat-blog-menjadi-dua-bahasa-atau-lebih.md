@@ -19,19 +19,19 @@ Akhirnya pilihan jatuh kepada plugins polylang, selain gratis dan ada versi berb
 
 ## Memasang Plugins Polylang<figure class="wp-block-image size-large">
 
-<img src="https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/06/polylang.png?fit=1024%2C576&ssl=1" alt="" class="wp-image-3539" /> </figure> 
+<img src="https://blog.wildanfauzy.com/wp-content/uploads/2020/06/polylang.png?fit=1024%2C576&ssl=1" alt="" class="wp-image-3539" /> </figure> 
 
 Memasang plugins polylang cukup mudah, kalian harus masuk ke dasbor worpress lalu klik tambahkan plugins, cara plugins polylang dan pasang, setelah itu aktifkan, sebelum menerjemahkan situs blog kalian harus diperhatikan, matikan terlebih dahulu jetpack atau plugins otomatis membagikan ke sosial media, pengalaman saya sendiri lupa mematikan fitur tersebut, yang terjadi adalah postingan yang sudah diterjemahkan otomatis disebarkan di sosial media dan terlihat seperti spam terlalu banyak link hahaha.
 
 ## Mengatur Strings Translations<figure class="wp-block-image size-large">
 
-<img src="https://i2.wp.com/wildanfauzy.com/wp-content/uploads/2020/06/string-translate.png?fit=1024%2C576&ssl=1" alt="" class="wp-image-3540" /> </figure> 
+<img src="https://blog.wildanfauzy.com/wp-content/uploads/2020/06/string-translate.png?fit=1024%2C576&ssl=1" alt="" class="wp-image-3540" /> </figure> 
 
 Sebelum mulai menerjemahkan semua postingan, sebaiknya menerjemahkan strings agar proses penerjemahan lancar, seperti menerjemahkan home menjadi beranda, artikel terkait menjadi related post, atau widget yang masih berbahasa indonesia terjemahkan ke bahasa yang ingin kalian tambahkan.
 
 ## Mengatur Settingan Polylang<figure class="wp-block-image size-large">
 
-<img src="https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/06/polylang-setting.png?fit=1024%2C576&ssl=1" alt="" class="wp-image-3541" /> </figure> 
+<img src="https://blog.wildanfauzy.com/wp-content/uploads/2020/06/polylang-setting.png?fit=1024%2C576&ssl=1" alt="" class="wp-image-3541" /> </figure> 
 
 Selanjutnya adalah mengatur settingan di plugins polylang
 
@@ -53,7 +53,7 @@ Selanjutnya adalah mengatur settingan di plugins polylang
 
 ## Mulai Menerjemahkan Postingan Blog<figure class="wp-block-image size-large">
 
-<img src="https://i1.wp.com/wildanfauzy.com/wp-content/uploads/2020/06/menerjemahkan-blog.png?fit=1024%2C576&ssl=1" alt="" class="wp-image-3542" /> </figure> 
+<img src="https://blog.wildanfauzy.com/wp-content/uploads/2020/06/menerjemahkan-blog.png?fit=1024%2C576&ssl=1" alt="" class="wp-image-3542" /> </figure> 
 
 Jika semua settingan sudah sesuai dengan yang kita inginkan, selanjutnya tinggal menerjemahkan situs blog kalian ke bahsa yang kalian inginkan, cara menerjemahkannya cukup masuk ke pos, ada opsi tambakan terjemahan, saya sendiri hanya menambahakn terjemahan dari bahasa asal indonesia ke bahsa inggris, klik tandan plus di bendera bahsa inggris atau icon pulpen jika ingin mengedit terjemahan, selamat blog kalian menjadi multilanguage, hore!
 
@@ -61,10 +61,10 @@ Jika semua settingan sudah sesuai dengan yang kita inginkan, selanjutnya tinggal
 
 <ul class="blocks-gallery-grid">
   <li class="blocks-gallery-item">
-    <figure><img src="https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/06/blog-versi-inggris-1024x576.png?resize=768%2C432&#038;ssl=1" alt="" data-id="3544" data-full-url="https://wildanfauzy.com/wp-content/uploads/2020/06/blog-versi-inggris.png" data-link="https://wildanfauzy.com/?attachment_id=3544" class="wp-image-3544" data-recalc-dims="1" /><figcaption class="blocks-gallery-item__caption">Versi bahasa Inggris</figcaption></figure>
+    <figure><img src="https://blog.wildanfauzy.com/wp-content/uploads/2020/06/blog-versi-inggris-1024x576.png?resize=768%2C432&#038;ssl=1" alt="" data-id="3544" data-full-url="https://wildanfauzy.com/wp-content/uploads/2020/06/blog-versi-inggris.png" data-link="https://wildanfauzy.com/?attachment_id=3544" class="wp-image-3544" data-recalc-dims="1" /><figcaption class="blocks-gallery-item__caption">Versi bahasa Inggris</figcaption></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><img src="https://i2.wp.com/wildanfauzy.com/wp-content/uploads/2020/06/blog-versi-indo-1024x576.png?resize=768%2C432&#038;ssl=1" alt="" data-id="3543" data-full-url="https://wildanfauzy.com/wp-content/uploads/2020/06/blog-versi-indo.png" data-link="https://wildanfauzy.com/?attachment_id=3543" class="wp-image-3543" data-recalc-dims="1" /><figcaption class="blocks-gallery-item__caption">Versi bahasa Indonesia</figcaption></figure>
+    <figure><img src="https://blog.wildanfauzy.com/wp-content/uploads/2020/06/blog-versi-indo-1024x576.png?resize=768%2C432&#038;ssl=1" alt="" data-id="3543" data-full-url="https://wildanfauzy.com/wp-content/uploads/2020/06/blog-versi-indo.png" data-link="https://wildanfauzy.com/?attachment_id=3543" class="wp-image-3543" data-recalc-dims="1" /><figcaption class="blocks-gallery-item__caption">Versi bahasa Indonesia</figcaption></figure>
   </li>
 </ul></figure> 
 

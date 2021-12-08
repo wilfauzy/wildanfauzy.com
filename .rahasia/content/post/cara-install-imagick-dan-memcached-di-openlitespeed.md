@@ -34,7 +34,7 @@ Tunggu hingga proses update selesai, tambahkan perintah dibawah untuk melihat pa
 
 <pre class="wp-block-code"><code>sudo apt-cache search lsphp</code></pre><figure class="wp-block-image size-large">
 
-![](https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/10/imagick-litespeed.png?resize=768%2C432&#038;ssl=1)
+![](https://blog./wildanfauzy.com/wp-content/uploads/2020/10/imagick-litespeed.png?resize=768%2C432&#038;ssl=1)
 
 ## Install Imagick
 
@@ -57,7 +57,7 @@ Memcached adalah sistem cache memori terdistribusi untuk tujuan umum. sering dig
 
 Setelah berhasil menginstall memcached, lakuka restart php kembali, setelah itu masuk ke dashboad wordpress lalu mengatur object cache di litespeed cache -> cache -> object, klik on dan pilih memcached.
 
-![](https://i2.wp.com/wildanfauzy.com/wp-content/uploads/2020/10/memcached.png?resize=768%2C432&#038;ssl=1)
+![](https://blog./wildanfauzy.com/wp-content/uploads/2020/10/memcached.png?resize=768%2C432&#038;ssl=1)
 
 ## Debug
 
