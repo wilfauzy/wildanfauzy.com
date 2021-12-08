@@ -2,15 +2,16 @@
 author: pemuda malkis
 tags:
 - Internet
-date: 2020-11-07T14:30:51Z
+- hugo
+date: 2020-11-07T14:30:51.000+00:00
 guid: https://wildanfauzy.com/?p=8617
-image: /wp-content/uploads/2020/11/hugo.png
-header-mask: 0.4
-id: 8617
+image: "/wp-content/uploads/2020/11/hugo.png"
+header-mask: "0.4"
+id: "8617"
 title: Migrasi Personal Blog ke Hugo Dengan Netlify dan Forestry
-url: /migrasi-personal-blog-ke-hugo-dengan-netfily-dan-forestry/
----
+url: "/migrasi-personal-blog-ke-hugo-dengan-netfily-dan-forestry/"
 
+---
 Semua berawal dari promo domain empat ribu yaitu domain my. id sebuah kebanggaan memakai domain. id walaupun dengan subdomain dotmy bukan langsung ke dotid.
 
 Akhirnya beli dua domain aep.my.id dan idan.my.id, untuk domain aep.my.id digunakan untuk projek kecil2 bikin website warung kopi dekat rumah hehehe.
