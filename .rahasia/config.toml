@@ -6,10 +6,6 @@ paginate = 8
 summaryLength = 25
 title = "Wildan Fauzy Blog"
 [[menu.main]]
-name = "Status"
-url = "https://status.wildanfauzy.com/"
-weight = 2
-[[menu.main]]
 name = "Sign In"
 url = "https://blog.wildanfauzy.com/admin"
 weight = 3
@@ -21,10 +17,6 @@ weight = 5
 name = "Perpus"
 url = "https:///perpus.wildanfauzy.com"
 weight = 4
-[[menu.main]]
-name = "Newsletter"
-url = "https:///surat.wildanfauzy.com"
-weight = 11
 [[menu.main]]
 name = "Kompasiana"
 url = "https://www.kompasiana.com/wildanfauzy"
