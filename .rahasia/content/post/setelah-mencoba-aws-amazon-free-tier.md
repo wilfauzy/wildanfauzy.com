@@ -1,6 +1,6 @@
 +++
 author = "WilFauzy"
-date = 2021-12-12T16:00:00Z
+date = 2021-12-12T16:55:00Z
 image = "/img/aws-logo.png"
 tags = ["vps"]
 title = "Setelah Mencoba AWS Amazon Free Tier"
