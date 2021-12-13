@@ -14,8 +14,8 @@ name = "Jurnal"
 url = "https:///jurnal.wildanfauzy.com"
 weight = 5
 [[menu.main]]
-name = "Perpus"
-url = "https:///perpus.wildanfauzy.com"
+name = "Notes"
+url = "https:///notes.wildanfauzy.com"
 weight = 4
 [[menu.main]]
 name = "Kompasiana"
