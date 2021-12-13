@@ -5,3 +5,6 @@
   Permissions-Policy: document-domain=()
   Content-Security-Policy: script-src 'self'; frame-ancestors 'none';
   Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+
+https://wilfauzy.pages.dev/*
+  X-Robots-Tag: noindex
