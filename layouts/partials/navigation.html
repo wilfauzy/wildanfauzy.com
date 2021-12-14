@@ -4,6 +4,7 @@
         <span class="hidden">Close</span>
     </a>
     <ul>
+      <ci-search></ci-search>
         {{ $currentNode := . }}
         {{with .Site.Menus.main}}
         {{ range sort . "Weight" "desc"}}
@@ -13,7 +14,16 @@
             </li>
         {{end}}
         {{end}}
-        <script>
+    </ul>
+
+    {{ if .Site.Params.RSSLink}}
+    <a class="subscribe-button icon-feed" href="{{.Site.Params.RSSLink }}">Langganan</a> </div>
+    {{else}}
+    <a class="subscribe-button icon-feed" href="{{if .IsNode}}{{.RSSLink}}{{else}}{{"index.xml" | relURL}}{{end}}">Langganan</a>
+    {{end}}
+</div>
+<span class="nav-cover"></span>
+<script>
   (function() {
     var id = '786b8008-58a2-11ec-aefa-0242ac130002';
     var ci_search = document.createElement('script');
@@ -24,13 +34,3 @@
     s.parentNode.insertBefore(ci_search, s);
   })();
 </script>
-<ci-search></ci-search>
-    </ul>
-
-    {{ if .Site.Params.RSSLink}}
-    <a class="subscribe-button icon-feed" href="{{.Site.Params.RSSLink }}">Langganan</a> </div>
-    {{else}}
-    <a class="subscribe-button icon-feed" href="{{if .IsNode}}{{.RSSLink}}{{else}}{{"index.xml" | relURL}}{{end}}">Langganan</a>
-    {{end}}
-</div>
-<span class="nav-cover"></span>
