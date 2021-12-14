@@ -22,6 +22,10 @@ name = "Status"
 url = "https:///status.wildanfauzy.com"
 weight = 6
 [[menu.main]]
+name = "Perpus"
+url = "https:///perpus.wildanfauzy.com"
+weight = 6
+[[menu.main]]
 name = "Kompasiana"
 url = "https://www.kompasiana.com/wildanfauzy"
 weight = 12
