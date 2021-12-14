@@ -70,6 +70,3 @@ priority = 0.5
 app_id = "VKCMJOJYDJ"
 api_key = "e7afa02fda735899091f8bc6aa6da167"
 index = "blog"
-[module]
-[[module.imports]]
-path = "github.com/gohugoio/hugo-mod-jslibs-dist/alpinejs/v3"
