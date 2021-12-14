@@ -1,4 +1,0 @@
-//Default
-scripts: {
-    "index": "hugo-algolia"
-}
