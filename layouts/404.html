@@ -1,5 +1,5 @@
 {{ partial "header.html" . }}
-<meta http-equiv="refresh" content="3; url=https://wilfauzy.com/" /> 
+<meta http-equiv="refresh" content="6; url=https://wilfauzy.com/" /> 
 {{if .Site.Params.cover}}
 <header class="main-header " style="background-image: url({{ .Site.Params.cover | relURL}})">
 {{else}}
@@ -22,14 +22,8 @@
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
-
-            {{ partial "social.html" . }}
-
-            <h1 class="page-title">{{ .Site.Title }}</h1>
-            <h2 class="page-description">{{ .Site.Params.description }}</h2>
         </div>
     </div>
-    <a class="scroll-down icon-arrow-left" href="#content"><span class="hidden">Scroll Down</span></a>
 </header>
 
 
