@@ -19,6 +19,7 @@ jobs:
       - name: 🛎 Check out master
         uses: actions/checkout@master
       - name: 🚀 Build and deploy
-        env:
-          HUGO_ARGS: '--minify --cleanDestinationDir'
         uses: victoriadrake/hugo-remote@master
+        with:
+          branch: master
+          commit_message: kok gitu sih
