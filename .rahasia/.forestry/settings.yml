@@ -25,8 +25,8 @@ build:
   - HUGO_VERSION=0.90.0
   preview_output_directory: ".rahasia/public"
   preview_docker_image: forestryio/hugo:latest
-  mount_path: "/srv"
-  working_dir: "/srv"
+  mount_path: "/srv/.rahasia"
+  working_dir: "/srv/.rahasia"
   instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
     -d public
 version: '0.25'
