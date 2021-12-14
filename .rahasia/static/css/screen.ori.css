@@ -276,7 +276,7 @@ h4, h5, h6 {
     -o-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
     color: #2E2E2E;
     line-height: 1.15em;
-    margin: 0 0 0.4em 0;
+    margin: 0 0 0.4em;
     font-family: "Open Sans", sans-serif;
     text-rendering: geometricPrecision;
 }
@@ -321,7 +321,7 @@ p, ul, ol, dl {
     -webkit-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
     -moz-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
     -o-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
-    margin: 0 0 1.75em 0;
+    margin: 0 0 1.75em;
     text-rendering: geometricPrecision;
 }
 
@@ -331,7 +331,7 @@ ol, ul {
 
 ol ol, ul ul,
 ul ol, ol ul {
-    margin: 0 0 0.4em 0;
+    margin: 0 0 0.4em;
     padding-left: 2em;
 }
 
@@ -414,7 +414,7 @@ code, tt {
 pre {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    margin: 0 0 1.75em 0;
+    margin: 0 0 1.75em;
     border: #E3EDF3 1px solid;
     width: 100%;
     padding: 10px;
@@ -599,7 +599,7 @@ body.nav-opened .site-wrapper {
 .main-nav {
     position: relative;
     padding: 35px 40px;
-    margin: 0 0 30px 0;
+    margin: 0 0 30px;
 }
 
 .main-nav a {
@@ -859,7 +859,7 @@ body.nav-opened .nav {
     box-sizing: border-box;
     display: block;
     height: 38px;
-    padding: 1px 0 5px 0;
+    padding: 1px 0 5px;
     width: auto;
 }
 
@@ -943,7 +943,7 @@ body.nav-opened .menu-button .word {
 
 /* The details of your blog. Defined in ghost/settings/ */
 .page-title {
-    margin: 10px 0 10px 0;
+    margin: 10px 0;
     font-size: 5rem;
     letter-spacing: -1px;
     font-weight: 700;
@@ -1046,7 +1046,7 @@ body:not(.post-template) .post-title {
 
 .post-meta {
     display: block;
-    margin: 1.75rem 0 0 0;
+    margin: 1.75rem 0 0;
     font-family: "Open Sans", sans-serif;
     font-size: 1.5rem;
     line-height: 2.2rem;
@@ -1108,7 +1108,7 @@ body:not(.post-template) .post-title {
     position: absolute;
     top: 0;
     right: 0;
-    padding: 4.3rem 0 4rem 0;
+    padding: 4.3rem 0 4rem;
     text-align: right;
 }
 
@@ -1186,8 +1186,8 @@ body:not(.post-template) .post-title {
 /* The author credit area after the post */
 .post-footer {
     position: relative;
-    margin: 6rem 0 0 0;
-    padding: 6rem 0 0 0;
+    margin: 6rem 0 0;
+    padding: 6rem 0 0;
     border-top: #EBF2F6 1px solid;
 }
 
@@ -1291,7 +1291,7 @@ body:not(.post-template) .post-title {
 }
 
 .author-profile {
-    padding: 0 15px 5rem 15px;
+    padding: 0 15px 5rem;
     border-bottom: #EBF2F6 1px solid;
     text-align: center;
 }
@@ -1348,7 +1348,7 @@ body:not(.post-template) .post-title {
     width: 120px;
     height: 120px;
     padding: 3px;
-    margin: -100px auto 0 auto;
+    margin: -100px auto 0;
     box-shadow: none;
 }
 
@@ -1503,7 +1503,7 @@ body:not(.post-template) .post-title {
 
 .site-footer {
     position: relative;
-    margin: 8rem 0 0 0;
+    margin: 8rem 0 0;
     padding: 0.5rem 15px;
     /*border-top: #EBF2F6 1px solid;*/
     font-family: "Open Sans", sans-serif;
@@ -1772,7 +1772,7 @@ body:not(.post-template) .post-title {
 
     p, ul, ol, dl {
         font-size: 0.95em;
-        margin: 0 0 2.5rem 0;
+        margin: 0 0 2.5rem;
     }
 
     .page-title {
@@ -1789,7 +1789,7 @@ body:not(.post-template) .post-title {
 
     h1, h2, h3,
     h4, h5, h6 {
-        margin: 0 0 0.3em 0;
+        margin: 0 0 0.3em;
     }
 
     h1 {
@@ -1844,13 +1844,13 @@ body:not(.post-template) .post-title {
     }
 
     .post-footer {
-        padding: 5rem 0 3rem 0;
+        padding: 5rem 0 3rem;
         text-align: center;
     }
 
     .post-footer .author {
-        margin: 0 0 2rem 0;
-        padding: 0 0 1.6rem 0;
+        margin: 0 0 2rem;
+        padding: 0 0 1.6rem;
         border-bottom: #EBF2F6 1px dashed;
     }
 
@@ -1860,7 +1860,7 @@ body:not(.post-template) .post-title {
     }
 
     .post-footer .share a {
-        margin: 1.4rem 0.8rem 0 0.8rem;
+        margin: 1.4rem 0.8rem 0;
     }
 
     .author-meta li {
