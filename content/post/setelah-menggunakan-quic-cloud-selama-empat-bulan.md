@@ -2,7 +2,6 @@
 author: pemuda malkis
 catalog: true
 date: 2020-09-28T15:29:47Z
-guid: https://wildanfauzy.com/?p=8290
 image: /wp-content/uploads/2020/09/cloudflare.png
 header-mask: "0.4"
 id: 8290
@@ -51,10 +50,10 @@ Disini saya melakukan perbandingan antar menggunakan cdn dan tidak menggunakan c
 ### Test Kecepatan tanpa menggunakan quic cloud<figure class="wp-block-image size-large">
 
 
-![](https://i2.wp.com/wildanfauzy.com/wp-content/uploads/2020/09/performa-no-cdn-min.png?resize=768%2C432&ssl=1)
+![](https://wilfauzy.com/wp-content/uploads/2020/09/performa-no-cdn-min.png?resize=768%2C432&ssl=1)
 test loader.io tanpa cdn 
 
-![](https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/09/tanpa-cdn-min.png?resize=768%2C432&ssl=1)
+![](https://wilfauzy.com/wp-content/uploads/2020/09/tanpa-cdn-min.png?resize=768%2C432&ssl=1)
 test performance tanpa cdn
 
 Gambar diatas adalah hasil tets tanpa menggunakan cdn, server hosting ada di amerika jadi akses dari amerika dan kanada cepat, dan hasil test dari loader.io mendaptkan rata-tasa 63-64 lumayan cepet dengan konfigurasi 250 client over 1 minute.
@@ -62,10 +61,10 @@ Gambar diatas adalah hasil tets tanpa menggunakan cdn, server hosting ada di ame
 ### Test Kecepatan menggunakan cdn quic cloud<figure class="wp-block-image size-large">
 
 
-![](https://i2.wp.com/wildanfauzy.com/wp-content/uploads/2020/09/respon-min.png?resize=768%2C432&ssl=1)
+![](https://wilfauzy.com/wp-content/uploads/2020/09/respon-min.png?resize=768%2C432&ssl=1)
 test loader.io menggunakan cdn
 
-![](https://i1.wp.com/wildanfauzy.com/wp-content/uploads/2020/09/performa-min.png?resize=768%2C432&ssl=1)
+![](https://wilfauzy.com/wp-content/uploads/2020/09/performa-min.png?resize=768%2C432&ssl=1)
 test performance mengguanakan cdn
 
 Silakan bandingkan menggunakan dan tanpa menggunakan quic cloud, pengetesan tanpa cdn dengan loader io dapat 63-64 ms dengan tiga kali pengetesan agar mendapatkan hasil yang stabil dan score performance sucuri mendapatkan nilai B.
