@@ -1,19 +1,24 @@
-name: Publish Site
+name: hugo-remote
 
 on:
   push:
     branches:
       - master
 
+env:
+  REMOTE: wilfauzy/wilfauzy.github.io.git
+  DEST: public
+  TOKEN: ${{ secrets.TOKEN }}
+
 jobs:
-  build-deploy:
+  build:
+
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
+      - name: 🛎 Check out master
         uses: actions/checkout@master
-      - name: Publish Site
-        uses: chabad360/hugo-gh-pages@master
-        with:
-          githubToken: ${{ secrets.PERSONAL_TOKEN }}
-          args: --gc --minify --cleanDestinationDir
+      - name: 🚀 Build and deploy
+        env:
+          HUGO_ARGS: '--minify --cleanDestinationDir'
+        uses: victoriadrake/hugo-remote@master
