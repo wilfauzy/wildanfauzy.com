@@ -43,13 +43,13 @@ author = "wilfauzy"
 authorbio = "Artikel pilihan dari dapur redaksi"
 authorlocation = "Bandung, Indonesia"
 authorwebsite = ""
-cover = "/gambar/kntl-manis.webp"
+cover = "/images/pluto.jpg"
 description = "Wildan Fauzy Blog adalah media yang membahas info menarik disajikan secara asik dan santai, kumpulan cerita dari sudut pandang yang berbeda"
 disableHugoGeneratorInject = true
 githubName = "wilfauzy"
 hideHUGOSupport = false
 hjsStyle = "default"
-logo = "/images/pluto.jpg"
+logo = "/images/logo.png"
 pinterestName = "wilfauzy"
 twitterName = "wilfauzy"
 [params.social]
