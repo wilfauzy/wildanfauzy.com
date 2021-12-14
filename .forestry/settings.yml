@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: "static/admin"
+admin_path: static/admin
 webhook_url: 
 sections:
 - type: directory
@@ -10,11 +10,11 @@ sections:
   create: all
   match: "*"
 - type: directory
-  path: "content/post"
+  path: content/post
   label: Post
   create: documents
   match: "**/*"
-upload_dir: "static/img"
+upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
 use_front_matter_path: 
@@ -26,7 +26,6 @@ build:
   preview_output_directory: public
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
-  working_dir: ""
   instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
     -d public
-version: '0.75.0'
+version: 0.75.0
