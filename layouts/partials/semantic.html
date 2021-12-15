@@ -37,6 +37,6 @@
         "dateModified" : "{{ if .Lastmod }}{{ .Lastmod.Format "Monday, January 2, 2006" }}{{ else }}{{ .Date.Format "Monday, January 2, 2006" }}{{ end }}",
         "url" : "{{ .Permalink }}",
         "wordCount" : "{{ .WordCount }}",
-        "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"berita" ]
+        "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"artikel" ]
     }
 </script>
