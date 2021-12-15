@@ -26,10 +26,6 @@ name = "Perpus"
 url = "https:///perpus.wildanfauzy.com"
 weight = 6
 [[menu.main]]
-name = "Kaskus"
-url = "https://www.kaskus.co.id/@nadliw45"
-weight = 8
-[[menu.main]]
 name = "Cari"
 url = "https:///blog.wildanfauzy.com/cari"
 weight = 1
