@@ -3,7 +3,7 @@ author: Redaksi
 tags:
 - Note
 date: 2020-05-25T08:14:44Z
-images: /gambar/Opor-Ayam-Kuning-Bandung.jpg
+image: /gambar/Opor-Ayam-Kuning-Bandung.jpg
 title: Tidak Ada Opor Ayam dan Ketupat
 ---
 
