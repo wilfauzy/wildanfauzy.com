@@ -24,11 +24,11 @@ weight = 6
 [[menu.main]]
 name = "Perpus"
 url = "https:///perpus.wildanfauzy.com"
-weight = 6
+weight = 7
 [[menu.main]]
 name = "Surat"
 url = "https:///surat.wildanfauzy.com"
-weight = 6
+weight = 8
 [[menu.main]]
 name = "Cari"
 url = "https:///wilfauzy.com/cari"
