@@ -1,13 +1,13 @@
 ---
 author: Linux Mania
-date: 2020-08-12T08:10:38Z
-image: /wp-content/uploads/2020/08/telegramdesktop.jpg
+date: 2020-08-12T08:10:38.000+00:00
+image: "/wp-content/uploads/2020/08/telegramdesktop.jpg"
 tags:
 - telegram
 - ubuntu
 title: Cara Instal Telegram di Linux Ubuntu dan Lainnya
----
 
+---
 Telegram adalah aplikasi chatting atau pengiriman pesan instan yang berbasis cloud dan multiplatform alias bisa dipakai hampir di seluruh gadget Android, iphone dan desktop (Windows, Mac, Linux).
 
 Kelebihan dari telegram selain berbasis cloud atau awan, telegram juga dikenal lebih baik keamanannya jika dibandingkan dengan aplikasi sejenisnya sebut saja whatsapp.
@@ -24,7 +24,7 @@ Ada berbagai cara
 
 ## Instal Telegram di Snap Store
 
-![](https://wilfauzy.com/wp-content/uploads/2020/08/telegram-snap-store.png?resize=670%2C414&#038;ssl=1)
+![](https://wilfauzy.com/wp-content/uploads/2020/08/telegram-snap-store.png?resize=670%2C414&ssl=1)
 
 Cara termudah adalah instal lewat toko aplikasi atau snap store, distro yang menggunakan Ubuntu-based biasanya sudah terpasang snap store, kalian tinggal buka aplikasi snap store dan cari telegram lalu instal sudah selesai.
 
@@ -34,10 +34,10 @@ Tapi jika malas membuka snap store, tinggal menggunakan cara kedua.
 
 Jika malas harus membuka menu aplikasi lalu membuka snap seperti saya ini hehe, kalian bisa memasang telegram lewat terminal Ctrl+Alt+T lalu masukkan perintah sudo untuk memasang aplikasi.
 
-```sudo apt install telegram-desktop```
+    sudo apt install telegram-desktop
 
 Atau perintah snap
 
-```sudo snap install telegram-desktop```
+    sudo snap install telegram-desktop
 
 atau cara yang terakhir kalian bisa mendonwload langsung di website [telegram.org](https://desktop.telegram.org/)
