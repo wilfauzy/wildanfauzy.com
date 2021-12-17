@@ -43,7 +43,7 @@ Setelah mengatur lokasi, langkah selanjutnya adalah memilih papan ketik atau lay
 
 ## Mengatur Partisi
 
-![](ttps://wilfauzy.com/wp-content/uploads/2020/08/Screenshot-at-2020-08-20-22-59-41-min.png?resize=768%2C432&ssl=1)
+![](https://wilfauzy.com/wp-content/uploads/2020/08/Screenshot-at-2020-08-20-22-59-41-min.png?resize=768%2C432&ssl=1)
 
 Ini bagian yang lumayan sakral, yaitu memilih disk partisi untuk menginstall manjaro, ada empat pilihan bisa dual boot dengan os yang sudah terpasang di laptop kalian, atau memilih fresh install yaitu menghapus data semuanya dan mengganti dengan linux manjaro, saya sendiri sudah menyiapkan satu buah partisi untuk manjaro jadi pilihan yang terakhir yaitu manual partitioning.
 
@@ -69,10 +69,10 @@ Untuk mendapatkan pengalaman yang lebih asik kalian bisa langsung mengupdate, bi
 
 Perintah Manjaro sama ubuntu beda yah enggak pake apt lagi tapi pake pacman karena keturunan dari arch linux, ketik perintah di bawah ini untuk update sistem atau bisa langsung nongol pemberitahuan buat update.
 
-<code>sudo pacman -Syu</code>
+```sudo pacman -Syu```
 
 Atau pake ini
 
-<code>sudo pacman -Syyu</code>
+```sudo pacman -Syyu```
 
 Setelah selesai update silakan menikmati manjaro versi mate, kelebihan dari manjaro update nya cepet kalian juga bisa ganti-ganti kernel linux sesuka kalian aja, bebas dah.
