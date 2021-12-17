@@ -35,21 +35,21 @@ Sebelumnya colokan hp Android kalian ke laptop pastikan usb debug sudah aktif de
 
 Atau bisa langsung buka di terminal dengan perintah sebagai berikut:
 
-cd /nama folder kalian/platform-tools/
+```cd /nama folder kalian/platform-tools/```
 
 Selanjutnya jika sudah terhubung dengan hp android pilih transfer file pada layar pilihan android ketika usb berhasil tersambung dengan laptop dan usb debug berhasil.
 
 Sudah masuk di terminal ketik perintah berikut.
 
-<pre class="wp-block-code"><code>./adb devices</code></pre>
+```./adb devices```
 
 Setelah mengetik perintah diatas akan ada notifikasi di hp android kalian untuk konfirmasi terhubung dengan adb, klik oke agar authorized berhasil, jika sudah selanjutnya ketik perintah dibawah ini agar masuk ke shell. 
 
-<pre class="wp-block-code"><code>./adb shell</code></pre>
+```./adb shell```
 
 Maka akan masuk ke shell tampilan di terminal akan berubah dengan kode ponsel kalian setelah itu lakukan perintah shell dibawah ini
 
-<pre class="wp-block-code"><code>pm uninstall -k --user 0 &lt;nama paket android></code></pre>
+```pm uninstall -k --user 0 &lt;nama paket android```
 
 Masukan nama paket android dengan aplikasi bawaan atau blootware yang hendak diinstal kurang lebih seperti ini.<figure class="wp-block-image size-large">
 
@@ -59,7 +59,8 @@ Untuk mengathui kode paket aplikasi android bisa dengan aplikasi _app inspector_
 
 Lakukan satu persatu sesuai nama paket aplikasi yang ingin kalian uninstall, ini sebagian paket aplikasi bloatware pada sony xperia versi au yang dihapus wkwkwk.
 
-<pre class="wp-block-code"><code>pm uninstall -k --user 0 com.sony.tvsideview.videoph
+```
+pm uninstall -k --user 0 com.sony.tvsideview.videoph
 pm uninstall -k --user 0 jp.co.fsi.fs1seg
 pm uninstall -k --user 0 com.kddi.android.cmail
 pm uninstall -k --user 0 com.kddi.selfcare.client
@@ -67,6 +68,8 @@ pm uninstall -k --user 0 com.felicanetworks.mfs
 pm uninstall -k --user 0 com.android.chrome
 pm uninstall -k --user 0 com.sonymobile.moviecreator.rmm
 pm uninstall -k --user 0 com.uievolution.gguide.android
-pm uninstall -k --user 0 com.google.android.apps.photos</code></pre>
+pm uninstall -k --user 0 com.google.android.apps.photos
+
+```
 
 Selamat mencoba jika ada hal yang perlu ditanyakan jangan sungkan, ada kolom komentar dibawah.
