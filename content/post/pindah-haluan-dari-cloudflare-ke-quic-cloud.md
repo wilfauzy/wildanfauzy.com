@@ -20,17 +20,17 @@ Perjalanan ngeblog dengan cloudflare baik-baik saja, hingga suatu ketika iseng-i
 
 Jika dilihat dari namanya quic wah pasti kenceng wuzz wuz nih, terjemahan kasarnya quic itu kencang hehehe, akhirnya mulai lah dengan menekan tombol enable CDN.<figure class="wp-block-image size-large">
 
-![](https://i1.wp.com/wildanfauzy.com/wp-content/uploads/2020/07/20200701_084917-1.jpg?resize=768%2C478&#038;ssl=1)
+![](https://wilfauzy.com/wp-content/uploads/2020/07/20200701_084917-1.jpg?resize=768%2C478&#038;ssl=1)
 
 Setelah menekan tombol enable, masalah datang karena masih awam dengan cdn yang satu ini, berhasil memverifikasi domain key dan error dibagian verifikasi cname, terhambat oleh domain SOA, ada opsi dengan menggunakan WWW karena sudah nyaman dengan naked domain, akhirnya mencari tau di berbagai forum.<figure class="wp-block-image size-large">
  
-![](https://i0.wp.com/wildanfauzy.com/wp-content/uploads/2020/07/20200701_090251.jpg?resize=768%2C874&#038;ssl=1)
+![](https://wilfauzy.com/wp-content/uploads/2020/07/20200701_090251.jpg?resize=768%2C874&#038;ssl=1)
 
 Trial and error akhirnya berhasil juga mengatur cdn quic.cloud dengan menggunakan naked domain tanpa tambahan www soalnya harus mengubah url alamat wordpress sudah terlanjur nyaman dengan naked domain, sebenarnya masih kalah pamor dengan cloudflare yang sudah banyak fitur.
 
 Kelebihan cdn quic.cloud diantaranya bisa menggunakan koneksi QUIC atau generasi penerus dari http/2 yaitu http/3 yang dikembangkan oleh google mampu mengurangi latency tapi masih beta, selain itu bisa menggunakan ssl gratis dari let&#8217;s encrypt, jika di cloudflare menggunakan sni cloudflare.<figure class="wp-block-image size-large">
 
-![](https://i1.wp.com/wildanfauzy.com/wp-content/uploads/2020/07/20200701_091033.jpg?resize=768%2C829&#038;ssl=1)
+![](https://wilfauzy.com/wp-content/uploads/2020/07/20200701_091033.jpg?resize=768%2C829&#038;ssl=1)
 
 Menggunakan koneksi QUIC atau http/3, pada umumnya website masih menggunakan koneksi TLS 1.2/1.3 dan belum banyak yang mendukung koneksi QUIC, Chrome browser sudah mendukung koneksi quic, tidak bisa membandingkan dengan cdn cloudflare karena baru menggunakan quic cloud beberapa hari.
 
