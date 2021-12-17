@@ -23,7 +23,7 @@ Tentu ada perbedaan dari versi yang sudah resmi, jika penasaran ingin mencobanya
 
 Eittss tapi pertama-tama harus memburning iso yang sudah di download tadi, atau menggunakan usb sebagai media instalasi, setelah sudah tancapkan usb lagu setting boot ke flashdiks yang sudah ada instalasi manjaro.
 
-## Mulai Instalasi 
+## Mulai Instalasi
 
 ![](https://wilfauzy.com/wp-content/uploads/2020/08/Screenshot-at-2020-08-20-15-57-59-min.png?w=768&ssl=1)
 
@@ -35,7 +35,7 @@ Setelah berhasil booting dari flashdiks akan masuk ke live manjaro, kalian bisa 
 
 Selanjutnya masuk pada menu pilihan lokasi, disini kalian harus memilih lokasi tinggal dimana, perlu di perhatikan karena Indonesia ada tiga zona waktu maka pilih sesuai tempat tinggal kalian biar sinkron aja gitu, secara otomatis setelah terhubung ke Internet maka waktu akan diatur secara otomatis enggak perlu setting waktu sendiri.
 
-## Mengatur Papan Ketik atau Keyboard 
+## Mengatur Papan Ketik atau Keyboard
 
 ![](https://wilfauzy.com/wp-content/uploads/2020/08/Screenshot-at-2020-08-20-22-59-28-min.png?resize=768%2C432&ssl=1)
 
@@ -55,13 +55,13 @@ Selanjutnya mengisi data pengguna pc kalian terserah mau diisi apa, asal jangan 
 
 Jika sudah beres semua tinggal menunggu sistem terpasang di laptop kalian, waktu pemasangan tergantung dari tipe penyimpanan yang kalian gunakan kalo masih pake hardisk yah cukup lama, mending yang rpm 7200 lumayan lah, kalo pake ssd bisa lebih cepat proses pemasangan.
 
-## Proses Instalasi 
+## Proses Instalasi
 
 ![](https://wilfauzy.com/wp-content/uploads/2020/08/Screenshot-at-2020-08-20-23-12-37-min.png?resize=768%2C432&ssl=1)
 
 Sabar menunggu karena masih pake hardisk akhirnya selesai juga instalasi manjaro versi mate, selanjutnya minum dulu biar rilek, terus restart laptop kalian jangan lupa mencabut media instalasinya yah.
 
-## Update Setelah Beres Memasang 
+## Update Setelah Beres Memasang
 
 ![](https://wilfauzy.com/wp-content/uploads/2020/08/Screenshot-pada-2020-08-20-23-39-53-min.png?resize=768%2C432&ssl=1)
 
@@ -69,10 +69,10 @@ Untuk mendapatkan pengalaman yang lebih asik kalian bisa langsung mengupdate, bi
 
 Perintah Manjaro sama ubuntu beda yah enggak pake apt lagi tapi pake pacman karena keturunan dari arch linux, ketik perintah di bawah ini untuk update sistem atau bisa langsung nongol pemberitahuan buat update.
 
-```sudo pacman -Syu```
+    sudo pacman -Syu
 
 Atau pake ini
 
-```sudo pacman -Syyu```
+    sudo pacman -Syyu
 
 Setelah selesai update silakan menikmati manjaro versi mate, kelebihan dari manjaro update nya cepet kalian juga bisa ganti-ganti kernel linux sesuka kalian aja, bebas dah.
