@@ -3,7 +3,7 @@ comments = false
 date = 2012-03-26T22:17:00Z
 noauthor = true
 share = false
-title = "PGP Pubkey"
+title = "PGP PubKey"
 type = "page"
 [menu.main]
 weight = 11
