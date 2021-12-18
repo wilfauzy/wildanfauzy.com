@@ -6,7 +6,7 @@ share = false
 title = "PGP Pub Key"
 type = "page"
 [menu.main]
-weight = 7
+weight = 11
 
 +++
 
