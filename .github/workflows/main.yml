@@ -6,8 +6,6 @@ jobs:
     steps:
       - name: Git checkout
         uses: actions/checkout@v2
-        with:
-          root_dir: .rahasia
 
       - name: Setup hugo
         uses: peaceiris/actions-hugo@v2
@@ -15,8 +13,6 @@ jobs:
           hugo-version: "latest"
 
       - name: Build
-        # remove --minify tag if you do not need it
-        # docs: https://gohugo.io/hugo-pipes/minification/
         run: hugo --minify
 
       - name: Deploy
@@ -25,8 +21,6 @@ jobs:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: wilfauzy/wilfauzy.github.io
           publish_dir: ./public
-          #   keep_files: true
           user_name: wilfauzy
           user_email: me@wildanfauzy.com
           publish_branch: master
-        #   cname: example.com
