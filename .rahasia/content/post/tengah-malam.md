@@ -4,6 +4,7 @@ tags:
 - Note
 date: 2020-05-27T00:44:46Z
 title: Tengah Malam Datang Cepat Pergi
+url: /tengah-malam/
 image: /gambar/tengah-malam.jpg
 ---
 
