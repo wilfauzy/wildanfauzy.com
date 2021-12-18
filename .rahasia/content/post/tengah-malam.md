@@ -5,7 +5,7 @@ tags:
 date: 2020-05-27T00:44:46Z
 title: Tengah Malam Datang Cepat Pergi
 url: /tengah-malam/
-image: /wp-content/uploads/2020/05/pexels-photo-272887.jpeg
+image: /img/pexels-photo-272887.jpeg
 ---
 
 Seperti biasanya menunggu saat pagi tiba, dan ketika pagi menjelang tidak ditunggu lagi, perputaran waktu cepat sekali rasanya rasa-rasanya baru hari minggu ternyata sudah masuk ke hari rabu, waktu terus berputar kita yang hanya rebahan sambil melihat jarum jam berputar, dinihari waktu yang tepat menunggu pagi.
