@@ -1,0 +1,31 @@
+name: CI
+on: push
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Git checkout
+        uses: actions/checkout@v2
+
+      - name: Setup hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "latest"
+
+      - name: Build
+        # remove --minify tag if you do not need it
+        # docs: https://gohugo.io/hugo-pipes/minification/
+        run: hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.TOKEN }}
+          external_repository: wilfauzy/wilfauzy.github.io
+          destination_dir: ./.rahasia
+          publish_dir: ./public
+          #   keep_files: true
+          user_name: wilfauzy
+          user_email: me@wildanfauzy.com
+          publish_branch: master
+        #   cname: example.com
