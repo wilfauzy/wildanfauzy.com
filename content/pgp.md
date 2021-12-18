@@ -1,9 +1,9 @@
 +++
 comments = false
-date = 2015-04-14T22:17:00Z
+date = 2012-03-26T22:17:00Z
 noauthor = true
 share = false
-title = "PGP Pub Key"
+title = "PGP Pubkey"
 type = "page"
 [menu.main]
 weight = 11
