@@ -4,7 +4,7 @@ disqusshortname = ""
 languagecode = "id-ID"
 paginate = 8
 summaryLength = 25
-title = "WilFauzy Blog"
+title = "wilfauzy blog"
 [[menu.main]]
 name = "Masuk"
 url = "https://wilfauzy.com/admin"
@@ -40,7 +40,7 @@ authorbio = "Artikel pilihan dari dapur redaksi"
 authorlocation = "Bandung, Indonesia"
 authorwebsite = ""
 cover = "/images/original.jpg"
-description = "WilFauzy Blog adalah media yang membahas info menarik disajikan secara asik dan santai, kumpulan cerita dari sudut pandang yang berbeda"
+description = "wilfauzy blog adalah media yang membahas info menarik disajikan secara asik dan santai, kumpulan cerita dari sudut pandang yang berbeda"
 disableHugoGeneratorInject = true
 githubName = "wilfauzy"
 hideHUGOSupport = false
