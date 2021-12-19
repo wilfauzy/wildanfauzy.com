@@ -9,7 +9,7 @@
 {{$author := ($.Scratch.Get "author")}}
 
 {{ if isset $author "thumbnail" }}
-    <amp-img class="author-thumb" src="{{ $author.thumbnail | relURL }}" layout="fixed" alt="penulis" width="24" height="24"></amp-img>
+    <amp-img class="author-thumb" src="{{ $author.thumbnail | relURL }}" layout="fixed" alt="penulis" ></amp-img>
 {{end}}
 {{$author.name}}
 {{if .Params.categories }}
