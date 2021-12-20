@@ -155,7 +155,7 @@ table { border-collapse: collapse; border-spacing: 0; }
        url('../fonts/Genericons/Genericons.woff') format('woff'),
        url('../fonts/Genericons/Genericons.ttf') format('truetype'),
        url('../fonts/Genericons/Genericons.svg#entypo') format('svg');
-  font-weight: normal; font-style: normal;
+  font-weight: normal; font-style: normal; font-display: swap;
 }
 
 /* Apply these base styles to all icons */
