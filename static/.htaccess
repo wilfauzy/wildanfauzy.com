@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^52\.230\.13\.95$
+RewriteRule ^(.*)$ https://wilfauzy.com/$1 [L,R=301]
