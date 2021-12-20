@@ -1,5 +1,138 @@
-<<<<<<< HEAD
-parcelRequire=function(e){var r="function"==typeof parcelRequire&&parcelRequire,n="function"==typeof require&&require,i={};function u(e,u){if(e in i)return i[e];var t="function"==typeof parcelRequire&&parcelRequire;if(!u&&t)return t(e,!0);if(r)return r(e,!0);if(n&&"string"==typeof e)return n(e);var o=new Error("Cannot find module '"+e+"'");throw o.code="MODULE_NOT_FOUND",o}return u.register=function(e,r){i[e]=r},i=e(u),u.modules=i,u}(function (require) {var d={};function l(e){for(var r,o=/\+/g,n=/([^&=]+)=?([^&]*)/g,p=function(e){return decodeURIComponent(e.replace(o," "))},a={};r=n.exec(e);)a[p(r[1])]=p(r[2]);return a}function g(e){var r=[];for(var o in e)e.hasOwnProperty(o)&&e[o]&&r.push(encodeURIComponent(o)+"="+encodeURIComponent(e[o]));return r.join("&")}d.deparam=l,d.param=g;var f={},m=window.matchMedia("(prefers-color-scheme: dark)").matches?"github-dark":"github-light";f.preferredTheme=m;var q="preferred-color-scheme";f.preferredThemeId=q;var h=l(location.search.substr(1)),i=h.utterances;if(i){localStorage.setItem("utterances-session",i),delete h.utterances;var j=g(h);j.length&&(j="?"+j),history.replaceState(void 0,document.title,location.pathname+j+location.hash)}var c=document.currentScript;void 0===c&&(c=document.querySelector("script[src^=\"https://utteranc.es/client.js\"],script[src^=\"http://localhost:4000/client.js\"]"));for(var b={},k=0;k<c.attributes.length;k++){var s=c.attributes.item(k);b[s.name.replace(/^data-/,"")]=s.value}b.theme===q&&(b.theme=m);var u=document.querySelector("link[rel='canonical']");b.url=u?u.href:location.origin+location.pathname+location.search,b.origin=location.origin,b.pathname=location.pathname.length<2?"index":location.pathname.substr(1).replace(/\.\w+$/,""),b.title=document.title;var v=document.querySelector("meta[name='description']");b.description=v?v.content:"";var w=encodeURIComponent(b.description).length;w>1e3&&(b.description=b.description.substr(0,Math.floor(1e3*b.description.length/w)));var x=document.querySelector("meta[property='og:title'],meta[name='og:title']");b["og:title"]=x?x.content:"",b.session=i||localStorage.getItem("utterances-session")||"",document.head.insertAdjacentHTML("afterbegin","<style>\n    .utterances {\n      position: relative;\n      box-sizing: border-box;\n      width: 100%;\n      max-width: 760px;\n      margin-left: auto;\n      margin-right: auto;\n    }\n    .utterances-frame {\n      color-scheme: light;\n      position: absolute;\n      left: 0;\n      right: 0;\n      width: 1px;\n      min-width: 100%;\n      max-width: 100%;\n      height: 100%;\n      border: 0;\n    }\n  </style>");var y=c.src.match(/^https:\/\/utteranc\.es|http:\/\/localhost:\d+/)[0],z=y+"/utterances.html";c.insertAdjacentHTML("afterend","<div class=\"utterances\">\n    <iframe class=\"utterances-frame\" title=\"Comments\" scrolling=\"no\" src=\""+z+"?"+g(b)+"\" loading=\"lazy\"></iframe>\n  </div>");var A=c.nextElementSibling;c.parentElement.removeChild(c),addEventListener("message",function(t){if(t.origin===y){var r=t.data;r&&"resize"===r.type&&r.height&&(A.style.height=r.height+"px")}});d.__esModule=true;f.__esModule=true;return{"D53L":{},"ieWq":d,"N98m":f};});
-=======
-parcelRequire=function(e){var r="function"==typeof parcelRequire&&parcelRequire,n="function"==typeof require&&require,i={};function u(e,u){if(e in i)return i[e];var t="function"==typeof parcelRequire&&parcelRequire;if(!u&&t)return t(e,!0);if(r)return r(e,!0);if(n&&"string"==typeof e)return n(e);var o=new Error("Cannot find module '"+e+"'");throw o.code="MODULE_NOT_FOUND",o}return u.register=function(e,r){i[e]=r},i=e(u),u.modules=i,u}(function (require) {var d={};function l(e){for(var r,o=/\+/g,n=/([^&=]+)=?([^&]*)/g,p=function(e){return decodeURIComponent(e.replace(o," "))},a={};r=n.exec(e);)a[p(r[1])]=p(r[2]);return a}function g(e){var r=[];for(var o in e)e.hasOwnProperty(o)&&e[o]&&r.push(encodeURIComponent(o)+"="+encodeURIComponent(e[o]));return r.join("&")}d.deparam=l,d.param=g;var f={},m=window.matchMedia("(prefers-color-scheme: dark)").matches?"github-dark":"github-light";f.preferredTheme=m;var q="preferred-color-scheme";f.preferredThemeId=q;var h=l(location.search.substr(1)),i=h.utterances;if(i){localStorage.setItem("utterances-session",i),delete h.utterances;var j=g(h);j.length&&(j="?"+j),history.replaceState(void 0,document.title,location.pathname+j+location.hash)}var c=document.currentScript;void 0===c&&(c=document.querySelector("script[src^=\"https://utteranc.es/client.js\"],script[src^=\"http://localhost:4000/client.js\"]"));for(var b={},k=0;k<c.attributes.length;k++){var s=c.attributes.item(k);b[s.name.replace(/^data-/,"")]=s.value}b.theme===q&&(b.theme=m);var u=document.querySelector("link[rel='canonical']");b.url=u?u.href:location.origin+location.pathname+location.search,b.origin=location.origin,b.pathname=location.pathname.length<2?"index":location.pathname.substr(1).replace(/\.\w+$/,""),b.title=document.title;var v=document.querySelector("meta[name='description']");b.description=v?v.content:"";var w=encodeURIComponent(b.description).length;w>1e3&&(b.description=b.description.substr(0,Math.floor(1e3*b.description.length/w)));var x=document.querySelector("meta[property='og:title'],meta[name='og:title']");b["og:title"]=x?x.content:"",b.session=i||localStorage.getItem("utterances-session")||"",document.head.insertAdjacentHTML("afterbegin","<style>\n    .utterances {\n      position: relative;\n      box-sizing: border-box;\n      width: 100%;\n      max-width: 760px;\n      margin-left: auto;\n      margin-right: auto;\n    }\n    .utterances-frame {\n      color-scheme: light;\n      position: absolute;\n      left: 0;\n      right: 0;\n      width: 1px;\n      min-width: 100%;\n      max-width: 100%;\n      height: 100%;\n      border: 0;\n    }\n  </style>");var y=c.src.match(/^https:\/\/utteranc\.es|http:\/\/localhost:\d+/)[0],z=y+"/utterances.html";c.insertAdjacentHTML("afterend","<div class=\"utterances\">\n    <iframe class=\"utterances-frame\" title=\"Comments\" scrolling=\"no\" src=\""+z+"?"+g(b)+"\" loading=\"lazy\"></iframe>\n  </div>");var A=c.nextElementSibling;c.parentElement.removeChild(c),addEventListener("message",function(t){if(t.origin===y){var r=t.data;r&&"resize"===r.type&&r.height&&(A.style.height=r.height+"px")}});d.__esModule=true;f.__esModule=true;return{"D53L":{},"ieWq":d,"N98m":f};});
->>>>>>> 6f44b5c8fe078b28cc8e7f0ab789fd6e603ec99d
+var GISCUS_SESSION_KEY = 'giscus-session';
+var script = document.currentScript;
+var giscusOrigin = new URL(script.src).origin;
+function formatError(message) {
+    return "[giscus] An error occurred. Error message: \"".concat(message, "\".");
+}
+function loadScript(url, callback) {
+    var target = document.createElement('script');
+    target.setAttribute('src', url);
+    target.onload = callback;
+    script.insertAdjacentElement('beforeend', target);
+}
+loadScript("".concat(giscusOrigin, "/js/iframeResizer.min.js"), function () {
+    return iFrameResize({ checkOrigin: [giscusOrigin], resizeFrom: 'child' }, '.giscus-frame');
+});
+// Set up iframe src URL and params
+var url = new URL(location.href);
+var session = url.searchParams.get('giscus');
+var savedSession = localStorage.getItem(GISCUS_SESSION_KEY);
+url.searchParams["delete"]('giscus');
+var cleanedLocation = url.toString();
+if (session) {
+    localStorage.setItem(GISCUS_SESSION_KEY, JSON.stringify(session));
+    history.replaceState(undefined, document.title, cleanedLocation);
+}
+else {
+    try {
+        session = JSON.parse(savedSession) || '';
+    }
+    catch (e) {
+        session = '';
+        localStorage.removeItem(GISCUS_SESSION_KEY);
+        console.warn("".concat(formatError(e === null || e === void 0 ? void 0 : e.message), " Session has been cleared."));
+    }
+}
+var attributes = script.dataset;
+var params = {};
+var ogDescriptionMeta = document.querySelector("meta[property='og:description'],meta[name='description']");
+params.origin = cleanedLocation;
+params.session = session;
+params.theme = attributes.theme;
+params.reactionsEnabled = attributes.reactionsEnabled || '1';
+params.emitMetadata = attributes.emitMetadata || '0';
+params.repo = attributes.repo;
+params.repoId = attributes.repoId;
+params.category = attributes.category || '';
+params.categoryId = attributes.categoryId;
+params.description = ogDescriptionMeta ? ogDescriptionMeta.content : '';
+switch (attributes.mapping) {
+    case 'url':
+        params.term = cleanedLocation;
+        break;
+    case 'title':
+        params.term = document.title;
+        break;
+    case 'og:title':
+        {
+            var ogtitleMeta = document.querySelector("meta[property='og:title'],meta[name='og:title']");
+            params.term = ogtitleMeta ? ogtitleMeta.content : '';
+        }
+        break;
+    case 'specific':
+        params.term = attributes.term;
+        break;
+    case 'number':
+        params.number = attributes.term;
+        break;
+    case 'pathname':
+    default:
+        params.term =
+            location.pathname.length < 2 ? 'index' : location.pathname.substr(1).replace(/\.\w+$/, '');
+        break;
+}
+var locale = attributes.lang ? "/".concat(attributes.lang) : '';
+var src = "".concat(giscusOrigin).concat(locale, "/widget?").concat(new URLSearchParams(params));
+// Set up iframe element
+var iframeElement = document.createElement('iframe');
+var iframeAttributes = {
+    "class": 'giscus-frame',
+    title: 'Comments',
+    scrolling: 'no',
+    src: src
+};
+Object.entries(iframeAttributes).forEach(function (_a) {
+    var key = _a[0], value = _a[1];
+    return iframeElement.setAttribute(key, value);
+});
+// Create default style and prepend as <head>'s first child to make override possible.
+var style = document.getElementById('giscus-css') || document.createElement('style');
+style.id = 'giscus-css';
+style.textContent = "\n  .giscus, .giscus-frame {\n    width: 100%;\n  }\n\n  .giscus-frame {\n    border: none;\n    color-scheme: normal;\n  }\n";
+document.head.prepend(style);
+// Insert iframe element
+var existingContainer = document.querySelector('.giscus');
+if (!existingContainer) {
+    var iframeContainer = document.createElement('div');
+    iframeContainer.setAttribute('class', 'giscus');
+    iframeContainer.appendChild(iframeElement);
+    script.insertAdjacentElement('afterend', iframeContainer);
+}
+else {
+    while (existingContainer.firstChild)
+        existingContainer.firstChild.remove();
+    existingContainer.appendChild(iframeElement);
+}
+var suggestion = "Please consider reporting this error at https://github.com/giscus/giscus/issues/new.";
+// Listen to error messages
+window.addEventListener('message', function (event) {
+    var _a;
+    if (event.origin !== giscusOrigin)
+        return;
+    var data = event.data;
+    if (!(typeof data === 'object' && ((_a = data === null || data === void 0 ? void 0 : data.giscus) === null || _a === void 0 ? void 0 : _a.error)))
+        return;
+    var message = data.giscus.error;
+    if (message.includes('Bad credentials') || message.includes('Invalid state value')) {
+        // Might be because token is expired or other causes
+        if (localStorage.getItem(GISCUS_SESSION_KEY) !== null) {
+            localStorage.removeItem(GISCUS_SESSION_KEY);
+            console.warn("".concat(formatError(message), " Session has been cleared."));
+            delete params.session;
+            var src_1 = "".concat(giscusOrigin, "/widget?").concat(new URLSearchParams(params));
+            iframeElement.src = src_1; // Force reload
+        }
+        else if (!savedSession) {
+            console.error("".concat(formatError(message), " No session is stored initially. ").concat(suggestion));
+        }
+    }
+    else if (message.includes('Discussion not found')) {
+        console.warn("[giscus] ".concat(message, ". A new discussion will be created if a comment/reaction is submitted."));
+    }
+    else if (message.includes('API rate limit exceeded')) {
+        console.warn(formatError(message));
+    }
+    else {
+        console.error("".concat(formatError(message), " ").concat(suggestion));
+    }
+});
