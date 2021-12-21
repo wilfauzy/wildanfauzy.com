@@ -1,10 +1,7 @@
 ---
 author: Linux Mania
 date: 2020-10-30T16:57:17Z
-guid: https://wildanfauzy.com/?p=8567
 image: /wp-content/uploads/2020/10/vpnkonekkevps.jpeg
-header-mask: 0.4
-id: 8567
 tags:
 - openvpn
 - ubuntu
@@ -28,10 +25,12 @@ kalo vpsnya pake kvm biasanya udah otomatis nyala, beda kalo openvz harus dicek 
 
 langsung aja install script openvpn dari github dibawah ini.
 
-<pre class="wp-block-code"><code>wget git.io/vpn --no-check-certificate -O openvpn-install.sh; bash openvpn-install.sh</code></pre><figure class="wp-block-image size-large">
+```
+wget git.io/vpn --no-check-certificate -O openvpn-install.sh; bash openvpn-install.sh
+```
 
 
-![](/wildanfauzy.com/wp-content/uploads/2020/10/20201030_165125.jpg?resize=768%2C892&#038;ssl=1)
+![](/wp-content/uploads/2020/10/20201030_165125.jpg?resize=768%2C892&#038;ssl=1)
 
 Maka akan muncul pilihan konfigurasi, tinggal next-next aja terakhir silakan masukan nama client openvpn sampe muncul konfigurasi. ovpn
 
