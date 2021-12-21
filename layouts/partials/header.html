@@ -52,8 +52,7 @@
 
     <link rel="stylesheet" type="text/css" href="{{ "css/screen.css" | relURL}}" />
     <link rel="stylesheet" type="text/css" href="{{ "css/nav.css" | relURL}}" />
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-
+    
     {{ range .Site.Params.customCSS }}
     <link rel="stylesheet" href="{{ . | relURL }}">
     {{ end }}
