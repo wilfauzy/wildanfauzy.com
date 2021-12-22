@@ -51,7 +51,7 @@ hr {
    box-sizing: content-box;
    height: 0;
 }
-mark { background: #FF0; color: #000; }
+mark { background: #FF0; color: #000000; }
 code, kbd, pre,
 samp { font-family: monospace, serif; font-size: 1em; }
 pre { white-space: pre-wrap; }
@@ -175,7 +175,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 /* In order to have correct background when using the monokai pygments style*/
 .highlight pre {
   background-color: inherit;
-  color: #000;
+  color: #000000;
 }
 
 /* Each icon is created by inserting the correct character into the
@@ -254,7 +254,7 @@ body {
     letter-spacing: 0.01rem;
     font-size: 1.8rem;
     line-height: 1.75em;
-    color: #000;
+    color: #000000;
     -webkit-font-feature-settings: 'kern' 1;
     -moz-font-feature-settings: 'kern' 1;
     -o-font-feature-settings: 'kern' 1;
@@ -274,7 +274,7 @@ h4, h5, h6 {
     -webkit-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
     -moz-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
     -o-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
-    color: #fff;
+    color: #ffffff;
     line-height: 1.15em;
     margin: 0 0 0.4em;
     font-family: "Open Sans", sans-serif;
@@ -309,12 +309,12 @@ h6 {
 }
 
 a {
-    color: #000;
+    color: #000000;
     transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #000;
+    color: #000000;
 }
 
 p, ul, ol, dl {
@@ -364,7 +364,7 @@ hr {
     display: block;
     height: 1px;
     border: 0;
-    border-top: #000 1px solid;
+    border-top: #000000 1px solid;
     margin: 3.2em 0;
     padding: 0;
 }
@@ -374,7 +374,7 @@ blockquote {
     box-sizing: border-box;
     margin: 1.75em 0 1.75em -2.2em;
     padding: 0 0 0 1.75em;
-    border-left: #fff 0.4em solid;
+    border-left: #ffffff 0.4em solid;
 }
 
 blockquote p {
@@ -386,7 +386,7 @@ blockquote small {
     display: inline-block;
     margin: 0.8em 0 0.8em 1.5em;
     font-size: 0.9em;
-    color: #fff;
+    color: #ffffff;
 }
 
 blockquote small:before { content: "\2014 \00A0"; }
@@ -398,7 +398,7 @@ blockquote cite {
 blockquote cite a { font-weight: normal; }
 
 mark {
-    background-color: #000;
+    background-color: #000000;
 }
 
 code, tt {
@@ -406,8 +406,8 @@ code, tt {
     font-family: Inconsolata, monospace, sans-serif;
     font-size: 0.85em;
     white-space: pre-wrap;
-    border: #fff 1px solid;
-    background: #000;
+    border: #ffffff 1px solid;
+    background: #000000;
     border-radius: 2px;
 }
 
@@ -415,14 +415,14 @@ pre {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     margin: 0 0 1.75em;
-    border: #fff 1px solid;
+    border: #ffffff 1px solid;
     width: 100%;
     padding: 10px;
     font-family: Inconsolata, monospace, sans-serif;
     font-size: 0.9em;
     white-space: pre;
     overflow: auto;
-    background: #000;
+    background: #000000;
     border-radius: 3px;
 }
 
@@ -439,15 +439,15 @@ kbd {
     margin-bottom: 0.4em;
     padding: 1px 8px;
     border: #CCC 1px solid;
-    color: #fff;
+    color: #ffffff;
     text-shadow: #666 0 1px 0;
     font-size: 0.9em;
     font-weight: 700;
-    background: #000;
+    background: #000000;
     border-radius: 4px;
     box-shadow:
         0 1px 0 rgba(0, 0, 0, 0.2),
-        0 1px 0 0 #fff inset;
+        0 1px 0 0 #ffffff inset;
 }
 
 table {
@@ -465,10 +465,10 @@ table td {
     line-height: 20px;
     text-align: left;
     vertical-align: top;
-    border-top: #000 1px solid;
+    border-top: #000000 1px solid;
 }
 
-table th { color: #fff; }
+table th { color: #ffffff; }
 
 table caption + thead tr:first-child th,
 table caption + thead tr:first-child td,
@@ -481,11 +481,11 @@ table thead:first-child tr:first-child td {
 
 table tbody + tbody { border-top: #666 2px solid; }
 
-table table table { background-color: #000; }
+table table table { background-color: #000000; }
 
 table tbody > tr:nth-child(odd) > td,
 table tbody > tr:nth-child(odd) > th {
-    background-color: #000;
+    background-color: #000000;
 }
 
 table.plain tbody > tr:nth-child(odd) > td,
@@ -544,7 +544,7 @@ margin on the iframe, cause it breaks stuff. */
     position: relative;
     z-index: 10;
     min-height: 100%;
-    background: #000;
+    background: #000000;
     -webkit-transition: -webkit-transform 0.5s ease;
             transition: transform 0.5s ease;
 }
@@ -625,7 +625,7 @@ body.nav-opened .nav-cover {
     z-index: 5;
     width: 240px;
     opacity: 0;
-    background: #000;
+    background: #000000;
     margin-bottom: 0;
     text-align: left;
     overflow-y: auto;
@@ -636,7 +636,7 @@ body.nav-opened .nav-cover {
 font-family: "Open Sans","Myriad Pro","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
 font-weight: 700;
 font-size: 11px;
-color: #000;
+color: #000000;
 }
 
 body.nav-closed .nav {
@@ -663,7 +663,7 @@ body.nav-opened .nav {
     font-size: 16px;
     font-weight: 100;
     text-transform: uppercase;
-    color: #fff;
+    color: #ffffff;
 }
 
 .nav-close {
@@ -724,7 +724,7 @@ body.nav-opened .nav {
     text-align: right;
     font-size: 1.2rem;
     vertical-align: bottom;
-    color: #fff;
+    color: #ffffff;
     content: counter(item, lower-roman);
     counter-increment: item;
 }
@@ -748,7 +748,7 @@ body.nav-opened .nav {
     margin-left: 5px;
 }
 .nav .nav-current:before {
-    color: #fff;
+    color: #ffffff;
 }
 .nav .nav-current a:after {
     content: " ";
@@ -766,7 +766,7 @@ body.nav-opened .nav {
 .nav a:hover,
 .nav a:active,
 .nav a:focus {
-    color: #fff;
+    color: #ffffff;
 }
 
 .subscribe-button {
@@ -788,7 +788,7 @@ body.nav-opened .nav {
     text-decoration: none;
     line-height: 35px;
     border-radius: 3px;
-    background: #fff;
+    background: #ffffff;
     transition: all ease 0.3s;
 }
 .subscribe-button:before {
@@ -817,7 +817,7 @@ body.nav-opened .nav {
 
 /* Stop it bouncing and increase contrast when hovered */
 .scroll-down:hover {
-    color: #fff;
+    color: #ffffff;
     -webkit-animation: none;
     animation: none;
 }
@@ -895,7 +895,7 @@ body.nav-opened .menu-button {
     padding: 0 12px;
     background: #111 !important;
     border-color: #111 !important;
-    color: #fff !important;
+    color: #ffffff !important;
     -webkit-transform: translate3D(94px, 0, 0);
         -ms-transform: translate3D(94px, 0, 0);
             transform: translate3D(94px, 0, 0);
@@ -922,7 +922,7 @@ body.nav-opened .menu-button .word {
 }
 
 .main-nav.overlay a {
-    color: #fff;
+    color: #ffffff;
 }
 
 .main-nav.overlay .menu-button {
@@ -931,8 +931,8 @@ body.nav-opened .menu-button .word {
 
 .main-nav.overlay a:hover {
     color: #222;
-    border-color: #fff;
-    background: #fff;
+    border-color: #ffffff;
+    background: #ffffff;
 }
 
 /* Add a border to the buttons on hover */
@@ -948,7 +948,7 @@ body.nav-opened .menu-button .word {
     letter-spacing: -1px;
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
-    color: #fff;
+    color: #ffffff;
 }
 
 .page-description {
@@ -1001,7 +1001,7 @@ body.nav-opened .menu-button .word {
     max-width: 710px;
     margin: 4rem auto;
     padding-bottom: 4rem;
-    border-bottom: #fff 1px solid;
+    border-bottom: #ffffff 1px solid;
     word-wrap: break-word;
     -moz-hyphens: auto;
     -ms-hyphens: auto;
@@ -1016,14 +1016,14 @@ body.nav-opened .menu-button .word {
     content: "";
     width: 7px;
     height: 7px;
-    border: #fff 1px solid;
+    border: #ffffff 1px solid;
     position: absolute;
     bottom: -5px;
     left: 50%;
     margin-left: -5px;
-    background: #000;
+    background: #000000;
     border-radius: 100%;
-    box-shadow: #FFF 0 0 0 5px;
+    box-shadow: #ffffff 0 0 0 5px;
 }
 
 body:not(.post-template) .post-title {
@@ -1050,7 +1050,7 @@ body:not(.post-template) .post-title {
     font-family: "Open Sans", sans-serif;
     font-size: 1.5rem;
     line-height: 2.2rem;
-    color: #fff;
+    color: #ffffff;
 }
 
 .author-thumb {
@@ -1062,7 +1062,7 @@ body:not(.post-template) .post-title {
 }
 
 .post-meta a {
-    color: #fff;
+    color: #ffffff;
     text-decoration: none;
 }
 
@@ -1080,7 +1080,7 @@ body:not(.post-template) .post-title {
     display: inline-block;
     margin-left: 8px;
     padding-left: 12px;
-    border-left: #fff 1px solid;
+    border-left: #ffffff 1px solid;
     text-transform: uppercase;
     font-size: 1.3rem;
     white-space: nowrap;
@@ -1188,7 +1188,7 @@ body:not(.post-template) .post-title {
     position: relative;
     margin: 6rem 0 0;
     padding: 6rem 0 0;
-    border-top: #fff 1px solid;
+    border-top: #ffffff 1px solid;
 }
 
 .post-footer h4 {
@@ -1210,14 +1210,14 @@ body:not(.post-template) .post-title {
     font-size: 1.4rem;
     line-height: 1;
     font-style: italic;
-    color: #fff;
+    color: #ffffff;
 }
 
 .author-meta a {
-    color: #fff;
+    color: #ffffff;
 }
 .author-meta a:hover {
-    color: #fff;
+    color: #ffffff;
 }
 
 /* Create some space to the right for the share links */
@@ -1226,7 +1226,7 @@ body:not(.post-template) .post-title {
 }
 
 .post-footer h4 a {
-    color: #fff;
+    color: #ffffff;
     text-decoration: none;
 }
 
@@ -1249,12 +1249,12 @@ body:not(.post-template) .post-title {
     font-size: 1.8rem;
     display: inline-block;
     margin: 1rem 1.6rem 1.6rem 0;
-    color: #fff;
+    color: #ffffff;
     text-decoration: none;
 }
 
 .post-footer .share a:hover {
-    color: #fff;
+    color: #ffffff;
 }
 
 
@@ -1292,7 +1292,7 @@ body:not(.post-template) .post-title {
 
 .author-profile {
     padding: 0 15px 5rem;
-    border-bottom: #fff 1px solid;
+    border-bottom: #ffffff 1px solid;
     text-align: center;
 }
 
@@ -1302,14 +1302,14 @@ body:not(.post-template) .post-title {
     content: "";
     width: 7px;
     height: 7px;
-    border: #fff 1px solid;
+    border: #ffffff 1px solid;
     position: absolute;
     bottom: -5px;
     left: 50%;
     margin-left: -5px;
-    background: #000;
+    background: #000000;
     border-radius: 100%;
-    box-shadow: #000 0 0 0 5px;
+    box-shadow: #000000 0 0 0 5px;
 }
 
 .author-image {
@@ -1326,9 +1326,9 @@ body:not(.post-template) .post-title {
     border-radius: 100%;
     overflow: hidden;
     padding: 6px;
-    background: #000;
+    background: #000000;
     z-index: 2;
-    box-shadow: #fff 0 0 0 1px;
+    box-shadow: #ffffff 0 0 0 1px;
 }
 
 .author-image .img {
@@ -1360,7 +1360,7 @@ body:not(.post-template) .post-title {
     font-size: 1.8rem;
     line-height: 1.5em;
     font-weight: 200;
-    color: #fff;
+    color: #ffffff;
     letter-spacing: 0;
     text-indent: 0;
 }
@@ -1428,7 +1428,7 @@ body:not(.post-template) .post-title {
 }
 
 .pagination a {
-    color: #fff;
+    color: #ffffff;
     transition: all 0.2s ease;
 }
 
@@ -1460,13 +1460,13 @@ body:not(.post-template) .post-title {
 
 .older-posts:hover,
 .newer-posts:hover {
-    color: #fff;
+    color: #ffffff;
     border-color: #333;
 }
 
 .extra-pagination {
     display: none;
-    border-bottom: #fff 1px solid;
+    border-bottom: #ffffff 1px solid;
 }
 .extra-pagination:after {
     display: block;
@@ -1478,9 +1478,9 @@ body:not(.post-template) .post-title {
     bottom: -5px;
     left: 50%;
     margin-left: -5px;
-    background: #FFF;
+    background: #ffffff;
     border-radius: 100%;
-    box-shadow: #FFF 0 0 0 5px;
+    box-shadow: #ffffff 0 0 0 5px;
 }
 .extra-pagination .pagination {
     width: auto;
@@ -1708,7 +1708,7 @@ body:not(.post-template) .post-title {
     }
 
     .main-nav.overlay a:hover {
-        color: #fff;
+        color: #ffffff;
         border-color: transparent;
         background: transparent;
     }
@@ -2003,7 +2003,7 @@ body:not(.post-template) .post-title {
     text-decoration: none;
     position: relative;
     text-align: center;
-    color: #fff;
+    color: #ffffff;
     background: #222 no-repeat center center;
     background-size: cover;
     overflow: hidden;
@@ -2014,7 +2014,7 @@ body:not(.post-template) .post-title {
 }
 .read-next-story:hover .post:before {
     color: #222;
-    background: #fff;
+    background: #ffffff;
     transition: all 0.2s ease;
 }
 
@@ -2053,7 +2053,7 @@ body:not(.post-template) .post-title {
 
 .read-next-story h2 {
     margin-top: 1rem;
-    color: #fff;
+    color: #ffffff;
 }
 
 .read-next-story p {
