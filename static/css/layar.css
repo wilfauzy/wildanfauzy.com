@@ -364,7 +364,7 @@ hr {
     display: block;
     height: 1px;
     border: 0;
-    border-top: #EFEFEF 1px solid;
+    border-top: #000 1px solid;
     margin: 3.2em 0;
     padding: 0;
 }
@@ -544,7 +544,7 @@ margin on the iframe, cause it breaks stuff. */
     position: relative;
     z-index: 10;
     min-height: 100%;
-    background: #fff;
+    background: #000;
     -webkit-transition: -webkit-transform 0.5s ease;
             transition: transform 0.5s ease;
 }
@@ -636,7 +636,7 @@ body.nav-opened .nav-cover {
 font-family: "Open Sans","Myriad Pro","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
 font-weight: 700;
 font-size: 11px;
-color: #909090;
+color: #000;
 }
 
 body.nav-closed .nav {
@@ -1021,7 +1021,7 @@ body.nav-opened .menu-button .word {
     bottom: -5px;
     left: 50%;
     margin-left: -5px;
-    background: #FFF;
+    background: #000;
     border-radius: 100%;
     box-shadow: #FFF 0 0 0 5px;
 }
