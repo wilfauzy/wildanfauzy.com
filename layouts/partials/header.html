@@ -16,10 +16,10 @@
     <meta name="p:domain_verify" content="845923c5fea72f40ab7ec6b74215607b"/>
 
     {{if .Params.image }}
-       <meta property="og:image" content="https://blog.wildanfauzy.com{{ .Params.image | relURL}}"/>
+       <meta property="og:image" content="https://wilfauzy.com{{ .Params.image | relURL}}"/>
     {{else}}
         {{if .Site.Params.cover}}
-            <meta property="og:image" content="https://blog.wildanfauzy.com{{ .Site.Params.cover | relURL}}"/>
+            <meta property="og:image" content="https://wilfauzy.com{{ .Site.Params.cover | relURL}}"/>
         {{end}}
     {{end}}
 
@@ -50,7 +50,7 @@
     <link rel="shortcut icon" href="{{ "img/about.png" | relURL}}">
 	  <link rel="apple-touch-icon" href="{{ "img/about.png" | relURL}}" />
 
-    <link rel="stylesheet" type="text/css" href="{{ "css/screen.css" | relURL}}" />
+    <link rel="stylesheet" type="text/css" href="{{ "css/layar.css" | relURL}}" />
     <link rel="stylesheet" type="text/css" href="{{ "css/nav.ori.css" | relURL}}" />
     
     {{ range .Site.Params.customCSS }}
