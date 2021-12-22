@@ -1188,7 +1188,7 @@ body:not(.post-template) .post-title {
     position: relative;
     margin: 6rem 0 0;
     padding: 6rem 0 0;
-    border-top: #EBF2F6 1px solid;
+    border-top: #fff 1px solid;
 }
 
 .post-footer h4 {
@@ -1210,14 +1210,14 @@ body:not(.post-template) .post-title {
     font-size: 1.4rem;
     line-height: 1;
     font-style: italic;
-    color: #9EABB3;
+    color: #fff;
 }
 
 .author-meta a {
-    color: #9EABB3;
+    color: #fff;
 }
 .author-meta a:hover {
-    color: #111;
+    color: #fff;
 }
 
 /* Create some space to the right for the share links */
@@ -1226,7 +1226,7 @@ body:not(.post-template) .post-title {
 }
 
 .post-footer h4 a {
-    color: #2e2e2e;
+    color: #fff;
     text-decoration: none;
 }
 
@@ -1249,12 +1249,12 @@ body:not(.post-template) .post-title {
     font-size: 1.8rem;
     display: inline-block;
     margin: 1rem 1.6rem 1.6rem 0;
-    color: #BBC7CC;
+    color: #fff;
     text-decoration: none;
 }
 
 .post-footer .share a:hover {
-    color: #50585D;
+    color: #fff;
 }
 
 
@@ -1292,7 +1292,7 @@ body:not(.post-template) .post-title {
 
 .author-profile {
     padding: 0 15px 5rem;
-    border-bottom: #EBF2F6 1px solid;
+    border-bottom: #fff 1px solid;
     text-align: center;
 }
 
@@ -1302,14 +1302,14 @@ body:not(.post-template) .post-title {
     content: "";
     width: 7px;
     height: 7px;
-    border: #E7EEF2 1px solid;
+    border: #fff 1px solid;
     position: absolute;
     bottom: -5px;
     left: 50%;
     margin-left: -5px;
-    background: #FFF;
+    background: #000;
     border-radius: 100%;
-    box-shadow: #FFF 0 0 0 5px;
+    box-shadow: #000 0 0 0 5px;
 }
 
 .author-image {
@@ -1326,9 +1326,9 @@ body:not(.post-template) .post-title {
     border-radius: 100%;
     overflow: hidden;
     padding: 6px;
-    background: #fff;
+    background: #000;
     z-index: 2;
-    box-shadow: #E7EEF2 0 0 0 1px;
+    box-shadow: #fff 0 0 0 1px;
 }
 
 .author-image .img {
@@ -1360,7 +1360,7 @@ body:not(.post-template) .post-title {
     font-size: 1.8rem;
     line-height: 1.5em;
     font-weight: 200;
-    color: #50585D;
+    color: #fff;
     letter-spacing: 0;
     text-indent: 0;
 }
@@ -1428,7 +1428,7 @@ body:not(.post-template) .post-title {
 }
 
 .pagination a {
-    color: #9EABB3;
+    color: #fff;
     transition: all 0.2s ease;
 }
 
@@ -1460,13 +1460,13 @@ body:not(.post-template) .post-title {
 
 .older-posts:hover,
 .newer-posts:hover {
-    color: #889093;
-    border-color: #98a0a4;
+    color: #fff;
+    border-color: #333;
 }
 
 .extra-pagination {
     display: none;
-    border-bottom: #EBF2F6 1px solid;
+    border-bottom: #fff 1px solid;
 }
 .extra-pagination:after {
     display: block;
