@@ -625,7 +625,7 @@ body.nav-opened .nav-cover {
     z-index: 5;
     width: 240px;
     opacity: 0;
-    background: #111;
+    background: #000;
     margin-bottom: 0;
     text-align: left;
     overflow-y: auto;
@@ -724,7 +724,7 @@ body.nav-opened .nav {
     text-align: right;
     font-size: 1.2rem;
     vertical-align: bottom;
-    color: #B8B8B8;
+    color: #fff;
     content: counter(item, lower-roman);
     counter-increment: item;
 }
@@ -976,8 +976,8 @@ body.nav-opened .menu-button .word {
 }
 
 .no-cover .main-nav.overlay .menu-button {
-    color: rgba(0,0,0,0.4);
-    border-color: rgba(0,0,0,0.3);
+    color: rgba(255,255,255,255);
+    border-color: rgba(255,255,255,255);
 }
 
 /* Add subtle load-in animation for content on the home page */
