@@ -51,7 +51,7 @@ hr {
    box-sizing: content-box;
    height: 0;
 }
-mark { background: #FF0; color: #ffffff; }
+mark { background: #FF0; color: #000000; }
 code, kbd, pre,
 samp { font-family: monospace, serif; font-size: 1em; }
 pre { white-space: pre-wrap; }
@@ -309,12 +309,12 @@ h6 {
 }
 
 a {
-    color: #000000;
+    color: #ffffff;
     transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #000000;
+    color: #f81ce5;
 }
 
 p, ul, ol, dl {
