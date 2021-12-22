@@ -262,11 +262,11 @@ body {
 }
 
 ::-moz-selection {
-    background: #d600ff;
+    background: #f81ce5;
 }
 
 ::selection {
-    background: #d600ff;
+    background: #f81ce5;
 }
 
 h1, h2, h3,
@@ -309,12 +309,12 @@ h6 {
 }
 
 a {
-    color: #fff;
+    color: #000;
     transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #fff;
+    color: #000;
 }
 
 p, ul, ol, dl {
@@ -374,7 +374,7 @@ blockquote {
     box-sizing: border-box;
     margin: 1.75em 0 1.75em -2.2em;
     padding: 0 0 0 1.75em;
-    border-left: #4A4A4A 0.4em solid;
+    border-left: #fff 0.4em solid;
 }
 
 blockquote p {
@@ -386,7 +386,7 @@ blockquote small {
     display: inline-block;
     margin: 0.8em 0 0.8em 1.5em;
     font-size: 0.9em;
-    color: #CCC;
+    color: #fff;
 }
 
 blockquote small:before { content: "\2014 \00A0"; }
