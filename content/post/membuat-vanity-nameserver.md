@@ -72,3 +72,17 @@ Cara diatas dengan menambahkan private ns dengan ipv4 milik ns he.net seperti in
     ns5.he.net 216.66.80.18
 
 Silakan ganti dengan nameserver dengan domain kalian.
+
+### Mengganti ns di dns manager
+
+Jika sudah membuat private ns dan mengganti nameserver selanjutnya masuk ke dns.he untuk mengganti nameserver dan menambahkan ip di dns manager, seperti ini.
+
+![](/gambar/nameserver-sendiri.png)
+
+Ganti nameserver dengan private ns yang sudah kalian buat, tidak lupa menambahkan ip address ke privete ns, kalian juga bisa menambahkan ipv6.
+
+Jika sudah maka namaserver dengan nama domain kalian bisa digunakan, perlu diingat pengaturan SOA tidak bisa diubah itu milik he.net jika ingin membuat SOA sendiri silakan bikin dns server wkwkwk.
+
+## Vanity Nameserver di Digital Ocean
+
+Caranya hampir sama dengan he.net namun cukup lebih mudah, pertama mengganti nameserver di digital ocean 
