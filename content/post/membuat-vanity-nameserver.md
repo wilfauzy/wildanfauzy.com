@@ -3,7 +3,7 @@ author = "pemuda malkis"
 date = 2021-11-30T13:18:00Z
 draft = true
 image = "/gambar/vanity-nameserver.png"
-tags = ["internet"]
+tags = ["dns", "internet"]
 title = "Membuat Vanity Nameserver "
 
 +++
@@ -86,3 +86,18 @@ Jika sudah maka namaserver dengan nama domain kalian bisa digunakan, perlu diing
 ## Vanity Nameserver di Digital Ocean
 
 Caranya hampir sama dengan he.net namun cukup lebih mudah, pertama mengganti nameserver di digital ocean 
+
+![](/gambar/nameserver-digitalocean.png)
+
+* pertama membuat domain di do, lalu ganti ns dengan private nameserver kalian.
+* kedua menambahkan ip address dari ns digital ocean 
+
+      ns1.digitalocean.com 173.245.58.51  
+      ns2.digitalocean.com 173.245.59.41 
+      ns1.digitalocean.com 198.41.222.173
+
+  terakhir ganti nameserver dengan private ns di register domain, sudah deh.
+
+Untuk lebih lanjut tentang vanity nameserver digitalocean bisa dibaca [disini](https://www.digitalocean.com/community/tutorials/how-to-create-vanity-or-branded-nameservers-with-digitalocean-cloud-servers "vanity namserver do")
+
+Cukup sekian dan terima kasih.
