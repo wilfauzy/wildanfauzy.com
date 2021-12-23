@@ -13,7 +13,7 @@ _Diperbarui pada 21 agustus 2020 pukul 14:33_
 
 ## Siapa kita
 
-Alamat situs web kami adalah: [https://blog.wildanfauzy.com](https://blog.wildanfauzy.com "https://blog.wildanfauzy.com")
+Alamat situs web kami adalah: [https://wilfauzy.com](https://wilfauzy.com "https://wilfauzy.com")
 
 ## Data pribadi apa yang kami kumpulkan dan mengapa kami mengumpulkannya
 
