@@ -1,7 +1,6 @@
 +++
 author = "pemuda malkis"
-date = 2021-11-30T13:18:00Z
-draft = true
+date = 2021-12-23T02:18:00Z
 image = "/gambar/vanity-nameserver.png"
 tags = ["dns", "internet"]
 title = "Membuat Vanity Nameserver "
