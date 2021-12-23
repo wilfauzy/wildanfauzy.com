@@ -36,3 +36,39 @@ dan masih banyak lagi seperti A, AAAA, ALIAS, CNAME, CAA, MX, NS, TXT, SRV, SSHF
 Jika kita mempunyai akun yang sudah terverifikasi di digitalocean, kita mendapatkan layanan dns gratis dari do, secara default kita diberikan dns manager untuk satu domain namun kita bisa meminta untuk tambahan domain secara free.
 
 Kalau di he.net bisa menambahkan sampai 50 domain.
+
+## Cara Membuat Nameserver dengan domain sendiri
+
+Hal pertama jika ingin membuat kustom namesserver pastikan register domain kalian mempunyai fitur private nameserver, jika mempunyai layanan private ns mari kita lanjutkan.
+
+### Mendaftar layanan dns
+
+pertama adalah mendaftar ke layanan he.net disini [https://dns.he.net/](https://dns.he.net/ "https://dns.he.net/") atau jika kamu mempunyai akun digital ocean tinggal membuat domain di dns manager.
+
+### Mengganti ns 
+
+kedua jika berhasil mendaftar mengganti namserver dengan milik he.net seperti ns1.he.net dan seterusnya.
+
+### Validasi ns
+
+Jika sudah mengganti nameserver dengan milik he maka buka dns manager di he.net lakukan validasi agar domain sudah masuk ke layanan dns, tunggu lima menit untuk proses propagansi tapi tergantung bisa cepet bisa lama.
+
+### Membuat private nameserver
+
+disini domain sudah tervalidasi selanjutnya membuat private ns di register domain seperti ini.
+
+![](/gambar/privete-ns.png)
+
+Jika sudah membuat privete ns, selanjutnya ganti nameserver dengan private ns yang tadi dibuat.
+
+![](/gambar/ns.png)
+
+Cara diatas dengan menambahkan private ns dengan ipv4 milik ns he.net seperti ini daftar ip address.
+
+    ns1.he.net 216.218.130.2 
+    ns2.he.net 216.218.131.2
+    ns3.he.net 216.218.132.2
+    ns4.he.net 216.66.1.2
+    ns5.he.net 216.66.80.18
+
+Silakan ganti dengan nameserver dengan domain kalian.
