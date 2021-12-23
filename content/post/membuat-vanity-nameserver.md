@@ -6,7 +6,7 @@ tags = ["dns", "internet"]
 title = "Membuat Vanity Nameserver "
 
 +++
-## Apa itu vanty nameserver?
+## Apa itu vanity nameserver?
 
 Vanity nameserver kalo boleh diartikan ke bahasa indonesia nameserver cantik, menurut istilah menggunakan nama server dengan nama domain kamu sendiri seperti contohnya;
 
