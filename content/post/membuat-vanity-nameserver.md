@@ -44,7 +44,7 @@ Hal pertama jika ingin membuat kustom namesserver pastikan register domain kalia
 
 pertama adalah mendaftar ke layanan he.net disini [https://dns.he.net/](https://dns.he.net/ "https://dns.he.net/") atau jika kamu mempunyai akun digital ocean tinggal membuat domain di dns manager.
 
-### Mengganti ns 
+### Mengganti ns
 
 kedua jika berhasil mendaftar mengganti namserver dengan milik he.net seperti ns1.he.net dan seterusnya.
 
@@ -84,16 +84,16 @@ Jika sudah maka namaserver dengan nama domain kalian bisa digunakan, perlu diing
 
 ## Vanity Nameserver di Digital Ocean
 
-Caranya hampir sama dengan he.net namun cukup lebih mudah, pertama mengganti nameserver di digital ocean 
+Caranya hampir sama dengan he.net namun cukup lebih mudah, pertama mengganti nameserver di digital ocean
 
 ![](/gambar/nameserver-digitalocean.png)
 
 * pertama membuat domain di do, lalu ganti ns dengan private nameserver kalian.
-* kedua menambahkan ip address dari ns digital ocean 
+* kedua menambahkan ip address dari ns digital ocean
 
       ns1.digitalocean.com 173.245.58.51  
       ns2.digitalocean.com 173.245.59.41 
-      ns1.digitalocean.com 198.41.222.173
+      ns3.digitalocean.com 198.41.222.173
 
   terakhir ganti nameserver dengan private ns di register domain, sudah deh.
 
