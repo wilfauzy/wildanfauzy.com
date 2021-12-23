@@ -17,3 +17,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- content/post/membuat-vanity-nameserver.md
