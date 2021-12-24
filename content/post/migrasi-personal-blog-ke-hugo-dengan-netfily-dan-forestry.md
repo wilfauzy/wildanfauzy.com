@@ -32,7 +32,7 @@ Cara pasang di xubuntu atau ubuntu ada dua versi, mau versi lawas atau terbaru, 
 
 Menggunakan snap untuk instalasi hugo versi terbaru atau apt versi lawas, bisa juga pake makefile pake source code hugo tapi males ahh lama wkwkw.
 
-![](https://i2.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/20201105_205718.jpg?resize=768%2C538&#038;ssl=1)
+![](https://wilfauzy.com/wp-content/uploads/2020/11/20201105_205718.jpg?resize=768%2C538&#038;ssl=1)
 
 ## Cara Membuat Blog dengan Hugo
 
@@ -40,7 +40,7 @@ Setelah berhasil memasang hugo di laptop kalian selanjutnya membuat blog dengan 
 
 <pre class="wp-block-code"><code>hugo new site test.example.com</code></pre><figure class="wp-block-image size-large">
  
-![](https://i2.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/20201105_210328.jpg?resize=768%2C813&#038;ssl=1)
+![](https://wilfauzy.com/wp-content/uploads/2020/11/20201105_210328.jpg?resize=768%2C813&#038;ssl=1)
 
 iya udah jadi blog kamu, tapi jangan seneng dulu itu masih kosongan semua, harus diisi semuanya, membuat postingan, halaman, thema, dan widget kesukaan kalian.
 
@@ -59,7 +59,7 @@ Jika kalian sudah membuat blog dan tema serta postingan awal, kalian bisa langsu
 <pre class="wp-block-code"><code>cd (folderwebsite)
 hugo server</code></pre><figure class="wp-block-image size-large">
 
-![](https://i2.wp.com/wildanfauzy.com/wp-content/uploads/2020/11/hugo-server.png?resize=768%2C432&#038;ssl=1)
+![](https://wilfauzy.com/wp-content/uploads/2020/11/hugo-server.png?resize=768%2C432&#038;ssl=1)
 
 Tunggu beberapa detik sampai website kamu siap, lalu kalian bisa cek blog yang sudah dibuat di browser di alamat http://localhost:1313/ jika sudah cocok dengan tampilan dan tidak ada error bisa di push ke repo lalu deploy.
 
