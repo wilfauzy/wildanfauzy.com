@@ -24,7 +24,7 @@ Lalu bagaimana cara memasang fitur tersebut, jika menggunakan panel seperti cpan
 
 Pertama masuk ke ssh vps kalian lalu tambahkan repository litespeed
 
-<pre class="wp-block-code"><code>sudo wget -O - http://rpms.litespeedtech.com/debian/enable_lst_debian_repo.sh | sudo bash</code></pre>
+		sudo wget -O - http://rpms.litespeedtech.com/debian/enable_lst_debian_repo.sh | sudo bash
 
 Seteleh ditambahkan lakukan update
 
@@ -32,32 +32,32 @@ Seteleh ditambahkan lakukan update
 
 Tunggu hingga proses update selesai, tambahkan perintah dibawah untuk melihat paket extensi lsphp yang tersedia.
 
-<pre class="wp-block-code"><code>sudo apt-cache search lsphp</code></pre><figure class="wp-block-image size-large">
+		sudo apt-cache search lsphp
 
-![](https://blog./wildanfauzy.com/wp-content/uploads/2020/10/imagick-litespeed.png?resize=768%2C432&#038;ssl=1)
+![](https://wilfauzy.com/wp-content/uploads/2020/10/imagick-litespeed.png?resize=768%2C432&#038;ssl=1)
 
 ## Install Imagick
 
 Maka akan banyak pilihan extensi lsphp, karena disini akan memasang imagick jadi pilih bagian imagick, install sesuai dengan versi php yang kalian gunakan, disini saya menggunakan php versi 7.4, proses instalasi dengan perintah berikut.
 
-<pre class="wp-block-code"><code>sudo apt install lsphp74-imagick</code></pre>
+		sudo apt install lsphp74-imagick
 
 Jika kalian menggunakan versi php yang berbeda tinggal ganti dengan versi yang kalian gunakan misal mengguanakan versi 7.1, ganti jadi lsphp71-imagick, tungu hingga proses selesai, sudah deh terinstall, agar berjalan perlu merestart php dengan perintah.
 
-<pre class="wp-block-code"><code>sudo touch /usr/local/lsws/admin/tmp/.lsphp_restart.txt
-sudo systemctl restart lsws</code></pre>
+		sudo touch /usr/local/lsws/admin/tmp/.lsphp_restart.txt
+		sudo systemctl restart lsws
 
 ## Install Memcached
 
 Sudah deh, imagick terpasang, jika kalian ingin sekalia mengaktifkan memcached untuk bisa menggunakan fitur object cache di lscache kalian bisa langsung menginstall dengan perintah berikut.
 
-<pre class="wp-block-code"><code>sudo apt install lsphp74-memcached</code></pre>
+		sudo apt install lsphp74-memcached
 
 Memcached adalah sistem cache memori terdistribusi untuk tujuan umum. sering digunakan untuk mempercepat situs web yang didorong database dinamis dengan menyimpan data dan objek dalam RAM untuk mengurangi berapa kali sumber data eksternal (seperti database atau API) harus dibaca. Memcached adalah perangkat lunak gratis dan bersumber terbuka, menurut wikipedia.
 
 Setelah berhasil menginstall memcached, lakuka restart php kembali, setelah itu masuk ke dashboad wordpress lalu mengatur object cache di litespeed cache -> cache -> object, klik on dan pilih memcached.
 
-![](https://blog./wildanfauzy.com/wp-content/uploads/2020/10/memcached.png?resize=768%2C432&#038;ssl=1)
+![](https://wilfauzy.com/wp-content/uploads/2020/10/memcached.png?resize=768%2C432&#038;ssl=1)
 
 ## Debug
 
