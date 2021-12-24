@@ -24,7 +24,7 @@ Lalu bagaimana cara memasang fitur tersebut, jika menggunakan panel seperti cpan
 
 Pertama masuk ke ssh vps kalian lalu tambahkan repository litespeed
 
-		sudo wget -O - http://rpms.litespeedtech.com/debian/enable_lst_debian_repo.sh | sudo bash
+	sudo wget -O - http://rpms.litespeedtech.com/debian/enable_lst_debian_repo.sh | sudo bash
 
 Seteleh ditambahkan lakukan update
 
@@ -32,7 +32,7 @@ Seteleh ditambahkan lakukan update
 
 Tunggu hingga proses update selesai, tambahkan perintah dibawah untuk melihat paket extensi lsphp yang tersedia.
 
-		sudo apt-cache search lsphp
+	sudo apt-cache search lsphp
 
 ![](https://wilfauzy.com/wp-content/uploads/2020/10/imagick-litespeed.png?resize=768%2C432&#038;ssl=1)
 
@@ -40,18 +40,18 @@ Tunggu hingga proses update selesai, tambahkan perintah dibawah untuk melihat pa
 
 Maka akan banyak pilihan extensi lsphp, karena disini akan memasang imagick jadi pilih bagian imagick, install sesuai dengan versi php yang kalian gunakan, disini saya menggunakan php versi 7.4, proses instalasi dengan perintah berikut.
 
-		sudo apt install lsphp74-imagick
+	sudo apt install lsphp74-imagick
 
 Jika kalian menggunakan versi php yang berbeda tinggal ganti dengan versi yang kalian gunakan misal mengguanakan versi 7.1, ganti jadi lsphp71-imagick, tungu hingga proses selesai, sudah deh terinstall, agar berjalan perlu merestart php dengan perintah.
 
-		sudo touch /usr/local/lsws/admin/tmp/.lsphp_restart.txt
-		sudo systemctl restart lsws
+	sudo touch /usr/local/lsws/admin/tmp/.lsphp_restart.txt
+	sudo systemctl restart lsws
 
 ## Install Memcached
 
 Sudah deh, imagick terpasang, jika kalian ingin sekalia mengaktifkan memcached untuk bisa menggunakan fitur object cache di lscache kalian bisa langsung menginstall dengan perintah berikut.
 
-		sudo apt install lsphp74-memcached
+	sudo apt install lsphp74-memcached
 
 Memcached adalah sistem cache memori terdistribusi untuk tujuan umum. sering digunakan untuk mempercepat situs web yang didorong database dinamis dengan menyimpan data dan objek dalam RAM untuk mengurangi berapa kali sumber data eksternal (seperti database atau API) harus dibaca. Memcached adalah perangkat lunak gratis dan bersumber terbuka, menurut wikipedia.
 
