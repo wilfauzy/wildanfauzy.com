@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://wilfauzy.com/sitemap.xml
+Sitemap: https://blog.wilfauzy.com/sitemap.xml
