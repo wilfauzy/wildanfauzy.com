@@ -12,7 +12,7 @@ weight = 10
 
 ![](https://raw.githubusercontent.com/NgopiBrek/WildanFauzy.com/main/ss.PNG)
 
-Wilfauzy Blog adalah media santai dan asik nomor satu di indonesia, membahas hal yang tidak terlalu penting menjadi penting hahahah yang mewadahi tulisan yang mempunyai semangat dan kreativitas, dan hanya untuk sekedar hiburan melewati hiruk pikuk dunia.
+Wildan Fauzy Blog adalah media santai dan asik nomor satu di indonesia, membahas hal yang tidak terlalu penting menjadi penting hahahah yang mewadahi tulisan yang mempunyai semangat dan kreativitas, dan hanya untuk sekedar hiburan melewati hiruk pikuk dunia.
 
 wilfauzy Blog saat ini menerbitkan artikel dan dengan pilihan tema yang beragam. Ada 6 kategori yang terdiri dari **Cerita Pendek (cerpen) Note (catatan) Share (berbagi hal yang cukup menarik) Travel (jalan-jalan) Buku (ulasan buku) dan Linux (membahas segala hal tentang linux)** .
 
