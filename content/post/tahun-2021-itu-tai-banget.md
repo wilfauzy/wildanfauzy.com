@@ -7,3 +7,4 @@ tags = ["note"]
 title = "Tahun 2021 itu Tai Banget"
 
 +++
+Akhirnya sudah dipenghujung tahun, sangat terasa sekali tahun ini, penuh dengan rasa yang membagongkan, jika boleh menghujat, mulut ini akan berkata anjing laut, babi hutan, cacing tanah, kelinci poligami, ahh asudah lah pokoknya campur aduk.
