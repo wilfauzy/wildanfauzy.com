@@ -22,6 +22,10 @@ Lalu siangnya ke warung pinggir jalan perbatasan provinsi karena banyak warung p
 
 Menuju akhir pertengahan lulus sidang dengan lancar, mengurus tetek bengek dan telat mendaftar wisuda, tidak bisa wisuda akhir tahun ini, terpaksa harus tahun depan.
 
+Akhir tahun niatnya pengen ngerampungin buku kumcer tapi tertunda mulu, baru selembar laptop dimatiin lagi, rasanya males aja gitu ngeliat layar laptop jadinya sampai penghujung tahun itu kumcer belum rampung juga.
+
+Buat apa bikin resolusi tahun baru, harapan baru kalo semua itu omong kosong, yang penting jalani nikmati saudara!
+
 Walaupun demikian memang tahun 2021 itu rasanya kaya tai tapi rasanya manis apa itu namanya? iya betul coklat busuk.
 
 Pokoknya tetap hidup walaupun kerjanya cuma nyusahin.
