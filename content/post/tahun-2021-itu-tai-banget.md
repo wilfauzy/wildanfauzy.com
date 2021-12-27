@@ -9,4 +9,4 @@ title = "Tahun 2021 itu Tai Banget"
 +++
 Akhirnya sudah dipenghujung tahun, sangat terasa sekali tahun ini, penuh dengan rasa yang membagongkan, jika boleh menghujat, mulut ini akan berkata anjing laut, babi hutan, cacing tanah, kelinci poligami, ahh asudah lah pokoknya campur aduk.
 
-Tapi itu semua harus dijalanani agar semuanya berjaan bukan? nikmati saja selagi masih bis merasakannya, maka kata-kata hujatan seperti babi hutan, anjing tanah, beruang kutub, saya tarik kembali, buat apa berkata kasar.
+Tapi itu semua harus dijalanani agar semuanya berjalan bukan? nikmati saja selagi masih bis merasakannya, maka kata-kata hujatan seperti babi hutan, anjing tanah, beruang kutub, saya tarik kembali, buat apa berkata kasar.
