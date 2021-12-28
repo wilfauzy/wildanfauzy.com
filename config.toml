@@ -7,7 +7,7 @@ summaryLength = 25
 title = "Wildan Fauzy Blog"
 [[menu.main]]
 name = "Masuk"
-url = "https://wilfauzy.com/admin"
+url = "https://blog.wildanfauzy.com/admin"
 weight = 3
 [[menu.main]]
 name = "Jurnal"
@@ -31,7 +31,7 @@ url = "https:///surat.wildanfauzy.com"
 weight = 8
 [[menu.main]]
 name = "Cari"
-url = "https:///wilfauzy.com/cari"
+url = "https:///blog.wildanfauzy.com/cari"
 weight = 1
 [params]
 RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw"
@@ -58,7 +58,3 @@ post = "/:slug/"
 changefreq = "monthly"
 filename = "sitemap.xml"
 priority = 0.5
-[params.search_config]
-app_id = "VKCMJOJYDJ"
-api_key = "e7afa02fda735899091f8bc6aa6da167"
-index = "blog"
