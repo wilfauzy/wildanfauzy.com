@@ -15,9 +15,7 @@ PT. WILBLOG SENTOSA JAYA JENAKA
 
 ## **ALAMAT**
 
-Jl. Merdeka No.53, Babakan, Kec. Ciwaringin, Cirebon, Jawa Barat 45167
-
-Cirebon , Jawa Barat 45167 Indonesia <a href="https://maps.app.goo.gl/VbBgPihm5USbnTHW8">Peta</a>
+Jl. A.H. Nasution No. 101, Cibiru,, Kabupaten Bandung, Jawa Barat, Indonesia
 
 ## **EMAIL**
 
