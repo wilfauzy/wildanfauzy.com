@@ -45,17 +45,10 @@
 
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <a href="https://twitter.com/wilfauzy" rel="me">twitter.com/wilfauzy</a>
-    <a href="https://github.com/wilfauzy" rel="me">github.com/wilfauzy</a>
-    <a href="mailto:me@wildanfauzy.com" rel="me">me@wildanfauzy.com</a>
-    <a href="/key.txt" rel="pgpkey authn">PGP Key</a>
-    <link rel="webmention" href="https://webmention.io/blog.wildanfauzy.com/webmention" />
-    <link rel="pingback" href="https://webmention.io/blog.wildanfauzy.com/xmlrpc" />
     <link rel="shortcut icon" href="{{ "gambar/logo.png" | relURL}}">
 	<link rel="apple-touch-icon" href="{{ "gambar/logo.png" | relURL}}" />
 	<link rel="stylesheet" type="text/css" href="{{ "css/layar.css" | relURL}}" />
-        <script src="/js/webmention.min.js" data-id="webmention-container" async></script>
-
+        
     {{ range .Site.Params.customCSS }}
     <link rel="stylesheet" href="{{ . | relURL }}">
     {{ end }}
@@ -79,6 +72,13 @@
     {{ if .Site.Params.customHeaderPartial }}
         {{ partial .Site.Params.customHeaderPartial . }}
     {{ end }}
+
+<a href="https://twitter.com/wilfauzy" rel="me"></a>
+    <a href="https://github.com/wilfauzy" rel="me"></a>
+    <a href="mailto:me@wildanfauzy.com" rel="me"></a>
+    <link rel="webmention" href="https://webmention.io/blog.wildanfauzy.com/webmention" />
+    <link rel="pingback" href="https://webmention.io/blog.wildanfauzy.com/xmlrpc" />
+    <script src="/js/webmention.min.js" data-id="webmention-container" async></script>
 
 </head>
 <body class="nav-closed">
