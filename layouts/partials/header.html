@@ -48,7 +48,7 @@
     <link rel="shortcut icon" href="{{ "gambar/logo.png" | relURL}}">
 	<link rel="apple-touch-icon" href="{{ "gambar/logo.png" | relURL}}" />
 	<link rel="stylesheet" type="text/css" href="{{ "css/layar.css" | relURL}}" />
-        <link rel="stylesheet" type="text/css" href="{{ "css/webmention.css" | relURL}}" />
+       
     {{ range .Site.Params.customCSS }}
     <link rel="stylesheet" href="{{ . | relURL }}">
     {{ end }}
@@ -73,12 +73,11 @@
         {{ partial .Site.Params.customHeaderPartial . }}
     {{ end }}
 
-<a href="https://twitter.com/wilfauzy" rel="me"></a>
+    <a href="https://twitter.com/wilfauzy" rel="me"></a>
     <a href="https://github.com/wilfauzy" rel="me"></a>
     <a href="mailto:me@wildanfauzy.com" rel="me"></a>
     <link rel="webmention" href="https://webmention.io/blog.wildanfauzy.com/webmention" />
     <link rel="pingback" href="https://webmention.io/blog.wildanfauzy.com/xmlrpc" />
-    <script src="/js/webmention.min.js" async></script>
 
 </head>
 <body class="nav-closed">
