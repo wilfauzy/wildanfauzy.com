@@ -1,7 +1,6 @@
 +++
 author = "Redaksi"
 date = 2022-01-01T05:00:00Z
-draft = true
 image = "/gambar/pexels-photo-1766604.jpeg"
 tags = ["note"]
 title = "Menulis Itu Melelahkan"
