@@ -1,4 +1,4 @@
-baseurl = "https://blog.wildanfauzy.com"
+baseurl = "https://wildanfauzy.com"
 copyright = " ©"
 disqusshortname = ""
 languagecode = "id-ID"
@@ -7,7 +7,7 @@ summaryLength = 25
 title = "Wildan Fauzy Blog"
 [[menu.main]]
 name = "Masuk"
-url = "https://blog.wildanfauzy.com/admin"
+url = "https://wildanfauzy.com/admin"
 weight = 3
 [[menu.main]]
 name = "Jurnal"
@@ -31,7 +31,7 @@ url = "https:///surat.wildanfauzy.com"
 weight = 8
 [[menu.main]]
 name = "Cari"
-url = "https:///blog.wildanfauzy.com/cari"
+url = "https:///wildanfauzy.com/cari"
 weight = 1
 [params]
 RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw"
