@@ -19,8 +19,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.TOKEN }}
-          external_repository: wilfauzy/wilfauzy.github.io
           publish_dir: ./public
-          user_name: wilfauzy
-          user_email: me@wildanfauzy.com
-          publish_branch: master
