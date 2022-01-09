@@ -31,7 +31,7 @@ url = "https:///surat.wildanfauzy.com"
 weight = 8
 [[menu.main]]
 name = "Cari"
-url = "https:///wildanfauzy.com/cari"
+url = "https:///search.wildanfauzy.com/"
 weight = 1
 [params]
 RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw"
