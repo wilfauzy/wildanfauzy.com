@@ -18,10 +18,10 @@
     <link rel="microsub" href="https://aperture.p3k.io/microsub/719">
 
     {{if .Params.image }}
-       <meta property="og:image" content="https://wilfauzy.com{{ .Params.image | relURL}}"/>
+       <meta property="og:image" content="https://wildanfauzy.com{{ .Params.image | relURL}}"/>
     {{else}}
         {{if .Site.Params.cover}}
-            <meta property="og:image" content="https://wilfauzy.com{{ .Site.Params.cover | relURL}}"/>
+            <meta property="og:image" content="https://wildanfauzy.com{{ .Site.Params.cover | relURL}}"/>
         {{end}}
     {{end}}
 
@@ -50,8 +50,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="shortcut icon" href="{{ "gambar/logo.png" | relURL}}">
 	<link rel="apple-touch-icon" href="{{ "gambar/logo.png" | relURL}}" />
-	<link rel="stylesheet" type="text/css" href="{{ "css/screen.css" | relURL}}" />
-        <link rel="stylesheet" type="text/css" href="{{ "css/nav.css" | relURL}}" />
+	<link rel="stylesheet" type="text/css" href="{{ "css/screen.ori.css" | relURL}}" />
+        <link rel="stylesheet" type="text/css" href="{{ "css/nav.ori.css" | relURL}}" />
        
     {{ range .Site.Params.customCSS }}
     <link rel="stylesheet" href="{{ . | relURL }}">

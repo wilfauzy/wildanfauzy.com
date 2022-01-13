@@ -12,9 +12,9 @@ url: /menggabungkan-quic-cloud-dengan-cloudflare/
 
 Cara termudah jika ada masalah dengan root domain adalah menggunakan www atau subdomain, tentu hal sebut merubah domain alias dari yang sudah terbiasa menggunakan naked domain, cara kedua dengan cname flattening, harus menggunakan layanan dns manager pihak ketiga.
 
-Mengubah nameserver kembali dengan ns milik cloudflare dan akhirnya bisa dengan cname flattening, pada akhirnya tidak bisa benar-benar lepas dengan cloudflare yhahaha.<figure class="wp-block-image size-large">
+Mengubah nameserver kembali dengan ns milik cloudflare dan akhirnya bisa dengan cname flattening, pada akhirnya tidak bisa benar-benar lepas dengan cloudflare yhahaha.
 
-<img src="https://i1.wp.com/wildanfauzy.com/wp-content/uploads/2020/09/cname-flattening-cloudflare.png?resize=768%2C175&#038;ssl=1" alt="" class="wp-image-7937" data-recalc-dims="1" /> </figure> 
+![](/wp-content/uploads/2020/09/cname-flattening-cloudflare.png)
 
 Pertama membuat pengaturan baru di dns manager, mengatur origin ip server, dan menambah cname di root domain dengan cname quic cloud, jika menggunakan domain alias tambahkan juga cname untuk www agar tidak ada masalah dengan origin ip, untuk lebih lanjut bisa membaca <a rel="noreferrer noopener" href="https://docs.litespeedtech.com/products/lscdn/onboarding/#step3-configure-dns-records-and-verify" target="_blank">disini</a>
 
