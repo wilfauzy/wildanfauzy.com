@@ -6,7 +6,7 @@ tags = ["Share"]
 title = "Mitos Baju Terbalik"
 
 +++
-Sebagai manusia medioker pos-moderenis proletar, mempercayai mitos adalah sebuah kemunduran peradaban sebagai manusia seutuhnya, namun itu semua hanya omong kosong belaka.
+Sebagai manusia medioker pos-moderenis proletar, mempercayai mitos adalah sebuah kemunduran peradaban sebagai manusia seutuhnya, namun itu semua hanya omong kosong belaka nyatanya masih .
 
 Pagi itu terbangun rasanya dingin sekali, sebab semalam hujan dan saya tidak memakai baju, seingat ku sebelum tidur belum turun hujan, namun ketika terbangun sudah basah halaman rumah.
 
