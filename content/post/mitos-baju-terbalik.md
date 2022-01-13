@@ -1,6 +1,6 @@
 +++
 author = "WilFauzy"
-date = 2022-01-13T04:25:00Z
+date = 2022-01-13T03:35:00Z
 image = "/gambar/pexels-francesco-paggiaro-2294342.jpg"
 tags = ["Share"]
 title = "Mitos Baju Terbalik"
