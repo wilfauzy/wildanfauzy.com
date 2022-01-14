@@ -2,6 +2,8 @@
 author: Redaksi
 tags:
 - note
+date: 2013-07-25T16:15:00Z
+image: /wp-content/uploads/2013/07/8eff6-dsc04415.jpg
 title: bukber bersama kir
 url: /bukber-bersama-kir/
 ---
