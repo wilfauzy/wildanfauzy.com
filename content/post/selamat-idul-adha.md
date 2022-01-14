@@ -8,6 +8,5 @@ title: Selamat Idul Adha
 url: /selamat-idul-adha/
 ---
   
-  <p>
-    <b>Cuma mau mengucapkan &#8220;Selamat idul adha&#8221; wkwkwk Lagi males posting </b><br /> <b>saya minta maaf sebesar besarnya kepada yang mau di Kurban wkwk , selamat di sembelih</b>
-  </p>
+Cuma mau mengucapkan “Selamat idul adha” wkwkwk Lagi males posting
+saya minta maaf sebesar besarnya kepada yang mau di Kurban wkwk , selamat di sembelih
