@@ -4,7 +4,6 @@
         <span class="hidden">Close</span>
     </a>
     <ul>
-        
         {{ $currentNode := . }}
         {{with .Site.Menus.main}}
         {{ range sort . "Weight" "desc"}}
@@ -15,10 +14,11 @@
         {{end}}
         {{end}}
     </ul>
+
     {{ if .Site.Params.RSSLink}}
-    <a class="subscribe-button icon-feed" href="{{.Site.Params.RSSLink }}">Langganan</a> </div>
+    <a class="subscribe-button icon-feed" href="{{.Site.Params.RSSLink }}">Subscribe</a> </div>
     {{else}}
-    <a class="subscribe-button icon-feed" href="{{if .IsNode}}{{.RSSLink}}{{else}}{{"index.xml" | relURL}}{{end}}">Langganan</a>
+    <a class="subscribe-button icon-feed" href="{{if .IsNode}}{{.RSSLink}}{{else}}{{"index.xml" | relURL}}{{end}}">Subscribe</a>
     {{end}}
 </div>
 <span class="nav-cover"></span>
