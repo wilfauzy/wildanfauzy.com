@@ -29,8 +29,8 @@
 <meta name=viewport content="width=device-width,initial-scale=1">
 <link rel="shortcut icon" href=/gambar/logo.png>
 <link rel=apple-touch-icon href=/gambar/logo.png>
-<link rel=stylesheet type=text/css href=/css/screen.ori.css>
-<link rel=stylesheet type=text/css href=/css/nav.ori.css>
+<link rel=stylesheet type=text/css href=/css/layar.css>
+<link rel=stylesheet type=text/css href=/css/sayap.css>
 <link href=https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw rel=alternate type=application/rss+xml title="Wildan Fauzy Blog">
 <link rel=canonical href=https://wildanfauzy.com/cara-setting-quic-cloud-di-plugin-litespeed-cache/>
 <script type=application/ld+json>{"@context":"https://schema.org","@type":"Article","publisher":{"@type":"Organization","name":null,"logo":"https://wildanfauzy.com/gambar/logo.png"},"author":{"@type":"Person","name":null,"image":{"@type":"ImageObject","url":"https://wildanfauzy.com/gambar/logo.png","width":250,"height":250},"url":"","sameAs":[],"description":"Artikel pilihan dari dapur redaksi"},"headline":"Cara Setting Quic Cloud di Plugin LiteSpeed Cache","name":"Cara Setting Quic Cloud di Plugin LiteSpeed Cache","wordCount":466,"timeRequired":"PT3M","inLanguage":{"@type":"Language","alternateName":"en"},"url":"https://wildanfauzy.com/cara-setting-quic-cloud-di-plugin-litespeed-cache/","datePublished":"2021-02-08T22:30Z","dateModified":"2021-02-08T22:30Z","image":{"@type":"ImageObject","url":"https://wildanfauzy.com/img/quicker.jpg","width":3e3,"height":1445},"keywords":"litespeed, quic cloud","description":"","mainEntityOfPage":{"@type":"WebPage","@id":"https://wildanfauzy.com/cara-setting-quic-cloud-di-plugin-litespeed-cache/"}}</script>
@@ -108,27 +108,27 @@ Feb 8, 2021
 <section class=post-content>
 <p>Banyak pertanyaan bagaimana cara verifikasi dns quic cloud yang selalu gagal dengan plugin litespeed cache, sebelumnya untuk menggunakan quic cloud pastikan hosting yang kalian gunakan sudah menggunakan litespeed web server.</p>
 <h2 id=install-plugin-litespeed-cache>Install Plugin LiteSpeed Cache</h2>
-<p><img src=https://wilfauzy.com/img/litespeed.png alt>Pertama harus menginstall dan mengaktifkan plugin litespeed cache di wordpress kalian untuk menggunakan cdn gratis dari quic cloud, selanjutnya setelah berhasil memasang plugin tersebut adalah.</p>
+<p><img src=https://wildanfauzy.com/img/litespeed.png alt>Pertama harus menginstall dan mengaktifkan plugin litespeed cache di wordpress kalian untuk menggunakan cdn gratis dari quic cloud, selanjutnya setelah berhasil memasang plugin tersebut adalah.</p>
 <h2 id=request-domain-key>Request Domain Key</h2>
-<p><img src=https://wilfauzy.com/img/domain-key.png alt>Setelah terpasang plugin litespeed cache, lakukan request domain key, caranya klik tab pengaturan plugin pilih general lalu klik request domain key agar bisa menikmati semua fitur yang tersedia seperti cdn, image optimisasi critical css dan masih banyak lagi, tunggu beberapa menit sampai mendapatkan domain key.</p>
+<p><img src=https://wildanfauzy.com/img/domain-key.png alt>Setelah terpasang plugin litespeed cache, lakukan request domain key, caranya klik tab pengaturan plugin pilih general lalu klik request domain key agar bisa menikmati semua fitur yang tersedia seperti cdn, image optimisasi critical css dan masih banyak lagi, tunggu beberapa menit sampai mendapatkan domain key.</p>
 <p>Setelah berhasil mendapatkan domain key, selanjutnya klik link to quic.cloud akun, jika belum punya akun maka nanti akan diarahkan ke halaman pendaftaran, setelah berhasil menghubungkan ke akun quic cloud selanjutnya adalah.</p>
 <h2 id=enable-quic-cloud-cdn>Enable Quic Cloud CDN</h2>
-<p><img src=https://wildfauzy.com/img/enable-cdn.png alt>Langkah selanjutnya setelah berhasil mendapatkan domain key dan berhasil menghubungkan dengan akun quic cloud, kembali ke dashboard wordpress kalian, buka plugin litespeed lalu buka pengaturan cdn, selanjutnya klik &ldquo;ON&rdquo; pada pilihan quic cloud cdn jika sudah simpan pengaturan, selanjutnya adalah.</p>
+<p><img src=https://wildanfauzy.com/img/enable-cdn.png alt>Langkah selanjutnya setelah berhasil mendapatkan domain key dan berhasil menghubungkan dengan akun quic cloud, kembali ke dashboard wordpress kalian, buka plugin litespeed lalu buka pengaturan cdn, selanjutnya klik &ldquo;ON&rdquo; pada pilihan quic cloud cdn jika sudah simpan pengaturan, selanjutnya adalah.</p>
 <h2 id=aktifkan-quic-cloud>Aktifkan Quic Cloud</h2>
-<p><img src=https://wilfauzy.com/img/quic-cloud-enable.png alt></p>
+<p><img src=https://wildanfauzy.com/img/quic-cloud-enable.png alt></p>
 <p>Oke selanjutnya kembali ke akun quic cloud lalu klik tab cdn, dan untuk mengaktifkan quic cloud cdn klik tombol &ldquo;enable CDN&rdquo; seperti gambar diatas.</p>
 <p>Setelah berhasil meng-enable cdn maka selanjutnya adalah.</p>
 <h2 id=mengatur-cname-quic-cloud>Mengatur CNAME Quic Cloud</h2>
-<p><img src=https://wilfauzy.com/img/cname-quic-cloud.png alt>Pada tahap ini banyak yang gagal melakukan verifikasi dns, hal yang pertama harus dilakukan adalah mengubah alamat ip domain kamu dengan cname yang telah diberikan oleh quic cloud untuk melakukan verifikasi dns.</p>
+<p><img src=https://wildanfauzy.com/img/cname-quic-cloud.png alt>Pada tahap ini banyak yang gagal melakukan verifikasi dns, hal yang pertama harus dilakukan adalah mengubah alamat ip domain kamu dengan cname yang telah diberikan oleh quic cloud untuk melakukan verifikasi dns.</p>
 <p>Pertama catat cname yang diberikan quic cloud, lalu masuk ke manajer dns kalian, disini saya menggunakan layanan dns dari cloudflare.</p>
-<p><img src=https://wilfauzy.com/img/setting-dns.png alt>Tambahkan setting dns cname masukan nama domain seperti <a href=http://www.domainkamu.com>www.domainkamu.com</a> lalu isi target dengan cname yang telah diberikan oleh quic cloud, jika menggunakan cloudflare jangan centang icon awan orange. lalu klik save.</p>
+<p><img src=https://wildanfauzy.com/img/setting-dns.png alt>Tambahkan setting dns cname masukan nama domain seperti <a href=http://www.domainkamu.com>www.domainkamu.com</a> lalu isi target dengan cname yang telah diberikan oleh quic cloud, jika menggunakan cloudflare jangan centang icon awan orange. lalu klik save.</p>
 <p>Jika menggunakan dns management hosting konvensional, masuk ke client area pilih domain yang kalian gunakan, lalu klik dns management selanjutnya tambahkan cname.</p>
 <p><img src=https://wilfauzy.com/img/dns-manager.png alt>Seperti gambar diatas, klik save, perlu diingat bahwa pengaturan cname tidak bisa diimplementasikan di apex domain atau root domain seperti domainkamu.com, jika ingin menggunakan apex domain dns management yang sudah memiliki fitur aname atau cname flattening di cloudflare.</p>
 <p>Alternatifnya jika ingin menggunakan domain utama setting dengan menggunakan www, jika sudah mengganti ip domain kalian dengan cname dari quic cloud adalah.</p>
 <h2 id=verifikasi-dns>Verifikasi DNS</h2>
-<p><img src=https://wilfauzy.com/img/verifikasi-cname.png alt>Setelah berhasil mengganti ip domain dengan cname quic cloud lakukan verifikasi, jika cname sudah benar di pengaturan dns maka proses verifikasi dns membutuhkan waktu sekitar dua menit, jika kalian punya sertifikat ssl, tambahkan ssl milik kamu agar proses lebih cepat.</p>
+<p><img src=https://wildanfauzy.com/img/verifikasi-cname.png alt>Setelah berhasil mengganti ip domain dengan cname quic cloud lakukan verifikasi, jika cname sudah benar di pengaturan dns maka proses verifikasi dns membutuhkan waktu sekitar dua menit, jika kalian punya sertifikat ssl, tambahkan ssl milik kamu agar proses lebih cepat.</p>
 <p>Namun jika tidak punya maka quic cloud akan meng-generate ssl baru yang memakan waktu kurang lebih sepuluh menit, tunggu dengan sabar, berhasil deh.</p>
-<p><img src=https://wilfauzy.com/img/sukes-cname.png alt>Mungkin cukup sekian, jika ada hal yang bikin bingung bisa berdiskusi di kolom komentar terima kasih.</p>
+<p><img src=https://wildanfauzy.com/img/sukes-cname.png alt>Mungkin cukup sekian, jika ada hal yang bikin bingung bisa berdiskusi di kolom komentar terima kasih.</p>
 <nav id=TableOfContents>
 <ul>
 <li><a href=#install-plugin-litespeed-cache>Install Plugin LiteSpeed Cache</a></li>
@@ -163,9 +163,7 @@ Feb 8, 2021
 <span class=hidden>Pinterest</span>
 </a>
 </section>
-<div id=disqus_thread></div>
-<script>var disqus_config=function(){this.page.url="https://wildanfauzy.com/cara-setting-quic-cloud-di-plugin-litespeed-cache/",this.page.identifier="https://wildanfauzy.com/cara-setting-quic-cloud-di-plugin-litespeed-cache/"};(function(){var a=document,b=a.createElement('script');b.src='https://wildanfauzy.disqus.com/embed.js',b.setAttribute('data-timestamp',+new Date),(a.head||a.body).appendChild(b)})()</script>
-<noscript>Please enable JavaScript to view the <a href=https://disqus.com/?ref_noscript>comments powered by Disqus.</a></noscript>
+<script src=https://giscus.app/client.js data-repo=wilfauzy/wildanfauzy.com data-repo-id="MDEwOlJlcG9zaXRvcnkzMjk0MTk0MTA=" data-category-id=DIC_kwDOE6KKks4CAb90 data-mapping=pathname data-reactions-enabled=1 data-emit-metadata=0 data-input-position=bottom data-theme=https://wildanfauzy.com/css/komen.css data-lang=id crossorigin=anonymous async></script>
 </footer>
 </article>
 </main>
@@ -183,7 +181,7 @@ Feb 8, 2021
 </aside>
 <footer class="site-footer clearfix">
 <section class=copyright><a href=https://wildanfauzy.com>Wildan Fauzy Blog</a> © Hak Cipta Sebagian</section>
-<section class=poweredby>Dibuat dengan <a href=http://gohugo.io>Hugo</a>, Dihosting oleh <a href=https://pages.github.com>Github</a></section>
+<section class=poweredby>Dibuat dengan <a href=http://gohugo.io>Hugo</a>, Dihosting oleh <a href=https://github.com/wilfauzy>GitHub</a></section>
 </footer>
 </div>
 <script type=text/javascript src=/js/jquery.js></script>
