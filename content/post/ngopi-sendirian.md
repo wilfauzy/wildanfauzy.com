@@ -1,7 +1,7 @@
 +++
 author = "WilFauzy"
 date = 2022-01-04T09:00:00Z
-image = "/gambar/pexels-photo-4066041.jpeg"
+image = "/gambar/ngopi-sendirian.jpg"
 tags = ["note"]
 title = "Ngopi Sendirian"
 
