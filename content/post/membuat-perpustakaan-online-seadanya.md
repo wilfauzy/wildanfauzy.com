@@ -44,7 +44,7 @@ Menggunakan script dari ivanweiler yaitu _indian bisa di download <a rel="norefe
 
 Hasilnya kaya gini 
 
-![](https://wilfauzy.com/wp-content/uploads/2020/09/20200923_203403.jpg?resize=768%2C577&#038;ssl=1)
+![](https://wildanfauzy.com/wp-content/uploads/2020/09/20200923_203403.jpg?resize=768%2C577&#038;ssl=1)
 
 Iya cuma gitu doang kumpulan folder sama file, enggak ada judul, cuma index of. bisa langsung dicek di <https://perpus.wildanfauzy.com> simple bisa langsung dibaca lewat pdf viewer online kalo lewat desktop.
 
