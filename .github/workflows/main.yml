@@ -1,5 +1,5 @@
 name: Telor Kucing
-on: pull
+on: push
 jobs:
   deploy:
     runs-on: ubuntu-20.04
