@@ -8,9 +8,9 @@ title = "Pindah Domain ke Cloudflare Registrar"
 +++
 Sudah awal tahun saatnya renewal domain, sebenarnya aktif domain berakhir pada bulan april, namun saya lakukan lebih awal, pemberitahuan auto-renewal biasanya sebelum domain memasuki masa experied.
 
-Satu alasan memperpanjang domain lebih awal karena ingin memindahkan domain ke cloudflare registrar, proses tranfer domain dari registrar lama ke cloudflare registrar memakan lima hari.
+Satu alasan memperpanjang domain lebih awal karena ingin memindahkan domain ke cloudflare registrar, proses transfer domain dari registrar lama ke cloudflare registrar memakan lima hari.
 
-Proses tranfer domain berjalan dengan lancar, sepertinya tidak ada yang istimewa mentranfer domain ke cloudflare registrar, malah ada beberapa fitur yang hilang seperti private nameserver.
+Proses transfer domain berjalan dengan lancar, sepertinya tidak ada yang istimewa mentranfer domain ke cloudflare registrar, malah ada beberapa fitur yang hilang seperti private nameserver.
 
 Sebab jika domain sudah berhasil ditranfer ke cloudflare register tidak bisa lagi mengganti nameserver perlu dicatat kalau ingin memindahkan domain kesini.
 
