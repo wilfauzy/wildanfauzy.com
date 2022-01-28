@@ -25,3 +25,5 @@ Sehabis makan, balik ke rumah melewati jembahan tol saya teringat untuk ngopi se
 Habis dua batang sambil menulis postingan ini rasanya kurang cocok ngopi sendirian karena di samping saya ada sepasang remaja sma yang sedang asik bermesraan diatas jok motor dan suara kendaraan dari jalan tol yang berisik wasweswus.
 
 Setelah habiskan kopi lebih baik pulang ke rumah dan lanjut ngopi bersama mangaep, memang ngopi sendirian itu tidak begitu mengasikan apalagi dikerumuni remaja yang sedang pacaran, kaburrr.
+
+![](/gambar/hola.jpg)
