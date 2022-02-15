@@ -3,7 +3,7 @@ author = "pemuda malkis"
 date = 2022-01-27T20:21:00Z
 image = "/gambar/apa-itu-domain-cloudflare.png"
 tags = ["internet"]
-title = "Pindah Domain ke Cloudflare Registrar"
+title = "Cara Transfer ke Cloudflare Registrar"
 
 +++
 Sudah awal tahun saatnya renewal domain, sebenarnya aktif domain berakhir pada bulan april, namun saya lakukan lebih awal, pemberitahuan auto-renewal biasanya sebelum domain memasuki masa experied.
