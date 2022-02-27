@@ -1,6 +1,7 @@
 +++
 author = "pemuda malkis"
 date = 2022-01-27T20:21:00Z
+draft = true
 image = "/gambar/apa-itu-domain-cloudflare.png"
 tags = ["internet"]
 title = "Cara Transfer ke Cloudflare Registrar"
