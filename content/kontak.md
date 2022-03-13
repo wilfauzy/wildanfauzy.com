@@ -15,7 +15,7 @@ PT. WILBLOG SENTOSA JAYA JENAKA
 
 ## **ALAMAT**
 
-Jl. A.H. Nasution No. 101, Cibiru,, Kabupaten Bandung, Jawa Barat, Indonesia
+Jl. A.H. Nasution No. 101, Cibiru, Kota Bandung, Jawa Barat, Indonesia
 
 ## **EMAIL**
 
