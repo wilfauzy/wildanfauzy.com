@@ -1,6 +1,7 @@
 +++
 author = "pemuda malkis"
 date = 2022-05-04T04:15:00Z
+draft = true
 image = "/gambar/learn-android-development.jpg"
 tags = ["share"]
 title = "Paket Ngoprek dengan Hp Poco X3 Root"
