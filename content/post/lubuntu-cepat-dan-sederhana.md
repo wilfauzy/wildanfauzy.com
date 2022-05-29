@@ -26,9 +26,9 @@ Proses Instalasi sama seperti biasanya, karena lubuntu sudah menggunakan install
 
 Kesan awal menggunakan lubuntu adalah cepat dan minimalis, yah tidak seperti distro turunan ubuntu lainnya, waktu booting lubuntu sangat cepat dibawah satu menit, walaupun disini saya masih menggunakan HDD bukan SSD tapi rasanya booting cepet banget apa perasaan saya saja 😀
 
-## Aplikasi Lubuntu<figure class="wp-block-image size-large">
+## Aplikasi Lubuntu
 
-<img loading="lazy" width="768" height="432" src="https://i1.wp.com/wildanfauzy.com/wp-content/uploads/2020/10/aplikasi-lubuntu.jpg?resize=768%2C432&#038;ssl=1" alt="" class="wp-image-8360" data-recalc-dims="1" /> </figure> 
+![](https://wildanfauzy.com/wp-content/uploads/2020/10/aplikasi-lubuntu.jpg)
 
 Toko aplikasi di lubuntu bernama Discover, satu hal yang menjadi pembeda dengan turunan disto ubuntu lainnya, banyak aplikasi yang berbasis KDE dan Qt bukan gnome ini yang menjadi pembeda dengan saudaranya.
 
@@ -58,9 +58,9 @@ Toko aplikasi di lubuntu bernama Discover, satu hal yang menjadi pembeda dengan 
   * Trojita &#8211; klien email
   * VLC &#8211; pemutar media
 
-## Tampilan Sederhana Nan Mempesona<figure class="wp-block-image size-large">
+## Tampilan Sederhana Nan Mempesona
 
-<img loading="lazy" width="768" height="432" src="https://i2.wp.com/wildanfauzy.com/wp-content/uploads/2020/10/tampilan-lubuntu.jpg?resize=768%2C432&#038;ssl=1" alt="" class="wp-image-8359" data-recalc-dims="1" /> </figure> 
+![](https://wildanfauzy.com/wp-content/uploads/2020/10/tampilan-lubuntu.jpg)
 
 Pada awalnya lubuntu dirancang untuk laptop jadul tapi semenjak negara api menyerang lubuntu 20.04 hanya tersedia versi 64 bit, walaupun demikian tampilan lubuntu sederhana dan menawan tema bawaan arc dan ikon papirus, bikin saya males untuk ngoprek masalah penampilan.
 
