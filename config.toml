@@ -6,7 +6,7 @@ paginate = 8
 summaryLength = 25
 title = "Wildan Fauzy Blog"
 [[menu.main]]
-name = "Masuk"
+name = "Admin"
 url = "https://wildanfauzy.com/admin"
 weight = 3
 [[menu.main]]
