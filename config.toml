@@ -7,7 +7,7 @@ summaryLength = 25
 title = "Wildan Fauzy Blog"
 [[menu.main]]
 name = "Masuk"
-url = "https://app.wildanfauzy.com"
+url = "https://wildanfauzy.com/admin"
 weight = 3
 [[menu.main]]
 name = "Jurnal"
