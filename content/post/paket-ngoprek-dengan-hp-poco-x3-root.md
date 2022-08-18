@@ -1,6 +1,6 @@
 +++
 author = "pemuda malkis"
-date = 2022-05-04T04:15:00Z
+date = 2021-05-04T04:15:00Z
 draft = true
 image = "/gambar/learn-android-development.jpg"
 tags = ["share"]
