@@ -13,7 +13,7 @@ _Diperbarui pada 21 agustus 2020 pukul 14:33_
 
 ## Siapa kita
 
-Alamat situs web kami adalah: [https://wilfauzy.com](https://wilfauzy.com "https://wilfauzy.com")
+Alamat situs web kami adalah: [https://wildanfauzy.com](https://wildanfauzy.com "https://wildanfauzy.com")
 
 ## Data pribadi apa yang kami kumpulkan dan mengapa kami mengumpulkannya
 
@@ -23,7 +23,7 @@ Saat pengunjung meninggalkan komentar di situs, kami mengumpulkan data yang dita
 
 String anonim yang dibuat dari alamat email Anda (juga disebut hash) dapat diberikan ke layanan Disqus untuk melihat apakah Anda menggunakannya. Kebijakan privasi layanan Disqus tersedia di sini: [https://help.disqus.com/en/articles/1717103-disqus-privacy-policy.](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy. "https://help.disqus.com/en/articles/1717103-disqus-privacy-policy.") Setelah persetujuan atas komentar Anda, gambar profil Anda dapat dilihat oleh publik dalam konteks komentar Anda.
 
-Komentar pihak ketiga menggunakan disqus 
+Komentar pihak ketiga menggunakan disqus
 
 ### Media
 
@@ -39,7 +39,7 @@ Saat Anda masuk, kami juga akan menyiapkan beberapa cookie untuk menyimpan infor
 
 Jika Anda mengedit atau menerbitkan artikel, cookie tambahan akan disimpan di browser Anda. Cookie ini tidak menyertakan data pribadi dan hanya menunjukkan ID posting dari artikel yang baru saja Anda edit. Kedaluwarsa setelah 1 hari.
 
-cookies security dan performa cfduid_ dari cloudflare dan web analytics 
+cookies security dan performa cfduid_ dari cloudflare dan web analytics
 
 ### Konten yang disematkan dari situs web lain
 
