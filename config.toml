@@ -26,13 +26,13 @@ name = "Perpus"
 url = "https:///perpus.wildanfauzy.com"
 weight = 7
 [[menu.main]]
-name = "Surat"
-url = "https:///surat.wildanfauzy.com"
-weight = 8
-[[menu.main]]
 name = "Cari"
 url = "https:///search.wildanfauzy.com/"
 weight = 1
+[[menu.main]]
+name = "Terminal"
+url = "https:///terminal.wildanfauzy.com/"
+weight = 8
 [params]
 RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw"
 author = "wilfauzy"
