@@ -22,6 +22,10 @@ Perjalanan terjaga di malam hari memberikan pengetahuan baru ada dua jenis tikus
 
 Jenis kedua tikus yang kecil cenderung menyebalkan karena bersembunyi di lemari piring atau lemari buku, bersembunyi tidak ada suara namun sesekali berisik.
 
+![](/gambar/20221112_014602.jpg)
+
 Hal yang membuat murka ketika mereka berak sembarangan, tainya seperti coklat ceres hitam kecil-kecil namun baunya bukan main.
+
+![](/gambar/20221112_014605.jpg)
 
 Setidaknya begadang selalu ada yang menemani beberapa ekor tikus yang kelaparan, tapi mereka goblok sudah tau tidak ada makanan tapi masih betah di rumah ini.
