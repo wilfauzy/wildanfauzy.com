@@ -33,6 +33,10 @@ weight = 1
 name = "Terminal"
 url = "https:///terminal.wildanfauzy.com/"
 weight = 8
+[menu.main]
+name = "About me"
+url = "https:///me.wildanfauzy.com/"
+weight = 10
 [params]
 RSSLink = "https://news.google.com/publications/CAAqBwgKMKm2lQswupqrAw"
 author = "wilfauzy"
