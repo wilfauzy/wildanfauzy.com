@@ -5,8 +5,6 @@ noauthor = true
 share = false
 title = "Tentang"
 type = "page"
-[menu.main]
-weight = 10
 
 +++
 
