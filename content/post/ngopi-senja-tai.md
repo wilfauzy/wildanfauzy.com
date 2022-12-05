@@ -5,6 +5,7 @@ tags:
 date: 2019-07-10T18:15:30Z
 image: /wp-content/uploads/2020/06/pexels-photo-272887.jpeg
 url: /ngopi-senja-tai/
+title: "Ngopi Senja Tai"
 ---
 
 Mengapa aktifitas ngopi selalu dikaitkan dengan oleh sebagian orang, saya tidak tahu betul apa yang sebenarnya terjadi akhir-akhir ini, kalo mau ngopi ya ngopi aja enggak usah nungguin senja entar keburu magrib disuruh pulang sama mamah hehh.<figure class="wp-block-image size-large">
