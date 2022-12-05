@@ -37,11 +37,11 @@ Vala panel atau vala appmenu, berguna untuk menampilkan menu aplikasi di panel x
 
 Setelah memasang vala panel, selanjutnya tinggal menerepkan di panel xfce dengan menambahkan global appmenu tersebut di pengaturan panel.
 
-![](https://blog.wildanfauzy.com/wp-content/uploads/2020/06/vala-panel.png?resize=768%2C432&ssl=1)
+![](https://wildanfauzy.com/wp-content/uploads/2020/06/vala-panel.png?resize=768%2C432&ssl=1)
 
 Setelah selesai menambah item appmenu plugin pada panel xfce, selanjutnya menerapkan tema dan icon yang sudah dipasang, masuk di pengaturan xfce dan memilih appearance dan pilih dark-olympic, serta pada bagian icon pilih mojave circle.
 
-![](https://blog.wildanfauzy.com/wp-content/uploads/2020/06/apperance-xfce.png?resize=768%2C432&ssl=1)
+![](https://wildanfauzy.com/wp-content/uploads/2020/06/apperance-xfce.png?resize=768%2C432&ssl=1)
 
 Setelah menerapkan tema dan icon, jangan lupa untuk mengganti window ke tema yang sudah dipilih, kembali ke setting manager dan klik window manager pilih dark-olympic, selamat tampilan xubuntu kalian sudah lebih cantik dan mempesona, jika kalian ingin menambahkan dock bisa diinstal lewat terminal atau aplikasi toko aplikasi xubuntu, install plank dock dengan perintah.
 
@@ -49,6 +49,6 @@ Setelah menerapkan tema dan icon, jangan lupa untuk mengganti window ke tema yan
 
 Untuk menampilkan plank pada awal booting atau starup, kalian cukup menambahkan aplikasi plank pada session and startup di setting manager, lalu pilih application autostart agar plank muncul ketika pertama kali menyalakan xubuntu, pilih add dan isi semua kolom dengan perintah plank, seperti gambar dibawah ini.
 
-![](https://blog.wildanfauzy.com/wp-content/uploads/2020/06/plank-dock.png?resize=768%2C432&ssl=1)
+![](https://wildanfauzy.com/wp-content/uploads/2020/06/plank-dock.png?resize=768%2C432&ssl=1)
 
 Jika sudah semua, agar semua fungsi aplikasi serta tema dan icon berjalan dengan sempurna, kalian tinggal log out atau restart, dan selamat menikmati tampilan xubuntu yang cantik dan menggoda hehehe, wallpaper yang saya pakai adalah wallpaper bawaan dari elemntary os, mungkin cukup sekian, jika ada pertanyaan jangan sungkan untuk bertanya di kolom komentar.
