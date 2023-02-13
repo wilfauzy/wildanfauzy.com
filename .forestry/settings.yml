@@ -14,11 +14,11 @@ sections:
   label: Post
   create: documents
   match: "**/*"
-upload_dir: static/gambar
+upload_dir: static/images
 public_path: "/gambar"
 front_matter_path: ''
 use_front_matter_path: 
-file_template: ":filename:"
+file_template: ":filename/:filename:"
 build:
   preview_env:
   - HUGO_ENV=staging
