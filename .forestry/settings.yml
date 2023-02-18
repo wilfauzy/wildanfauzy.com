@@ -14,8 +14,8 @@ sections:
   label: Post
   create: documents
   match: "**/*"
-upload_dir: static/img
-public_path: "/img"
+upload_dir: static/gambar
+public_path: "/gambar"
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename/:filename:"
