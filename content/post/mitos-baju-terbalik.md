@@ -1,11 +1,21 @@
 +++
-author = "WilFauzy"
-date = 2022-01-13T03:35:00Z
-image = "/gambar/pexels-francesco-paggiaro-2294342.jpg"
-tags = ["Share"]
-title = "Mitos Baju Terbalik"
+_template = "post"
++++
+
+
+---
+_template: post
+---
 
 +++
+author = "WilFauzy"
+date = 2022-01-13T03:35:00.000Z
+image = "/gambar/pexels-francesco-paggiaro-2294342.jpg"
+tags = [ "Share" ]
+title = "Mitos Baju Terbalik"
+_template = "post"
++++
+
 Sebagai manusia medioker posmoderenis proletar, mempercayai mitos adalah sebuah kemunduran peradaban sebagai manusia seutuhnya, namun itu semua hanya omong kosong belaka nyatanya masih percaya dengan hal berbau mitos.
 
 Pagi itu terbangun rasanya dingin sekali, sebab semalam hujan dan saya tidak memakai baju, seingat ku sebelum tidur belum turun hujan, namun ketika terbangun sudah basah halaman rumah.

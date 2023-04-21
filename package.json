@@ -1,0 +1,21 @@
+{
+  "name": "wilfauzy.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tinacms dev -c \"hugo server -D\"",
+    "build": "tinacms build && hugo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilfauzy/wilfauzy.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilfauzy/wilfauzy.github.io/issues"
+  },
+  "homepage": "https://github.com/wilfauzy/wilfauzy.github.io#readme"
+}

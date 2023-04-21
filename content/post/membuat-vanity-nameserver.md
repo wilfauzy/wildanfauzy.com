@@ -1,11 +1,21 @@
 +++
-author = "pemuda malkis"
-date = 2021-12-23T02:18:00Z
-image = "/gambar/vanity-nameserver.png"
-tags = ["dns", "internet"]
-title = "Membuat Vanity Nameserver "
+_template = "post"
++++
+
+
+---
+_template: post
+---
 
 +++
+author = "pemuda malkis"
+date = 2021-12-23T02:18:00.000Z
+image = "/gambar/vanity-nameserver.png"
+tags = [ "dns", "internet" ]
+title = "Membuat Vanity Nameserver "
+_template = "post"
++++
+
 ## Apa itu vanity nameserver?
 
 Vanity nameserver kalo boleh diartikan ke bahasa indonesia nameserver cantik, menurut istilah menggunakan nama server dengan nama domain kamu sendiri seperti contohnya;

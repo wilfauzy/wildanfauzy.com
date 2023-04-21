@@ -1,11 +1,21 @@
 +++
-author = "WilFauzy"
-date = 2022-01-04T09:00:00Z
-image = "/gambar/ngopi-sendirian.jpg"
-tags = ["note"]
-title = "Ngopi Sendirian"
+_template = "post"
++++
+
+
+---
+_template: post
+---
 
 +++
+author = "WilFauzy"
+date = 2022-01-04T09:00:00.000Z
+image = "/gambar/ngopi-sendirian.jpg"
+tags = [ "note" ]
+title = "Ngopi Sendirian"
+_template = "post"
++++
+
 Semalaman terjaga baru bisa tidur ketika mulai terang, mematikan lampu ruang tengah, lampu depan dan lampu kamar, menonaktifkan telepon genggam dan menarik selimut saatnya tidur.
 
 Singkat cerita tidurpun usai, melihat jam sudah pukul setengah dua siang, tapi untungnya kepala ini tidak nyut-nyutan karena biasanya tidur lebih dari sembilan jam bikin kepala sedikit pusing.

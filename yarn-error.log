@@ -1,0 +1,45 @@
+Arguments: 
+  /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/home/.npm/_npx/b34d1f235ac7f645/node_modules/.bin/yarn add tinacms @tinacms/cli
+
+PATH: 
+  /data/data/com.termux/files/home/.npm/_npx/b34d1f235ac7f645/node_modules/.bin:/storage/emulated/0/Documents/wilfauzy.github.io/node_modules/.bin:/storage/emulated/0/Documents/node_modules/.bin:/storage/emulated/0/node_modules/.bin:/storage/emulated/node_modules/.bin:/storage/node_modules/.bin:/node_modules/.bin:/data/data/com.termux/files/usr/lib/node_modules/npm/node_modules/@npmcli/run-script/lib/node-gyp-bin:/data/data/com.termux/files/usr/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.14.1
+
+Platform: 
+  android arm64
+
+Trace: 
+  Error: EPERM: operation not permitted, symlink '../../../../@babel/parser/bin/babel-parser.js' -> '/storage/emulated/0/Documents/wilfauzy.github.io/node_modules/@ardatan/relay-compiler/node_modules/.bin/parser'
+
+npm manifest: 
+  {
+    "name": "wilfauzy.github.io",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/wilfauzy/wilfauzy.github.io.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/wilfauzy/wilfauzy.github.io/issues"
+    },
+    "homepage": "https://github.com/wilfauzy/wilfauzy.github.io#readme"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

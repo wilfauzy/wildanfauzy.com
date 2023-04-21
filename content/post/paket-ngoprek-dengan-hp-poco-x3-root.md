@@ -1,12 +1,22 @@
 +++
-author = "pemuda malkis"
-date = 2021-05-04T04:15:00Z
-draft = true
-image = "/gambar/learn-android-development.jpg"
-tags = ["share"]
-title = "Paket Ngoprek dengan Hp Poco X3 Root"
+_template = "post"
++++
+
+
+---
+_template: post
+---
 
 +++
+author = "pemuda malkis"
+date = 2021-05-04T04:15:00.000Z
+draft = true
+image = "/gambar/learn-android-development.jpg"
+tags = [ "share" ]
+title = "Paket Ngoprek dengan Hp Poco X3 Root"
+_template = "post"
++++
+
 Hal pertama yang harus dilakukan adalah unlocl bootloader hp poco x3, ini adalah gerbang menuju dunia tanpa batasan di hp besutan xiaomi hehe. 
 
 Sudah hampir satu tahun pertama kali sukses membuka bootloader si hp poco x3 nfc, setengah tahun pemakaian baru tau, soalnya iklan di hp kelas murah xiaomi ini sangat mengganggu. 

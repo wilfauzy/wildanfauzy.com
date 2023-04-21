@@ -1,11 +1,21 @@
 +++
-author = "Redaksi"
-date = 2022-01-01T05:00:00Z
-image = "/gambar/pexels-photo-1766604.jpeg"
-tags = ["note"]
-title = "Menulis Itu Melelahkan"
+_template = "post"
++++
+
+
+---
+_template: post
+---
 
 +++
+author = "Redaksi"
+date = 2022-01-01T05:00:00.000Z
+image = "/gambar/pexels-photo-1766604.jpeg"
+tags = [ "note" ]
+title = "Menulis Itu Melelahkan"
+_template = "post"
++++
+
 Sebelum negara api menyerang saya dan semua jajaran yang bertugas mengucapkan selamat tahun baru 2022 semoga apa yang kalian semogakan terkabul di tahun ini dan kebahagiaan segera menghampiri.
 
 Sedari dulu sangat jarang yang namanya menulis, wajar saja jika pelajaran menulis huruf latin yang miring nan indah selalu mendapatkan nilai yang amat jelek, mungkin juga keturunan, karena bapak saya hampir tidak bisa menulis.
