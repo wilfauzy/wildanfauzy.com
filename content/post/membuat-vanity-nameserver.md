@@ -5,7 +5,6 @@ date = 2021-12-23T02:18:00.000Z
 image = "/gambar/vanity-nameserver.png"
 tags = [ "dns", "internet" ]
 title = "Membuat Vanity Nameserver "
-_template = "post"
 +++
 
 ## Apa itu vanity nameserver?
