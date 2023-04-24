@@ -5,7 +5,6 @@ date = 2022-01-01T05:00:00.000Z
 image = "/gambar/pexels-photo-1766604.jpeg"
 tags = [ "note" ]
 title = "Menulis Itu Melelahkan"
-_template = "post"
 +++
 
 Sebelum negara api menyerang saya dan semua jajaran yang bertugas mengucapkan selamat tahun baru 2022 semoga apa yang kalian semogakan terkabul di tahun ini dan kebahagiaan segera menghampiri.
