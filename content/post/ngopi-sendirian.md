@@ -1,13 +1,4 @@
-+++
-_template = "post"
-+++
 
-
-
-
----
-_template: post
----
 
 +++
 author = "WilFauzy"
@@ -15,7 +6,6 @@ date = 2022-01-04T09:00:00.000Z
 image = "/gambar/ngopi-sendirian.jpg"
 tags = [ "note" ]
 title = "Ngopi Sendirian"
-_template = "post"
 +++
 
 Semalaman terjaga baru bisa tidur ketika mulai terang, mematikan lampu ruang tengah, lampu depan dan lampu kamar, menonaktifkan telepon genggam dan menarik selimut saatnya tidur.
