@@ -1,13 +1,3 @@
-+++
-_template = "post"
-+++
-
-
-
-
----
-_template: post
----
 
 +++
 author = "WilFauzy"
@@ -15,7 +5,6 @@ date = 2022-02-27T20:25:00.000Z
 image = "/gambar/pexels-karolina-grabowska-6660783.jpg"
 tags = [ "cerpen" ]
 title = "Tikus"
-_template = "post"
 +++
 
 Sepertinya sudah menjadi kebiasaan tidur di pagi hari, bukan begadang namanya, cuma ganti jam tidur saja, semua masih berjalan normal seperti manusia biasa, dan masih berinteraksi dengan manusia.
