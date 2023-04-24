@@ -1,13 +1,4 @@
-+++
-_template = "post"
-+++
 
-
-
-
----
-_template: post
----
 
 +++
 author = "pemuda malkis"
@@ -16,7 +7,6 @@ draft = true
 image = "/gambar/learn-android-development.jpg"
 tags = [ "share" ]
 title = "Paket Ngoprek dengan Hp Poco X3 Root"
-_template = "post"
 +++
 
 Hal pertama yang harus dilakukan adalah unlocl bootloader hp poco x3, ini adalah gerbang menuju dunia tanpa batasan di hp besutan xiaomi hehe. 
