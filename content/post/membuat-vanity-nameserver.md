@@ -1,13 +1,3 @@
-+++
-_template = "post"
-+++
-
-
-
-
----
-_template: post
----
 
 +++
 author = "pemuda malkis"
