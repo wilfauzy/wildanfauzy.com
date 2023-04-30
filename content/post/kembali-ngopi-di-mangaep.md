@@ -3,7 +3,7 @@ author = "WilFauzy"
 date = 2023-04-29T03:35:00.000Z
 image = "/gambar/kopi-mangaep.jpg"
 tags = [ "Share" ]
-title = "Kembali Ngopi di Mangaep"
+title = "Kembali Ngopi di Mang aep"
 +++
 
 Semenjak pandemi berlangsung waktu seakan tersita oleh angin, perasaan masih 2019 walau pada kenyataannya sudah 2023 sungguh terlalu, banyak momen yang sudah terlewat tanpa terekam jelas diingatan.
