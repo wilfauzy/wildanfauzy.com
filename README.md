@@ -1,2 +1,2 @@
 # maintenis
-just another blog 
+just another  
