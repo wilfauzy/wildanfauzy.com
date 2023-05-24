@@ -1,2 +1,2 @@
 # wildanfauzy.com
-just another blog 
+just another other
