@@ -30,8 +30,8 @@ name = "Cari"
 url = "https:///search.wildanfauzy.com/"
 weight = 1
 [[menu.main]]
-name = "Terminal"
-url = "https:///terminal.wildanfauzy.com/"
+name = "Tentang Kami"
+url = "https:///wildanfauzy.com/tentang"
 weight = 8
 [[menu.main]]
 name = "About me"
