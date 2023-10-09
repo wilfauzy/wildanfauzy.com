@@ -1,6 +1,7 @@
 +++
 author = "WilFauzy"
 date = 2021-09-29T01:00:00Z
+draft = true
 image = "/img/paket-graduation.jpeg"
 tags = ["note"]
 title = "Akhirnya Lulus Setelah Tujuh Tahun"
