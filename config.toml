@@ -11,7 +11,7 @@ url = "https://wildanfauzy.com/admin"
 weight = 3
 [[menu.main]]
 name = "Jurnal"
-url = "https:///jurnal.wildanfauzy.com"
+url = "https:///medium.com/wilblog"
 weight = 5
 [[menu.main]]
 name = "Notes"
